@@ -14,7 +14,6 @@ Academic Information 2022-23
 [**Community Engagement**](/community_engagement)
 [**Extended Intelligences**](/extended_intelligences)
 
-
 <!--
 ## Term 2
 
@@ -36,6 +35,3 @@ Academic Information 2022-23
 ## Students Websitese/) features.#
 
 -->
-## Students Websites
-
-## Calendar
