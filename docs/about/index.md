@@ -1,7 +1,7 @@
 
 ### You're a part of something bigger
 
-![](assets/images/people-working.jpg)
+![](/assets/images/people-working.jpg)
 
 By joining MDEF Barcelona 2023, you’re also a member of Emergent Futures, our overarching community. You’ll be able to keep up with our MDEF Barcelona 2022 activity both here, but also in your main Emergent Futures Activity Feed (think about it as our own Facebook newsfeed with Course and other activity all in one place).
 
@@ -11,7 +11,7 @@ Discussing coursework or an upcoming project or class, you can find support from
 
 Program overview
 The MDEF program is outlined on this page. You can check back as new course information becomes available.
-If you need to consult general program information, you can see the [program booklet](https://fablabbcn.org/wp-content/uploads/2020/02/MDEF_Booklet_2021.pdf/).
+If you need to consult general program information, you can see the [program booklet](/https://fablabbcn.org/wp-content/uploads/2020/02/MDEF_Booklet_2021.pdf/).
 
 Here you will also find the reading list, infrastructure, materials list, and contact list.
 
