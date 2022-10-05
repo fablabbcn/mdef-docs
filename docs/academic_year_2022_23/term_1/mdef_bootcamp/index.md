@@ -34,7 +34,7 @@ Oscar Tomico - Introduction - First-Person Perspective
 ### Thursday 06/10 14:30 to 18:00 CET
 
 Poblenou
-Chiara Dall'Olio -Poblenou tour
+Chiara Dall'Olio and Milena Jarez - Poblenou Tour
 
 
 ### Friday 07/10 14:30 to 18:00 CET
@@ -45,7 +45,7 @@ Mariana Quintero - Intro to the student's Digital Garden
 Santi Fuentemilla - Website building
 
 Oscar Tomico & Mariana Quintero Class - Hybrid Profiles
-Beers
+Beers at Camping 
 
 ## Tomas Diez
 
