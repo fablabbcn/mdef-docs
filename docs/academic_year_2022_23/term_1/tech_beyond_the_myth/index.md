@@ -1,4 +1,4 @@
-Tech Beyond the Myth 2019-20
+Tech Beyond the Myth 2022-23
 ======================
 
 # Tech Beyond the Myth

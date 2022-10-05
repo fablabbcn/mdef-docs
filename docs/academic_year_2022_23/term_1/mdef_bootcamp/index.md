@@ -1,4 +1,4 @@
-Bootcamp 2022-23!
+Bootcamp 2022-23
 ========
 # Bootcamp
 

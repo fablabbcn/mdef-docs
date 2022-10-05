@@ -1,4 +1,4 @@
-Design Studio Term 1 2022-23!
+Design Studio Term 1 2022-23
 ========
 # Framing Design Interventions
 

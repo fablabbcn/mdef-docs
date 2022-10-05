@@ -1,4 +1,4 @@
-Living with Your Own Ideas 2019-20
+Living with Your Own Ideas 2022-23
 ======================
 
 # Temporal aspects of embodied living with prototypes
