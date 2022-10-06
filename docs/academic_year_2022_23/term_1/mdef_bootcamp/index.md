@@ -24,7 +24,9 @@ Tuesday 4th to Friday 7th of October
 ### Tuesday 04/10 14:30 to 18:00 CET
 
 MDEF Classroom
-Tomas Diez introduction -Mass Distribution of Everything, Fab Lab BCN visit, Student’s introductions -What's my fight, Intro to the Master Structure, 1st term Schedule of Courses, Beers!
+Tomas Diez - Introduction
+Intro to the Master Structure & 1st term Schedule of Courses
+Student’s introductions -What's my fight 
 
 ### Wednesday 05/10 14:30 to 18:00 CET
 
@@ -40,12 +42,10 @@ Chiara Dall'Olio and Milena Jarez - Poblenou Tour
 ### Friday 07/10 14:30 to 18:00 CET
 
 MDEF Classroom
-Fab Lab Visit
 Mariana Quintero - Intro to the student's Digital Garden
-Santi Fuentemilla - Website building
-
+Josep Marti - Website building
 Oscar Tomico & Mariana Quintero Class - Hybrid Profiles
-Beers at Camping 
+Beers at Camping BCN
 
 ## Tomas Diez
 
