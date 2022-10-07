@@ -5,9 +5,33 @@ site_url: https://emergentfutures.fablabbcn.org
 repo_name: mdef-docs
 repo_url: https://github.com/fablabbcn/mdef-docs
 
-# nav:
-#  - Main:
-#    - Welcome: index.md
+nav:
+  - Main: index.md
+  - Academic Year 2022-23:
+    - Main: 2022/index.md
+    - Calendar: 2022/calendar_2022_23.md
+    - Term 1: 2022/term1_2022_23.md
+      - Design Studio Term 1: 2022/term1_2022_23/design_studio_framing_design_interventions_2022_23.md
+      - Bootcamp: 2022/term1_2022_23/mdef_bootcamp_2022_23.md
+      - AOWS: 2022/term1_2022_23/atlas_of_weak_signals_2022_23_(aows).md
+      - Biology & Agri 0: 2022/term1_2022_23/biology_&_agri_zero_2022_23.md
+      - Living With Your Own Ideas: 2022/term1_2022_23/living_with_your_own_ideas_2022_23.md
+      - Tech Beyond The Myth: 2022/term1_2022_23/tech_beyond_the_myth_2022_23.md
+      - Community Engagement: 2022/term1_2022_23/community_engagement_2022_23.md
+      - Extended Intelligences: 2022/term1_2022_23/extended_intelligences_2022_23.md
+    - Term 2: 2022/term2_2022_23.md
+    - Term 3: 2022/term3_2022_23.md
+
+  - Academic Year 2021-22:
+    - Main: 2021/index.md
+    - Calendar: 2021/calendar.md
+    - Term 1: 2021/term1.md
+      - AOWS: 2021/term1/aows.md
+  - Academic Year 2020-21:
+    - Main: 2020/index.md
+    - Calendar: 2020/calendar.md
+    - Term 1: 2020/term1.md
+      - AOWS: 2020/term1/aows.md
 
 theme:
   language: 'en'
