@@ -12,7 +12,8 @@ nav:
   - Academic Year 2022-23:
     - Main: 2022/index.md
     - Calendar: 2022/calendar_2022_23.md
-    - Term 1: 2022/term1_2022_23.md
+    - Term 1:
+      - 2022/term1_2022_23.md
       - Design Studio Term 1: 2022/term1_2022_23/design_studio_framing_design_interventions_2022_23.md
       - Bootcamp: 2022/term1_2022_23/mdef_bootcamp_2022_23.md
       - AOWS: 2022/term1_2022_23/atlas_of_weak_signals_2022_23_(aows).md
