@@ -3,8 +3,8 @@ Biology & Agri 2022-23
 #Biology & Agri
 
 
-![](/images/bio&agri_1.jpg)
-![](/images/bio&agri_2.jpg)
+![](images/bio&agri_1.jpg)
+![](images/bio&agri_2.jpg)
 
 ## Track
  Exploration
@@ -55,7 +55,7 @@ Agronomy
 
 ## Nuria Conde
 
-[](../../../assets/images/faculty_photos/nuria_conde.jpg)
+![](../../../assets/images/faculty_photos/nuria_conde.jpg)
 
 Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat Pompeu Fabra (UPF) in the PRBB. She holds a major in Biology and engineering in informatics and performed her research thesis about Biocomputation, which is at the interface of both fields. Nuria teaches biology for architects, artists, and designers of IAAC, Elisava, or Massana universities and is a founder member of the DIYBioBcn, the first biohacking group of Spain.
 
@@ -64,7 +64,7 @@ Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat
 
 ## Jonathan Minchin
 
-[](../../../assets/images/faculty_photos/jonathan_minchin.jpg)
+![](../../../assets/images/faculty_photos/jonathan_minchin.jpg)
 
 MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010, has worked with development projects alongside Habitat for Humanity - Costa Rica, UNESCO - Cuba, Basic Initiative - Tunisia, and with UN Habitat in Barcelona. He began the Green Fab Lab at IAAC Valldaura Labs campus in Barcelona in 2013, engaging the ‘Fab Academy’ and ‘Bio Academy’ programs. His ongoing projects include Open Source Beehives (OSBH), Robotics for Micro Farms (ROMI), the Zero Series circular economy workshops, and OpenLab.org.
 

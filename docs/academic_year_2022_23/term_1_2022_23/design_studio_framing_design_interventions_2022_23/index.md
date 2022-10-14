@@ -3,7 +3,7 @@ Design Studio Term 1 2022-23
 # Framing Design Interventions
 
 
-![](/images/designstudio1.jpeg)
+![](images/designstudio1.jpeg)
 ## Track
 Application
 
