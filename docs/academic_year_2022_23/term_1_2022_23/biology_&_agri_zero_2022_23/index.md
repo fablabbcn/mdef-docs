@@ -2,15 +2,16 @@ Biology & Agri 2022-23
 ========
 #Biology & Agri
 
+
+![](/images/bio&agri_1.jpg)
+![](/images/bio&agri_2.jpg)
+
 ## Track
  Exploration
 
 ## Faculty
 Nuria Conde, Jonathan Minchin
 
-![](/assets/images/bio&agri_1.jpg)
-
-![](/assets/images/bio&agri_2.jpg)
 
 ## Syllabus
 
@@ -26,9 +27,7 @@ From 18th to 29th of October
 
 ## Schedule
 
-![](/assets/images/bio_agri_wk1.png)
-
-![](/assets/images/bio_agri_wk2.png)
+...
 
 
 ##Output
@@ -46,30 +45,37 @@ Agronomy
 
 ## Bibliography and Background Research Material
 
-https://www.google.com/url?q=https://en.wikipedia.org/wiki/George_Church_(geneticist)&sa=D&source=editors&ust=1631873659860000&usg=AOvVaw008k0z0BmW9hnP6xicbWwh
+(https://www.google.com/url?q=https://en.wikipedia.org/wiki/George_Church_(geneticist)&sa=D&source=editors&ust=1631873659860000&usg=AOvVaw008k0z0BmW9hnP6xicbWwh)
 
-https://www.youtube.com/watch?v=_kc0IFavUes
+(https://www.youtube.com/watch?v=_kc0IFavUes)
 
-http://biohackacademy.github.io/
+(http://biohackacademy.github.io/)
 
-https://igem.org/
+(https://igem.org/)
 
 ## Nuria Conde
 
-[](/assets/images/faculty_photos/nuria_conde.jpg)
+[](../../../assets/images/faculty_photos/nuria_conde.jpg)
 
 Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat Pompeu Fabra (UPF) in the PRBB. She holds a major in Biology and engineering in informatics and performed her research thesis about Biocomputation, which is at the interface of both fields. Nuria teaches biology for architects, artists, and designers of IAAC, Elisava, or Massana universities and is a founder member of the DIYBioBcn, the first biohacking group of Spain.
 
-Email Address  nuriacondepueyo@gmail.com
+[Email Address](nuriacondepueyo@gmail.com)
 
 
 ## Jonathan Minchin
 
-[](/assets/images/faculty_photos/jonathan_minchin.jpg)
+[](../../../assets/images/faculty_photos/jonathan_minchin.jpg)
 
 MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010, has worked with development projects alongside Habitat for Humanity - Costa Rica, UNESCO - Cuba, Basic Initiative - Tunisia, and with UN Habitat in Barcelona. He began the Green Fab Lab at IAAC Valldaura Labs campus in Barcelona in 2013, engaging the ‘Fab Academy’ and ‘Bio Academy’ programs. His ongoing projects include Open Source Beehives (OSBH), Robotics for Micro Farms (ROMI), the Zero Series circular economy workshops, and OpenLab.org.
 
-Email Address jonathan@ecologicalinteraction.org
-Personal Website www.diybcn.org, www.ecologicalinteraction.org
-Instagram Account ecological.interaction
-Twitter Account @eco_interact, @diybiobcn
+[Email Address](jonathan@ecologicalinteraction.org)
+
+[Website](www.diybcn.org)
+
+[Website](www.ecologicalinteraction.org)
+
+[Instagram Account](ecological.interaction)
+
+[Twitter](@eco_interact)
+
+[Twitter]( @diybiobcn)

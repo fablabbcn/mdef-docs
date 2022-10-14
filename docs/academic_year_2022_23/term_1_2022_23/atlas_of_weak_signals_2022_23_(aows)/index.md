@@ -55,18 +55,18 @@ Final Reflection + Multiscalar Design Space 50%
 
 ## Bibliography and Background Research Material
 
-Diez, T., Tomico, O., & Quintero, M. (2020). Exploring Weak Signals to Design and Prototype for Emergent Futures. Temes de Disseny, 36, 70–89. https://doi.org/10.46467/tdd36.2020.70-89
+ [Diez, T., Tomico, O., & Quintero, M. (2020). Exploring Weak Signals to Design and Prototype for Emergent Futures. Temes de Disseny, 36, 70–89.]( https://doi.org/10.46467/tdd36.2020.70-89)
 
-https://www.elisava.net/en/publications/temes-de-disseny-36-design-futures-now-literacies-and-making
+(https://www.elisava.net/en/publications/temes-de-disseny-36-design-futures-now-literacies-and-making)
 
-O. T., M. Q., & G. E. (2021, June 11). Design Futures Scouting. A First-Person Perspective (1PP) approach to futures scouting through making. Retrieved from http://www.fuel4design.org/index.php/design-futures-scouting/
+ [O. T., M. Q., & G. E. (2021, June 11). Design Futures Scouting. A First-Person Perspective (1PP) approach to futures scouting through making. Retrieved from]( http://www.fuel4design.org/index.php/design-futures-scouting/)
 
 
 ## Mariana Quintero
 
-[](/assets/images/faculty_photos/mariana_quintero.jpg)
+![](../../../assets/images/faculty_photos/mariana_quintero.jpg)
 
 Multimedia developer, interaction designer & researcher, Mariana Quintero works and develops her practice at the intersection where digital fabrication technologies, digital literacy, and information and computation ethics & aesthetics meet, contributing to projects that investigate how digital information and technologies translate, represent, and mediate knowledge about the world. She is currently a faculty member and part of the strategic team at the Masters in Design for Emergent Futures at IAAC | Fab Lab Barcelona
 
 Email Address mariana.quintero@iaac.net
-Personal Website (https://mqvlm.github.io/)
+[Personal Website](https://mqvlm.github.io/)
