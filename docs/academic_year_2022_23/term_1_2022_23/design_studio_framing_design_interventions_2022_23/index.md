@@ -3,7 +3,7 @@ Design Studio Term 1 2022-23
 # Framing Design Interventions
 
 
-![](/images/oscar_tomico.jpg)
+![](/images/designstudio1.jpeg)
 ## Track
 Application
 
@@ -149,7 +149,7 @@ To build personal and collective repositories of resources.
 
 Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its implications on the future cities and society. He is the co-founder of Fab Lab Barcelona, leads the Fab City Research Laboratory, and is a founding partner of the Fab City Global Initiative. He is the director of the Master in Design for Emergent Futures at the Institute for Advanced Architecture of Catalonia (IAAC) in Barcelona, where he is faculty in urban design and digital fabrication. Tomas is co-founder of other initiatives such as Smart Citizen (open source tools for citizen engagement), Fab City (locally productive, globally-connected cities), Fablabs.io (the listing of fab labs in the world), and StudioP52 (art and design space in Barcelona).
 
-[Email](tomasdiez@iaac.net)
+<!--[Email](tomasdiez@iaac.net) -->
 
 [Personal Website](http://tomasdiez.com/)
 
@@ -164,7 +164,7 @@ Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its i
 
 Oscar Tomico holds an MSc degree in Industrial Engineering from Polytechnic University of Catalonia (Spain) and a PhD from the same institution, awarded in 2007 with Cum Laude. During his research into Innovation Processes in Product Design, he investigated subjective experience-gathering techniques based on constructivist psychology. After finishing his PhD he worked as a consultant for Telefonica R&D (Barcelona). Tomico joined Eindhoven University of Technology (TU/e) in 2007 as Assistant Professor. He has been a guest researcher and lecturer at AUT Creative technologies (New Zealand), at TaiwanTech (Taiwan), Swedish School of Textiles (Sweden), Institute of Advanced Architecture (Spain), University of Tsukuba, Aalto (Finland) to name a few. During his sabbatical in 2015, he worked as a consultant for the functional textiles department at EURECAT (Spain). He recently (2017) became the head of the Industrial Design Bachelor’s degree program at ELISAVA University School of Design and Engineering of Barcelona.
 
-[Email](otomico@elisava.net)
+<!--[Email](otomico@elisava.net)-->
 
 [Personal Website](https://www.elisava.net/en/teaching-staff)
 
@@ -176,6 +176,6 @@ Twitter Account @otomico
 
 Multimedia developer, interaction designer & researcher, Mariana Quintero works and develops her practice at the intersection where digital fabrication technologies, digital literacy, and information and computation ethics & aesthetics meet, contributing to projects that investigate how digital information and technologies translate, represent, and mediate knowledge about the world. She is currently a faculty member and part of the strategic team at the Masters in Design for Emergent Futures at IAAC | Fab Lab Barcelona
 
-[Email](mariana.quintero@iaac.net)
+<!--[Email](mariana.quintero@iaac.net)-->
 
 [Personal Website](https://mqvlm.github.io/)

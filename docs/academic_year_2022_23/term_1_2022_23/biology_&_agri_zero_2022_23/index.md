@@ -59,7 +59,7 @@ Agronomy
 
 Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat Pompeu Fabra (UPF) in the PRBB. She holds a major in Biology and engineering in informatics and performed her research thesis about Biocomputation, which is at the interface of both fields. Nuria teaches biology for architects, artists, and designers of IAAC, Elisava, or Massana universities and is a founder member of the DIYBioBcn, the first biohacking group of Spain.
 
-[Email Address](nuriacondepueyo@gmail.com)
+<!-- [Email Address](nuriacondepueyo@gmail.com) -->
 
 
 ## Jonathan Minchin
@@ -68,7 +68,7 @@ Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat
 
 MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010, has worked with development projects alongside Habitat for Humanity - Costa Rica, UNESCO - Cuba, Basic Initiative - Tunisia, and with UN Habitat in Barcelona. He began the Green Fab Lab at IAAC Valldaura Labs campus in Barcelona in 2013, engaging the ‘Fab Academy’ and ‘Bio Academy’ programs. His ongoing projects include Open Source Beehives (OSBH), Robotics for Micro Farms (ROMI), the Zero Series circular economy workshops, and OpenLab.org.
 
-[Email Address](jonathan@ecologicalinteraction.org)
+<!-- [Email Address](jonathan@ecologicalinteraction.org)
 
 [Website](www.diybcn.org)
 
@@ -78,4 +78,4 @@ MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010,
 
 [Twitter](@eco_interact)
 
-[Twitter]( @diybiobcn)
+[Twitter]( @diybiobcn) -->
