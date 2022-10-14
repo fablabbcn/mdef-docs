@@ -6,11 +6,6 @@ About
 
 ![](/assets/images/people-working.jpg)
 
-By joining MDEF Barcelona 2023, you’re also a member of Emergent Futures, our overarching community. You’ll be able to keep up with our MDEF Barcelona 2022 activity both here, but also in your main Emergent Futures Activity Feed (think about it as our own Facebook newsfeed with Course and other activity all in one place).
-
-If you think a discussion is interesting to the wider community - why not open it in Emergent Futures?
-
-Discussing coursework or an upcoming project or class, you can find support from classmates and faculty here in the MDEF 2022 Program.
 
 Program overview
 The MDEF program is outlined on this page. You can check back as new course information becomes available.

@@ -9,6 +9,8 @@ nav:
   - Main: index.md
   - Academic Year 2022-23:
     - Main: 2022/index.md
+  - Academic Year 2022-23:
+    - Main: 2022/index.md
     - Calendar: 2022/calendar_2022_23.md
     - Term 1: 2022/term1_2022_23.md
       - Design Studio Term 1: 2022/term1_2022_23/design_studio_framing_design_interventions_2022_23.md
@@ -21,17 +23,35 @@ nav:
       - Extended Intelligences: 2022/term1_2022_23/extended_intelligences_2022_23.md
     - Term 2: 2022/term2_2022_23.md
     - Term 3: 2022/term3_2022_23.md
+  - Previous Years:
+    - Main: 2022/index.md
+    - Academic Year 2021-22:
+      - Main: 2022/index.md
+      - Calendar: 2022/calendar_2022_23.md
+      - Term 1: 2022/term1_2022_23.md
+      - Term 2: 2022/term2_2022_23.md
+      - Term 3: 2022/term3_2022_23.md
+    - Academic Year 2020-21:
+      - Main: 2022/index.md
+      - Calendar: 2022/calendar_2022_23.md
+      - Term 1: 2022/term1_2022_23.md
+      - Term 2: 2022/term2_2022_23.md
+      - Term 3: 2022/term3_2022_23.md
+    - Academic Year 2019-20:
+      - Main: 2022/index.md
+      - Calendar: 2022/calendar_2022_23.md
+      - Term 1: 2022/term1_2022_23.md
+      - Term 2: 2022/term2_2022_23.md
+      - Term 3: 2022/term3_2022_23.md
+    - Academic Year 2018-19:
+      - Main: 2022/index.md
+      - Calendar: 2022/calendar_2022_23.md
+      - Term 1: 2022/term1_2022_23.md
+      - Term 2: 2022/term2_2022_23.md
+      - Term 3: 2022/term3_2022_23.md
 
-  - Academic Year 2021-22:
-    - Main: 2021/index.md
-    - Calendar: 2021/calendar.md
-    - Term 1: 2021/term1.md
-      - AOWS: 2021/term1/aows.md
-  - Academic Year 2020-21:
-    - Main: 2020/index.md
-    - Calendar: 2020/calendar.md
-    - Term 1: 2020/term1.md
-      - AOWS: 2020/term1/aows.md
+
+
 
 theme:
   language: 'en'
