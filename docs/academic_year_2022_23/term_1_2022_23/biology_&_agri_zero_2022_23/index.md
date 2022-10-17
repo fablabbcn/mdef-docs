@@ -27,7 +27,62 @@ From 18th to 29th of October
 
 ## Schedule
 
-...
+### Tuesday 18/10
+
+10-12 pm
+Theory - Introduction to science of Biology. Scientific method. focus on microbiology.
+
+12.15-14.15 pm
+Practical - Creating a sterile environment / preparation sterile petri dishes.
+
+### Wednesday 19/10
+
+10-12 pm
+Theory - Introduction to microscopy, preparation of slide samples.
+
+12.15-14.15 pm
+Practical - microscopy.
+
+### Thursday 20/10
+
+10-12 pm
+Theory - Biochemistry and Metabolism definition and the basic pathways.
+
+12.15-14.15 pm
+Practical - Preparing Liquid Culture: Spirulina and Kombucha. Bioplastics.
+
+### Tuesday 25/10
+
+10-12 pm
+Theory - Reading scientific papers. Thinking about planetary wellbeing.  
+
+12.15-14.15 pm
+Practical - Bioplastics.
+
+### Wednesday 26/10
+
+12.15-14.15 pm
+Theory - Robotics and changes in Agriculture.
+
+15.00-16.30 pm
+Theory - Bees.
+
+### Thursday 27/10
+
+10-12 pm
+Practical - Soil Microbiome - Winogradsky Columns - Munsel Charts - Texture.
+
+12.15-14.15 pm
+Practical - Measuring NPK and: Spectrophotometry measuring growth.
+
+### Friday 28/10
+
+10-12 pm
+Fungi incubator workshop visit.
+
+12.15-14.15 pm
+Fungi incubator workshop visit.  
+
 
 
 ##Output
