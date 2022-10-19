@@ -29,6 +29,7 @@ From 18th to 29th of October
 
 ### Tuesday 18/10
 
+
 10-12 pm
 Theory - Introduction to science of Biology. Scientific method. focus on microbiology.
 
@@ -53,10 +54,13 @@ Practical - Preparing Liquid Culture: Spirulina and Kombucha. Bioplastics.
 
 ### Tuesday 25/10
 
-10-12 pm
+10-14.15 pm
+PRBB Visit
+
+15.00-16.30 pm
 Theory - Reading scientific papers. Thinking about planetary wellbeing.  
 
-12.15-14.15 pm
+16.30-18.30 pm
 Practical - Bioplastics.
 
 ### Wednesday 26/10
@@ -80,9 +84,10 @@ Practical - Measuring NPK and: Spectrophotometry measuring growth.
 10-12 pm
 Fungi incubator workshop visit.
 
-12.15-14.15 pm
-Fungi incubator workshop visit.  
+### Saturday 29/10
 
+10-12 pm
+Visit CCCB
 
 
 ##Output
