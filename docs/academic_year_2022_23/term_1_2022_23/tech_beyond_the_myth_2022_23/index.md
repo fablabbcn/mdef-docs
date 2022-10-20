@@ -259,7 +259,7 @@ Designing Interactions [With CDROM], Moggridge, Bill. MIT Press (MA), 2006 (ISBN
 
 ## Santiago Fuentemilla Garriga
 
-[](../../../assets/images/faculty_photos/santi_fuentemilla_garriga.jpg)
+![](../../../assets/images/faculty_photos/santi_fuentemilla_garriga.jpg)
 
 Santiago Fuentemilla Garriga (male), with Master of Architecture from the
 University of la Salle Universitat Ramon LLull , Spain, as a specialist in
@@ -290,7 +290,7 @@ MDEF organized by IAAC.
 
 ## Guillem Camprodon
 
-[](../../../assets/images/faculty_photos/guillem_camprodon.jpg)
+![](../../../assets/images/faculty_photos/guillem_camprodon.jpg)
 
 Guillem Camprodon is a designer and technologist working on projects bridging emergent technologies and grassroots communities. He is the director of Fab Lab Barcelona, the first Fab Lab in the European Union and a benchmark in the network of over 1800 Fab Labs. Over the last ten years, he helped scale Fab Lab Barcelona from a digital fabrication facility into an established research and innovation laboratory. He led Smart Citizen, a platform that opposes the traditional top-down Smart City model, empowering communities with tools to understand their environment. Guillem worked as a researcher on many European-funded projects, including Making Sense, iSCAPE, GROW Observatory, Organicity, DECODE, ROMI, or Reflow. He is also a lecturer in multiple IAAC programs, primarily at the Master on Design For Emergent Futures (MDEF).
 
@@ -299,7 +299,7 @@ Guillem Camprodon is a designer and technologist working on projects bridging em
 
 ## Víctor Barberán Soler
 
-[](../../../assets/images/faculty_photos/victor_barberan_soler.jpg)
+![](../../../assets/images/faculty_photos/victor_barberan_soler.jpg)
 
 Víctor Barberán is an Industrial Designer with more than 20 years of experience developing custom technology for multidisciplinary art and science projects. Throughout his career, Victor Barberán has worked in electronics design, software development, data analysis, modelling and animation, and digital postproduction. Currently, Victor works as part of the Fab Lab Barcelona as a software and hardware developer in multiple research projects, such as the Smart Citizen project. He is also the Electronics lead for the Fabricademy, Fab Academy and the Masters of Design for Emergent Futures program.
 
@@ -308,7 +308,7 @@ Víctor Barberán is an Industrial Designer with more than 20 years of experienc
 
 ## Eduardo Chamorro Martin
 
-[](../../../assets/images/faculty_photos/eduardo_chamorro_martin.jpg)
+![](../../../assets/images/faculty_photos/eduardo_chamorro_martin.jpg)
 
 Eduardo Chamorro is an architectural technologist, additive manufacturing expert and researcher, focusing on digital fabrication, materials, robotics and emerging technologies.
 
@@ -325,7 +325,7 @@ Moreover, he has worked as Fab Lab Seoul director, researcher at several archite
 
 ## Josep Marti Elias
 
-[](../../../assets/images/faculty_photos/josep_marti_elias.jpg)
+![](../../../assets/images/faculty_photos/josep_marti_elias.jpg)
 
 Josep Martí is an Industrial Engineer from Barcelona. Josep started his career as a BI consultant but decided to change his professional path graduating from Fabacademy in 2019. Since then, he has taught digital fabrication, design and electronics in the Fablab, being part of the Future Learning Unit teaching in Fabacademy, Fabricademy and the Master in Design in Emergent futures. Recently, he started his path as a researcher in Erasmus+ projects. He holds a Bachelor’s degree in Industrial Technology Engineering and a Master’s degree in Industrial Engineering, specialising in Automatic Control, both from the Polytechnic University of Catalonia (UPC) and the Fabacademy diploma. He has always been interested in the Maker culture and is always looking to learn and create new things.
 
