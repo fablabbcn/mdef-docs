@@ -2,7 +2,7 @@ Bootcamp 2022-23
 ========
 # Bootcamp
 
-![](/assets/images/bootcamp.jpg)
+![](/images/bootcamp.jpg)
 
 ## Track
 Application
