@@ -286,7 +286,7 @@ and since 2017 he is professor of the Master in Design for Emergent Futures
 MDEF organized by IAAC.
 
 
-[Email](santi@fablabbcn.org)
+>[Email](santi@fablabbcn.org)
 
 [Linkedin](https://www.linkedin.com/in/santi-fuentemilla-garriga-7877892b/)
 
@@ -297,7 +297,7 @@ MDEF organized by IAAC.
 Guillem Camprodon is a designer and technologist working on projects bridging emergent technologies and grassroots communities. He is the director of Fab Lab Barcelona, the first Fab Lab in the European Union and a benchmark in the network of over 1800 Fab Labs. Over the last ten years, he helped scale Fab Lab Barcelona from a digital fabrication facility into an established research and innovation laboratory. He led Smart Citizen, a platform that opposes the traditional top-down Smart City model, empowering communities with tools to understand their environment. Guillem worked as a researcher on many European-funded projects, including Making Sense, iSCAPE, GROW Observatory, Organicity, DECODE, ROMI, or Reflow. He is also a lecturer in multiple IAAC programs, primarily at the Master on Design For Emergent Futures (MDEF).
 
 
-[Email](guillem@iaac.net)
+>[Email](guillem@iaac.net)
 
 [Linkedin](https://www.linkedin.com/in/guillemcamprodon/)
 
@@ -308,7 +308,7 @@ Guillem Camprodon is a designer and technologist working on projects bridging em
 Víctor Barberán is an Industrial Designer with more than 20 years of experience developing custom technology for multidisciplinary art and science projects. Throughout his career, Victor Barberán has worked in electronics design, software development, data analysis, modelling and animation, and digital postproduction. Currently, Victor works as part of the Fab Lab Barcelona as a software and hardware developer in multiple research projects, such as the Smart Citizen project. He is also the Electronics lead for the Fabricademy, Fab Academy and the Masters of Design for Emergent Futures program.
 
 
-[Email](victor@smartcitizen.me)
+>[Email](victor@smartcitizen.me)
 
 ## Eduardo Chamorro Martin
 
@@ -325,7 +325,7 @@ Eduardo holds a Master's Degree in Architecture from CEU San Pablo University (S
 Moreover, he has worked as Fab Lab Seoul director, researcher at several architecture studios, professor of computational design and fabrication at CEU University and advisor for various architecture collectives. He is also a regular collaborator at Fab Lab Madrid. He is always seeking innovative architecture that attempts to solve and adapt to social needs. He has also been a tutor for the Master of Science in Computational and Advanced Design (MSc CAD) at Design Morphine - UACEG (University of Architecture, Civil Engineering and Geodesy).
 
 
-[Email](eduardo.chamorro@iaac.net)
+>[Email](eduardo.chamorro@iaac.net)
 
 [Website](http://eduardochamorro.github.io/beansreels/index.html)
 
@@ -335,26 +335,25 @@ Moreover, he has worked as Fab Lab Seoul director, researcher at several archite
 
 Josep Martí is an Industrial Engineer from Barcelona. Josep started his career as a BI consultant but decided to change his professional path graduating from Fabacademy in 2019. Since then, he has taught digital fabrication, design and electronics in the Fablab, being part of the Future Learning Unit teaching in Fabacademy, Fabricademy and the Master in Design in Emergent futures. Recently, he started his path as a researcher in Erasmus+ projects. He holds a Bachelor’s degree in Industrial Technology Engineering and a Master’s degree in Industrial Engineering, specialising in Automatic Control, both from the Polytechnic University of Catalonia (UPC) and the Fabacademy diploma. He has always been interested in the Maker culture and is always looking to learn and create new things.
 
-[Email](josep@fablabbcn.org)
+>[Email](josep@fablabbcn.org)
 
 [Linkedin](https://www.linkedin.com/in/josepmarti41/?originalSubdomain=es)
 
 
 
-### Forensics of the obsolescense (Context workshop)
+>### Forensics of the obsolescense (Context workshop)
 Forensics of obsolescence confronts students with the results of today's consumers' electronics industry model. By tearing apart broken everyday objects we uncover key topics such as systems thinking, suppli chains, intellectual models, or programmed obsolescence. On top of it, by using a hands-on approach we introduce the use of fundamental technology prototyping concepts: datasheets, multimeter, power supplies, electronic tools. Students will document their findings by writing a "forensic report" of each artifact.
 Output: A written "forensic report".
 
-### Measuring the world (Experience workshop)
-Measuring the world introduces students to the concept of a world in data by designing artifacts to measure their daily analog and digital activity. The fundamental aspect is to understand nowadays data-driven world from the sourcing, that could range from a temperature sensor to an Instagram like postprocessing, storage, and consumption. It aims to work both as an introduction to some key concepts behind physical computing to support the Machines that Make but more importantly as an introduction to the idea of the information that is critical to the Extended Intelligence module.
+>Measuring the world introduces students to the concept of a world in data by designing artifacts to measure their daily analog and digital activity. The fundamental aspect is to understand nowadays data-driven world from the sourcing, that could range from a temperature sensor to an Instagram like postprocessing, storage, and consumption. It aims to work both as an introduction to some key concepts behind physical computing to support the Machines that Make but more importantly as an introduction to the idea of the information that is critical to the Extended Intelligence module.
 Output: A dataset
 
-### Machines that make, materials that grow (Context workshop)
+>### Machines that make, materials that grow (Context workshop)
 Machines that make introduces the fundamental concepts of digital fabrication when we move away from rapid prototyping and explore the true potential of from bits to atoms [...] from making to growing.
 Output: A drawing of a future machine that grows.
 
-### Almost useless machines (Experience workshop)
+>### Almost useless machines (Experience workshop)
 Almost useless machines focus introduces the core idea actuating the real world by asking students to assemble a mechanical artifact with no much purpose than itself. Its primary goal is to move away from students from the small-scale, almost invisible, digital-only approach to technology highly influenced by today's service economy into the scale of artifacts that impact and transform the physical world. In the making, students will put into practice the fundamental stages of rapid prototyping in Fab Labs from building a mockup to integrating multiple digitally fabricated components into a working artifact.
 Output: A useless machine
 
-https://hackmd.io/@fablabbcn/BJA1L3PDK
+>https://hackmd.io/@fablabbcn/BJA1L3PDK
