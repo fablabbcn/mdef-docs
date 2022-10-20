@@ -662,6 +662,20 @@
     max-height: 100%;
     display: inline-block;
 }
+.hcg-slide-text {
+    color: #ffffff;
+    font-size: 14px;
+    padding: 3px 5px;
+    position: absolute;
+    bottom: 0;
+    border-radius: 5px;
+    left: 50%;
+    text-align: center;
+    text-shadow: 0 0 2px #000;
+    background-color: rgba(255,255,255,0.30);
+    display: inline-block;
+    transform: translate(-50%, -5px);
+}
 #hcg-slide-prev, #hcg-slide-next {
     cursor: pointer;
     position: absolute;
@@ -704,6 +718,16 @@
 .hcg-slide-dot.dot-active {
     background-color: #717171;
 }
+.hcg-slide-number {
+    color: #ffffff;
+    font-size: 12px;
+    padding: 4px 7px;
+    position: absolute;
+    border-radius: 5px;
+    top: 5px;
+    left: 5px;
+    background-color: rgba(255,255,255,0.30);
+}
 /************CSS Animation***********/
 
 .animated {
@@ -730,27 +754,27 @@
 //If you want to add more images, add the link name and URL image URL in the array list below.
     const images_list = [
 {
-    "url": "https://html-generator.com/uploads/images/2022/10/20/95061T89I_8V8N4.jpg",
+    "url": "https://html-generator.com/uploads/images/2022/10/20/68218XEORBDV8OG.jpg",
     "alt": "",
-    "name": "95061T89I_8V8N4.jpg",
+    "name": "",
     "link": ""
 },
 {
     "url": "https://html-generator.com/uploads/images/2022/10/20/16342H19VWJBIAF.jpg",
     "alt": "",
-    "name": "16342H19VWJBIAF.jpg",
+    "name": "",
     "link": ""
 },
 {
-    "url": "https://html-generator.com/uploads/images/2022/10/20/68218XEORBDV8OG.jpg",
+    "url": "https://html-generator.com/uploads/images/2022/10/20/95061T89I_8V8N4.jpg",
     "alt": "",
-    "name": "68218XEORBDV8OG.jpg",
+    "name": "",
     "link": ""
 },
 {
     "url": "https://html-generator.com/uploads/images/2022/10/20/992578V0V5Z4QY7.jpg",
     "alt": "",
-    "name": "992578V0V5Z4QY7.jpg",
+    "name": "",
     "link": ""
 }
     ];
@@ -765,7 +789,9 @@
         // if no link without href="" tag
         let href = (images_list[i].link == "" ? "":' href="'+images_list[i].link+'"');
         images_div += '<a'+href+' class="hcg-slides animated"'+(i === 0 ? ' style="display:flex"':'')+'>'+
+                        '<span class="hcg-slide-number">'+(i+1)+'/'+images_list.length+'</span>'+
                         '<img src="'+images_list[i].url+'" alt="'+images_list[i].name+'">'+
+                        '<span class="hcg-slide-text">'+images_list[i].name+'</span>'+
                      '</a>';
         dots_div += '<a href="#" class="hcg-slide-dot'+(i === 0 ? ' dot-active':'')+'" data-id="'+i+'"></a>';
     }
@@ -825,8 +851,8 @@
     <div class="hcg-slider-body">
         <a class="hcg-slides animated" style="display:flex">
             <span class="hcg-slide-number">1/5</span>
-            <img src="https://html-generator.com/uploads/images/2022/10/20/95061T89I_8V8N4.jpg" alt="95061T89I_8V8N4.jpg">
-            <span class="hcg-slide-text">95061T89I_8V8N4.jpg</span>
+            <img src="https://html-generator.com/uploads/images/2022/10/20/68218XEORBDV8OG.jpg" alt="">
+            <span class="hcg-slide-text"></span>
         </a>
     </div>
     <a href="#" id="hcg-slide-prev">❮</a>
