@@ -286,9 +286,7 @@ and since 2017 he is professor of the Master in Design for Emergent Futures
 MDEF organized by IAAC.
 
 
->[Email](santi@fablabbcn.org)
 
-[Linkedin](https://www.linkedin.com/in/santi-fuentemilla-garriga-7877892b/)
 
 ## Guillem Camprodon
 
@@ -297,9 +295,7 @@ MDEF organized by IAAC.
 Guillem Camprodon is a designer and technologist working on projects bridging emergent technologies and grassroots communities. He is the director of Fab Lab Barcelona, the first Fab Lab in the European Union and a benchmark in the network of over 1800 Fab Labs. Over the last ten years, he helped scale Fab Lab Barcelona from a digital fabrication facility into an established research and innovation laboratory. He led Smart Citizen, a platform that opposes the traditional top-down Smart City model, empowering communities with tools to understand their environment. Guillem worked as a researcher on many European-funded projects, including Making Sense, iSCAPE, GROW Observatory, Organicity, DECODE, ROMI, or Reflow. He is also a lecturer in multiple IAAC programs, primarily at the Master on Design For Emergent Futures (MDEF).
 
 
->[Email](guillem@iaac.net)
 
-[Linkedin](https://www.linkedin.com/in/guillemcamprodon/)
 
 ## Víctor Barberán Soler
 
@@ -308,7 +304,7 @@ Guillem Camprodon is a designer and technologist working on projects bridging em
 Víctor Barberán is an Industrial Designer with more than 20 years of experience developing custom technology for multidisciplinary art and science projects. Throughout his career, Victor Barberán has worked in electronics design, software development, data analysis, modelling and animation, and digital postproduction. Currently, Victor works as part of the Fab Lab Barcelona as a software and hardware developer in multiple research projects, such as the Smart Citizen project. He is also the Electronics lead for the Fabricademy, Fab Academy and the Masters of Design for Emergent Futures program.
 
 
->[Email](victor@smartcitizen.me)
+
 
 ## Eduardo Chamorro Martin
 
@@ -325,9 +321,7 @@ Eduardo holds a Master's Degree in Architecture from CEU San Pablo University (S
 Moreover, he has worked as Fab Lab Seoul director, researcher at several architecture studios, professor of computational design and fabrication at CEU University and advisor for various architecture collectives. He is also a regular collaborator at Fab Lab Madrid. He is always seeking innovative architecture that attempts to solve and adapt to social needs. He has also been a tutor for the Master of Science in Computational and Advanced Design (MSc CAD) at Design Morphine - UACEG (University of Architecture, Civil Engineering and Geodesy).
 
 
->[Email](eduardo.chamorro@iaac.net)
 
-[Website](http://eduardochamorro.github.io/beansreels/index.html)
 
 ## Josep Marti Elias
 
@@ -335,9 +329,6 @@ Moreover, he has worked as Fab Lab Seoul director, researcher at several archite
 
 Josep Martí is an Industrial Engineer from Barcelona. Josep started his career as a BI consultant but decided to change his professional path graduating from Fabacademy in 2019. Since then, he has taught digital fabrication, design and electronics in the Fablab, being part of the Future Learning Unit teaching in Fabacademy, Fabricademy and the Master in Design in Emergent futures. Recently, he started his path as a researcher in Erasmus+ projects. He holds a Bachelor’s degree in Industrial Technology Engineering and a Master’s degree in Industrial Engineering, specialising in Automatic Control, both from the Polytechnic University of Catalonia (UPC) and the Fabacademy diploma. He has always been interested in the Maker culture and is always looking to learn and create new things.
 
->[Email](josep@fablabbcn.org)
-
-[Linkedin](https://www.linkedin.com/in/josepmarti41/?originalSubdomain=es)
 
 
 
