@@ -4,10 +4,10 @@ Living with Your Own Ideas 2022-23
 # Temporal aspects of embodied living with prototypes
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="magic_machines_1.png" style="width:100%">
-  <img class="mySlides" src="magic_machines_2.png" style="width:100%">
-  <img class="mySlides" src="magic_machines_3.png" style="width:100%">
-  <img class="mySlides" src="magic_machines_4.png" style="width:100%">
+  <img class="mySlides" src="![](/images/magic_machines_1.png)" style="width:100%">
+  <img class="mySlides" src="![](/images/magic_machines_2.png)>
+  <img class="mySlides" src="![](/images/magic_machines_3.png)">
+  <img class="mySlides" src="![](/images/magic_machines_4.png)">
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
