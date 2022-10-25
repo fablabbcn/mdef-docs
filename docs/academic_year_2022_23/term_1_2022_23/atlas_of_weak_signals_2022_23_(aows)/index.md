@@ -3,7 +3,7 @@ Structure of 2022-23
 
 # Weak Signals in the Wild
 
-![](/images/atlas_of_weak_signal_2.png)
+![](images/atlas_of_weak_signal_2.png)
 
 ## Track
  Reflection
