@@ -3,16 +3,13 @@ Structure of 2022-23
 
 # Weak Signals in the Wild
 
-![](/images/atlas_of_weak_signal_3.png)
+![](/images/atlas_of_weak_signal_2.png)
 
 ## Track
  Reflection
 
 ## Faculty
 Mariana Quintero  
-
-![](/assets/images/aows.jpg)
-
 
 ## Syllabus
 
