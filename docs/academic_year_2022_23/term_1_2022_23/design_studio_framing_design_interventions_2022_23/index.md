@@ -356,6 +356,10 @@ To build personal and collective repositories of resources.
 
 33% of the evaluation will be the Design Studio faculties’ combined grade, 33% will be the average grade your peers give you, and 33% will be the completion of your first Thesis draft.
 
+## Link
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e#list" style="width:100%; height:600px; border:0;"></iframe>
+
 
 
 ## Tomas Diez
