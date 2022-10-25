@@ -3,6 +3,36 @@ Living with Your Own Ideas 2022-23
 
 # Temporal aspects of embodied living with prototypes
 
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="magic_machines_1.png" style="width:100%">
+  <img class="mySlides" src="magic_machines_2.png" style="width:100%">
+  <img class="mySlides" src="magic_machines_3.png" style="width:100%">
+  <img class="mySlides" src="magic_machines_4.png" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
 ## Track
 Reflection
 
@@ -60,6 +90,13 @@ Research artifacts, lo-fi version of project/concept, personal reflection.
 
 Quality of the research artifacts and of the findings.
 Depth of personal reflection.
+
+## Past Examples
+
+<iframe title="Christian Ernst 22'" src="https://player.vimeo.com/video/645553684?h=735939a33e" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="Philippa Formosa 22'" src="https://player.vimeo.com/video/642637412?h=4a8c8b7082" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 ## Bibliography
 
