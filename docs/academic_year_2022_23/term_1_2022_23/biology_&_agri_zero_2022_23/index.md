@@ -3,7 +3,7 @@ Structure of 2022-23
 
 #Biology & Agri
 
-![](/images/bio&agri_2.png)
+![](images/bio&agri_2.png)
 
 ## Track
  Exploration

@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Bootcamp
 
-![](/images/bootcamp_1.png)
+![](images/bootcamp_1.png)
 
 ## Track
 Application

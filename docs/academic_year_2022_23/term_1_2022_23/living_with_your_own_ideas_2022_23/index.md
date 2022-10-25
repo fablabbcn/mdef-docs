@@ -4,7 +4,7 @@ Structure of 2022-23
 # Living with Your Own Ideas 2022-23
 ### Temporal aspects of embodied living with prototypes
 
-![](/images/magic_machines_1.png)
+![](images/magic_machines_1.png)
 
 >
 <div class="w3-content w3-display-container" style="max-width:800px">

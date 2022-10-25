@@ -3,7 +3,7 @@ Structure of 2022-23
 
 # Community Engagement
 
-![](/images/community_engagment_1.png)
+![](images/community_engagment_1.png)
 
 A full week of four four-hour sessions to kickstart designing with creative communities and engaging with the social body.
 
@@ -13,7 +13,7 @@ A full week of four four-hour sessions to kickstart designing with creative comm
 ## Faculty
 HOLON - Markel Cormenzana, Merce Rua
 
-![](/assets/images/aows.jpg)
+
 
 
 ## When  

@@ -4,7 +4,7 @@ Structure of 2022-23
 # Design Studio Term 1 2022-23
 ### Framing Design Interventions
 
-![](/images/deisgn_studio_1.png)
+![](images/deisgn_studio_1.png)
 
 ## Track
 Application

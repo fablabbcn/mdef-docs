@@ -3,7 +3,7 @@ Structure of 2022-23
 
 # Tech Beyond the Myth
 
-![](/images/tec_beyond_1.png)
+![](images/tec_beyond_1.png)
 
 ## Track
 Instrumentation
