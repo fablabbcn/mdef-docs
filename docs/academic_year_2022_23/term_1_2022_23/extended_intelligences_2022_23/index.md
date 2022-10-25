@@ -1,7 +1,12 @@
-Extended Intelligences 2022-23
+
+Structure of 2022-23
 ======================
 
-# Temporal aspects of embodied living with prototypes
+# Extended Intelligences 2022-23
+### Temporal aspects of embodied living with prototypes
+
+
+![](/images/extended_intelligences_4.png)
 
 ## Track
 Exploration

@@ -1,7 +1,9 @@
-Community Engagement 2022-23
+Structure of 2022-23
 ======================
 
 # Community Engagement
+
+![](/images/community_engagment_1.png)
 
 A full week of four four-hour sessions to kickstart designing with creative communities and engaging with the social body.
 

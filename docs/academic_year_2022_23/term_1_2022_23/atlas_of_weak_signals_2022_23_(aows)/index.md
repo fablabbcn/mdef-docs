@@ -1,6 +1,9 @@
-Weak Signals in the Wild 2022-23!
-========
-# AoWS
+Structure of 2022-23
+======================
+
+# Weak Signals in the Wild
+
+![](/images/atlas_of_weak_signal_3.png)
 
 ## Track
  Reflection
@@ -52,6 +55,14 @@ High-resolution image of their first Multiscalar Design Space.
 ## Grading Method
 Participation in the Activities of the Week 50%
 Final Reflection + Multiscalar Design Space 50%
+
+## Link
+
+<iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
+
+[Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
+
+
 
 ## Bibliography and Background Research Material
 

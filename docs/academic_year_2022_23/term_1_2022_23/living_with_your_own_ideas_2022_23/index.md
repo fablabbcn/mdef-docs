@@ -1,8 +1,12 @@
-Living with Your Own Ideas 2022-23
+Structure of 2022-23
 ======================
 
-# Temporal aspects of embodied living with prototypes
+# Living with Your Own Ideas 2022-23
+### Temporal aspects of embodied living with prototypes
 
+![](/images/magic_machines_1.png)
+
+>
 <div class="w3-content w3-display-container" style="max-width:800px">
   <img class="mySlides" src="magic_machines_1.png" style="width:100%">
   <img class="mySlides" src="magic_machines_2.png" style="width:100%">
@@ -18,18 +22,19 @@ Living with Your Own Ideas 2022-23
   </div>
 </div>
 
+>
 <script>
 var slideIndex = 1;
 showDivs(slideIndex);
-
+>
 function plusDivs(n) {
   showDivs(slideIndex += n);
 }
-
+>
 function currentDiv(n) {
   showDivs(slideIndex = n);
 }
-
+>
 function showDivs(n) {
   var i;
   var x = document.getElementsByClassName("mySlides");

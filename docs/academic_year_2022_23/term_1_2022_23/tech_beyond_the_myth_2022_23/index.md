@@ -1,7 +1,9 @@
-Tech Beyond the Myth 2022-23
+Structure of 2022-23
 ======================
 
 # Tech Beyond the Myth
+
+![](/images/tec_beyond_1.png)
 
 ## Track
 Instrumentation
@@ -217,6 +219,12 @@ Bonus if your artifact doesn´t explode and actually works as expected
 Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
 
 Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered to a max of 5.0. Incomplete submission is considered a missing submission.
+
+## Past Examples
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/650411835?h=ad17c745a7" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/650292328?h=a64379c3d8" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Bibliography and Background Research Material
 
