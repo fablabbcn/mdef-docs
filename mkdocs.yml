@@ -21,7 +21,7 @@ nav:
       - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
       - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
       - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-
+  - Meta: meta/index.md   
 
 #    - Term 2: 2022/term2_2022_23.md
 #    - Term 3: 2022/term3_2022_23.md
@@ -143,3 +143,4 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
   - 'https://buttons.github.io/buttons.js'
   - 'assets/javascripts/extra.js'
+  - 'assets/javascripts/google-drive.js'
