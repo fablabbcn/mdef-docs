@@ -14,3 +14,4 @@ function toggleFullScreen() {
 		a.classList.add('fullscreen-mode')
 	}
 };
+
