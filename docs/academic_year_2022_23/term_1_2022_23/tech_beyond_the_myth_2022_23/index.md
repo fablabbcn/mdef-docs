@@ -9,7 +9,7 @@ Structure of 2022-23
 Instrumentation
 
 ## Faculty
-Santi Fuentemilla, Eduardo Chamorro, Josep Martí, Guillem Camprodon, Óscar González, Victor Barberán, Anastasia Pistofidou
+Santi Fuentemilla, Eduardo Chamorro, Josep Martí, Guillem Camprodon, Óscar González, Victor Barberán
 
 ## Syllabus
 
@@ -20,6 +20,10 @@ Is a practical and intensive two-weeks experimental program into fabrication, ph
 Our active learning methodology is based on the practice and spiral development, designed to encourage the creativity and imagination of the participants, as well as stimulate the search for tools and solutions for their correct definition.
 
 We will offer an impact experience, seeking to inspire and motivate the participants to use the possibilities of digital manufacturing and technologies to prototype, design, fabricate and program an “honest” mechanical artifact.
+
+![](images/tec_beyond_5.png)
+![](images/tec_beyond_5.1.png)
+![](images/tec_beyond_6.png)
 
 ## Total Duration
 
@@ -38,6 +42,9 @@ from 15:00 to 19:00 (16 per week)
 Non guided sessions where students work on a task independently or in groups
 
 ## Structure and Phases
+
+![](images/structure.jpg)
+
 
 Class by class schedule of topics and activities.
 
