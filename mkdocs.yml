@@ -22,158 +22,156 @@ nav:
       - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
       - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
 
-    - Previous Years:
-      - Main: previous_years/index.md
-      - Academic Year 2021-22:
-        - Main: academic_year_2022_23/index.md
-        - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
-        - Student Awards:
-        -  Research Trip:
-        - Term 1:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-        - Term 2:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-        - Term 3:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#    - Previous Years:
+#      - Main: previous_years/index.md
+#      - Academic Year 2021-22:
+#        - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
+#        - Student Awards:
+#        -  Research Trip:
+#        - Term 1:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#         - Term 2:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#        - Term 3:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#
+#      - Academic Year 2020-21:
+#        - Main: academic_year_2022_23/index.md
+#        - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
+#        - Student Awards:
+#        -  Research Trip:
+#        - Term 1:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#        - Term 2:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#         - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#        - Term 3:
+#          - academic_year_2022_23/term_1_2022_23/index.md
+#          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
 
-      - Academic Year 2020-21:
-        - Main: academic_year_2022_23/index.md
-        - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
-        - Student Awards:
-        -  Research Trip:
-        - Term 1:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-        - Term 2:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-        - Term 3:
-          - academic_year_2022_23/term_1_2022_23/index.md
-          - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-          - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-          - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-          - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-          - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-          - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-          - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-          - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#      - Academic Year 2019-20:
+#          - Main: academic_year_2022_23/index.md
+#          - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
+#          - Student Awards:
+#          -  Research Trip:
+#          - Term 1:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#          - Term 2:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#          - Term 3:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
 
-      - Academic Year 2019-20:
-          - Main: academic_year_2022_23/index.md
-          - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
-          - Student Awards:
-          -  Research Trip:
-          - Term 1:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-          - Term 2:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-          - Term 3:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-
-      - Academic Year 2018-19:
-          - Main: academic_year_2022_23/index.md
-          - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
-          - Student Awards:
-          -  Research Trip:
-          - Term 1:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-          - Term 2:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-          - Term 3:
-            - academic_year_2022_23/term_1_2022_23/index.md
-            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#      - Academic Year 2018-19:
+#          - Main: academic_year_2022_23/index.md
+#          - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
+#          - Student Awards:
+#          -  Research Trip:
+#          - Term 1:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#          - Term 2:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#           - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+#          - Term 3:
+#            - academic_year_2022_23/term_1_2022_23/index.md
+#            - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+#            - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+#            - Atles of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+#            - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+#            - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+#            - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+#            - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+#            - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
 
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 
-=======
-  - Meta: meta/index.md
->>>>>>> e9f6d272663c247b476a9b8750038e5033a93de5
+#  - Meta: meta/index.md
+#>>>>>>> e9f6d272663c247b476a9b8750038e5033a93de5
 
 #    - Term 2: 2022/term2_2022_23.md
 #    - Term 3: 2022/term3_2022_23.md
