@@ -9,7 +9,8 @@ nav:
   - Main: index.md
   - Academic Year 2022-23:
     - Main: academic_year_2022_23/index.md
-    - Calendar: academic_year_2022_23/calendar_2022_23/index.md
+    - About: about/index.md
+#    - Calendar: academic_year_2022_23/calendar_2022_23/index.md
     - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
     - Term 1:
       - academic_year_2022_23/term_1_2022_23/index.md
