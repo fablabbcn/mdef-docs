@@ -86,7 +86,7 @@ Final Reflection + Multiscalar Design Space 50%
 
 ## Andrés Colmenares
 
-![](../../../assets/images/faculty_photos/andres_colmenares.jpg)
+![](/assets/images/faculty_photos/andres_colmenares.jpg)
 
 Andres Colmenares is the co-founder of [IAM](https://www.iam-internet.com/), creative research lab that helps responsible citizens and organisations make better decisions by using futures as tools to anticipate challenges and opportunities, while exploring the socio-ecological impacts of digital technologies and the internet(s) through collective learning initiatives, partnerships and commissioned projects. He is also co-director of [IAM Weekend](https://www.iam-internet.com/weekend), the annual gathering to collectively rethink the futures of the internet(s) and [The Billion Seconds Institute](https://www.iam-internet.com/billion/).
 

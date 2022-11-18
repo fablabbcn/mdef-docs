@@ -5,7 +5,7 @@ Structure of 2022-23
 
 ![](images/community_engagment_1.png)
 
-A full week of four four-hour sessions to kickstart designing with creative communities and engaging with the social body.
+A full week of three hour sessions to kickstart designing with creative communities and engaging with the social body.
 
 ## Track
  Reflection
@@ -17,65 +17,89 @@ HOLON - Markel Cormenzana, Merce Rua
 
 
 ## When  
-From the 22rd to the 25th of November
+From the 22rd to the 25th of November of 4 classes with a duration of 3 hours
 
 ## Syllabus & Schedule
 
-Every future scenario is built by detecting “weak signals” that set trends and point to certain directions, based on the analysis of the main change factors we can detect in the present. And the present for 2022 is a convulsed place, subjected to immense systemic crises that generate doubts about the survival of the status quo in multiple spheres.
-As a transversal and ongoing project of the Masters in Design for Emergent Futures, the Atlas of Weak Signals presents a space and a structure in which to navigate and position ourselves in this complex panorama, allowing for students and faculty to find design and intervention contexts and opportunities.
-The goal of this first Weak Signals in the Wild Week is to give the students a general overview of the signals and toolkit that constitute the ongoing Atlas, a showcase of the research projects developed by former students and research faculty, and finally, a glimpse into a specific context which offers a hyper-local and situated view of some of the possible vectors that the Atlas presents.
+Design practice and the role of the designer has been evolving over time. Evolving from an utilitarian perspective at the service of industry (design over) to the integration of the perspective of the human user and it’s needs (design for) and, later on,  it’s integration as an active agent in the design process (design with) the agency and expertise of the designer has been critically put into question generation after generation. Presencing the burst of the user-centered bubble and in the face of various existential risks, along these sessions, we will inquire over our role as designers and experience what it means to design within creative communities with the goal of  putting our personal projects and capacities at the service of deep transitions.  
 
 
 
 
-### Tuesday 23/11 - 3:00 to 7:00 pm CET
-#### Session 1: Framing - Seminar
-Genealogy of our practice
-Shaking the role of the designer
-Experimenting with the social body
-Intersecting interests, SDGs and communities
-Practice or Homework: In groups. Ecosystem mapping and finding fit. Introspective work: from ego to eco meditation. We will help the students land their practice and interests in different creative communities around the metropolitan area of Barcelona. Homework to be presented on 25/11.
+### Tuesday 22/11 - 10:00 to 1:00 pm CET
+#### Session 1: Theoretical framing. Focal points.
+####SEMINAR
+
+- Genealogy of this practice
+
+- Shaking the role of the designer
+
+- Intersecting interests and communities
+
+- Practice or Homework: Ecosystem mapping and finding fit. Introspective work: from ego to eco.
 
 
 
-### Wednesday 24/11 - 9:00 am to 1:00 pm CET
-#### Session 2: Social Presencing Theory - Workshop - (location TBD)
-During this workshop, we will embody assemblages of both human and non-human actants for sensing underlying dynamics and locating opportunities for action. We will use “planetary wellbeing” as a general framework and intentionality.
 
-Participatory ecosystems: Knowledge as a correlate and body and bodies as epistemological instruments.
+### Wednesday 23/11 - 10:00 am to 1:00 pm CET
+#### Session 2: Emergent strategy
+####SEMINAR/WORKSHOP
 
-Exercise 4D Map. Visualization and direct exemplification of the generation of truth.
+- Intervention portfolio approach to systems transformation
 
+- Reflecting / Sketching your role(s) in the system.
 
-### Thursday 25/11 - 9:00 am to 1:00 pm CET
-#### Session 3: Tooling - Workshop
-Reviewing task from 1st day
+- Setting an agenda and stewarding change.
 
-Mindset and ways of designing
-
-Entering the field and ethnographic perspective *
-
-The limits and sins of participation
-
-Practice or Homework: Prototyping from a design within stance and social learning
+- Practice: targeted systems change and transitions over a generation.
 
 
-### Friday 26/11 - 9:00 am to 1:00 pm CET
-#### Session 4: Emergent Strategy - Workshop
 
-Theories of change. From strategic management to emergent strategy.
+### Thursday 24/11 - 10:00 am to 1:00 pm & 3:00 pm to 7:00 pm CET
+#### Session 3: Tooling
+####SEMINAR/WORKSHOP
 
-Intervention portfolio approach to systems transformation.
+- Creative communities
 
-The role of experiments and non-traditional research outputs (NTRO) *
+- Mindset and ways of designing
 
-Reflecting / Sketching your role(s) in the system.
+- Facilitation
 
-Setting an agenda and stewarding change.
+- Social capital
 
-Practice: speculative exercise of targeted systems change and transitions over a generation.
+- The limits of participation
 
-Along the second part of the course, the mentorship will be extended in order to facilitate groups acceding and designing within already existing communities in Barcelona.
+- Practice or Homework: Prototyping from a design within stance and social learning
+
+####Delivery 2st Iteration
+
+
+### Friday 25/11 - 10:00 am to 1:00 pm & 3:00 pm to 7:00 pm CET
+#### Session 4: Performing ecosystems and transitions
+####DIGITAL WORKSHOP
+
+- Shareback insights community work
+
+- Participatory ecosystems: Knowledge as a correlate and Body and bodies as epistemological instruments
+
+- Exercise 4D Map. Visualization and direct exemplification of the generation of truth.
+
+##Deliverables / Outputs
+
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+
+##Grading Method
+
+Participation in tasks/workshops (including at-home tasks) - 45%
+
+Team work, collaboration and discussion - 15%
+
+Reflection on the website - 7%
+
+Self grading* 3%
+
+Final output - 30%
+
 
 
 ## Bibliography and Background Research Material
