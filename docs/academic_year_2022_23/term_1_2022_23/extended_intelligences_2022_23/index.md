@@ -16,18 +16,77 @@ Exploration
 
 ## Syllabus
 
-https://docs.google.com/presentation/d/1QODc18kcKJHMR1JPomLnv8kLDw6A_v-fiLpebF2Ra9w/edit#slide=id.g125ad6570cd_0_0
+The first part of the seminar sets the grounds for designing witht/for/by AI in the current and future world conditions. The focus is on the conceptual basis of AI and how the practice of design has spawned a wealth not just of new possibilities but of new methods too. Poshuman, Postdigital, Smart Interaction and Multiple Intelligence (or chamanistic) design are explored and the basis of their methodologies are shared.
 
-### Extended Intelligences (Context workshop)
-Extended intelligences introduce the fundamental idea of intelligence further than the human brain. In this process, we will explore the autonomization of the object, the collective dimension of intelligent behavior, and the challenges that they pose in shaping today's world.
-Output: A scaffolder of an automated decision tool.
+The second part of the seminar will be focused on Artificial Intelligence and contemporary visual culture. With a practical approach, and by learning some techniques and tools, part of the concepts learnt on the first part will be applied in class exercises.
 
-### Designing with AI (Experience workshop)
-Hands-on approach to the state of the art of artificial intelligence tools. We will take personal images from our mobile phones library and experiment with neural networks to create alternative selves. From image generation to image classification primarily using StyleGAN but also CLIP 101 (D-ALLE) and YOLO. The class will be built around a collection of Collab (Google Cloud Jupyter Notebooks environment) predefined python scripts.
-Output: Images of an alternative self.
+A speculative project will be developed by the students in small groups during the seminar and will be presented at its end.
+
+
+### Learning objectives
+
+Learn basic concepts and techniques of AI, and its different fields.
+
+Understand some of the ethics impacts of AI
+
+Learn to use technical tools to run some AI programs.
+
+Understand the current proposals in designing with/for/ Extended Intelligence.
 
 ## When  
 Monday 29th November to Friday 9th of December
+All the sessions will be in person at IAAC, except a visit, that is still to be defined.
+
+### November 29th Tuesday
+#### Lucas Pena  + Ramon Ramon Sangüesa
+
+The real AI: what is is, what is not and what it could be.
+
+Intro to Machine Learning Different Methods  (theory and examples, no programming)
+
+First round of project ideation
+
+### November 30th Wednesday
+#### Lucas Pena  + Ramon Ramon Sangüesa
+
+Design and AI: designing autonomous intelligent “others”. Main dimensions. Interaction. Design Values. Methodologies: posthuman design, Van Allens chamanistic design
+
+Ethical impacts. Practical work on the students project ideas.  Sharing and critique.
+
+Pushing for speculation and Futures
+
+### December 1st Thursday
+#### Estampa
+Reflection about AI and contemporary visual culture. Datasets.
+
+Intro to Colab + basic code concepts
+
+2h visit (to be decided)
+
+### December 2nd Friday
+
+#### Estampa
+
+AI and artistic projects.
+
+GAN Colab + link to other resources
+
+Student work/Support
+
+### December 7th Wednesday
+#### Estampa
+
+Student work/Support
+
+### December 1st Thursday
+#### Lucas Pena + Ramon Ramon Sangüesa + Estampa
+
+Students presentation of students work in progress
+
+Feedback
+
+
+
 
 
 
