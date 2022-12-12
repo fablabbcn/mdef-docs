@@ -11,7 +11,7 @@ Academic Information 2022-23
 
 •[Çağsun Acemoglu](https://cagsunacemoglu.github.io/MDEF/)
 
-•[Carolina Mendes Amaro de Almeida](thttps://carolina-mendes-almeida.github.io/MDEF/)
+•[Carolina Mendes Amaro de Almeida](https://carolina-mendes-almeida.github.io/MDEF/)
 
 •[Dhriti Sandeep Dhoka](https://dhritidhoka.github.io/MDEF/)
 
@@ -49,6 +49,6 @@ Academic Information 2022-23
 
 •[Semih Çağlar Alkan](https://caglaralkan.github.io/MDEF/)
 
-•[Stella Dikmans](https://stella-dikmans.github.io/MDEF/)
+•[Stella Dikmans](https://stella-dikmans.github.io/distel/)
 
 •[Wen Qian Chua](https://wenqianchua.github.io/MDEF/)
