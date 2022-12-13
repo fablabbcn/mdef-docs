@@ -92,7 +92,8 @@ Students are requested to submit all the material requested by the faculty + the
 
 - Reflect your learning goals and possible applications of the technology learned
 
-- Add link to the exploration tools and files you produced and used in your repo
+- Add link to the exploration tools and files you produced and used in your repo (Video and Slide presentation, Forensic report)
+
 
 **All the students have to document their work for the course:**
 
@@ -106,107 +107,72 @@ The deadline for the students to submit their work for your seminar is Sunday th
 
 ### Video
 
-- Video at minimum 1080p stabilized (not hand held recordings, use a tripod if you don´t know how to stabilize by software)
+- Video at minimun 1080p stabilized (not hand held recordings, use a tripod if you don ́t know how to stabilize by software) BETWEEN 30SEC TO 1MIN
 
-- Black, gray, white or color (studio background).
+- Open source music matching the artifacts(properly acknowledged).
 
-- Libre music matching the artifacts(properly acknowledged).
+- Ideally, the sound produced by the machine will also be recorded in the video.
 
-- Ideally the sound produced by the machine will be also recorded in the video.
+- Entry and finish titles with team names, name of the artifact and Iaac/FablabBCN .
 
-- Entry and finish titles with Team names, name of the artifact and Iaac/FablabBCN.
 
 ### Slides
 
 **Forensic report abstract (reflection)**
 
+- Design process (how did you ideate)
+- What is supposed to do or not to do.
+- Ideas or concept in the context
+- How is it made (Materials, parts)
 - System diagram (illustration explaining function, parts, and relations)
-
-- How did you fabricate it (fabrication processes and materials)
-
-- The coding Logic (Algorithms and flow charts, pseudocoding)
-
-- Design process - Why -(reflection about design process)
-
-- Photographs of the end artifacts at high res.
-
-- Learning by Accomplishments and failures
+- The coding Logic (Algorithms and flowcharts, pseudocoding )
+- Photographs of the end artifacts 
+- Iteration Process - Learning by Accomplishments and failure
 
 ## Grading Method
 
 ### Criteria
 
 - Attendance
-
 - Team participation
-
-- Knowledge
-
+- Knowledge exchange
 - Learning goals
-
 - Self evaluation
-
-- Peer to peer evaluation
+- Critical reflection
 
 
 ### Academic level -  40%
 
-Level of the project (quality and complexity of the designed prototype/code/artifacts)
+Level of the project, artefacts or activities (quality and complexity of the solutions/ reflections/prototype/code/artifacts)
 
-- Initial idea / Concept of the Project ( aligned to research areas)
-
+- Ideas or concept in the context
 - Propose (What is supposed to do or not to do)
-
-- Shown how your team planned and executed the project. (Explain personal contributions)
-
-- System diagram (illustration explaining function, parts, and relations)
-
-- Integrated Design (How you designed it - relation between elements)
-
-- Honest Design (use of technology in a meaningful way, in relation to the topics)
-
-- Be creative (find solutions with materials and technology you have)
-
+- Shown how your team planned and executed the project.
+- Integrated Design (relation between system elements)
+- Honest Design (use of technology in a meaningful way, in relation to the context)
 - Explore design boundaries (based on your expertise)
 
 
-### Replicability - 35%
+### Open content - 35%
 
 Level of clarity and detail of the documentation material (photos, video, text, etc)
 
-- How did you fabricate it (fabrication processes and materials)
-
-- Design & Fabrication files (open source or open format)
-
-- BOM (Build of Materials)
-
-- Listed future development opportunity for this project
-
-- Iteration Process (spiral development)
-
+- Design process (How did you iterate) 
+- How is it made (Materials, tools)
+- System diagram (illustration explaining function, parts, and relations)
+- Reflect about future development opportunity 
 - Described problems and how the team solved them
-
-- Photographs of the end artifacts
-
-- Add names and links to your individual pages
-
-- Linked to your individual pages
+- Photographies of the end artifacts
 
 ### Attitude - 20%
 
 Involvement, Motivation level, proactive behaviors
 
 - Attendance to classes
-
-- Proactive behaviours to find answers during the challenge
-
+- Proactive behaviours to find answers during the program
 - Help others student’s projects
-
 - Participation in feedbacks sessions
 
-- Dealing with uncertainty
-
-- Don’t be afraid to make mistakes ( going out of your comfort zone)
 
 ### Explosion - 5 %
 
