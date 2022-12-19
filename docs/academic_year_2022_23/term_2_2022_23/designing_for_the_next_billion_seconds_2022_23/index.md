@@ -18,7 +18,7 @@ Using the Everything Manifesto as a meta-brief, participants will have the oppor
 
 
 ## When  
-Wednesday 11th to Friday 13th of January
+Wednesday 11th to Friday 13th of January 23'
 
 ## Schedule
 
