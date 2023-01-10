@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Remixing Materials
 
-![](images/remixing_materials_2.png)
+missing image
 
 ## Track
 Application

@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Communicating Ideas
 
-![](remixing_materials_2.png)
+missing image
 
 ## Track
 Application
@@ -20,7 +20,7 @@ This course will explore various approaches to communicating design concepts and
 
 ## Schedule
 
-![](remixing_materials.png)
+![](images/remixing_materials.png)
 
 
 **Session 1**: Who What Why
