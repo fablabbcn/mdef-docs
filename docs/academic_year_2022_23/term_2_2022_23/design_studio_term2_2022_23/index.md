@@ -3,7 +3,7 @@ Structure of 2022-23
 #  Design Studio Term 2 2022-23
 ### Embodying Emergent Contexts
 
-![](images/deisgn_studio_2.png)
+![](images/design_studio_2.png)
 
 ## Track
 Application

@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Digital Prototyping For Design
 
-![](digital_prototyping_for_design.jpg)
+![](images/digital_prototyping_for_design.jpg)
 
 ## Track
 Application
@@ -17,7 +17,7 @@ Advanced manufacturing, rapid prototyping and new design methodologies are not o
 
 During this 2 term course (2&3), students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. The program provides advanced digital fabrication instruction for students through an unique, hands-on curriculum and access to technological tools and resources.
 
-![](digital_prototyping_for_design_1.jpg)
+![](images/digital_prototyping_for_design_1.jpg)
 
 ## Weekly Schedule
 
@@ -74,7 +74,7 @@ A core aim is to empower students with hands-on prototyping in the Fab Lab envir
 
 - 21/03/23 - Final Challenge (Opensources)
 
-![](digital_prototyping_for_design_2.jpg)
+![](images/digital_prototyping_for_design_2.jpg)
 
 ## Methodology
 
@@ -88,14 +88,14 @@ The challenges combine four weekly cycles into one intense project-based fabrica
 
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
 
-![](digital_prototyping_for_design_3.jpg)
+![](images/digital_prototyping_for_design_3.jpg)
 ## Output
 
 Each student builds a portfolio on their respective websites that documents their mastery of different certificates taken individually along each week and their integration into a final, larger project, related to their masters thesis development.
 
  **The DESIGN FOR PROTOTYPING COURSE is PASSED by growth progress rather than a global goal, for successful completion of each weekly assignment and challenge is a must.**
 
- ![](digital_prototyping_for_design_4.jpg)
+ ![](images/digital_prototyping_for_design_4.jpg)
 
 ## Grading Method
 

@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Remixing Materials
 
-![](remixing_materials_2.png)
+![](images/remixing_materials_2.png)
 
 ## Track
 Application
@@ -23,7 +23,7 @@ Wednesday 18th to Friday 17th of February 23'
 
 ## Schedule
 
-![](remixing_materials.png)
+![](images/remixing_materials.png)
 
 
 ### CRAFRING MATERIALS
