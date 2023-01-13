@@ -3,10 +3,6 @@ Academic Information 2022-23
 
 # Students Website's
 
-
-Andrea Arranz Sánchez
-Rei Matsuoka (terauchi)
-
 •[Angel Cho](https://angel-cho.github.io/mdef22/)
 
 •[Anna Mestres Casadesus](https://anna-mestres.github.io/anna.mestres/)
