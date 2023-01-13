@@ -2,12 +2,14 @@ Structure of 2022-23
 ======================
 # Future Talks
 
+![](images/future_talks.jpg)
+
 
 ## Track
 Future Talks is a series of conversations with friends of ELISAVA and Fab Lab Barcelona, exploring the nature of emerging futures from the past to the present and beyond.
 
 ## Faculty
-Oscar Tomico, Mariana Quintero, Tomas Diez, Jonathan Minchin
+Oscar Tomico & Mariana Quintero
 
 ## Syllabus
 
@@ -22,6 +24,8 @@ In this series of talks, critical reflection will help you to map your strengths
 
 ## When  
 Every other Monday
+
+![](images/future_talks.png)
 
 ## Schedule
 

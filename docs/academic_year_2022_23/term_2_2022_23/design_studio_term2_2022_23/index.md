@@ -9,7 +9,7 @@ Structure of 2022-23
 Application
 
 ## Faculty
-Oscar Tomico, Mariana Quintero, Tomas Diez, Jonathan Minchin
+Oscar Tomico & Mariana Quintero 
 
 ## Syllabus
 

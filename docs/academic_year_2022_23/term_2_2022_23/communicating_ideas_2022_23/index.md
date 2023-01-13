@@ -2,7 +2,7 @@ Structure of 2022-23
 ======================
 # Communicating Ideas
 
-missing image
+![](images/communicating_ideas.jpg)
 
 ## Track
 Application
@@ -19,9 +19,6 @@ This course will explore various approaches to communicating design concepts and
 24th January - 7th March 2023
 
 ## Schedule
-
-![](images/remixing_materials.png)
-
 
 **Session 1**: Who What Why
 
