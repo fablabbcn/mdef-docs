@@ -3,52 +3,64 @@ Academic Information 2022-23
 
 # Students Website's
 
-•[Ahmed Yakout](https://help-ay.github.io/MDEF/)
 
-•[Amanda Jarvis](https://agjarv.github.io/MDEF/)
+Andrea Arranz Sánchez
+Rei Matsuoka (terauchi)
 
-•[Ariel Ignacio Ariel Ignacio ](https://argallardo.github.io/Ariel-MDEF/)
+•[Angel Cho](https://angel-cho.github.io/mdef22/)
 
-•[Çağsun Acemoglu](https://cagsunacemoglu.github.io/MDEF/)
+•[Anna Mestres Casadesus](https://anna-mestres.github.io/anna.mestres/)
 
-•[Carolina Mendes Amaro de Almeida](thttps://carolina-mendes-almeida.github.io/MDEF/)
+•[Audrey Belliot](https://audrey-belliot.github.io/mdef/index.html)
 
-•[Dhriti Sandeep Dhoka](https://dhritidhoka.github.io/MDEF/)
+•[Busisiwe Nicholine Mgwenya](https://busi-mgwen.github.io/)
 
-•[Eric Antonio Heinemann Bauer](https://antonioheinemann.github.io/MDEF/)
+•[Christian Maximilan Ernst](https://chris-ernst.github.io/dozen-things-digital/)
 
-•[Fanny Josephine Jonasdotter Bourghardt](https://josephinebourghardt.github.io/MDEF/)
+•[Dídac Torrent Martínez](https://didac-torrent.github.io/mdef/)
 
-•[Jimena Lucia Salinas Groppo](https://jimenasalinasgroppo.github.io/MDEF/)
+•[Fiorella Milagros Jaramillo Garcia](https://fiorella-jaramillo.github.io/123/)
 
-•[Jordan Hodges](tomasdiez77)
+•[Georges Hanna](https://gecrgehanna.github.io/mdefprocess/)
 
-•[June Bascaran Bilbao](https://junebascaran.github.io/MDEF/)
+•[Gerda Meleschkin](https://gerda-meleschkin.github.io/newwebsite/)
 
-•[Korbinian Leo Clemens Nida-Rümelin](https://knr-at-iaac.github.io/MDEF/)
+•[Joaquín Rosas Sotomayor](https://j-rosas.github.io/mdef/)
 
-•[Marc Parés Fabrellas](https://paresmarc.github.io/MDEF/)
+•[José Hirmas Stark](https://jose-hirmas.github.io/mdefportafolio/)
 
-•[Maria Claudia Bertoletti](https://clodbe0.github.io/MDEF22/)
+•[Julia Steketee](https://julia-steketee.github.io/MDEF-Website-Repository/)
+
+•[Kailey Alyssa Nieves Algarin](https://kailey-nieves.github.io/MDEF-Website-Repository/)
+
+•[Marina Lermant](https://marina-lermant.github.io/mdef-website/)
 
 •[Mariana Ponde Dhelomme](https://mdhelomme.github.io/mdef/)
 
-•[Marielle Wall](https://marielle-wall.github.io/MDEF/)
+•[Nikita Bandarevich](https://nikita-bandarevich.github.io/web_portfolio/)
 
-•[Myrto-Eirini Pappa](https://mypappa.github.io/MDEF/)
+•[Paula Renata Bustos Reyes](https://paula-bustos.github.io/peebee/)
 
-•[Paige Perillat-Piratoine](https://paigeperill.github.io/MDEF/)
+•[Philippa Formosa](https://philippa-formosa.github.io/mdefweb/)
 
-•[Qianyin Du](tomasdiez77)
+•[Roberto Andrés Broce Sealy](https://roberto-broce.github.io/MDEF-website/)
 
-•[Ramiro Argañaraz](https://ramiroarga.github.io/MDEF/)
+•[Roelof Jan Ruben De Haan](https://rubendehaan.github.io/xz5rv/)
 
-•[Samantha Piercy](https://samipiercy.github.io/MDEF/)
+•[Tatiana Marie Butts](https://tatiana-butts.github.io/tatiana-butts/)
 
-•[Seher Krishna](https://seherkrishna02.github.io/mdef4/)
+•[Borbála Moravcsik](https://borbalamoravcsik.github.io/mdef-borka/)
 
-•[Semih Çağlar Alkan](https://caglaralkan.github.io/MDEF/)
+•[Emilio Santiago Smith Pérez](https://emiliosmith.github.io/mdef_emilio2/)
 
-•[Stella Dikmans](https://stella-dikmans.github.io/MDEF/)
+•[Paula Del Rio Arteaga](https://paula-delrio-arteaga.github.io/mdef/)
 
-•[Wen Qian Chua](https://wenqianchua.github.io/MDEF/)
+•[Vikrant Mishra](https://vikmish.github.io/)
+
+•[Aparna Pallod](https://understood-lint-c6a.notion.site/b919878341cf404bad0df8a4e28ccdf3?v=854afea31dc74448b07f3ecc4f47a6f5)
+
+•[Jeremy Paradie](https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/About/MDEF+Repository)
+
+•[Andrea Arranz Sánchez](https://andrea-arranz.github.io/website/)
+
+•[Rei Matsuoka (terauchi)](https://terauchi-rei.github.io/mdefweb/)

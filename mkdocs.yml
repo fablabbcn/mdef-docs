@@ -31,10 +31,9 @@ nav:
       - Digital Prototyping for Design: academic_year_2022_23/term_2_2022_23/digital_prototyping_for_design_2022_23/index.md
       - Communicating Ideas: academic_year_2022_23/term_2_2022_23/communicating_ideas_2022_23/index.md
       - Making Sense and Meaning: academic_year_2022_23/term_2_2022_23/making_sense_&_meaning/index.md
-    #     - Previous Years:
-#       - Main: previous_years/index.md
-#       - Academic Year 2021-22:
-#         - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
+  - Academic Year 2022-23:
+    - Main: previous_years/academic_year_2021_22/index.md
+    - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
 #         - Student Awards:
 #         -  Research Trip:
 #         - Term 1:
