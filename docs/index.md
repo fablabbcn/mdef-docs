@@ -3,7 +3,6 @@ THE DESIGN FOR EMERGENT FUTURES APPROACH
 ======================
 
 
-![](../assets/images/faculty_photos/mdef_main.jpg)
 
 Welcome to the Mdef Library where you will be finding all the information of the Master programs throughout the years.
 
