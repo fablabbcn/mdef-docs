@@ -13,11 +13,15 @@ Reflection
 
 ## Syllabus
 
-**“Meaning is a property of intelligence. If planet Earth is the only place with intelligence in the entire galaxy, then is on planet earth where meaning can only exist”** - Brian Cox. English physicist and former musician who is a professor of particle physics in the School of Physics and Astronomy at the University of Manchester and The Royal Society Professor for Public Engagement in Science.
+In the words of Brian Cox, **"Meaning is a property of intelligence."** This statement implies that as intelligent beings, we have the ability to assign meaning to the world around us. However, it also suggests that this ability is unique to Earth and its inhabitants, as it is the only known place in the galaxy where intelligence exists.
 
-It might be hard to accept that humans have full responsibility for the current climate emergency and social imbalances, but we have designed all of it. Designing something is not just to define is aesthetics or proportions, neither is limited to objects. Design is about making decisions or provoking decisions of others. You either take your private car or public transport, both are decisions in which you are designing the way you are going to go from point A to point B. But beyond the trip from A to B, you are also designing how much are you going to pollute today, or if you do not have any other choice because you live in an American suburb, then your mode of transport has been decided already for you. Design is the attitude we have towards the simple things of everyday life, to the more transcendental ones that we believe transform our lives or other people’s lives forever. The meaning and purpose in design are personal perceptions that translate into actions, but it also needs to be a collective effort in order to synchronize interventions at multiple scales that will allow the human species to inhabit and coexist on this planet with other forms of life, which are needed to sustain human life itself.
+As designers, we have the power to shape the world around us through the decisions we make and the actions we take. Whether it is the design of an object or the design of a system, our choices have far-reaching consequences. For example, choosing to take a private car instead of public transport not only affects the trip from A to B, but also contributes to pollution and climate change. Similarly, the design of our cities and suburbs can limit or expand our options for transportation.
 
-Finding meaning and purpose is a lifetime discovery, that could be perpetual and take many lives. For centuries, humans have been using different tools in order to expand their understanding of the world they could see, smell, touch, listen, and taste. Philosophy helped us ask questions that go beyond what our senses can detect and our brains can process. Religion provided answers to many existential questions by transposing the human power to higher beings or spirits. Science aims to respond to existential questions with hard facts, based on the scientific method of proposing theories and then prove them right. How one can navigate in such a complex configuration of belief systems, overlapping between each other, and still feel part of something? As designers, it is important to align our belief system with our actions and build meaningful connections with what we do, from simplicity (that can be transcendental) to complexity. We will not be able to respond definitive answers during this course, but we aim to expand the world’s views of the course participants (students, tutors, guests) through fruitful debate and discussions.
+Design is not just about aesthetics or proportions, it is also about the attitude we have towards the world and the choices we make. The meaning and purpose in design are personal perceptions that translate into actions. However, it is important to remember that these actions also have a collective impact and require a coordinated effort at multiple scales.
+
+The search for meaning and purpose is a lifelong journey that can be influenced by a variety of belief systems, such as philosophy, religion, and science. As designers, it is important to align our beliefs with our actions and build meaningful connections with our work.
+
+The MDEF (Masters in Designing Emergent Futures) seminar aims to align students' purpose with their skills, interests, and capabilities in order to empower them to become agents of change. Through questioning and self-reflection, the seminar aims to rebuild the connection between students and their inner motivations and to provide opportunities for engaging with a diverse range of perspectives and ideas. The seminar is a space for honest discussion, questioning, and challenging, where the aim is to incorporate a philosophical approach to designing for the future.
 
 ## When  
 Tuesday, from 9 to 11 am.
@@ -27,35 +31,92 @@ Online.
 
 ## Calendar
 
-January 17: Course introduction, discussion on papers, and content of the seminar.
+ **January 17:** Course introduction, discussion on papers, and content of the seminar
 
-January 31: Conversation with a guest speaker.
+### Tuesday
 
-February 7: Debate on design perspectives based on provided readings
+Looking East from Indian Country
 
-February 28: Debate with guest speakers
+### Thursday
 
-March 21: Final debate around submitted abstracts of papers.
+Looking West from Europe
 
-## Conversations with*:
+####  Readings
 
-Primavera de Filippi
+- Lepore, The Name of War, chapters 4-5
 
-Stephanie Hankey
+- The Iroquois Describe the Beginning of the World
 
-Mattia Bernini
+- The Ho-Chunk Creation Story
 
-Yu Li
+- John Winthrop, A Model of Christian Charity
 
-Sename Koffee
+ **January 30:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
 
-Beno Juarez
+### Tuesday
 
-Marcela Sabino
+What Made the New World New?
 
-Sudebi Thakurata
+### Thursday
 
-*Based on availability and calendar. Not all participants listed will be part of the course’s program.
+Settlement? Invasion? Conquest?
+
+#### Readings
+
+- Lepore, The Name of War, chapter 6.
+
+- Mary Rowlandson, A Narrative of the Captivity and Restoration of Mrs. Mary
+Rowlandson.
+
+**February 13:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
+
+ ### Tuesday
+
+ Science, race, and national identity
+
+### Thursday
+
+ Economics and empire
+
+#### Readings
+
+ - Marcus Rediker, “Life, Death, and Terror in the Slave Trade,” and “African Paths to
+ the Middle Passage” from The Slave Ship.
+ - Thomas Jefferson, selections from Notes on the State of Virginia.
+ - Phyllis Wheatley, “On being brought from Africa to America,” “A Farewell to
+ America,” and “Liberty and Peace.”
+
+ **February 27:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
+
+ #### Topic or activity
+
+We'll be reviewing...
+
+####  Prep work
+
+Required preparatory reading or other assignments.
+
+####  Assignments or deliverables
+
+Please prepare a...
+
+ **March 13:** Assignment submission
+
+ #### Topic
+
+ This midterm will cover all material from weeks 1-6.
+
+ #### Suggested prep work
+
+ Review chapters 1-3.
+
+ #### Links to relevant material
+
+ <aside>
+ 📌 Use the `@` symbol to **mention** a relevant page in your class resources or paste links to external resources that you introduced to the class.
+
+ </aside>
+
 
 
 ![](images/making_sense_and_meaning.jpg)
@@ -65,35 +126,45 @@ One of the main goals of MDEF is to align students’ purpose with their skills,
 
 
 
-## Papers to read
-[The distributive nature of Design](https://distributeddesign.eu/wp-content/uploads/2021/10/This-Is-Distributed-Design-Book-by-Distributed-Design-Platform.pdf) **Page 234**
+## Papers to read and video to watch
+
+[How Humanity Came To Rule The World | Yuval Noah Harari & Neil deGrasse Tyson](https://www.youtube.com/embed/e77a-SweV9o)
 
 [Design as participation:]( (https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)
 
 [A History of the World in Seven Cheap Things:]( (https://www.researchgate.net/publication/319143816_A_History_of_the_World_in_Seven_Cheap_Things)
 
-[Steps to an Ecology of Mind:]( (https://ejcj.orfaleacenter.ucsb.edu/wp-content/uploads/2017/06/1972.-Gregory-Bateson-Steps-to-an-Ecology-of-Mind.pdf) **Introduction**
+[Steps to an Ecology of Mind:]( (https://ejcj.orfaleacenter.ucsb.edu/wp-content/uploads/2017/06/1972.-Gregory-Bateson-Steps-to-an-Ecology-of-Mind.pdf)
 
 
 ## Course completion requirements
+### Breakdown
 
-To read the provided articles and papers
+Participation: 40**%**
+Attendance: 20**%**
+Essay: 40**%**
 
-To attend to at least 80% of the classes
+- To read the provided articles and papers
 
-To write a blog entry of 2500 words at the end of the course on your website and design a vignette to illustrate the following questions:
+- To attend at least 80% of the classes
 
-What design means for you?
+- To write a blog entry of between 1500-2500 words at the end of the course on your website and design a vignette to illustrate the (some) following questions (feel free to replace them by more meaningful ones to you):
 
-How can design help you to achieve your purpose?
+    1. How design can reconfigure systems of extraction?
 
-How design can be used to transform your world?
+    2. Which worlds can we design with the power of today’s tools?
 
-An abstract (500 words) of the final entry will be required a week prior to the last day of class.
+    3. How can we design the transition towards these worlds?
+
+Suggestion: Feel free to use ChatGPT and other AI tools to write and illustrate the class assignment.
+
+### **Late Assignments**
+
+Late work will be deducted 5% per twenty-four-hour period that elapses after the due date. If foreseen or unforeseen circumstances prevent you from completing an assignment on time, you may request an extension. Extensions must be requested in advance of the due date. If the situation warrants an extension, we will determine a new due date for the essay based on your individual circumstances.
 
 
 ## Link
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e#list" style="width:100%; height:100%; border:0;"></iframe>
+<iframe src="https://drive.google.com/drive/folders/14E84DXjy8oAKYZ5ZY1fYDzXV0fa0AzuY" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e){ .md-button .md-button--primary }
+[Open Drive folder](https://drive.google.com/drive/folders/14E84DXjy8oAKYZ5ZY1fYDzXV0fa0AzuY){ .md-button .md-button--primary }
