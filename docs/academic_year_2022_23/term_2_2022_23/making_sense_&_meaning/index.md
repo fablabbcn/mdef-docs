@@ -31,7 +31,7 @@ Online.
 
 ## Calendar
 
- **January 17:** Course introduction, discussion on papers, and content of the seminar
+ **January 17:** Course introduction, discussion on papers, and content of the seminar.
 
 ### Tuesday
 
@@ -65,8 +65,7 @@ Settlement? Invasion? Conquest?
 
 - Lepore, The Name of War, chapter 6.
 
-- Mary Rowlandson, A Narrative of the Captivity and Restoration of Mrs. Mary
-Rowlandson.
+- Mary Rowlandson, A Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson.
 
 **February 13:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
 
@@ -80,15 +79,15 @@ Rowlandson.
 
 #### Readings
 
- - Marcus Rediker, “Life, Death, and Terror in the Slave Trade,” and “African Paths to
- the Middle Passage” from The Slave Ship.
- - Thomas Jefferson, selections from Notes on the State of Virginia.
- - Phyllis Wheatley, “On being brought from Africa to America,” “A Farewell to
- America,” and “Liberty and Peace.”
+- Marcus Rediker, “Life, Death, and Terror in the Slave Trade,” and “African Paths to the Middle Passage” from The Slave Ship.
 
- **February 27:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
+- Thomas Jefferson, selections from Notes on the State of Virginia.
 
- #### Topic or activity
+- Phyllis Wheatley, “On being brought from Africa to America,” “A Farewell to America,” and “Liberty and Peace.”
+
+**February 27:** Debate on design perspectives based on provided readings. Conversation with a guest speaker.
+
+#### Topic or activity
 
 We'll be reviewing...
 
@@ -100,17 +99,17 @@ Required preparatory reading or other assignments.
 
 Please prepare a...
 
- **March 13:** Assignment submission
+**March 13:** Assignment submission
 
- #### Topic
+#### Topic
 
- This midterm will cover all material from weeks 1-6.
+This midterm will cover all material from weeks 1-6.
 
- #### Suggested prep work
+#### Suggested prep work
 
- Review chapters 1-3.
+Review chapters 1-3.
 
- #### Links to relevant material
+#### Links to relevant material
 
  <aside>
  📌 Use the `@` symbol to **mention** a relevant page in your class resources or paste links to external resources that you introduced to the class.
