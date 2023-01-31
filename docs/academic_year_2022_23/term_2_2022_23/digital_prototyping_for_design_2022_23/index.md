@@ -38,41 +38,33 @@ A core aim is to empower students with hands-on prototyping in the Fab Lab envir
 
 ## Structure and Phase
 
+!!! note
+  The following timetable is provisional and may undergo modifications and adaptations during the course.
+
+
 ### 1 Block of Master classes
 
-- 01/02/23 - Basic electronics & Coding
-
-- 02/02/23 - 2D Design tools (Raster/Vector), parametric
-
-- 08/02/23 - 2D Fabrication: Laser, vinyl
-
-- 09/02/23 - Embbeded coding
-
-- 14/02/23 - First Challenge (Opensources)
+* 01/02/23		- Basic electronics & Coding
+* 02/02/23		- 2D Design tools (parametric design)
+* 08/02/23		- 2D Fabrication (Laser, vinyl)
+* 09/02/23		- Inputs / Outputs
+* 14/02/23		- **First Challenge** (Intellectual property)
 
 ### 2 Block of Master classes
 
-- 08/03/23 - 3D Scanning - 3D softwares
-
-- 09/03/23 - 3D Blender
-
-- 15/03/23 - Inputs / Outputs
-
-- 16/03/23 - Prototyping Electronics
-
-- 21/03/23 - Second Challenge (Opensources)
+* 08/03/23		- Networking
+* 09/03/23		- 3D Scanning - 3D softwares
+* 15/03/23		- Interfaces and machine interactions
+* 16/03/23		- CNC
+* 21/03/23		- **Second Challenge** (Intellectual property)
 
 ### 3 Block of Master classes
 
-- 26/04/23 - CNC
-
-- 27/04/23 - Interfaces
-
-- 03/05/23 - TBD - Coding
-
-- 04/05/23 - TBD - Advanced Design
-
-- 21/03/23 - Final Challenge (Opensources)
+* 26/04/23		- TBD - Advance Design
+* 27/04/23		- Interfaces
+* 03/05/23		- Wildcard week
+* 04/05/23		- TBD - Coding
+* 21/03/23		- **Final Challenge** (Intellectual property)
 
 ![](images/digital_prototyping_for_design_2.jpg)
 
@@ -89,6 +81,7 @@ The challenges combine four weekly cycles into one intense project-based fabrica
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
 
 ![](images/digital_prototyping_for_design_3.jpg)
+
 ## Output
 
 Each student builds a portfolio on their respective websites that documents their mastery of different certificates taken individually along each week and their integration into a final, larger project, related to their masters thesis development.
@@ -99,75 +92,47 @@ Each student builds a portfolio on their respective websites that documents thei
 
 ## Grading Method
 
-- The student will be reviewed by turns weekly on their weekly tasks, on Wednesday from 3:00PM to 4:30PM.Where they will have feedback and guidance for their final master project prototype.
-
 -  **Only the documentation into their webpages will be taken in account for evaluation**
-
-- The weekly standards and grading will be presented in each weekly assignment. During the master class.
-
+- The weekly standards and grading will be presented during the weekly master classes.
 - Prototyping process understanding ,workflows and evolving best practices will seriously be taken in account.
 
 ### Academic level - 40%
-Level of the project (quality and complexity of the designed prototype/code/artefacts)
+
+*Level of the project, artefacts or activities (quality and complexity of the solutions/ reflections/prototype/code/artifacts)*
 
 - Initial idea / Concept of the Project ( aligned to research areas)
-
 - Propose (What is supposed to do or not to do)
-
 - Shown how your team planned and executed the project. (Explain personal contributions)
-
-- System diagram (illustration explaining function, parts, and relations)
-
 - Integrated Design (How you designed it - relation between elements)
-
 - Honest Design (use of technology in a meaningful way, in relation to the topics)
-
-- Be creative (find solutions with materials and technology you have)
-
 - Explore design boundaries (based on your expertise)
 
-#### Replicability - 35%
+#### Open Content- 35%
 
-Level of clarity and detail of the documentation material (photos, video, text, etc)
+*Level of clarity and detail of the documentation material (photos, video, text, etc)*
 
-- How did you fabricate it (fabrication processes and materials)
-
+- Design process (How did you iterate)
+- How did you fabricate it (fabrication processes)
+- System diagram (illustration explaining function, parts, and relations)
 - Design & Fabrication files (open source or open format)
-
 - BOM (Build of Materials)
-
-- Listed future development opportunity for this project
-
-- Iteration Process (spiral development)
-
+- Reflect about future development opportunity
 - Described problems and how the team solved them
-
 - Photograph's of the end artefacts
-
 - Add names and links to your individual pages
-
-- Linked to your individual pages
 
 #### Attitude - 20%
 
-Involvement, Motivation level, proactive behaviours
+*Involvement, Motivation level, proactive behaviours*
 
 - Attendance to classes
-
-- Proactive behaviours to find answers during the challenge
-
+- Proactive behaviours to find answers during the program
 - Help others student’s projects
-
 - Participation in feedbacks sessions
-
-- Dealing with uncertainty
-
-- Don’t be afraid to make mistakes ( going out of your comfort zone)
 
 #### Explosion - 5 %
 
 Bonus if your artefact doesn´t explode and actually works as expected
-
 
 
 ## Links
