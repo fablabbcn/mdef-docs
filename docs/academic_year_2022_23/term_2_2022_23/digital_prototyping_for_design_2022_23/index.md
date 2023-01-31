@@ -107,7 +107,7 @@ Each student builds a portfolio on their respective websites that documents thei
 - Honest Design (use of technology in a meaningful way, in relation to the topics)
 - Explore design boundaries (based on your expertise)
 
-#### Open Content- 35%
+### Open Content- 35%
 
 *Level of clarity and detail of the documentation material (photos, video, text, etc)*
 
@@ -121,7 +121,7 @@ Each student builds a portfolio on their respective websites that documents thei
 - Photograph's of the end artefacts
 - Add names and links to your individual pages
 
-#### Attitude - 20%
+### Attitude - 20%
 
 *Involvement, Motivation level, proactive behaviours*
 
@@ -130,7 +130,7 @@ Each student builds a portfolio on their respective websites that documents thei
 - Help others student’s projects
 - Participation in feedbacks sessions
 
-#### Explosion - 5 %
+### Explosion - 5 %
 
 Bonus if your artefact doesn´t explode and actually works as expected
 
