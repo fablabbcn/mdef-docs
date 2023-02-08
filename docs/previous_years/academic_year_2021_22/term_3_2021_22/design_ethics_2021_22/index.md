@@ -1,93 +1,110 @@
-Structure of 2022-23
+tructure of 2021-22
 ======================
 
-# Designing The Next Billion Seconds
+# Design Ethics
 
 
 ## Track
- Reflection
+Reflection
 
 ## Faculty
-Andres Colmenares
+Ariel Guersenszvaig
 
 ## Syllabus
 
-Following a collective learning-by-doing approach, the students will explore, discuss, reflect, ideate, and exchange perspectives, questions, and thought experiments, while exercising their collective imaginations with long-term, critical and planetary mindsets to navigate the complexity, scale, and speed of change of the multidimensional implications that the digital economy has in the environmental emergency.
-
-Using [The Everything Manifesto](https://www.iam-internet.com/everything) as a meta-brief, participants will have the opportunity to learn how to use hypothetical questions to develop useful fiction stories about how everyday life can change in the next billion seconds, following methodologies where they can practice collective ideation, decision making, and other collaborative approaches.
+In these three sessions we will tackle an introduction to the philosophy of technology and the central theme of our relationship with technology: are we determined by technology? Do we determine the technology or should the issue be explored in a radically different way? We will then deal with current topics in ethics and artificial intelligence. After that, we will end by reflecting on what it can mean to be a professional designer.
 
 
+**Objectives**
+
+- To understand the nature of technology and its relationship with humans.
+
+- To know the limits and potentialities of ethical reflection.
+
+- To gain an awareness and understanding of ethics and its entailments for the design profession
 
 ## When  
-From 11th to 14th of January
+April 21, 25 and 28, from 10 am to 1 pm
 
 ## Schedule
 
-The course will follow a week-long studio format, divided into 4 sessions. Students will organize as one collective around a creative challenge and organize in interdependent smaller teams:
+3 in-person classes
 
-**Session I**: Introduction to the post-technological futures of Everything
-Group discussion + Creative challenge briefing
+### Day 1
 
-**Session II**: Futures in Plural
-Workshop on Collective ideation/decision-making
+- Technology and “us”
 
-**Session III**: Futures as Tools
-Workshop on visual storytelling and proto–videos
+- Technology and values
 
-**Session IV**: Futures = Narratives
-Showcase + collective reflection
+- The normative power of artefacts
 
+- Perspectives on technological intentionality
+
+- **Exercise**: ethical-constructive technology assessment
+
+### Day 2
+
+- Ethical frameworks and their integration into design
+
+-  Beyond the trolley problem
+
+ - Case: ethical issues in IA
+
+ - Case: autonomous weapons
+
+- **Exercise**: value-sensitive design taster and Mepham’s matrix of one’s work
+
+### Day 3
+
+- Professional ethics
+
+- Design as a practice
+
+- Designers as professionals
+
+- Design as self-enactment
+
+- **Exercise**: Wrap-up
 
 ##Output
-Digital posters + Proto–videos.
+2-3 page report containing an ethical assessment of one’s own course project based on the exercises performed during class + readings + contents of the lectures. The assessment should be reflective (not merely descriptive) and it should contain a discussion of themes in the project or of aspects thereof that merit ethical reflection. While not mandatory, it is recommended that it also included next steps or courses of action that can be taken to remediate ethical issues creating risks and harms.
+
+Submission deadline: May 30 2022
 
 ## Grading Method
-Participation in the Activities of the Week 50%
-Final Reflection + Multiscalar Design Space 50%
+Assignment: 70%
 
-## Link
-
-<iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
-
-[Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
-
+Participation: 30%
 
 
 ## Bibliography and Background Research Material
 
-[The Everything Manifesto](https://www.iam-internet.com/everything)
+Casacuberta, D., y Guersenzvaig, A. (2019). Using Dreyfus’ legacy to understand justice in algorithm-based processes. AI & Society, 34(2), 313-319.
 
-[‘Provisions - Observing & Archiving COVID-19’ by Site Magazine](https://www.thesitemagazine.com/covid19provisions)
+Benjamin, Ruha. (2019). Race after technology: Abolitionist tools for the new Jim Code. Cambridge: Polity.
 
-[‘Slowdown Papers’ by Dan Hill](https://medium.com/slowdown-papers)
+Baym, Nancy. (2015). Personal Connections in the Digital Age: Digital Media and Society. London: Polity.
 
-**'Down to Earth: Politics in the New Climatic Regime'** by Bruno LaTour
+Eubanks, Virginia. (2018). Automating inequality: How high-tech tools profile, police, and punish the poor. New York: St. Martin's Press.
 
-‘Poetics of Relation’ by Édouard Glissant
+Gertz, Nolen. (2018) Nihilism and Technology. London: Rowman and Littlefield.
 
-‘The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins’ by Anna Lowenhaupt Tsing
+Guersenzvaig, Ariel. (2021). The Goods of Design. London: Rowman and Littlefield.
 
-‘Everything is Someone’ by Simone Rebaudengo and Joshua Noble
+Kiran, A. H., Oudshoorn, N., y Verbeek, P.-P. (2015). Beyond checklists: Toward an ethical-constructive technology assessment. Journal of Responsible Innovation, 2(1), 5-19. https://doi.org/10.1080/23299460.2014.992769
 
-‘Black Quantum Futurism Theory & Practice, Volume I’ by Rasheedah Phillips
+Vallor, Shannon. Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. New York: Oxford University Press, 2016.
 
-‘Beyond Nature and Culture’ by Philippe Descola
+Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Morality of Things. Chicago: The University of Chicago Press, 2011.
 
-‘Stories of your Life and Others’ by Ted Chiang
+## Ariel Guersensvaig
 
-[‘A question of tech’](https://gauthierroussilhe.com/en/posts/une-erreur-de-tech)  by Gauthier Roussilhe
+![](/assets/images/faculty_photos/ariel_guersensvaig.jpg)
 
-‘The Shock of the Old: Technology and Global History Since 1900’ by David Edgerton
+Ariel Guersenzvaig is a lecturer at ELISAVA School of Design and Engineering of Barcelona (Spain). He combines his academic work with 20+ years of professional experience in the field of user experience and service design. He is the author of an upcoming book on design professional ethics (Rowman & Littlefield, April 2021). Besides professional ethics and design theory, another important locus of research is the ethical impact of machine intelligence on society, with a focus on autonomous weapons and algorithmic justice. He has published in academic journals such as ACM Interactions, SDN Touchpoints, AI & Society, Journal of Design Research, and IEEE Technology and Society Magazine. He holds a PhD in Design Theory from the University of Southampton (UK), an MA in Ethics from the University of Birmingham (UK).
 
-[Logic Magazine](https://logicmag.io/)
+Email Address: ariel@interacciones
 
-[‘Goodbye Uncanny Valley’ ](https://alanwarburton.co.uk/goodbye-uncanny-valley)  by Alan Warburton
+Twitter @interacciones
 
-
-## Andrés Colmenares
-
-![](/assets/images/faculty_photos/andres_colmenares.jpg)
-
-Andres Colmenares is the co-founder of [IAM](https://www.iam-internet.com/), creative research lab that helps responsible citizens and organisations make better decisions by using futures as tools to anticipate challenges and opportunities, while exploring the socio-ecological impacts of digital technologies and the internet(s) through collective learning initiatives, partnerships and commissioned projects. He is also co-director of [IAM Weekend](https://www.iam-internet.com/weekend), the annual gathering to collectively rethink the futures of the internet(s) and [The Billion Seconds Institute](https://www.iam-internet.com/billion/).
-
-Andres has designed alternative learning experiences, tools and programs with organisations such as Mobile World Capital Foundation, Red Bull and BBC. He has been invited as guest lecturers at institutions such as University of Arts London, Institute for Advanced Architecture of Catalonia, Merz Akademie and ELISAVA School of Design & Engineering of Barcelona.
+Linkedin https://www.linkedin.com/in/arielguers/
