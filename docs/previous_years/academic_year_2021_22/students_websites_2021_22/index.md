@@ -1,4 +1,4 @@
-Academic Information 2022-23
+Academic Information 2021-22
 ======================
 
 # Students Website's
