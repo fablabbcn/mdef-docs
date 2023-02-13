@@ -62,7 +62,3 @@ Daniel Charny is a creative director, curator, and educator with an inquiring mi
 Email Address:
 daniel@fromnowon.co.uk
 studio@wegoforth.org
-
-SoMe:
-@danino
-@fixperts
