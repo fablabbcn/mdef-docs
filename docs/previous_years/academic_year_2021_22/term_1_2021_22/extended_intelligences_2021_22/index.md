@@ -31,10 +31,9 @@ Monday 29th November to Friday 9th of December
 
 
 
-
 ## Ramon Sangüesa
 
-[](/assets/images/faculty_photos/ramon_sanguesa.jpg)
+[](../../../../assets/images/faculty_photos/ramon_sanguesa.jpg)
 
 Ramon Sangüesa has been doing research in Artificial Intelligence for more than 20 years specializing in Machine Learning, Uncertain Reasoning, and Multiagent Systems. He is a professor at the Technical University of Catalonia (on academic leave) and now works as the Head of Technology Research at the Elisava Design and Engineering School. He has been a visiting professor and researcher at Columbia University in NYC and Toronto University. He has been involved in Digital Social Innovation for years, being one of the creators of Citilab (Citizen’s lab) in Barcelona’s first director of innovation.
 
@@ -44,7 +43,7 @@ Publications: https://www.cs.upc.edu/~sanguesa/PDFCVRAmonSanguesaL.pdf
 
 ## Lucas Lorenzo Peña
 
-[](/assets/images/faculty_photos/lucas_lorenzo_pena.jpg)
+[](../../../../assets/images/faculty_photos/lucas_lorenzo_pena.jpg)
 
 Lucas is a full-stack software engineer, creative technologist, UX designer, and principal at Futurity Studio. In his studio, he investigates speculative design and technology experiences related to human-machine and machine-machine decision making, embodied cognition and future interfaces, and the socio-cultural impacts of artificial and machine intelligence.
 

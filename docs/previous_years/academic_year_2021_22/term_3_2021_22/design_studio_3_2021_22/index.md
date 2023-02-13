@@ -1,19 +1,14 @@
-Structure of 2021-22
+Structure of 2019-20
 ======================
 
-# Design Studio 3
+# Design Studio
 
 
-![](images/design_studio_2_1.jpg)
-![](images/design_studio_2_2.jpg)
+![](images/image_1.png)
 
-### Intervene and create future speculations
-
-## Track
-Application
 
 ## Faculty
-Oscar Tomico, Mariana Quintero      
+Tomas Diez, Oscar Tomico and Mariana Quintero      
 
 ## Syllabus
 
@@ -25,99 +20,139 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 **TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
 
-The third term Design Studio aims to refine the work developed by the students during the first two terms of the Master program. After finding and engaging with communities of practice in the second term through a number of initial interventions, students will be encouraged to grow and consolidate those relationships and take a step further. They will design and deploy one last intervention that can serve as closure for their journey in the Master program. At the same time, it will act as a launching pad for establishing the alternative presents where they will continue shaping their envisioned emergent futures after the end of the program.
+The third term Design Studio aims to refine the work developed by students during the first and second term of the Master program (research and design). After identifying areas of interest from weak signals in the first term, and creating their design space and interventions, students will be encouraged to take a further step into their projects, focusing on designing an improved intervention in the real world (digital or physical). Special efforts will be geared towards the development of projects in the context of the current global pandemic, and how such interventions take place in new contexts (domestic, digital, new locations), while contributing to the previous work in tems one and two, and continue building the project’s vision for desirable futures..
 
-### Future Talks
+The Design Studio time will be dedicated to supporting the students to adapt their work in the current special global context, develop their final design intervention in new spaces, and communicate their project to build new narratives, taking into account the current “new normal”. During the studio, studio leaders will bring invited guests to introduce topics of interest to the process and to participate in tutorials during the desk crits.
 
-Research has shown that most of the job opportunities and future challenges that will arise in the next few years still don’t exist. Instead of seeing it as a threat, we want you to look at it as an opportunity. An opportunity to actively create your own path, your own vision and identity rather than passively wait for what is needed.
-
-In MDEF we believe that learning should be driven by your motivations and not by our (the teachers) thoughts. We want you to be in control of your own development especially in a master program full of activities. We want you to plan a strategic turn for yourself. We will provide you with a variety of knowledge, skills and attitudes to compare yourself with.
-
-### Deliverables
+## Deliverables
 
 At the end of this trimester we expect you to update who you are and what makes you unique (identity) and your personal “vision” of your future as a professional. Create a specific post on your website.  
 
 
-## When  
-**Tuesdays** 2 to 7 pm, every two weeks
+## Total Duration
 
-## Schedule
+Weekly studio days will be every Tuesday from 14:30hrs to 17:30hrs.
 
-### 19/04 Kick off - Framing your first Design Intervention for Term III (Alternative presents - triggering tomorrow’s tomorrow)
+## Structure and Phases
 
-a. **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a final design intervention.
+### __Apr 16 - Kick off - My new me
+**Activities**: Reflect on how the new normal is shaping you personally. Explore and document a day in your life with notes, photos, videos, self-interviews…
 
-b. **Activity**: Briefly present in class 3 of the main learning points from the 2nd trimester.
+**Deliverable**: One post with some visuals (photo, video, graphics, moodboard,…). A short reflection in a 2-3 minute video, following the “youtuber” model..
 
-c.**Deliverable**: A proposal for the final intervention (a draft will be discussed during the design reviews the week after)
+### __Apr 21 - Mapping my domestic experimental laboratory
+**Activities**: Accept and reflect on how the new normal is shaping you as a professional. Rethinking your new hyper-local and hyper-connected design space.
 
-d. **Task**: Start preparing and carrying out your final design intervention.
+**Goals**: Being resilient and resourceful as a professional.
+
+**Deliverable**: One post with a new design space including what infrastructure, people, things and materials became available either physical or virtual in this new normal.
+
+###__Apr 28 - Experimenting with my project in emergent contexts
+**Activities**: Looking for new meaningful actions, being resilient and resourceful.
+
+**Goals**: Piloting a new intervention with yourself or close connections.
+
+**Deliverable**: one post documenting your design actions with new normal design space and resources. Plan for your design intervention (after piloting yourself).
+
+###__May 5 - Collaborating with others for my project in new spaces
+**Activities**: Relating 1st, 2nd and 3rd person perspectives in a hyper-local and hyper-connected context.
+
+**Goals**: Create a new intervention in this new normal.
+
+**Deliverable**: one post with documenting your design intervention. A distributed, online collective design action.
+
+###__May 12 - Creating your own biography and constituency
+**Activities**: From a post-human design perspective explore your evolution (you and your context) from before and during the master.
+
+**Goals**: Understand who you are and what you are capable of.
+
+**Deliverable**: one post with visualizing own biography and constituency. Include a short reflection for each one.
+
+###__May 19 - Reflecting about new weak signals in your future scenario
+**Activities**: Any transformation needs to occur now already taking into account the future new normal scenario you want to achieve not the given one.
+
+**Goals**: Reflection on two previous experiments and analyze the opportunities for reframing the future new normal that you want to achieve.
+
+**Deliverable**: one post with new weak signals describing how the present opportunities for your project you haven’t explored before shape your future new normal. scenario
+
+###__May 26 - Emerging Narratives
+**Activities**: Outlining a clear vision for your project. Defining clear intentions and developing a clear identity.
+
+**Goals**: Distilling the mission and vision of your project.
+
+**Deliverable**: A communication strategy for your project.
+
+###__June 2 - Looking forward
+**Activities**: From Hyper-Local to Hyper-Global - Outlining strategies to reach interconnected global scales.
+
+**Goals**: Reflection on the scalability of the project to other contexts.
+
+**Deliverable**: A professional development plan for after this year of the master.
+
+###__June 9 - Closing the Loop
+**Activities**: Draft set up for the “exhibition/book/event”.
+
+**Goals**: Prepare and define the Design Dialogues final presentation.
 
 
-### 02/05 Alternative presents to emer-triggering tomorrow’s tomorrow.
+## Output
 
-a. **Goals**: Learn different strategies and methodologies of measuring impact in innovation projects, applying this knowledge to design and implement a system for your own interventions.
+**Deliverables**
 
-b. **Activity**: Understand the dimensions of your intervention that can be measured and which elements would constitute the system that would be able to give you feedback. In order to reflect on possible future iterations and to share the impact your activities have with others as part of your narrative.
+Document (2-4 pages per chapter, 7 chapters)
 
-c. **Deliverable**: Design a strategy to measure impact during and after your interventions.
+Set of 5 photos to communicate the project (high / print quality)
 
-d. **Task**: Pilot and iterate this strategy with your community, reflect on the results and the experience with its implementation.
+Video (2-3 mins max)
 
+Prototype / Platform / etc.
 
-###  17/05 Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability - Clément Rames
+Presentation
 
-a.**Goals**: Understand the philosophical and political foundations of care,
+## Grading Method
+Academic level of the final document (framing of the opportunity, state of the art, literature review, …) (20%)
 
-b. **Activity**: Analyse and map the reach of what you are able to respond to using the guidelines presented by the guest lecturer.
+Level of clarity and detail of the communication material (photos, video, exhibition set-up, book) (20%)
 
-c. **Deliverable**: Reflect on what responsible innovation and anticipation means for your project based on what you learned in this session with Sergio. You can support this reflection with the survey he asked you to do before class and the Vision Assessment Exercise he proposed at the end of the session (Causal Layered Analysis).
+Quality and resourcefulness of the designed prototype/platform/ etc (20%
+  )
+Social value of the interventions based on the analysis of the results (20%)
 
-d. **Task**: Activity proposed by Guest Lecturer on his suggested material.
+Depth in the personal reflection and main learning points (10%)
 
+Motivation level, proactive behaviors & attendance (10%)
 
-### 24/05 MDEFest Introduction - Oscar + Mariana
+## Bibliography
+Speculative Everything - Anthony Dunne and Fiona Raby
 
-a. **Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts.
+Adversarial Design - Carl DiSalvo
 
-b. **Activity**: To reflect on the structural, narrative, documentation and outreach dimensions of your interventions.
+Massive Change - Bruce Mau, Jennifer Leonard and Institute without Boundaries
 
-c. **Deliverable**: Updated version of your Design Space visualizing the socio-technical system of your project. Which elements can become part your decentralization strategy and how? Show paths of growth with new actors. Based on that create a draft roadmap for the next 5 years using a scalability matrix (columns are the years and files are the actions and actors involved).
+Design for the Real World: Human Ecology and Social Change - Victor Papanek
 
-d. **Task**: Reflect on the following questions: How much do you own of your vision? What is important to keep close to you? Who should you involve to scale up? Create a scalability matrix (a roadmap for decentralization).
+Liquid Modernity - Zygmunt Bauman
 
-### 26/05 MDEFest Production - Kate
+Who Owns the Future? - Jason Lanier
 
-### 07/06 MDEFest Production - Kate + Tomas Vivanco
+This Changes Everything - Naomi Klein
 
-### 16/06 MDEFest Preparation - Kate + Tomas Vivanco
+To Save Everything, Click Here: The Folly of Technological Solutionism - Evgeny Morozov
 
-###  20/06 - 29/06 MDEFest
+Democratizing Innovation - Eric Von Hippel
 
-a.  **Goals**: MDEFEST aims to celebrate the end of the Masters’ journey by offering a series of sessions hosted by the students on the topics and projects they worked all year long. Co-curated with faculty Daniel Charny.
+Cradle to Cradle: Remaking the Way We Make Things - Michael Braungart, William McDonough
 
-b.  **Activity**: Sessions will last maximum half a day, can be digital or physical (with remote streaming), done individually or in groups (preferably) and can be in the format of a workshop, a debate, a visit, a meetup or any kind of format the students find suitable for this experience.
+Macrowikinomics: New Solutions for a Connected Planet - Don Tapscott, Anthony D. Williams
 
-c.  **Deliverable**: Two-week time-frame to hold the sessions planned for the Fest.
+The Third Industrial Revolution: How Lateral Power Is Transforming Energy, the Economy, and the World - Jeremy Rifkin
 
+The Death and Life of Great American Cities - Jane Jacobs
 
-#### **End of academic year deliverables - Due date: 16th of June.**
+The Third Plate - Dan Barber
 
-5-10 High-resolution photos of the results of your projected.
+Free Innovation - Eric Von Hippel
 
-Master Thesis - Chapters 0-12, adding this Term the following chapters:
-i. **Chapter 8**: Final Intervention
+Limits to Growths - Donella H. Meadows
 
-ii. **Chapter 9**: Measuring Impact
-
-iii. **Chapter 10**: Response-ability
-
-iv. **Chapter 11**: Designing yourself out
-
-v. **Chapter 12**: Final Reflection
-
-vi. **Reference Sources / Bibliography**
-
-(2-5) min Video
-
-Selected physical exhibition material for IAAC and Elisava (TBC with Chiara)
+The Human Face of Big Data - Rick Smolan

@@ -4,8 +4,6 @@ Structure of 2020-21
 # Design Studio 3
 
 
-![](images/design_studio_2_1.jpg)
-![](images/design_studio_2_2.jpg)
 
 ### Intervene and create future speculations
 

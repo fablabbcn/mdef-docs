@@ -27,3 +27,12 @@ Brand and Purpose
 
 ### Session 2 > February 14th
 Presentation and Pitching
+
+
+## Kate Armstrong
+
+![](/assets/images/faculty_photos/kate_armstrong.jpg)
+
+Kate is the communications lead at Fab Lab Barcelona where she also articulates the community and communications of the Fab City Global Initiative. An Australian design and business management undergraduate, Kate has worked in both the public and private sector of the creative field in the Netherlands and Australia on campaigns concerned with community engagement and audience development for social amelioration.
+
+Studying a Master of Arts and Society at Utrecht University, she developed her research interest in the causality between the creative industries and climate change. As a freelance consultant Kate has created content and interventions with TEDx Sydney; Trivago; Vivid Festival at Museum of Contemporary Art Sydney; and BioPak Australia, New Zealand and United Kingdom.

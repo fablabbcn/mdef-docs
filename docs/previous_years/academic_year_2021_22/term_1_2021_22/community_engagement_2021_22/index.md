@@ -129,7 +129,7 @@ From non-profit cooperatives, associations, and foundations transforming sectors
 
 ## Mercè Rua
 
-[](/assets/images/faculty_photos/merce_rua.jpg)
+[](../../../../assets/images/faculty_photos/merce_rua.jpg)
 
 Mercè Rua Farges is a researcher and design strategist at Holon.cat. With a multidisciplinary profile, at the crossroads between the social sciences, design, and the performing arts, she works to train and accompany organizations in their efforts to prosper by favoring a positive impact on society and the environment. Her passion is bringing people and teams together to bring out their collective intelligence and alignment to drive change.
 
@@ -139,7 +139,7 @@ Email Address: merce@holon.cat
 
 ## Merkel Cormenzana
 
-[](/assets/images/faculty_photos/merkel_cormenzana.jpg)
+[](../../../../assets/images/faculty_photos/merkel_cormenzana.jpg)
 
 Markel Cormenzana, Transition Designer. Mechanical Engineer specialized in Product Development from the University of the Basque Country and the University of Southern Denmark (SDU). Ma Advanced Design Studies (UPC-UB). He has channeled his professional activity towards designing (product, service, systems, UX...) and innovating to dance with the complex social, economic and environmental challenges we face as a civilization. He is also a regular guest teacher at several design schools in Barcelona such as IED, BAU, Elisava or ESDESIGN.
 
