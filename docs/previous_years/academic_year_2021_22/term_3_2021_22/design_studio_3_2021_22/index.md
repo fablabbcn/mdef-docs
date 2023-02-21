@@ -1,10 +1,8 @@
-Structure of 2019-20
+Structure of 2021-22
 ======================
 
 # Design Studio
 
-
-![](images/image_1.png)
 
 
 ## Faculty

@@ -3,8 +3,6 @@ Structure of 2018-19
 
 # Navigating Uncertainty
 
-![](images/image.jpg)
-
 ## Track
 Application
 

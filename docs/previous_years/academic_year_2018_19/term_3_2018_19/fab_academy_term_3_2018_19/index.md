@@ -3,10 +3,6 @@ Structure of 2018-19
 
 # Fab Academy
 
-![](images/image_1.png)
-
-
-
 ## Faculty
  Santi Fuentemilla, Eduardo Chamorro, Xavi Domínguez, Esteban Gimenez
 

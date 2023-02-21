@@ -107,7 +107,7 @@ This Master Block of Economics, Finance & Accounting is highly recommended to ma
 
 ## Carlos Barbiero Steinvlock
 
-![](../../../../assets/images/faculty_photos/corlos_barbiero_steinblock.png)
+
 
 With a strong background in Finance & Accounting, Carlos has been working for large multinational corporations, manufacturing and Business Process Outsourcing based in Barcelona close to 20 years. In 2014 he focuses full time on the recent phenomenon of Bitcoin and other cryptocurrencies and the technology and protocols enabling decentralized and trustless transfer of value. Currently under 3 different brands Carlos’ company offers coworking space in Vilanova, cryptocurrency consulting and Finance and Blockchain Education.
 
@@ -208,7 +208,7 @@ White board and projector.
 
 ## Jordi Riulas Casirian
 
-![](../../../../assets/images/faculty_photos/jordi_riulas_casirian.jpeg)
+
 
 
 Serial entrepreneur. Co-Founder CELL.market, specialised equity token market for biotechnology. COO at Capital Cell, crowdinvesting platform for biotech. Blockchain lecturer and tutor at IEBS school.

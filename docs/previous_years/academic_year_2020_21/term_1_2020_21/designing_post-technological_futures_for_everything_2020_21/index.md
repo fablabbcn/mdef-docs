@@ -103,7 +103,7 @@ Leading from the Emerging Future - Otto Scharmer and Katrin Kaufer
 
 ## Andres Colmenares
 
-![](../../../../../assets/images/faculty_photos/andres_colmenares.jpg)
+![](../../../../assets/images/faculty_photos/andres_colmenares.jpg)
 
 Andres Colmenares (CO/ES) is the co-founder of IAM, the creative research lab helping citizens and organisations to anticipate, understand and address the socioecological challenges and opportunities emerging from the coevolution of digital technologies and internet cultures. He is also co-director of The Billion Seconds Institute, director of a new Master in Design for Responsible Artificial Intelligence systems at ELISAVA,  and recently appointed as coordinator of Open Climate, a collective of leaders in the open movement dedicated to exploring the intersection between the open practices and the climate crisis.
 

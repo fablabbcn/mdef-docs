@@ -7,7 +7,7 @@ Structure of 2019-20
 ### The Post-Technological Futures of Everything: Using Collective Imaginations to Address the Environmental Emergencies Coming In The Next Billion Second
 
 
-![](images/images_1.jpg)
+
 
 
 ## Faculty
