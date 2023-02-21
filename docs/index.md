@@ -1,6 +1,5 @@
 THE DESIGN FOR EMERGENT FUTURES APPROACH
-
-======================
+========================================
 
 ![](image/mdef_main.jpg)
 
