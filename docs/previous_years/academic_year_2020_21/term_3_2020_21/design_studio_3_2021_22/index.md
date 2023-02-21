@@ -4,7 +4,6 @@ Structure of 2020-21
 # Design Studio 3
 
 
-
 ### Intervene and create future speculations
 
 ## Track
