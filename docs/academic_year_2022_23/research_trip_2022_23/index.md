@@ -87,53 +87,6 @@ Ex-MDEFer, Audrey co-created Slow lab in January 2022. At the intersection betwe
 Part of the local and regional government in the areas of Agriculture, Environment, Primary Sector and Economic, Business Planning, and Sustainability.
 
 
-## Trip logistics
-
-![](images/map_1.jpg)
-
-The airport is close to La Caleta (north-east of the island).
-We will stay and work in the Frontera area.
-
-
-![](images/map_2.png)
-
-#### **Workspace**
-
-(Yellow arrow)
-
-A Banana greenhouse converted into a workspace.
-
-![](images/map_3.jpeg)
-
-The workspace will be available for us the entire week, to work, experiment, reflect and share with the group.
-
-#### **Stay and Accommodation**
-
-(Red arrow)
-
-## **[Apartamentos Finca Wapa](https://www.booking.com/hotel/es/finca-wapa.es.html?aid=311090&label=finca-wapa-Ps5h0bABevkbMmpjFN9HIQS338554039616%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-325506953000%3Alp1005433%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcGt_tphEo8pawEozW2KQ80&sid=dc1221be836197af4e807af436d31bcf&dest_id=-383046;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1674831191;srpvid=3ccb68ab464e0278;type=total;ucfs=1&#hotelTmpl)**
-
-Calle El Matorral, 33 , 38911 La Frontera, España
-
-
-![](images/map_4.jpeg)
-
-[Here](https://docs.google.com/spreadsheets/d/1TfHMG0q-AwP1t-G_YpQ5Kj1Vca7aamxB_CHCgxX5bY4/edit?usp=sharing) you can find the description of the apartments and the prices.
-
-(The average price per night per person is 32 Euros).
-
-![](images/map_5.jpeg)
-
-![](images/map_6.jpeg)
-
-![](images/map_7.jpeg)
-
-![](images/map_8.jpeg)
-
-####  **Transportation**
-
-**Car rental** with [Cicar](https://www.cicar.com/).
-The master will take care of renting the cars. The number of cars to rent depends on the number of participants.
 
 ## References
 
@@ -147,28 +100,3 @@ The master will take care of renting the cars. The number of cars to rent depend
 ####  **Movies**
 
 - [Fire of Love](https://www.youtube.com/watch?v=-_7XADmKVL0)
-
-
-## Trip impact . Useful resources
-
-As any other trip, we need to take into account the environmental impact of traveling to El Hierro.
-Different transportation modes are possible to reach it.
-
-
-⛵ **Sailing**
-The least impact. But also the most difficult to plan!
-It should be around a 4 days trip to sail from Gibraltar to the Canary Islands.
-
-⛴ **Taking a ferry**
-
-*Resource to calculate your impact:* [https://bonpote.com/ferry-calculer-en-1-minute-son-empreinte-carbone/](https://bonpote.com/ferry-calculer-en-1-minute-son-empreinte-carbone/)
-
-**✈ Flying**
-
-********************Resource to calculate your impact: [https://bonpote.com/en/flight-calculate-your-carbon-footprint-in-3-clicks/](https://bonpote.com/en/flight-calculate-your-carbon-footprint-in-3-clicks/)*
-
-
-**Hybrid options**
-
-- Train + flight
-- Train + ferry : example, BCN-Sevilla-Cadiz (train 10h) + Cadiz-Santa Cruz de Tenerife (ferry 39h) + to Los Crisitanos (bus 1h) + to Valverde (ferry 2h30)
