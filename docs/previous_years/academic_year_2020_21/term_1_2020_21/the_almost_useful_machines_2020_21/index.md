@@ -1,7 +1,7 @@
 Structure of 2020-21
 ======================
 
-# TThe Almost Useful Machines
+# The Almost Useful Machines
 
 ![](images/tec_beyond_1.png)
 

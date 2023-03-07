@@ -2,8 +2,6 @@ Structure of 2022-23
 ======================
 # Measuring The World
 
-*Image (personal projects if related to the course) and correct credit captions*
-
 ![](images/image_1.png)
 
 Image Credit: Domestic Data Streamers

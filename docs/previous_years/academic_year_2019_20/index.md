@@ -1,16 +1,18 @@
 Academic Information 2019-20
 ======================
 
-Info of this Academic Year
+# Welcome to the Year 2019-20
 
-## Term 1
+### insights
 
-Go back to the [**Home**](/)
+## Design Dialogues 01
 
-## Term 2
 
-Go back to the [**Home**](/)
+## Design Dialogues 02
 
-## Term 3
 
-## Students websites
+## MDEFest
+
+## Research Trip
+
+## Useful Information

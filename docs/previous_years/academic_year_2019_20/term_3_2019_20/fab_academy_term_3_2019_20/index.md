@@ -1,4 +1,4 @@
-SStructure of 2019-20
+Structure of 2019-20
 ======================
 
 # Fab Academy

@@ -1,4 +1,4 @@
-tructure of 2021-22
+Structure of 2021-22
 ======================
 
 # Design Ethics
