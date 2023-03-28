@@ -105,7 +105,7 @@ The third term Design Studio aims to refine the work developed by the students d
 
 **_(2-5) min Video_**
 
-Selected physical exhibition material for IAAC and Elisava - Poster + physical prototypes to be displayed for a few days (TBC with Chiara)
+Selected physical exhibition material for **IAAC and Elisava**- Poster + physical prototypes to be displayed for a few days (TBC with Chiara)
 
 
 ## Grading Method
