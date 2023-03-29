@@ -4,7 +4,7 @@ Structure of 2022-23
 # Design Studio Term 3 2022-23
 ### From Alternative Presents to Emerging Futures
 
-![](images/deisgn_studio_01.jpg)
+
 
 ## Track
 Application
