@@ -8,7 +8,7 @@ Structure of 2022-23
 Refelction
 
 ## Faculty
-Oscar Tomico, Mariana Quintero, Tomas Diez, Jonathan Minchin
+Ariel Guersensvaig
 
 ## Syllabus
 
