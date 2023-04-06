@@ -104,7 +104,7 @@ Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Mora
 
 ## Ariel Guersensvaig
 
-![](../../../../assets/images/faculty_photos/ariel_guersensvaig.jpg)
+![](../../../assets/images/faculty_photos/ariel_guersensvaig.jpg)
 
 Ariel Guersenzvaig is a lecturer at ELISAVA School of Design and Engineering of Barcelona (Spain). He combines his academic work with 20+ years of professional experience in the field of user experience and service design. He is the author of an upcoming book on design professional ethics (Rowman & Littlefield, April 2021). Besides professional ethics and design theory, another important locus of research is the ethical impact of machine intelligence on society, with a focus on autonomous weapons and algorithmic justice. He has published in academic journals such as ACM Interactions, SDN Touchpoints, AI & Society, Journal of Design Research, and IEEE Technology and Society Magazine. He holds a PhD in Design Theory from the University of Southampton (UK), an MA in Ethics from the University of Birmingham (UK).
 
