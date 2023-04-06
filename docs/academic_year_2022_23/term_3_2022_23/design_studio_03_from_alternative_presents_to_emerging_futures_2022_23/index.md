@@ -1,7 +1,7 @@
 Structure of 2022-23
 ========
 
-# Design Studio Term 3 2022-23
+# Distributed Design
 ### From Alternative Presents to Emerging Futures
 
 
@@ -10,7 +10,7 @@ Structure of 2022-23
 Application
 
 ## Faculty
-Oscar Tomico, Mariana Quintero, Tomas Diez, Jonathan Minchin
+Olga Trevisan and Sally Bourdon
 
 ## Syllabus
 
