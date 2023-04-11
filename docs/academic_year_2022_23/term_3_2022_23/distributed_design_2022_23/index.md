@@ -88,25 +88,27 @@ The grading will be 0 or 10: 0 if the students do not come to class and 10 if th
 ## Bibliography and Background Research Material
 
 ### Watch
-Distributed Design Documentary
 
-Driven by Distributed Design: Nat Hunter & Gareth Owen Lloyd from Other Today
+[Distributed Design Documentary](https://www.youtube.com/watch?v=lUJJtdFGyrc&t=221s)
 
-Future(s) Design and making alternative presents: Mariana Quintero and Jana Tothill
+[Driven by Distributed Design: Nat Hunter & Gareth Owen Lloyd from Other Today](https://www.youtube.com/watch?v=2pNhwKDWVy8)
 
-Communication Creative & Cultural Practices: Sally Bourdon
+[Future(s) Design and making alternative presents: Mariana Quintero and Jana Tothill](https://www.youtube.com/watch?v=ydjYEqpyL_g&feature=youtu.be)
 
-Collaborative Practices with Open Design: Massimo Menichinelli
+[Communication Creative & Cultural Practices: Sally Bourdon](https://www.youtube.com/watch?v=ECDI77icvgg)
 
-Circular making, the maker movement's role in the circular economy: Enrico Bassi from OpenDot
+[Collaborative Practices with Open Design: Massimo Menichinelli](https://www.youtube.com/watch?v=NCzJSmBUbwU&ab_channel=FabLabBarcelona)
 
-Blockchain tools for creators. Cryptofunding digital commons: Karim Esry from Espacio Open
+[Circular making, the maker movement's role in the circular economy: Enrico Bassi from OpenDot](https://www.youtube.com/watch?v=T1xttV2KImk&t=244s)
 
-Shifting mindsets for sustainable practices: Marion Real
+[Blockchain tools for creators. Cryptofunding digital commons: Karim Esry from Espacio Open](https://www.youtube.com/watch?v=z1lMzdyOmf0)
 
-Crafting the Future, Exploring Bio 3D Printing: Eduardo Chamorro and Petra Garajova
+[Shifting mindsets for sustainable practices: Marion Real](https://www.youtube.com/watch?v=JBgkzZ7OcIU)
 
-Nurturing collaborative practices by (re)mixing materials and maker techniques
+[Crafting the Future, Exploring Bio 3D Printing: Eduardo Chamorro and Petra Garajova](https://m.youtube.com/watch?v=bqmJhO5s9A8)
+
+[Nurturing collaborative practices by (re)mixing materials and maker techniques](https://www.youtube.com/watch?v=2H7dVj4VkHo)
+
 
 
 ### Read
