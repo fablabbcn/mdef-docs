@@ -4,8 +4,9 @@ Structure of 2022-23
 # MDEFest 2023
 
 
+
 ## Syllabus and Learning Objectives
-300-400 Words
+
 
 These sessions will help you prepare MDEFest as a group. MDFest is the occasion to present your research project to the outside world in participative format.
 
@@ -27,46 +28,42 @@ Each week, we will start with a group session with inspiration material and a ne
 
 At the end of the sessions, you should be ready to go to the next step and start communication & logistics planning of the festival.
 
-## Image
-Image (personal projects if related to the course) and correct credit captions
-
 ## Total Duration
-Total hours of duration of the course (class hours + student work hours)
-15 hours of sessions in class, 5 hours of student work
+6 weeks, Total of 15 hours of sessions in class, 5 hours of student work
 
 ## Structure and Phases Class by class schedule of topics and activities.
 
 ### Week 1
 
-Monday 17th April - 12:30pm - 2 pm : What is the MDEF Fest? Explore different event formats, approaches, and audiences based on your ideas for activities for the festival and interventions you have done during the master.
+**Monday 17th April - 12:30pm - 2 pm** : (Audrey & Julia) What is the MDEF Fest? explore different event formats, approaches, and audiences based on your ideas for activities for the festival and interventions you have done during the master.
 
-Thursday 20th April - 3 pm - 4:30 pm : Explore possible themes, sub-themes of the festival in relation to your personal and collaborative activities
+**Thursday 20th April - 3 pm - 4:30 pm** : (Audrey & Julia) Through a group activity, explore possible themes, sub-themes of the festival in relation to your personal and collaborative activities.
 
 ### Week 2
 
-Monday 24th April - 12:30 am - 2 pm : Explore & Map places, communities, & stakeholders where your activities can take place. Contact them, discuss opportunities with them.
+**Tuesday 25th April - 10:00 - 11:30 am** : (Audrey & Julia) Explore & Map places, communities, & stakeholders where your activities can take place. Discuss outreach methods and begin to contact stakeholders or possible collaborators.
 
-Thursday 27th April - 3 pm - 4:30 pm : Student Presentations & Feedback on their event ideas. Make a production plan based on costs, material needs, things to prepare, audience to involve, … Include perceived weakness and possible alternatives.
+**Thursday 27th April - 3 pm - 4:30 pm** : (Audrey & Julia) Student Presentations & Feedback on their event proposals. As a group, discuss challenges, strengths, weaknesses, and adaptations. Begin to make a production plan based on costs, material needs, things to prepare, & audience to involve.
 
 ### Week 3
 
-Wednesday 3rd May - 12:30 am - 2 pm : Define the General theme and find a Festival Title. Write a short description of the festival and establish different subworkgroups based on proposed collective and individual events and/or activities.
+**Wednesday 3rd May - 3:00 - 4:30 pm** : (Audrey & Julia) Through a group activity, define the general theme and find a festival title. Write a short description of the festival and establish different subworkgroups based on proposed collective and individual events and/or activities.
 
 ### Week 4
 
-Monday 8th May - 3 pm - 4:30 pm: In working groups work on the production of the events & formats - individuals and/or collectives
+**Monday 8th May - 3:00 - 4:30 pm**: (Audrey & Julia) In working groups, further define the production plan based on costs, material needs, chosen formats, things to prepare, and audiences to involve.
 
-Friday 12th May - 11 am - 12:30 am: Feedback session - present detailed individual and/or collective events and/or activities with a clear production plan. Focus on current weaknesses and alternatives.
+**Friday 12th May - 11:00 - 12:30 am**: (Audrey & Julia) Feedback session - present detailed individual and/or collective event and/or activities with a clear production plan. Focus on challenges, current weaknesses, main actions/tasks needed, & areas of improvement.
 
 ### Week 5
+**Monday 15th May 12-14**: Communication & Design Brief (Sara & Manu)
 
-Monday 15th May 12-14: Communication & Design Brief (Sara & Manu)
 
 ### Week 6
 
-Tuesday 23rd May - 10:30-12:30 - Communication and design follow up
+**Tuesday 23rd May - 10:30-12:30**: (Sara & Manu) Communication and design Follow-up
 
-Friday 26th May - 11 am - 12:30 am - (With Hannah) Define Calendar, Material & Equipment needs for Production, Feedback session - individuals and/or collectives
+**Friday 26th May - 11 am-12:30 am**: (Audrey, Julia & Jana) Define Calendar, Material & Equipment needs for Production & Feedback sessions with individuals and/or collectives
 
 
 ## Materials Needs
@@ -84,7 +81,7 @@ Assignments, presentations, participation, etc. and their relative % in the fina
 
 60% - Ability to collaborate
 
-### IAAC Grading System:
+### IAAC Grading System
 • 0 - 4.9 Fail (submission of a supplementary work by May)
 • 5.0 -6.9 Pass
 • 7.0 - 8.9 Good
@@ -94,9 +91,32 @@ Assignments, presentations, participation, etc. and their relative % in the fina
 
 **Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.**
 
-## Bibliography and Background Research Material
-Movies, videos, papers, books, etc.
+
+## Audrey Belliot
 
 
-## Requirements for Students
-Softwares to be installed, material, specific knowledge, etc.
+Audrey is a designer and maker. She explores alternative ways to live towards a slower paced lifestyle more respectful of the environment with a critical approach to technology. She worked in the area of social innovation with a service design approach.
+After studying a Master in Design for Emergent Futures at IAAC x Fab Lab Barcelona x Elisava in Barcelona, she co-created the association Slow lab. Based in Akasha Hub, Slow lab is a collective which wants to bring awareness and promote a resilient lifestyle by questioning and redesigning the tools we use in our daily life to become less dependent on high-technology. She is currently collaborating with Fab Lab Barcelona on the European research project Centrinno.
+
+Email Address - audrey.belliot@students.iaac.net
+
+Links - Slow lab IG and website linktr.ee/slowlab
+
+
+Linkedin - linkedin.com/in/audreybelliot/
+
+
+## Julia Steketee
+
+
+Julia is a designer, a maker, and an artist of craft. During her BFA in Furniture Design at Rhode Island School of Design, she developed skills in woodworking, metalworking, and textile and leather techniques. Since, she has worked in furniture design studios in London and Rio de Janeiro and as a fabrication assistant for a sculpture artist in Brooklyn, New York. She is now based in Barcelona where she completed the Master's program Design for Emergent Futures at the Institute of Advanced Architecture of Catalonia and ELISAVA School of Design and Engineering. Currently, she continues her studies through a postgraduate research program in biomaterial research at ELISAVA. In addition, she is a Research Resident at Fab Lab Barcelona where she works on projects that support the circular economy and access to local production in Barcelona.
+
+Email Address -julia.steketee@students.iaac.net
+
+Design Archive - https://www.juliasteketee.com/
+
+
+Linkedin -  https://www.linkedin.com/in/julia-steketee-88074369/
+
+
+Research Project S- https://www.instagram.com/the__bagaceira__project/
