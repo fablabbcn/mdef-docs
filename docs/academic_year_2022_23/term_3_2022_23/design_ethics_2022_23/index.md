@@ -12,7 +12,6 @@ Ariel Guersensvaig
 
 Laura Benítez Valero - she_her_they_them
 
-## Part 1
 
 ## Syllabus
 
@@ -65,50 +64,6 @@ In these three sessions, we will tackle an introduction to the philosophy of tec
 Regular presential class
 
 
-## Part 2
-
-### Critical Transfeminist Design
-
-## Syllabus and Learning Objectives
-
-In these two sessions, we will tackle an introduction to a transfeminist perspective applied to design and experimental practices. How does it affect operating from a transfeminist perspective in the field of design? Is it possible to design differently? What is Design Justice? What are the ethical issues raised by these approaches? Is it possible to relate differently to technologies and through technologies? What happens to presences? And who is accountable for absences? Who do we relegate to a condition of subalternity? How do we deal with epistemic violence?
-
-## Learning Objectives
-
-To understand the importance of the place of enunciation in Design.
-To learn about different transfeminist proposals applied to design and experimental research.
-Understanding the importance of accountability
-To know the basic principles of the so-called Design Justice
-
-**Image**
-
-Credits Mary Maagic
-
-## Total Duration
-6 class hours
-
-## Structure and Phases
-
-**Day 1:**
-
-- Introduction to subalternity
-
-- Epistemic Violence
-
-- Metaphysics of lack
-
-- Introduction to transhackfeminism
-
-**Day 2:**
-
-- Transhackfeminism and Ethics
-
-- Accountability
-
-- Design Justice
-
-- Wrap up
-
 ## Materials Needs
 None
 
@@ -132,7 +87,7 @@ No special deliverables expected.
 • 9.0 - 10 Excellent/Distinction.
 
 
-Bibliography and Background Research Material
+## Bibliography and Background Research Material
 
 Barad, K (2013). What is the measure of nothingness? Infinity, Virtuality, Justice. Nº099. Documenta (13).
 https://deeptimechicago.org/wp-content/uploads/2016/10/barad-k-what-is-the-measure-of-nothingness.pdf
@@ -179,12 +134,3 @@ Email Address: ariel@interacciones
 Twitter @interacciones
 
 Linkedin https://www.linkedin.com/in/arielguers/
-
-
-## Laura Benítez Valero
-
-![](../../../assets/images/faculty_photos/laura_benitez_valero.jpg)
-
-Researcher and university lecturer. Her research connects philosophy, art(s) and technoscience. Lecturer in the Department of Philosophy at the Autonomous University of Barcelona. Lecturer in Design and Engineering Degrees at Elisava. Former coordinator of the theory area and former teacher of Critical and Cultural Studies on the Degree in Arts and Design (Escola Massana). She has been a guest researcher at the Ars Electronica Centre and at the MACBA Study and Documentation Centre. She has also been invited to international institutions such as Interface Culturas Kunstuniersität Linz, Sónar Festival (Bcn/Hong Kong), Royal Academy of Arts London and the University of Puerto Rico. Between 2019 and 2021 she directed Biofriction, a European project (Creative Europe) on bioart and biohacking practices, led by Hangar in collaboration with Bioart Society, Kersnikova and Cultivamos Cultura
-
-Email Address: lbenitezv@elisava.net
