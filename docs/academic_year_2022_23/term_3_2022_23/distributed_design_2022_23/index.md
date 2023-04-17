@@ -91,25 +91,25 @@ No special deliverables expected.
 ## Bibliography and Background Research Material
 
 ### Watch
-Distributed Design Documentary
+[Distributed Design Documentary](https://www.youtube.com/watch?v=lUJJtdFGyrc&t=221s)
 
-Driven by Distributed Design: Nat Hunter & Gareth Owen Lloyd from Other Today
+[Driven by Distributed Design: Nat Hunter & Gareth Owen Lloyd from Other Today](https://www.youtube.com/watch?v=2pNhwKDWVy8)
 
-Future(s) Design and making alternative presents: Mariana Quintero and Jana Tothill
+[Future(s) Design and making alternative presents: Mariana Quintero and Jana Tothill](https://www.youtube.com/watch?v=ydjYEqpyL_g&feature=youtu.be)
 
-Communication Creative & Cultural Practices: Sally Bourdon
+[Communication Creative & Cultural Practices: Sally Bourdon](https://www.youtube.com/watch?v=ECDI77icvgg)
 
-Collaborative Practices with Open Design: Massimo Menichinelli
+[Collaborative Practices with Open Design: Massimo Menichinelli](https://www.youtube.com/watch?v=ECDI77icvgg)
 
-Circular making, the maker movement's role in the circular economy: Enrico Bassi from OpenDot
+[Circular making, the maker movement's role in the circular economy: Enrico Bassi from OpenDot](https://www.youtube.com/watch?v=NCzJSmBUbwU&ab_channel=FabLabBarcelona)
 
-Blockchain tools for creators. Cryptofunding digital commons: Karim Esry from Espacio Open
+[Blockchain tools for creators. Cryptofunding digital commons: Karim Esry from Espacio Open](https://www.youtube.com/watch?v=T1xttV2KImk&t=244s)
 
-Shifting mindsets for sustainable practices: Marion Real
+[Shifting mindsets for sustainable practices: Marion Real](https://www.youtube.com/watch?v=JBgkzZ7OcIU)
 
-Crafting the Future, Exploring Bio 3D Printing: Eduardo Chamorro and Petra Garajova
+[Crafting the Future, Exploring Bio 3D Printing: Eduardo Chamorro and Petra Garajova](https://m.youtube.com/watch?v=bqmJhO5s9A8)
 
-Nurturing collaborative practices by (re)mixing materials and maker techniques
+[Nurturing collaborative practices by (re)mixing materials and maker techniques](https://www.youtube.com/watch?v=2H7dVj4VkHo)
 
 
 ### Read
