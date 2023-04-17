@@ -1,7 +1,7 @@
 Structure of 2022-23
 ========
 
-# Distributed Design
+# Design Studio 3
 ### From Alternative Presents to Emerging Futures
 
 

@@ -1,122 +1,112 @@
 Structure of 2022-23
 ========
 
-# MDEFest 2023
-
-
+# Critical Transfeminist Design
 
 ## Syllabus and Learning Objectives
 
+In these two sessions, we will tackle an introduction to a transfeminist perspective applied to design and experimental practices. How does it affect operating from a transfeminist perspective in the field of design? Is it possible to design differently? What is Design Justice? What are the ethical issues raised by these approaches? Is it possible to relate differently to technologies and through technologies? What happens to presences? And who is accountable for absences? Who do we relegate to a condition of subalternity? How do we deal with epistemic violence?
 
-These sessions will help you prepare MDEFest as a group. MDFest is the occasion to present your research project to the outside world in participative format.
+## Learning Objectives
 
-- Explore different event formats, approaches, and audiences
+•	To understand the importance of the place of enunciation in Design.
 
-- Define the general theme, sub-themes of the festival and a Festival Title
+•	 To learn about different transfeminist proposals applied to design and experimental research.
 
-- Explore & Map places, communities, & stakeholders
+•	 Understanding the importance of accountability.
 
-- Work together to identify the working groups & events
+•	 To know the basic principles of the so-called Design Justice.
 
-- Find connections between the different working groups and their events
+**Image**
 
-- Define the formats, audiences & collaborators of each event
-
-- Discuss the overall agenda and approaches to communication and outreach
-
-Each week, we will start with a group session with inspiration material and a new group exercise. You will be able to work on it during the week and we will meet a second time to put this together and help groups during one to one sessions.
-
-At the end of the sessions, you should be ready to go to the next step and start communication & logistics planning of the festival.
+Credits Mary Maagic
 
 ## Total Duration
-6 weeks, Total of 15 hours of sessions in class, 5 hours of student work
+6 class hours
 
-## Structure and Phases Class by class schedule of topics and activities.
+## Structure and Phases
 
-### Week 1
+**Day 1:**
 
-**Monday 17th April - 12:30pm - 2 pm** : (Audrey & Julia) What is the MDEF Fest? explore different event formats, approaches, and audiences based on your ideas for activities for the festival and interventions you have done during the master.
+- Introduction to subalternity
 
-**Thursday 20th April - 3 pm - 4:30 pm** : (Audrey & Julia) Through a group activity, explore possible themes, sub-themes of the festival in relation to your personal and collaborative activities.
+- Epistemic Violence
 
-### Week 2
+- Metaphysics of lack
 
-**Tuesday 25th April - 10:00 - 11:30 am** : (Audrey & Julia) Explore & Map places, communities, & stakeholders where your activities can take place. Discuss outreach methods and begin to contact stakeholders or possible collaborators.
+- Introduction to transhackfeminism
 
-**Thursday 27th April - 3 pm - 4:30 pm** : (Audrey & Julia) Student Presentations & Feedback on their event proposals. As a group, discuss challenges, strengths, weaknesses, and adaptations. Begin to make a production plan based on costs, material needs, things to prepare, & audience to involve.
+**Day 2:**
 
-### Week 3
+- Transhackfeminism and Ethics
 
-**Wednesday 3rd May - 3:00 - 4:30 pm** : (Audrey & Julia) Through a group activity, define the general theme and find a festival title. Write a short description of the festival and establish different subworkgroups based on proposed collective and individual events and/or activities.
+- Accountability
 
-### Week 4
+- Design Justice
 
-**Monday 8th May - 3:00 - 4:30 pm**: (Audrey & Julia) In working groups, further define the production plan based on costs, material needs, chosen formats, things to prepare, and audiences to involve.
-
-**Friday 12th May - 11:00 - 12:30 am**: (Audrey & Julia) Feedback session - present detailed individual and/or collective event and/or activities with a clear production plan. Focus on challenges, current weaknesses, main actions/tasks needed, & areas of improvement.
-
-### Week 5
-**Monday 15th May 12-14**: Communication & Design Brief (Sara & Manu)
-
-
-### Week 6
-
-**Tuesday 23rd May - 10:30-12:30**: (Sara & Manu) Communication and design Follow-up
-
-**Friday 26th May - 11 am-12:30 am**: (Audrey, Julia & Jana) Define Calendar, Material & Equipment needs for Production & Feedback sessions with individuals and/or collectives
-
+- Wrap up
 
 ## Materials Needs
-Comprehensive list of materials and consumables.
+None
 
 ## Deliverables / Outputs
-Text, device, image, poster, etc.
-
-Coherent structure of collective event
-
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+No special deliverables expected.
 
 ## Grading Method
-Assignments, presentations, participation, etc. and their relative % in the final grade.
 
-60% - Ability to collaborate
+**Participation**: 50%
 
-### IAAC Grading System
+**Self-assessment**: 50%
+
+## IAAC Grading System:
+
 • 0 - 4.9 Fail (submission of a supplementary work by May)
+
 • 5.0 -6.9 Pass
+
 • 7.0 - 8.9 Good
+
 • 9.0 - 10 Excellent/Distinction.
 
-**Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.**
 
-**Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.**
+## Bibliography and Background Research Material
 
+Barad, K (2013). What is the measure of nothingness? Infinity, Virtuality, Justice. Nº099. Documenta (13).
+https://deeptimechicago.org/wp-content/uploads/2016/10/barad-k-what-is-the-measure-of-nothingness.pdf
 
-## Audrey Belliot
+Design Justice Network  https://designjustice.org/read-the-principles
 
+Maggic, Mary.
 
-Audrey is a designer and maker. She explores alternative ways to live towards a slower paced lifestyle more respectful of the environment with a critical approach to technology. She worked in the area of social innovation with a service design approach.
-After studying a Master in Design for Emergent Futures at IAAC x Fab Lab Barcelona x Elisava in Barcelona, she co-created the association Slow lab. Based in Akasha Hub, Slow lab is a collective which wants to bring awareness and promote a resilient lifestyle by questioning and redesigning the tools we use in our daily life to become less dependent on high-technology. She is currently collaborating with Fab Lab Barcelona on the European research project Centrinno.
+Estrozine 1 https://files.cargocollective.com/c781072/estrozine-1.1.pdf
 
-Email Address - audrey.belliot@students.iaac.net
+Becoming with Funghi https://files.cargocollective.com/c781072/BecomingFungi2.pdf
 
-Links - Slow lab IG and website linktr.ee/slowlab
+Preciado, P (2011) Manifiesto contrasexual. Barcelona: Editorial Anagrama
 
+Puig de la Bellacasa, M (2017) Matters of Care: Speculative Ethics in More Than Human Worlds. Minneapolis and London: University of Minnesota Press.
 
-Linkedin - linkedin.com/in/audreybelliot/
+Spivak, G. (1988) Can the Subaltern Speak? Die Philosophin 14 (27):42-58.
+https://archive.org/details/CanTheSubalternSpeak
 
+Baym, Nancy. (2015). Personal Connections in the Digital Age: Digital Media and Society. London: Polity.
 
-## Julia Steketee
+Gertz, Nolen. (2018) Nihilism and Technology. London: Rowman and Littlefield.
 
+Guersenzvaig, Ariel. (2021). The Goods of Design. London: Rowman and Littlefield.
 
-Julia is a designer, a maker, and an artist of craft. During her BFA in Furniture Design at Rhode Island School of Design, she developed skills in woodworking, metalworking, and textile and leather techniques. Since, she has worked in furniture design studios in London and Rio de Janeiro and as a fabrication assistant for a sculpture artist in Brooklyn, New York. She is now based in Barcelona where she completed the Master's program Design for Emergent Futures at the Institute of Advanced Architecture of Catalonia and ELISAVA School of Design and Engineering. Currently, she continues her studies through a postgraduate research program in biomaterial research at ELISAVA. In addition, she is a Research Resident at Fab Lab Barcelona where she works on projects that support the circular economy and access to local production in Barcelona.
+Parvin, Nassim. (2023). Just Design: Pasts, Presents, and Future Trajectories of Technology. Just Tech. Social Science Research Council. February 1, 2023. DOI: https://doi.org/10.35650/JT.3049.d.2023.
 
-Email Address -julia.steketee@students.iaac.net
+Rosenberger, R. (2017). Callous Objects: Designs against the Homeless (3rd ed.). University Of Minnesota Press. Available online: https://manifold.umn.edu/read/callous-objects/
 
-Design Archive - https://www.juliasteketee.com/
+Vallor, Shannon. Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. New York: Oxford University Press, 2016.
 
+Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Morality of Things. Chicago: The University of Chicago Press, 2011.
 
-Linkedin -  https://www.linkedin.com/in/julia-steketee-88074369/
+## Laura Benítez Valero
 
+![](../../../assets/images/faculty_photos/laura_benitez_valero.jpg)
 
-Research Project S- https://www.instagram.com/the__bagaceira__project/
+Researcher and university lecturer. Her research connects philosophy, art(s) and technoscience. Lecturer in the Department of Philosophy at the Autonomous University of Barcelona. Lecturer in Design and Engineering Degrees at Elisava. Former coordinator of the theory area and former teacher of Critical and Cultural Studies on the Degree in Arts and Design (Escola Massana). She has been a guest researcher at the Ars Electronica Centre and at the MACBA Study and Documentation Centre. She has also been invited to international institutions such as Interface Culturas Kunstuniersität Linz, Sónar Festival (Bcn/Hong Kong), Royal Academy of Arts London and the University of Puerto Rico. Between 2019 and 2021 she directed Biofriction, a European project (Creative Europe) on bioart and biohacking practices, led by Hangar in collaboration with Bioart Society, Kersnikova and Cultivamos Cultura
+
+Email Address: lbenitezv@elisava.net

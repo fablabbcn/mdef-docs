@@ -16,8 +16,8 @@ Laura Benítez Valero - she_her_they_them
 ## Syllabus
 
 In these three sessions, we will tackle an introduction to the philosophy of technology and the central theme of our relationship with technology will be explored: are we determined by technology or do we determine it? And if that is the case, how? And to what extent? Or is this perhaps a false dichotomy and should the issue be explored in a radically different way? We will deal with current topics in ethics related to technology and design.
-
-​​**Objectives:**
+​​
+## Learning Objectives
 
 •	To understand the nature of technology and its relationship with humans.
 

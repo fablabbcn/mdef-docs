@@ -1,50 +1,72 @@
 Structure of 2022-23
 ========
 
-# Critical Transfeminist Design
+#  Distributed Design
+### Reflecting on Distributed Design
 
 ## Syllabus and Learning Objectives
 
-In these two sessions, we will tackle an introduction to a transfeminist perspective applied to design and experimental practices. How does it affect operating from a transfeminist perspective in the field of design? Is it possible to design differently? What is Design Justice? What are the ethical issues raised by these approaches? Is it possible to relate differently to technologies and through technologies? What happens to presences? And who is accountable for absences? Who do we relegate to a condition of subalternity? How do we deal with epistemic violence?
+What is Distributed Design? Aside from making, what do we aim to distribute? What are the values behind the design approach and how can they be used for designers and creatives to reflect on their design projects? How can we also use the values to measure impact in the creative and design industries? How can the Distributed Design Platform help advance the field of Distributed Design and provide support for emerging creative talents in the creative and design industries?
 
-## Learning Objectives
+These are the questions that we will address during the three-class seminar: Reflecting on Distributed Design.
 
-To understand the importance of the place of enunciation in Design.
-To learn about different transfeminist proposals applied to design and experimental research.
-Understanding the importance of accountability
-To know the basic principles of the so-called Design Justice
+We will talk about the field of distributed design and how our vision of it has evolved to distribute not just making but to distribute knowledge, value and power. We will talk about Distributed Design and the Distributed Design Platform (DDP) as a space to unite approaches and methodologies including (but definitely not limited to) Doughnut Economics, Decolonizing Design, Ancestral Wisdom and Transfeminism.
 
-**Image**
+ We’ll do an initial exploration of the Distributed Design Platform (DDP) and the values and opportunities it presents. We’ll also explore the importance of measuring impact in the design and creative fields and the tool we’ve developed (the DDP Reflection Tree) as part of DDP to help assess the environmental and social impact. The seminar will also provide students with the opportunity to apply the DDP Reflection Tree to their final projects and foster moments for group reflections. Lastly, we’ll explore the DDP values together and consider how they might be defined.    
 
-Credits Mary Maagic
+
+
 
 ## Total Duration
-6 class hours
+9 class hours
 
 ## Structure and Phases
 
-**Day 1:**
+### Class one: Theoretical (Wednesday, 12th April 2023)
 
-- Introduction to subalternity
+In this first class, students will learn about the evolution of the DDP and essential topics related to the field of Distributed Design. We will also present the DDP values and talk about the importance of measuring impact. Lastly, we will cover useful information from the DDP, like members, resources and opportunity tracks that students might pursue.
 
-- Epistemic Violence
 
-- Metaphysics of lack
+### Class two: Practical (Thursday, 13th April 2023)
 
-- Introduction to transhackfeminism
+The DDP Reflection Tree will be introduced as a tool to help designers understand their project’s relationship to the values of the DDP, while also providing invaluable insight for the DDP team into the impact of DD in the creative and design industries, as well as helping the DDP provide essential support to creative talents. Students will be split into groups of four to work on applying the DDP’s Reflection Tree to their projects. Lastly, students will identify challenge areas they would like to further develop and receive feedback from their peers.
 
-**Day 2:**
 
-- Transhackfeminism and Ethics
+### Class three: Practical & Theoretical (Friday, 14th April 2023)
 
-- Accountability
+Following working with the DDP values in the Reflection Tree, students will work on contributing to the values.
 
-- Design Justice
+**Step 1 (1 hour)**: Students will break out into groups (4) around each of the DDP values and brainstorm what they envision the value looking like, based on the inputs from the seminar, the master’s course and their own experience. They will have to create a presentation (using whatever format they see fit i.e powerpoint, theatrical piece, poster) to share with the rest of the class.
 
-- Wrap up
+**Step 2 (40 minutes)**: Students will present the work on their respective value (10 minute per presentation)
+
+**Step 3 (1 hour 20 minutes)**: The class and instructors will collectively provide feedback to each of the value presentations to help form what the values could look like.
+
 
 ## Materials Needs
-None
+
+**Class 1:**
+
+6 A0 prints of the mushroom model activity from WCCE (here is an adapted and printable version for the seminar)
+
+Sticky notes
+
+**Class 2:**
+
+4 different colors of sticky notes
+
+6 A0 prints of the DDP Reflection Tree
+
+**Class 3:**
+
+Big paper
+
+Sticky notes
+
+Markers
+
+Materials for collage (i.e. old magazines, brochures, etc.) Students should bring materials to collage with (if they feel they would want to present in that way)
+
 
 ## Deliverables / Outputs
 No special deliverables expected.
@@ -68,42 +90,69 @@ No special deliverables expected.
 
 ## Bibliography and Background Research Material
 
-Barad, K (2013). What is the measure of nothingness? Infinity, Virtuality, Justice. Nº099. Documenta (13).
-https://deeptimechicago.org/wp-content/uploads/2016/10/barad-k-what-is-the-measure-of-nothingness.pdf
+### Watch
+Distributed Design Documentary
 
-Design Justice Network  https://designjustice.org/read-the-principles
+Driven by Distributed Design: Nat Hunter & Gareth Owen Lloyd from Other Today
 
-Maggic, Mary.
+Future(s) Design and making alternative presents: Mariana Quintero and Jana Tothill
 
-Estrozine 1 https://files.cargocollective.com/c781072/estrozine-1.1.pdf
+Communication Creative & Cultural Practices: Sally Bourdon
 
-Becoming with Funghi https://files.cargocollective.com/c781072/BecomingFungi2.pdf
+Collaborative Practices with Open Design: Massimo Menichinelli
 
-Preciado, P (2011) Manifiesto contrasexual. Barcelona: Editorial Anagrama
+Circular making, the maker movement's role in the circular economy: Enrico Bassi from OpenDot
 
-Puig de la Bellacasa, M (2017) Matters of Care: Speculative Ethics in More Than Human Worlds. Minneapolis and London: University of Minnesota Press.
+Blockchain tools for creators. Cryptofunding digital commons: Karim Esry from Espacio Open
 
-Spivak, G. (1988) Can the Subaltern Speak? Die Philosophin 14 (27):42-58.
-https://archive.org/details/CanTheSubalternSpeak
+Shifting mindsets for sustainable practices: Marion Real
 
-Baym, Nancy. (2015). Personal Connections in the Digital Age: Digital Media and Society. London: Polity.
+Crafting the Future, Exploring Bio 3D Printing: Eduardo Chamorro and Petra Garajova
 
-Gertz, Nolen. (2018) Nihilism and Technology. London: Rowman and Littlefield.
+Nurturing collaborative practices by (re)mixing materials and maker techniques
 
-Guersenzvaig, Ariel. (2021). The Goods of Design. London: Rowman and Littlefield.
 
-Parvin, Nassim. (2023). Just Design: Pasts, Presents, and Future Trajectories of Technology. Just Tech. Social Science Research Council. February 1, 2023. DOI: https://doi.org/10.35650/JT.3049.d.2023.
+### Read
+Fuel for Design http://www.fuel4design.org/wp-content/uploads/2021/04/00-IO4_FUTURES-DESIGN-TOOLKIT_APR21.pdf
 
-Rosenberger, R. (2017). Callous Objects: Designs against the Homeless (3rd ed.). University Of Minnesota Press. Available online: https://manifold.umn.edu/read/callous-objects/
+Design after capitsalism https://designaftercapitalism.org/
 
-Vallor, Shannon. Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting. New York: Oxford University Press, 2016.
+Design for the pluriverse: https://designaftercapitalism.org/designs-for-the-pluriverse
 
-Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Morality of Things. Chicago: The University of Chicago Press, 2011.
+Cities of Making https://citiesofmaking.com/wp-content/uploads/2020/03/COM-BOOK_20200226.pdf
 
-## Laura Benítez Valero
+toolkit Homes of Commons: https://www.spacesandcities-toolkit.com/
 
-![](../../../assets/images/faculty_photos/laura_benitez_valero.jpg)
+### Take action
+Open Source Machines: https://www.mekanika.io/ (open)
 
-Researcher and university lecturer. Her research connects philosophy, art(s) and technoscience. Lecturer in the Department of Philosophy at the Autonomous University of Barcelona. Lecturer in Design and Engineering Degrees at Elisava. Former coordinator of the theory area and former teacher of Critical and Cultural Studies on the Degree in Arts and Design (Escola Massana). She has been a guest researcher at the Ars Electronica Centre and at the MACBA Study and Documentation Centre. She has also been invited to international institutions such as Interface Culturas Kunstuniersität Linz, Sónar Festival (Bcn/Hong Kong), Royal Academy of Arts London and the University of Puerto Rico. Between 2019 and 2021 she directed Biofriction, a European project (Creative Europe) on bioart and biohacking practices, led by Hangar in collaboration with Bioart Society, Kersnikova and Cultivamos Cultura
+Archiyou: https://archiyou.com/ (open and collabroative)
 
-Email Address: lbenitezv@elisava.net
+Critical Coding Cookbook: https://criticalcode.recipes/ (regenerative)
+
+Creative Communities: https://www.neol.co/ (collaborative)
+
+## Requirements for Students
+
+Bring your projects, ready to discuss :)
+
+
+
+##Olga Trevisan
+
+
+Olga Trevisan is an Italian visual artist who graduated from I.U.A.V at the University in Venice and holds a Master’s Degree in Local Development from the University of Padua. Over the past ten years, she has been actively involved in European and international cross-disciplinary projects as an art and education facilitator and consultant, focusing on participatory practices and bottom-up strategies. One of her main focuses is to use arts and crafts to promote collaborative methodologies in local communities connecting them to global challenges. In 2022 she supported Centrinno EU project team and is now involved in Distributed Design and Dafne+ as EU Creative action researcher at IAAC | Fab Lab Barcelona.
+
+olga.trevisan@iaac.net
+
+https://www.linkedin.com/in/olga-trevisan-21781160/
+
+
+##Sally Bourdon
+
+Sally is a multi-disciplinary professional whose background includes biology; ecological economics; teaching; and marketing, communications & events both in the USA and Spain. She uses her diverse background and a transecofeminist perspective to support the creation of a just present based on citizen-centered societies and economies that produce locally and connect globally, particularly around sustainable food systems and social & environmental justice. She is passionate about making information accessible to people of all backgrounds and equipping citizens with the tools to participate in creating the world around them. Currently, Sally is an action researcher at Fab Lab Barcelona and Global Activities Lead for the Distributed Design Platform and was project manager for the first phase of Food Tech 3.0, which promoted a new generation of food technology. Her past work includes researching food deserts; creating multi-actor local food dialogues and shifting university food sources; supporting school garden activities with Slow Food USA’s National School Garden Program; and assessing the holistic sustainability of rooftop garden spaces in Barcelona, Spain.
+
+
+sally@fablabbcn.org
+
+https://www.linkedin.com/in/sallybourdon/
