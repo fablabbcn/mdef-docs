@@ -77,9 +77,11 @@ Coherent structure of collective event
 Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
 
 ## Grading Method
-Assignments, presentations, participation, etc. and their relative % in the final grade.
+20% - Completion of Assignments & Class preparation
 
-60% - Ability to collaborate
+40% - Class participation & ability to collaborate / engage with group work in the classroom
+
+40% - Ability to engage and collaborate with others outside of MDEF
 
 ### IAAC Grading System
 • 0 - 4.9 Fail (submission of a supplementary work by May)
