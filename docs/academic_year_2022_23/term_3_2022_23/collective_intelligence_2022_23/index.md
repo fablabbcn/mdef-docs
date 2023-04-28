@@ -1,15 +1,13 @@
 Structure of 2022-23
 ========
 
-# Collective Intelligence
+#  Decentralized Authonomous Organization
 
 ## Track
 Refelction
 
 ## Faculty
 Mar Canet, Guillem Camprodon
-
-Laura Benítez Valero - she_her_they_them
 
 
 ## Syllabus
