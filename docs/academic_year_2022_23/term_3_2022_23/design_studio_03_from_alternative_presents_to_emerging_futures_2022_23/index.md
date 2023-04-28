@@ -50,6 +50,9 @@ The third term Design Studio aims to refine the work developed by the students d
 
 **Task**: Update your bio section in your website with an adaptation or your alternative present and your role. Continue developing your interventions.
 
+*Tip: if  you can gain access to GPT3/4, try conversing with the chat to come to an understanding of your potential alternative bio – see what arises.*
+
+
 
 ### 02/05 Design Studio Reviews
 
@@ -64,19 +67,23 @@ The third term Design Studio aims to refine the work developed by the students d
 
 **Task**: Create a scalability roadmap for decentralization using the strategies presented in class.
 
+*To Pablo: estaría bien que se prepare el activity: identifying milestones, turning points, roles and strategies undertaken towards your alternative present.*
+
+
+
 
 ###	15/05 Design Studio Reviews
 
 
-### 22/05 MDEFEST Introduction
+### 22/05 Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability. Guest Alumni: Clement Rames & Lea Karrasch
 
-**Goals**: MDEFEST aims to celebrate the end of the Masters’ journey by offering a series of sessions hosted by the students on the topics and projects they worked on all year long.
+**Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts.
 
-**Activity**: Students will design a session for the fest which its main goal will be to involve the community that they have worked with & that they will like to work with in the future.
+**Activity**: To reflect on the structural, narrative, documentation and outreach dimensions of your interventions
 
-**Deliverable**: Planning of your session.
+**Deliverable**: Visualize the socio-technical system of your project (updated Design Space). Show possible paths of growth with new or existing actors.
 
-**Task**: Pilot and run rehearsals of the sessions. Production, dissemination needs to be arranged at the same time
+**Task**:  Create a scalability roadmap for decentralization using the strategies presented in class.
 
 
 ### 12/06 - 25/06 MDEFEST (DATES TBC)
