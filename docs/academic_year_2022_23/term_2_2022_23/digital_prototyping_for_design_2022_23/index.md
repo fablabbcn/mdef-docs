@@ -60,13 +60,14 @@ A core aim is to empower students with hands-on prototyping in the Fab Lab envir
 
 ### 3 Block of Master classes
 
-* 26/04/23		- TBD - Advance Design
-* 27/04/23		- Interfaces
-* 03/05/23		- Wildcard week
-* 04/05/23		- TBD - Coding
+* 26/04/23		- Wildcard - Robots
+* 27/04/23		- Advance Design tools (Blender)
+* 03/05/23		- Live coding as a human interface
+* 04/05/23		- Blender as Interface
 * 21/03/23		- **Final Challenge** (Intellectual property)
 
 ![](images/digital_prototyping_for_design_2.jpg)
+
 
 ## Methodology
 
