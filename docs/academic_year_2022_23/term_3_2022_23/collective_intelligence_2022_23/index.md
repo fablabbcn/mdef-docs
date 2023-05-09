@@ -1,7 +1,7 @@
 Structure of 2022-23
 ========
 
-#  Decentralized Authonomous Organization
+#  Collective Intelligence
 
 ## Track
 Refelction
