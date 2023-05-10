@@ -13,7 +13,7 @@ Mar Canet, Guillem Camprodon
 ## Syllabus
 
 This course will examine the ways in which emerging technologies can empower individuals and promote a more coherent society. Through the lens of blockchain, cryptography, and decentralized autonomous organizations (DAOs), students will explore how these technologies can promote collective decision-making and reduce power imbalances on today's digital platforms. By examining the history and development of Ethereum and Bitcoin, as well as the emergence of NFTs, students will gain a deeper understanding of the social and ethical implications of emerging technologies.
-​​
+
 ## Learning Objectives
 
 - Understand the potential impact of blockchain and cryptocurrency on society, including the implications for governance, finance, and social systems.
