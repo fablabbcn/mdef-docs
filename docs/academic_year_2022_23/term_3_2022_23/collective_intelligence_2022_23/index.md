@@ -77,8 +77,7 @@ The projects submitted will be graded base on:
 - Creative use of technology: 30%
 - Friday Presentation: 10% 
 
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission. T
 
 ## Bibliography and Background Research Material
 
