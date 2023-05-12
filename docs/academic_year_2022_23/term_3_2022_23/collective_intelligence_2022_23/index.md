@@ -26,9 +26,9 @@ This course will examine the ways in which emerging technologies can empower ind
 
 
 image.png
-![](images/01.jpg)
+![](images/01.png)
 
-![](images/02.jpg)
+![](images/02.png)
 
 
 ## Total Duration
