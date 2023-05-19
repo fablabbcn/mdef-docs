@@ -9,10 +9,11 @@ Refelction
 ## Faculty
 Mar Canet, Guillem Camprodon
 
+![](images/collective_intelligence_02.jpg)
 
 ## Syllabus
 
-This course will examine the ways in which emerging technologies can empower individuals and promote a more coherent society. Through the lens of blockchain, cryptography, and decentralized autonomous organizations (DAOs), students will explore how these technologies can promote collective decision-making and reduce power imbalances on today's digital platforms. By examining the history and development of Ethereum and Bitcoin, as well as the emergence of NFTs, students will gain a deeper understanding of the social and ethical implications of emerging technologies.
+This course will examine the ways in which emerging technologies can empower individuals and promote a more coherent society. Through the lens of blockchain, cryptography, and decentralized autonomous organizations (DAOs), students will explore how these technologies can promote collective decision-making and reduce power imbalances on today's digital platforms. By examining the history and development of Bitcoin, Ethereum and Tezos, as well as the emergence of NFTs, students will gain a deeper understanding of the social and ethical implications of emerging technologies.
 ​​
 ## Learning Objectives
 
@@ -31,11 +32,9 @@ This course will examine the ways in which emerging technologies can empower ind
 • Collaborate with peers to develop and present proposals for decentralized systems that address real-world challenges.
 
 
-![](images/collective_intelligence_01.jpg)
+![](images/collective_intelligence_01.png)
 
-![](images/collective_intelligence_02.jpg)
-
-![](images/collective_intelligence_03.jpg)
+![](images/collective_intelligence_03.png)
 
 
 ## Total Duration
@@ -66,9 +65,10 @@ All materials needed for the course will be provided by the faculty. The student
 
 ## Deliverables / Outputs
 
+Student will develop a project during the workshop that will be presented on Friday and can improve and send a final version 1 week after the workshop,19th May.  The project can range from a NFT collection, to a white paper or presentation of an idea for a project using web3 (like a DAO or new cryptocurrency or any other idea that connects to the topics cover in the course).  
+
 Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
 
-**TBD**
 
 ## Grading Method
 
@@ -88,8 +88,50 @@ Assignments, presentations, participation, etc. and their relative % in the fina
 
 Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
 
-**TBD**
+## Bibliography and Background Research Material
 
+### Books
+
+Artists Re:Thinking The Blockchain. ed. Ruth Catlow, Marc Garrett, Sam Skinner and Nathan Jones published by Torque and Furtherfield (2017)
+https://torquetorque.net/wp-content/uploads/ArtistsReThinkingTheBlockchain.pdf
+
+### Papers
+
+NFT Shop and Making Sense of the NFT Art Market. Is NFT a blessing or a curse to digital art? Varvara Guljajeva and Mar Canet Sola
+https://drive.google.com/file/d/1l1M404OWKQwI6pbADM3MyRHBnEvuYt_Y/view?usp=share_link
+
+Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. Satoshi Nakamoto
+https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf
+
+Botto: A Decentralized Autonomous Artist 2022
+https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper13.pdf
+
+### Articles
+
+Are Your NFTs Safe? How to Protect Digital Assets From Disaster
+https://decrypt.co/138676/are-your-nfts-safe-how-to-protect-digital-assets-from-disaster?amp=1
+
+LACMA Has Acquired a Who’s Who of Blockchain Art by Important Generative Artists
+https://www.artnews.com/art-news/news/lacma-acquires-generative-art-nfts-art-blocks-1234657137/
+LACMA Acquires a Spate of Generative Art NFTs – ARTnews.com
+The Centre Pompidou in the age of NFTs
+https://www.centrepompidou.fr/en/magazine/article/the-centre-pompidou-in-the-age-of-nfts
+
+Ahead of Its Reopening, Buffalo AKG Art Museum Rolls Out Its First Online Exhibition Dedicated to NFT Art
+https://news.artnet.com/market/buffalo-akg-art-museum-feral-file-peer-to-peer-nft-blockchain-art-exhibition-2216427
+
+A guide to ecofriendly CryptoArt (NFTs)
+https://github.com/memo/eco-nft
+
+Interviews
+‘I Have Sold More Than $30 Million in NFTs’: Iconoclastic Digital Artist Refik Anadol in Conversation With Collector Adam Lindemann
+https://news.artnet.com/art-world/refik-anadol-adam-lindemann-conversation-2288481
+
+Requirements for Students
+Softwares to be installed, material, specific knowledge, etc.
+
+It is required to have a laptop.
+We will use Temple wallet software for Tezos: https://templewallet.com/
 
 
 ##Mar Canet
@@ -107,11 +149,16 @@ https://www.linkedin.com/in/mar-canet-sola-6b4aa26/
 
 ##Guillem Camprodon
 
+
 Guillem Camprodon is a designer and technologist working on projects bridging emergent technologies and grassroots communities. He is the director of Fab Lab Barcelona, the first Fab Lab in the European Union and a benchmark in the network of over 1800 Fab Labs. Over the last ten years, he helped scale Fab Lab Barcelona from a digital fabrication facility into an established research and innovation laboratory. He led Smart Citizen, a platform that opposes the traditional top-down Smart City model, empowering communities with tools to understand their environment. Guillem worked as a researcher on many European-funded projects, including Making Sense, iSCAPE, GROW Observatory, Organicity, DECODE, ROMI, or Reflow. He is also a lecturer in multiple IAAC programs, primarily at the Master on Design For Emergent Futures (MDEF).
 
 Email Address - guillem@iaac.net
 
-
 Links
+
+https://www.linkedin.com/in/guillemcamprodon/
+
+
+
 
 https://www.linkedin.com/in/guillemcamprodon/
