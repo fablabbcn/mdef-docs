@@ -1,5 +1,6 @@
 site/
 TO-DO.md
+TODO
 *.DS_Store
 aux/
 __pycache__/
