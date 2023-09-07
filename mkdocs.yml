@@ -1,185 +1,229 @@
-site_name: MDEF Docs
+site_name: MDEF
 site_description: Master on Design For Emergent Futures Documentation
 site_author: IAAC, ELISAVA, Fab Lab Barcelona
 site_url: https://emergentfutures.fablabbcn.org
-repo_name: mdef-docs
-repo_url: https://github.com/fablabbcn/mdef-docs
+# repo_name: mdef-docs
+# repo_url: https://github.com/fablabbcn/mdef-docs
 
 nav:
-  - Main: index.md
-  - Academic Year 2022-23:
-    - Main: academic_year_2022_23/index.md
-    - About: about/index.md
-    - Students Websites: academic_year_2022_23/students_websites_2022_23/index.md
-    - Term 1:
-      - academic_year_2022_23/term_1_2022_23/index.md
-      - Design Studio Term 1: academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
-      - Bootcamp: academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
-      - Atlas of Weak Signals: academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
-      - Biology & Agri 0: academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
-      - Living With Your Own Ideas: academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
-      - Tech Beyond The Myth: academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
-      - Community Engagement: academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
-      - Extended Intelligences: academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
-    - Term 2:
-      - academic_year_2022_23/term_2_2022_23/index.md
-      - Design Studio Term 2: academic_year_2022_23/term_2_2022_23/design_studio_term2_2022_23/index.md
-      - Future Talks: academic_year_2022_23/term_2_2022_23/future_talks_2022_23/index.md
-      - Designing for the Next Billion Seconds: academic_year_2022_23/term_2_2022_23/designing_for_the_next_billion_seconds_2022_23/index.md
-      - Remixing Materials: academic_year_2022_23/term_2_2022_23/remixing_materials_2022_23/index.md
-      - Digital Prototyping for Design: academic_year_2022_23/term_2_2022_23/digital_prototyping_for_design_2022_23/index.md
-      - Communicating Ideas: academic_year_2022_23/term_2_2022_23/communicating_ideas_2022_23/index.md
-      - Making Sense and Meaning: academic_year_2022_23/term_2_2022_23/making_sense_&_meaning_2022_23/index.md
-      - Measuring The World: academic_year_2022_23/term_3_2022_23/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
-    - El Hierro Research Trip:
-      - academic_year_2022_23/research_trip_2022_23/index.md
-    - Term 3:
-      - academic_year_2022_23/term_3_2022_23/index.md
-      - Design Studio Term 3: academic_year_2022_23/term_3_2022_23/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
-      - Distributed Design: academic_year_2022_23/term_3_2022_23/distributed_design_2022_23/index.md
-      - Design Ethics : academic_year_2022_23/term_3_2022_23/design_ethics_2022_23/index.md
-      - Critical Transfeminist Design : academic_year_2022_23/term_3_2022_23/critical_transfeminist_design_2022_23/index.md
-      - Collective Intelligence: academic_year_2022_23/term_3_2022_23/collective_intelligence_2022_23/index.md
-      - MDEFest 2023 : academic_year_2022_23/term_3_2022_23/mdefest_2022_23/index.md
-  - Previous Years:
-    - Main: previous_years/index.md
-    - Academic Year 2021-22:
-      - previous_years/academic_year_2021_22/index.md
-      - Students Websites: previous_years/academic_year_2021_22/students_websites_2021_22/index.md
+  - Home: index.md
+  - Academic Year 2023-24:
+    - 2023_24/index.md
+    - Faculty: 2023_24/faculty/index.md
+    - Students: 2023_24/students/index.md
+    # - Research Trip: 2023_24/research_trip/index.md
+    - Year 1:
+      - 2023_24/year-1/index.md
+      - Calendar: 2023_24/year-1/calendar/index.md
       - Term 1:
-         - previous_years/academic_year_2021_22/term_1_2021_22/index.md
-         - Mdef Bootcamp: previous_years/academic_year_2021_22/term_1_2021_22/mdef_bootcamp_2021_22/index.md
-         - Design Studio Term 1: previous_years/academic_year_2021_22/term_1_2021_22/design_studio_framing_design_interventions_2021_22/index.md
-         - Atlas of Weak Signals: previous_years/academic_year_2021_22/term_1_2021_22/atlas_of_weak_signals_2021_22_(aows)/index.md
-         - Biology & Agri 0: previous_years/academic_year_2021_22/term_1_2021_22/biology_&_agri_zero_2021_22/index.md
-         - Living With Your Own Ideas: previous_years/academic_year_2021_22/term_1_2021_22/living_with_your_own_ideas_2021_22/index.md
-         - Tech Beyond The Myth: previous_years/academic_year_2021_22/term_1_2021_22/tech_beyond_the_myth_2021_22/index.md
-         - Community Engagement: previous_years/academic_year_2021_22/term_1_2021_22/community_engagement_2021_22/index.md
-         - Extended Intelligences: previous_years/academic_year_2021_22/term_1_2021_22/extended_intelligences_2021_22/index.md
+        - 2023_24/year-1/t1/index.md
+        - Design Studio I: 2023_24/year-1/t1/design_studio_I/index.md
+        - Bootcamp: 2023_24/year-1/t1/bootcamp/index.md
+        - Atlas of Weak Signals: 2023_24/year-1/t1/atlas_of_weak_signals_2022_23_(aows)/index.md
+        - Tech Beyond The Myth: 2023_24/year-1/t1/tech_beyond_the_myth_2022_23/index.md
+        - Living With Your Own Ideas: 2023_24/year-1/t1/living_with_your_own_ideas_2022_23/index.md
+        - Biology & Agri 0: 2023_24/year-1/t1/biology_&_agri_zero_2022_23/index.md
+        - Community Engagement: 2023_24/year-1/t1/community_engagement_2022_23/index.md
+        - Extended Intelligences: 2023_24/year-1/t1/extended_intelligences_2022_23/index.md
       - Term 2:
-         - previous_years/academic_year_2021_22/term_2_2021_22/index.md
-         - Design Studio Term 2: previous_years/academic_year_2021_22/term_2_2021_22/design_studio_term_2/index.md
-         - Future Talks: previous_years/academic_year_2021_22/term_2_2021_22/future_talks_2021_22/index.md
-         - MDEF Academy - Fab Academy: previous_years/academic_year_2021_22/term_2_2021_22/mdef_academy_fab_academy_2021_22/index.md
-         - Designing For The Next Billion Seconds: previous_years/academic_year_2021_22/term_2_2021_22/designing_for_the_next_billion_seconds_2021_22/index.md
-         - Making Sense and Meaning: previous_years/academic_year_2021_22/term_2_2021_22/making_sense_and_meaning_2021_22/index.md
-         - Atlas of Weak Signals: previous_years/academic_year_2021_22/term_2_2021_22/atles_of_weak_signals_2021_22/index.md
-         - Communication Brand and Purpose: previous_years/academic_year_2021_22/term_2_2021_22/communication_brand_and_purpose_2021_22/index.md
-         - Exploring Emergent Technologies: previous_years/academic_year_2021_22/term_2_2021_22/exploring_emergent_technologies_2021_22/index.md
+        - 2023_24/year-1/t2/index.md
+        - Design Studio Term 2: 2023_24/year-1/t2/design_studio_term2_2022_23/index.md
+        - Future Talks: 2023_24/year-1/t2/future_talks_2022_23/index.md
+        - Designing for the Next Billion Seconds: 2023_24/year-1/t2/designing_for_the_next_billion_seconds_2022_23/index.md
+        - Remixing Materials: 2023_24/year-1/t2/remixing_materials_2022_23/index.md
+        - Digital Prototyping for Design: 2023_24/year-1/t2/digital_prototyping_for_design_2022_23/index.md
+        - Communicating Ideas: 2023_24/year-1/t2/communicating_ideas_2022_23/index.md
+        - Making Sense and Meaning: 2023_24/year-1/t2/making_sense_&_meaning_2022_23/index.md
+        - Measuring The World: 2023_24/year-1/t2/measuring_the_world_2022_23/index.md
       - Term 3:
-         - previous_years/academic_year_2021_22/term_3_2021_22/index.md
-         - Design Studio Term 3: previous_years/academic_year_2021_22/term_3_2021_22/design_studio_3_2021_22/index.md
-         - Curating Normals: previous_years/academic_year_2021_22/term_3_2021_22/curating_normals_2021_22/index.md
-         - Design Ethics: previous_years/academic_year_2021_22/term_3_2021_22/design_ethics_2021_22/index.md
-         - MDEF Academy - Fab Academy: previous_years/academic_year_2021_22/term_3_2021_22/fab_academy_term_3_2021_22/index.md
-
-    - Academic Year 2020-21:
-      - previous_years/academic_year_2020_21/index.md
-      - Students Websites: previous_years/academic_year_2020_21/students_websites_2020_21/index.md
+        - 2023_24/t3/index.md
+        - Design Studio Term 3: 2023_24/year-1/t3/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
+        - Distributed Design: 2023_24/year-1/t3/distributed_design_2022_23/index.md
+        - Design Ethics: 2023_24/year-1/t3/design_ethics_2022_23/index.md
+        - Critical Transfeminist Design: 2023_24/year-1/t3/critical_transfeminist_design_2022_23/index.md
+        - Collective Intelligence: 2023_24/year-1/t3/collective_intelligence_2022_23/index.md
+        - MDEFest 2023: 2023_24/year-1/t3/mdefest_2022_23/index.md
+    - Year 2:
+      - 2023-24/year-2/index.md
+      - Calendar: 2023_24/year-2/calendar/index.md
       - Term 1:
-         - previous_years/academic_year_2021_22/term_1_2021_22/index.md
-         - MDEF Bootcamp: previous_years/academic_year_2020_21/term_1_2020_21/mdef_bootcamp_2020_21/index.md
-         - Design Studio Term 1: previous_years/academic_year_2020_21/term_1_2020_21/design_studio_framing_design_interventions_2020_21/index.md
-         - Designing Post Techological Futures for Everything: previous_years/academic_year_2020_21/term_1_2020_21/designing_post-technological_futures_for_everything_2020_21/index.md
-         - Biology & Agri 0: previous_years/academic_year_2020_21/term_1_2020_21/bio_&_agri_0_2020_21/index.md
-         - Living With Your Own Ideas: previous_years/academic_year_2020_21/term_1_2020_21/living_with_your_own_ideas_2020_21/index.md
-         - The Almost Useful Machines: previous_years/academic_year_2020_21/term_1_2020_21/the_almost_useful_machines_2020_21/index.md
-         - Exploring Hybrid Profiles in Design: previous_years/academic_year_2020_21/term_1_2020_21/exploring_hybrid_profiles_in_design_2020_21/index.md
-         - Extended Intelligences: previous_years/academic_year_2020_21/term_1_2020_21/extended_intelligences_2020_21/index.md
-         - Coding Club: previous_years/academic_year_2020_21/term_1_2020_21/coding_club_2020_21/index.md
-      - Term 2:
-         - previous_years/academic_year_2020_21/term_2_2020_21/index.md
-         - Design Studio Term 2: previous_years/academic_year_2020_21/term_2_2020_21/design_studio_term_2_2020_21/index.md
-         - Furure Talks: previous_years/academic_year_2020_21/term_2_2020_21/future_talks_term_2_2020_21/index.md
-         - Making Sense & Meaning: previous_years/academic_year_2020_21/term_2_2020_21/making_sense_&_meaning_term_2_2020_21/index.md
-         - MDEF Academy - Fab Academy: previous_years/academic_year_2020_21/term_2_2020_21/mdef_academy_fab_academy_term_2_2020_21/index.md
-         - Curating Normals: previous_years/academic_year_2020_21/term_2_2020_21/curating_normal_term_2_2020_21/index.md
-         - Community Engagement: previous_years/academic_year_2020_21/term_2_2020_21/community_engament_term_2_2020_21/index.md
-         - Code Make: previous_years/academic_year_2020_21/term_2_2020_21/code_make_term_2_2020_21/index.md
-         - Coding Club: previous_years/academic_year_2020_21/term_2_2020_21/coding_club_term_2_2020_21/index.md
-      - Term 3:
-         - previous_years/academic_year_2021_22/term_1_2021_22/index.md
-         - Design Studio Term 3: previous_years/academic_year_2020_21/term_3_2020_21/design_studio_3_2021_22/index.md
-         - Design Ethics: previous_years/academic_year_2020_21/term_3_2020_21/design_ethics_2021_22/index.md
-         - Writing and Thinking with AI: previous_years/academic_year_2020_21/term_3_2020_21/writing_and_thinking_with_ai_2020_21/index.md
-         - Coding Club: previous_years/academic_year_2020_21/term_3_2020_21/coding_club_term_3_2020_21/index.md
-    - Academic Year 2019-20:
-      - previous_years/academic_year_2019_20/index.md
-      - Students Websites: previous_years/academic_year_2019_20/students_websites_2019_20/index.md
-      - Term 1:
-         - previous_years/academic_year_2019_20/term_1_2019_20/index.md
-         - MDEF Bootcamp: previous_years/academic_year_2019_20/term_1_2019_20/mdef_bootcamp_2019_20/index.md
-         - Atlas of Weak Signals: previous_years/academic_year_2019_20/term_1_2019_20/mdef_bootcamp_2019_20/index.md
-         - Biology 0: previous_years/academic_year_2019_20/term_1_2019_20/bio_0_2019_20/index.md
-         - Living With Your Own Ideas: previous_years/academic_year_2019_20/term_1_2019_20/living_with_your_own_ideas_2019_20/index.md
-         - The Almost Unseful Machines: previous_years/academic_year_2019_20/term_1_2019_20/the_almost_useful_machines_2019_20/index.md
-         - Exploring Hybrid Profiles in Design: previous_years/academic_year_2019_20/term_1_2019_20/exploring_hybrid_profiles_in_design_2019_20/index.md
-         - The Post Technological Futures of Everything: previous_years/academic_year_2019_20/term_1_2019_20/the_post-technological_futures_of_everything_2019_20/index.md
-         - Unpacking Intelligent Machines: previous_years/academic_year_2019_20/term_1_2019_20/unpacking_intelligent_machines_2019_20/index.md
-         - Narrating Emergent Futures: previous_years/academic_year_2019_20/term_1_2019_20/narrating_emergent_futures_2019_20/index.md
-         - Emergent Economies: previous_years/academic_year_2019_20/term_1_2019_20/emergent_economies_2019_20/index.md
-         - Designing With Collective Intelligence: previous_years/academic_year_2019_20/term_1_2019_20/designing_with_collective_intelligence_2019_20/index.md
-         - Design Dialogues: previous_years/academic_year_2019_20/term_1_2019_20/design_dialogues_2019_20/index.md
-      - Term 2:
-         - previous_years/academic_year_2019_20/term_2_2019_20/index.md
-         - Design Studio Term 2: previous_years/academic_year_2019_20/term_2_2019_20/design_studio_term_2_2019_20/index.md
-         - Atlas of Weak Signals: previous_years/academic_year_2019_20/term_2_2019_20/atlas_of_weak_signals_term_2_2019_20/index.md
-         - Ethical Design: previous_years/academic_year_2019_20/term_2_2019_20/ethical_design_term_2_2020_21/index.md
-         - MDEF Academy - Fab Academy: previous_years/academic_year_2019_20/term_2_2019_20/mdef_academy_fab_academy_term_2_2020_21/index.md
-      - Term 3:
-         - previous_years/academic_year_2019_20/term_3_2019_20/index.md
-         - Design Studio Term 3: previous_years/academic_year_2019_20/term_3_2019_20/design_studio_3_2019_20/index.md
-         - Curacting New Normals: previous_years/academic_year_2019_20/term_3_2019_20/curating_new_normals_2019_20/index.md
-         - MDEF Academy - Fab Academy: previous_years/academic_year_2019_20/term_3_2019_20/fab_academy_term_3_2019_20/index.md
-         - Design Dialogues: previous_years/academic_year_2019_20/term_3_2019_20/design_dialogues_2019_20/index.md
-    - Academic Year 2018-19:
-      - previous_years/academic_year_2018_19/index.md
-      - Students Websites: previous_years/academic_year_2018_19/students_websites_2018_19/index.md
-      - Term 1:
-         - previous_years/academic_year_2018_19/index.md
-         - MDEF Bootcamp: previous_years/academic_year_2018_19/term_1_2018_19/mdef_bootcamp_2018_19/index.md
-         - Design for the Real Digital World: previous_years/academic_year_2018_19/term_1_2018_19/design_for_the_real_digital_world_2018_19/index.md
-         - Biology 0: previous_years/academic_year_2018_19/term_1_2018_19/design_for_the_real_digital_world_2018_19/index.md
-         - Exploring Hybrid Profiles in Design: previous_years/academic_year_2018_19/term_1_2018_19/exploring_hybrid_profiles_in_design_2018_19/index.md
-         - Navigating Uncertainty: previous_years/academic_year_2018_19/term_1_2018_19/navigating_uncertainty_2018_19/index.md
-         - Designing with Extended Intelligence: previous_years/academic_year_2018_19/term_1_2018_19/designing_with_extended_intelligence_2018_19/index.md
-         - The way things work: previous_years/academic_year_2018_19/term_1_2018_19/the_way_things_work_2018_19/index.md
-         - Living with Ideas: previous_years/academic_year_2018_19/term_1_2018_19/living_with_ideas_2018_19/index.md
-         - Engaging Narratives: previous_years/academic_year_2018_19/term_1_2018_19/engaging_narratives_2018_19/index.md
-         - An Introduction to Futures: previous_years/academic_year_2018_19/term_1_2018_19/an_introduction_to_futures_2018_19/index.md
-         - From Bits to Atoms: previous_years/academic_year_2018_19/term_1_2018_19/from_bits_to_atoms_2018_19/index.md
-         - Design Dialogues: previous_years/academic_year_2018_19/term_1_2018_19/design_dialogues_2018_19/index.md
-      - Term 2:
-         - previous_years/academic_year_2018_19/term_2_2018_19/index.md
-         - Design Studio : previous_years/academic_year_2018_19/term_2_2018_19/design_studio_term_2_2018_19/index.md
-         - Fab Academy: previous_years/academic_year_2018_19/term_2_2018_19/mdef_academy_fab_academy_term_2_2018_19/index.md
-         - Material Driven Design: previous_years/academic_year_2018_19/term_2_2018_19/material_driven_design_term_2_2018_19/index.md
-         - Atlas of Weak Signals - Definitions: previous_years/academic_year_2018_19/term_2_2018_19/atlas_of_weak_signals_definitions_term_2_2018_19/index.md
-         - Atlas of Weak Signals - Development: previous_years/academic_year_2018_19/term_2_2018_19/atlas_of_weak_signals_development_term_2_2018_19/index.md
-      - Term 3:
-         - previous_years/academic_year_2018_19/term_3_2018_19/index.md
-         - Design Studio: previous_years/academic_year_2018_19/term_3_2018_19/design_studio_3_2018_19/index.md
-         - Designing for 2050: previous_years/academic_year_2018_19/term_3_2018_19/designing_for_2050_2018_19/index.md
-         - Design for the New: previous_years/academic_year_2018_19/term_3_2018_19/design_for_the_new_2018_19/index.md
-         - Emergent Business Models: previous_years/academic_year_2018_19/term_3_2018_19/emergent_business_models_2018_19/index.md
-         - Fab Academy: previous_years/academic_year_2018_19/term_3_2018_19/fab_academy_term_3_2018_19/index.md
-
+        - 2023_24/year-2/t1/index.md
+        - Design Studio Term 1: 2023_24/year-2/t1/design_studio_framing_design_interventions_2022_23/index.md
+        - Bootcamp: 2023_24/year-2/t1/mdef_bootcamp_2022_23/index.md
+        - Atlas of Weak Signals: 2023_24/year-2/t1/atlas_of_weak_signals_2022_23_(aows)/index.md
+        - Tech Beyond The Myth: 2023_24/year-2/t1/tech_beyond_the_myth_2022_23/index.md
+        - Living With Your Own Ideas: 2023_24/year-2/t1/living_with_your_own_ideas_2022_23/index.md
+        - Biology & Agri 0: 2023_24/year-2/t1/biology_&_agri_zero_2022_23/index.md
+        - Community Engagement: 2023_24/year-2/t1/community_engagement_2022_23/index.md
+        - Extended Intelligences: 2023_24/year-2/t1/extended_intelligences_2022_23/   
+  # - Previous Years:
+  #   - Main: previous_years/index.md
+  #   - Academic Year 2022-23:
+  #     - Main: previous_years/academic_year_2022_23/index.md
+  #     - Students Websites: previous_years/academic_year_2022_23/students_websites_2022_23/index.md
+  #     - Term 1:
+  #       - previous_years/academic_year_2022_23/term_1_2022_23/index.md
+  #       - Design Studio Term 1: previous_years/academic_year_2022_23/term_1_2022_23/design_studio_framing_design_interventions_2022_23/index.md
+  #       - Bootcamp: previous_years/academic_year_2022_23/term_1_2022_23/mdef_bootcamp_2022_23/index.md
+  #       - Atlas of Weak Signals: previous_years/academic_year_2022_23/term_1_2022_23/atlas_of_weak_signals_2022_23_(aows)/index.md
+  #       - Biology & Agri 0: previous_years/academic_year_2022_23/term_1_2022_23/biology_&_agri_zero_2022_23/index.md
+  #       - Living With Your Own Ideas: previous_years/academic_year_2022_23/term_1_2022_23/living_with_your_own_ideas_2022_23/index.md
+  #       - Tech Beyond The Myth: previous_years/academic_year_2022_23/term_1_2022_23/tech_beyond_the_myth_2022_23/index.md
+  #       - Community Engagement: previous_years/academic_year_2022_23/term_1_2022_23/community_engagement_2022_23/index.md
+  #       - Extended Intelligences: previous_years/academic_year_2022_23/term_1_2022_23/extended_intelligences_2022_23/index.md
+  #     - Term 2:
+  #       - previous_years/academic_year_2022_23/term_2_2022_23/index.md
+  #       - Design Studio Term 2: previous_years/academic_year_2022_23/term_2_2022_23/design_studio_term2_2022_23/index.md
+  #       - Future Talks: previous_years/academic_year_2022_23/term_2_2022_23/future_talks_2022_23/index.md
+  #       - Designing for the Next Billion Seconds: previous_years/academic_year_2022_23/term_2_2022_23/designing_for_the_next_billion_seconds_2022_23/index.md
+  #       - Remixing Materials: previous_years/academic_year_2022_23/term_2_2022_23/remixing_materials_2022_23/index.md
+  #       - Digital Prototyping for Design: previous_years/academic_year_2022_23/term_2_2022_23/digital_prototyping_for_design_2022_23/index.md
+  #       - Communicating Ideas: previous_years/academic_year_2022_23/term_2_2022_23/communicating_ideas_2022_23/index.md
+  #       - Making Sense and Meaning: previous_years/academic_year_2022_23/term_2_2022_23/making_sense_&_meaning_2022_23/index.md
+  #       - Measuring The World: previous_years/academic_year_2022_23/term_3_2022_23/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
+  #     - El Hierro Research Trip:
+  #       - previous_years/academic_year_2022_23/research_trip_2022_23/index.md
+  #     - Term 3:
+  #       - previous_years/academic_year_2022_23/term_3_2022_23/index.md
+  #       - Design Studio Term 3: previous_years/academic_year_2022_23/term_3_2022_23/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
+  #       - Distributed Design: previous_years/academic_year_2022_23/term_3_2022_23/distributed_design_2022_23/index.md
+  #       - Design Ethics: previous_years/academic_year_2022_23/term_3_2022_23/design_ethics_2022_23/index.md
+  #       - Critical Transfeminist Design: previous_years/academic_year_2022_23/term_3_2022_23/critical_transfeminist_design_2022_23/index.md
+  #       - Collective Intelligence: previous_years/academic_year_2022_23/term_3_2022_23/collective_intelligence_2022_23/index.md
+  #       - MDEFest 2023: previous_years/academic_year_2022_23/term_3_2022_23/mdefest_2022_23/index.md
+  #   - Academic Year 2021-22:
+  #     - previous_years/academic_year_2021_22/index.md
+  #     - Students Websites: previous_years/academic_year_2021_22/students_websites_2021_22/index.md
+  #     - Term 1:
+  #        - previous_years/academic_year_2021_22/term_1_2021_22/index.md
+  #        - Mdef Bootcamp: previous_years/academic_year_2021_22/term_1_2021_22/mdef_bootcamp_2021_22/index.md
+  #        - Design Studio Term 1: previous_years/academic_year_2021_22/term_1_2021_22/design_studio_framing_design_interventions_2021_22/index.md
+  #        - Atlas of Weak Signals: previous_years/academic_year_2021_22/term_1_2021_22/atlas_of_weak_signals_2021_22_(aows)/index.md
+  #        - Biology & Agri 0: previous_years/academic_year_2021_22/term_1_2021_22/biology_&_agri_zero_2021_22/index.md
+  #        - Living With Your Own Ideas: previous_years/academic_year_2021_22/term_1_2021_22/living_with_your_own_ideas_2021_22/index.md
+  #        - Tech Beyond The Myth: previous_years/academic_year_2021_22/term_1_2021_22/tech_beyond_the_myth_2021_22/index.md
+  #        - Community Engagement: previous_years/academic_year_2021_22/term_1_2021_22/community_engagement_2021_22/index.md
+  #        - Extended Intelligences: previous_years/academic_year_2021_22/term_1_2021_22/extended_intelligences_2021_22/index.md
+  #     - Term 2:
+  #        - previous_years/academic_year_2021_22/term_2_2021_22/index.md
+  #        - Design Studio Term 2: previous_years/academic_year_2021_22/term_2_2021_22/design_studio_term_2/index.md
+  #        - Future Talks: previous_years/academic_year_2021_22/term_2_2021_22/future_talks_2021_22/index.md
+  #        - MDEF Academy - Fab Academy: previous_years/academic_year_2021_22/term_2_2021_22/mdef_academy_fab_academy_2021_22/index.md
+  #        - Designing For The Next Billion Seconds: previous_years/academic_year_2021_22/term_2_2021_22/designing_for_the_next_billion_seconds_2021_22/index.md
+  #        - Making Sense and Meaning: previous_years/academic_year_2021_22/term_2_2021_22/making_sense_and_meaning_2021_22/index.md
+  #        - Atlas of Weak Signals: previous_years/academic_year_2021_22/term_2_2021_22/atles_of_weak_signals_2021_22/index.md
+  #        - Communication Brand and Purpose: previous_years/academic_year_2021_22/term_2_2021_22/communication_brand_and_purpose_2021_22/index.md
+  #        - Exploring Emergent Technologies: previous_years/academic_year_2021_22/term_2_2021_22/exploring_emergent_technologies_2021_22/index.md
+  #     - Term 3:
+  #        - previous_years/academic_year_2021_22/term_3_2021_22/index.md
+  #        - Design Studio Term 3: previous_years/academic_year_2021_22/term_3_2021_22/design_studio_3_2021_22/index.md
+  #        - Curating Normals: previous_years/academic_year_2021_22/term_3_2021_22/curating_normals_2021_22/index.md
+  #        - Design Ethics: previous_years/academic_year_2021_22/term_3_2021_22/design_ethics_2021_22/index.md
+  #        - MDEF Academy - Fab Academy: previous_years/academic_year_2021_22/term_3_2021_22/fab_academy_term_3_2021_22/index.md
+  #   - Academic Year 2020-21:
+  #     - previous_years/academic_year_2020_21/index.md
+  #     - Students Websites: previous_years/academic_year_2020_21/students_websites_2020_21/index.md
+  #     - Term 1:
+  #        - previous_years/academic_year_2021_22/term_1_2021_22/index.md
+  #        - MDEF Bootcamp: previous_years/academic_year_2020_21/term_1_2020_21/mdef_bootcamp_2020_21/index.md
+  #        - Design Studio Term 1: previous_years/academic_year_2020_21/term_1_2020_21/design_studio_framing_design_interventions_2020_21/index.md
+  #        - Designing Post Techological Futures for Everything: previous_years/academic_year_2020_21/term_1_2020_21/designing_post-technological_futures_for_everything_2020_21/index.md
+  #        - Biology & Agri 0: previous_years/academic_year_2020_21/term_1_2020_21/bio_&_agri_0_2020_21/index.md
+  #        - Living With Your Own Ideas: previous_years/academic_year_2020_21/term_1_2020_21/living_with_your_own_ideas_2020_21/index.md
+  #        - The Almost Useful Machines: previous_years/academic_year_2020_21/term_1_2020_21/the_almost_useful_machines_2020_21/index.md
+  #        - Exploring Hybrid Profiles in Design: previous_years/academic_year_2020_21/term_1_2020_21/exploring_hybrid_profiles_in_design_2020_21/index.md
+  #        - Extended Intelligences: previous_years/academic_year_2020_21/term_1_2020_21/extended_intelligences_2020_21/index.md
+  #        - Coding Club: previous_years/academic_year_2020_21/term_1_2020_21/coding_club_2020_21/index.md
+  #     - Term 2:
+  #        - previous_years/academic_year_2020_21/term_2_2020_21/index.md
+  #        - Design Studio Term 2: previous_years/academic_year_2020_21/term_2_2020_21/design_studio_term_2_2020_21/index.md
+  #        - Furure Talks: previous_years/academic_year_2020_21/term_2_2020_21/future_talks_term_2_2020_21/index.md
+  #        - Making Sense & Meaning: previous_years/academic_year_2020_21/term_2_2020_21/making_sense_&_meaning_term_2_2020_21/index.md
+  #        - MDEF Academy - Fab Academy: previous_years/academic_year_2020_21/term_2_2020_21/mdef_academy_fab_academy_term_2_2020_21/index.md
+  #        - Curating Normals: previous_years/academic_year_2020_21/term_2_2020_21/curating_normal_term_2_2020_21/index.md
+  #        - Community Engagement: previous_years/academic_year_2020_21/term_2_2020_21/community_engament_term_2_2020_21/index.md
+  #        - Code Make: previous_years/academic_year_2020_21/term_2_2020_21/code_make_term_2_2020_21/index.md
+  #        - Coding Club: previous_years/academic_year_2020_21/term_2_2020_21/coding_club_term_2_2020_21/index.md
+  #     - Term 3:
+  #        - previous_years/academic_year_2021_22/term_1_2021_22/index.md
+  #        - Design Studio Term 3: previous_years/academic_year_2020_21/term_3_2020_21/design_studio_3_2021_22/index.md
+  #        - Design Ethics: previous_years/academic_year_2020_21/term_3_2020_21/design_ethics_2021_22/index.md
+  #        - Writing and Thinking with AI: previous_years/academic_year_2020_21/term_3_2020_21/writing_and_thinking_with_ai_2020_21/index.md
+  #        - Coding Club: previous_years/academic_year_2020_21/term_3_2020_21/coding_club_term_3_2020_21/index.md
+  #   - Academic Year 2019-20:
+  #     - previous_years/academic_year_2019_20/index.md
+  #     - Students Websites: previous_years/academic_year_2019_20/students_websites_2019_20/index.md
+  #     - Term 1:
+  #        - previous_years/academic_year_2019_20/term_1_2019_20/index.md
+  #        - MDEF Bootcamp: previous_years/academic_year_2019_20/term_1_2019_20/mdef_bootcamp_2019_20/index.md
+  #        - Atlas of Weak Signals: previous_years/academic_year_2019_20/term_1_2019_20/mdef_bootcamp_2019_20/index.md
+  #        - Biology 0: previous_years/academic_year_2019_20/term_1_2019_20/bio_0_2019_20/index.md
+  #        - Living With Your Own Ideas: previous_years/academic_year_2019_20/term_1_2019_20/living_with_your_own_ideas_2019_20/index.md
+  #        - The Almost Unseful Machines: previous_years/academic_year_2019_20/term_1_2019_20/the_almost_useful_machines_2019_20/index.md
+  #        - Exploring Hybrid Profiles in Design: previous_years/academic_year_2019_20/term_1_2019_20/exploring_hybrid_profiles_in_design_2019_20/index.md
+  #        - The Post Technological Futures of Everything: previous_years/academic_year_2019_20/term_1_2019_20/the_post-technological_futures_of_everything_2019_20/index.md
+  #        - Unpacking Intelligent Machines: previous_years/academic_year_2019_20/term_1_2019_20/unpacking_intelligent_machines_2019_20/index.md
+  #        - Narrating Emergent Futures: previous_years/academic_year_2019_20/term_1_2019_20/narrating_emergent_futures_2019_20/index.md
+  #        - Emergent Economies: previous_years/academic_year_2019_20/term_1_2019_20/emergent_economies_2019_20/index.md
+  #        - Designing With Collective Intelligence: previous_years/academic_year_2019_20/term_1_2019_20/designing_with_collective_intelligence_2019_20/index.md
+  #        - Design Dialogues: previous_years/academic_year_2019_20/term_1_2019_20/design_dialogues_2019_20/index.md
+  #     - Term 2:
+  #        - previous_years/academic_year_2019_20/term_2_2019_20/index.md
+  #        - Design Studio Term 2: previous_years/academic_year_2019_20/term_2_2019_20/design_studio_term_2_2019_20/index.md
+  #        - Atlas of Weak Signals: previous_years/academic_year_2019_20/term_2_2019_20/atlas_of_weak_signals_term_2_2019_20/index.md
+  #        - Ethical Design: previous_years/academic_year_2019_20/term_2_2019_20/ethical_design_term_2_2020_21/index.md
+  #        - MDEF Academy - Fab Academy: previous_years/academic_year_2019_20/term_2_2019_20/mdef_academy_fab_academy_term_2_2020_21/index.md
+  #     - Term 3:
+  #        - previous_years/academic_year_2019_20/term_3_2019_20/index.md
+  #        - Design Studio Term 3: previous_years/academic_year_2019_20/term_3_2019_20/design_studio_3_2019_20/index.md
+  #        - Curacting New Normals: previous_years/academic_year_2019_20/term_3_2019_20/curating_new_normals_2019_20/index.md
+  #        - MDEF Academy - Fab Academy: previous_years/academic_year_2019_20/term_3_2019_20/fab_academy_term_3_2019_20/index.md
+  #        - Design Dialogues: previous_years/academic_year_2019_20/term_3_2019_20/design_dialogues_2019_20/index.md
+  #   - Academic Year 2018-19:
+  #     - previous_years/academic_year_2018_19/index.md
+  #     - Students Websites: previous_years/academic_year_2018_19/students_websites_2018_19/index.md
+  #     - Term 1:
+  #        - previous_years/academic_year_2018_19/index.md
+  #        - MDEF Bootcamp: previous_years/academic_year_2018_19/term_1_2018_19/mdef_bootcamp_2018_19/index.md
+  #        - Design for the Real Digital World: previous_years/academic_year_2018_19/term_1_2018_19/design_for_the_real_digital_world_2018_19/index.md
+  #        - Biology 0: previous_years/academic_year_2018_19/term_1_2018_19/design_for_the_real_digital_world_2018_19/index.md
+  #        - Exploring Hybrid Profiles in Design: previous_years/academic_year_2018_19/term_1_2018_19/exploring_hybrid_profiles_in_design_2018_19/index.md
+  #        - Navigating Uncertainty: previous_years/academic_year_2018_19/term_1_2018_19/navigating_uncertainty_2018_19/index.md
+  #        - Designing with Extended Intelligence: previous_years/academic_year_2018_19/term_1_2018_19/designing_with_extended_intelligence_2018_19/index.md
+  #        - The way things work: previous_years/academic_year_2018_19/term_1_2018_19/the_way_things_work_2018_19/index.md
+  #        - Living with Ideas: previous_years/academic_year_2018_19/term_1_2018_19/living_with_ideas_2018_19/index.md
+  #        - Engaging Narratives: previous_years/academic_year_2018_19/term_1_2018_19/engaging_narratives_2018_19/index.md
+  #        - An Introduction to Futures: previous_years/academic_year_2018_19/term_1_2018_19/an_introduction_to_futures_2018_19/index.md
+  #        - From Bits to Atoms: previous_years/academic_year_2018_19/term_1_2018_19/from_bits_to_atoms_2018_19/index.md
+  #        - Design Dialogues: previous_years/academic_year_2018_19/term_1_2018_19/design_dialogues_2018_19/index.md
+  #     - Term 2:
+  #        - previous_years/academic_year_2018_19/term_2_2018_19/index.md
+  #        - Design Studio: previous_years/academic_year_2018_19/term_2_2018_19/design_studio_term_2_2018_19/index.md
+  #        - Fab Academy: previous_years/academic_year_2018_19/term_2_2018_19/mdef_academy_fab_academy_term_2_2018_19/index.md
+  #        - Material Driven Design: previous_years/academic_year_2018_19/term_2_2018_19/material_driven_design_term_2_2018_19/index.md
+  #        - Atlas of Weak Signals - Definitions: previous_years/academic_year_2018_19/term_2_2018_19/atlas_of_weak_signals_definitions_term_2_2018_19/index.md
+  #        - Atlas of Weak Signals - Development: previous_years/academic_year_2018_19/term_2_2018_19/atlas_of_weak_signals_development_term_2_2018_19/index.md
+  #     - Term 3:
+  #        - previous_years/academic_year_2018_19/term_3_2018_19/index.md
+  #        - Design Studio: previous_years/academic_year_2018_19/term_3_2018_19/design_studio_3_2018_19/index.md
+  #        - Designing for 2050: previous_years/academic_year_2018_19/term_3_2018_19/designing_for_2050_2018_19/index.md
+  #        - Design for the New: previous_years/academic_year_2018_19/term_3_2018_19/design_for_the_new_2018_19/index.md
+  #        - Emergent Business Models: previous_years/academic_year_2018_19/term_3_2018_19/emergent_business_models_2018_19/index.md
+  #        - Fab Academy: previous_years/academic_year_2018_19/term_3_2018_19/fab_academy_term_3_2018_19/index.md
 
 
 theme:
   language: 'en'
   name: 'material'
+  font:
+    text: Roboto
   features:
-    - instant
-    # - navigation.expand
-    - navigation.indexes
     - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
+    - navigation.indexes
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+    # - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -188,14 +232,14 @@ theme:
   palette:
     # See assets/stylesheets/extra.css file for the color definitions
     # Palette toggle for light mode
-    - scheme: mdef
+    - scheme: primary
       toggle:
-        icon: material/lightbulb
+        icon: material/weather-lightning
         name: Switch to dark mode
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/crystal-ball
         name: Switch to light mode
   # Logo is not yet available
   # logo: 'assets/images/logo.svg'
@@ -221,6 +265,7 @@ extra:
 plugins:
   - macros
   - search
+  # - privacy
 
 markdown_extensions:
   - md_in_html
@@ -228,7 +273,8 @@ markdown_extensions:
   - codehilite
   - footnotes
   - toc:
-      permalink: true
+      permalink: ⇝
+      toc_depth: 2
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -236,7 +282,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
