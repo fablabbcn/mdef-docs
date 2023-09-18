@@ -1,61 +1,53 @@
-site_name: MDEF
-site_description: Master on Design For Emergent Futures Documentation
+site_name: MASTER IN DESIGN FOR EMERGENT FUTURES
+site_description: MDEF Documentation
 site_author: IAAC, ELISAVA, Fab Lab Barcelona
 site_url: https://emergentfutures.fablabbcn.org
 # repo_name: mdef-docs
 # repo_url: https://github.com/fablabbcn/mdef-docs
 
 nav:
-  - Home: index.md
-  - Academic Year 2023-24:
-    - 2023_24/index.md
-    - Faculty: 2023_24/faculty/index.md
-    - Students: 2023_24/students/index.md
-    # - Research Trip: 2023_24/research_trip/index.md
-    - Year 1:
-      - 2023_24/year-1/index.md
-      - Calendar: 2023_24/year-1/calendar/index.md
-      - Term 1:
-        - 2023_24/year-1/t1/index.md
-        - Design Studio I: 2023_24/year-1/t1/design_studio_I/index.md
-        - Bootcamp: 2023_24/year-1/t1/bootcamp/index.md
-        - Atlas of Weak Signals: 2023_24/year-1/t1/atlas_of_weak_signals_2022_23_(aows)/index.md
-        - Tech Beyond The Myth: 2023_24/year-1/t1/tech_beyond_the_myth_2022_23/index.md
-        - Living With Your Own Ideas: 2023_24/year-1/t1/living_with_your_own_ideas_2022_23/index.md
-        - Biology & Agri 0: 2023_24/year-1/t1/biology_&_agri_zero_2022_23/index.md
-        - Community Engagement: 2023_24/year-1/t1/community_engagement_2022_23/index.md
-        - Extended Intelligences: 2023_24/year-1/t1/extended_intelligences_2022_23/index.md
-      - Term 2:
-        - 2023_24/year-1/t2/index.md
-        - Design Studio Term 2: 2023_24/year-1/t2/design_studio_term2_2022_23/index.md
-        - Future Talks: 2023_24/year-1/t2/future_talks_2022_23/index.md
-        - Designing for the Next Billion Seconds: 2023_24/year-1/t2/designing_for_the_next_billion_seconds_2022_23/index.md
-        - Remixing Materials: 2023_24/year-1/t2/remixing_materials_2022_23/index.md
-        - Digital Prototyping for Design: 2023_24/year-1/t2/digital_prototyping_for_design_2022_23/index.md
-        - Communicating Ideas: 2023_24/year-1/t2/communicating_ideas_2022_23/index.md
-        - Making Sense and Meaning: 2023_24/year-1/t2/making_sense_&_meaning_2022_23/index.md
-        - Measuring The World: 2023_24/year-1/t2/measuring_the_world_2022_23/index.md
-      - Term 3:
-        - 2023_24/t3/index.md
-        - Design Studio Term 3: 2023_24/year-1/t3/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
-        - Distributed Design: 2023_24/year-1/t3/distributed_design_2022_23/index.md
-        - Design Ethics: 2023_24/year-1/t3/design_ethics_2022_23/index.md
-        - Critical Transfeminist Design: 2023_24/year-1/t3/critical_transfeminist_design_2022_23/index.md
-        - Collective Intelligence: 2023_24/year-1/t3/collective_intelligence_2022_23/index.md
-        - MDEFest 2023: 2023_24/year-1/t3/mdefest_2022_23/index.md
-    - Year 2:
-      - 2023-24/year-2/index.md
-      - Calendar: 2023_24/year-2/calendar/index.md
-      - Term 1:
-        - 2023_24/year-2/t1/index.md
-        - Design Studio Term 1: 2023_24/year-2/t1/design_studio_framing_design_interventions_2022_23/index.md
-        - Bootcamp: 2023_24/year-2/t1/mdef_bootcamp_2022_23/index.md
-        - Atlas of Weak Signals: 2023_24/year-2/t1/atlas_of_weak_signals_2022_23_(aows)/index.md
-        - Tech Beyond The Myth: 2023_24/year-2/t1/tech_beyond_the_myth_2022_23/index.md
-        - Living With Your Own Ideas: 2023_24/year-2/t1/living_with_your_own_ideas_2022_23/index.md
-        - Biology & Agri 0: 2023_24/year-2/t1/biology_&_agri_zero_2022_23/index.md
-        - Community Engagement: 2023_24/year-2/t1/community_engagement_2022_23/index.md
-        - Extended Intelligences: 2023_24/year-2/t1/extended_intelligences_2022_23/   
+  - Academic Year 2023-24: 2023-24/index.md
+  # - Academic Year 2023-24:
+    # - 2023-24/index.md
+  - Faculty: 2023-24/faculty/index.md
+  - Students: 2023-24/students/index.md
+  # - Research Trip: 2023-24/research-trip/index.md
+  - Year 1:
+    - 2023-24/year-1/index.md
+    - Calendar: 2023-24/year-1/calendar/index.md
+    - Term 1:
+      - 2023-24/year-1/t1/index.md
+      - Design Studio I: 2023-24/year-1/t1/design-studio-i/index.md
+      - Landing: 2023-24/year-1/t1/landing/index.md
+      - Atlas of Weak Signals: 2023-24/year-1/t1/atlas-of-weak-signals/index.md
+      - The Machine Paradox: 2023-24/year-1/t1/the-machine-paradox/index.md
+      - Living With Your Own Ideas: 2023-24/year-1/t1/living-with-your-own-ideas/index.md
+      - Design With Life: 2023-24/year-1/t1/design-with-life/index.md
+      - Design With Others: 2023-24/year-1/t1/design-with-others/index.md
+      - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
+    # - Term 2:
+    #   - 2023-24/year-1/t2/index.md
+    #   - Design Studio Term 2: 2023-24/year-1/t2/design_studio_term2_2022_23/index.md
+    #   - Future Talks: 2023-24/year-1/t2/future_talks_2022_23/index.md
+    #   - Designing for the Next Billion Seconds: 2023-24/year-1/t2/designing_for_the_next_billion_seconds_2022_23/index.md
+    #   - Remixing Materials: 2023-24/year-1/t2/remixing_materials_2022_23/index.md
+    #   - Digital Prototyping for Design: 2023-24/year-1/t2/digital_prototyping_for_design_2022_23/index.md
+    #   - Communicating Ideas: 2023-24/year-1/t2/communicating_ideas_2022_23/index.md
+    #   - Making Sense and Meaning: 2023-24/year-1/t2/making_sense_&_meaning_2022_23/index.md
+    #   - Measuring The World: 2023-24/year-1/t2/measuring_the_world_2022_23/index.md
+    # - Term 3:
+    #   - 2023-24/t3/index.md
+    #   - Design Studio Term 3: 2023-24/year-1/t3/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
+    #   - Distributed Design: 2023-24/year-1/t3/distributed_design_2022_23/index.md
+    #   - Design Ethics: 2023-24/year-1/t3/design_ethics_2022_23/index.md
+    #   - Critical Transfeminist Design: 2023-24/year-1/t3/critical_transfeminist_design_2022_23/index.md
+    #   - Collective Intelligence: 2023-24/year-1/t3/collective_intelligence_2022_23/index.md
+    #   - MDEFest 2023: 2023-24/year-1/t3/mdefest_2022_23/index.md
+  - Year 2:
+    - 2023-24/year-2/index.md
+    - Calendar: 2023-24/year-2/calendar/index.md
+    - Term 1:
+      - 2023-24/year-2/t1/index.md
   # - Previous Years:
   #   - Main: previous_years/index.md
   #   - Academic Year 2022-23:
@@ -216,7 +208,7 @@ theme:
   language: 'en'
   name: 'material'
   font:
-    text: Roboto
+    text: Space Grotesk
   features:
     - navigation.instant
     - navigation.indexes
@@ -228,27 +220,30 @@ theme:
     - search.share
     - search.suggest
     - content.tooltips
+    - content.tabs.link
   custom_dir: 'custom_theme'
   palette:
     # See assets/stylesheets/extra.css file for the color definitions
     # Palette toggle for light mode
-    - scheme: primary
-      toggle:
-        icon: material/weather-lightning
-        name: Switch to dark mode
-    # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/crystal-ball
         name: Switch to light mode
-  # Logo is not yet available
-  # logo: 'assets/images/logo.svg'
-  # favicon: 'assets/images/favicon.ico'
+    # Palette toggle for dark mode
+    - scheme: primary
+      toggle:
+        icon: material/weather-lightning
+        name: Switch to dark mode
+  logo: assets/mdef.svg
+  favicon: assets/images/mdef-favicon.svg
   icon:
     repo: fontawesome/brands/git-alt
 
 extra_css:
   - assets/stylesheets/extra.css
+  - https://unicons.iconscout.com/release/v3.0.3/css/line.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
+
 
 extra:
   social:
@@ -260,7 +255,7 @@ extra:
       link: 'https://www.github.com/fablabbcn/'
   # project: ''
   # footer_logo: '/assets/images/eu-flag.png'
-  fullscreen_button: true
+  fullscreen_button: false
 
 plugins:
   - macros
@@ -295,7 +290,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - attr_list
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.extra
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
