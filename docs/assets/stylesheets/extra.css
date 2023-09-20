@@ -148,6 +148,15 @@ button.fullscreen_button:hover{
     border-radius: 10px;
 }
 
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+	border-radius: 10px 10px 0px 0px;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__output {
+	border-radius: 0px 0px 10px 10px;
+}
+
+
 /* ----------MODULE BANNERS---------- */
 
 /* Container holding the image and the text */
@@ -160,7 +169,7 @@ button.fullscreen_button:hover{
 
 .banner-image {
     opacity: 0.4;
-    aspect-ratio: 16/7;
+    aspect-ratio: 3/2;
     object-fit: cover;
     object-position: 50% 25%;
     overflow: hidden;
@@ -286,7 +295,16 @@ button.fullscreen_button:hover{
 
 .md-typeset .tabbed-set {
 	background-color: #4983ff29;
-	padding: 10px 20px;
+	padding: 5px 20px;
+}
+
+.md-typeset .tabbed-control--next {
+	background: #4983ff00;
+    padding-right: 5px;
+}
+
+.md-typeset .tabbed-control--prev {
+    background: #4983ff00;
 }
 
 /* ----------CONTENT TABS (SCHEDULES)---------- */
@@ -400,6 +418,7 @@ button.fullscreen_button:hover{
     border-style: solid;
     background-color: #4983ff29;
     padding: 20px 10px;
+    /* visibility: hidden; */
 }
 .highlight-section {
     display: grid;

@@ -7,8 +7,6 @@ site_url: https://emergentfutures.fablabbcn.org
 
 nav:
   - Academic Year 2023-24: 2023-24/index.md
-  # - Academic Year 2023-24:
-    # - 2023-24/index.md
   - Faculty: 2023-24/faculty/index.md
   - Students: 2023-24/students/index.md
   # - Research Trip: 2023-24/research-trip/index.md
@@ -27,27 +25,52 @@ nav:
       - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
     # - Term 2:
     #   - 2023-24/year-1/t2/index.md
-    #   - Design Studio Term 2: 2023-24/year-1/t2/design_studio_term2_2022_23/index.md
-    #   - Future Talks: 2023-24/year-1/t2/future_talks_2022_23/index.md
-    #   - Designing for the Next Billion Seconds: 2023-24/year-1/t2/designing_for_the_next_billion_seconds_2022_23/index.md
-    #   - Remixing Materials: 2023-24/year-1/t2/remixing_materials_2022_23/index.md
-    #   - Digital Prototyping for Design: 2023-24/year-1/t2/digital_prototyping_for_design_2022_23/index.md
-    #   - Communicating Ideas: 2023-24/year-1/t2/communicating_ideas_2022_23/index.md
-    #   - Making Sense and Meaning: 2023-24/year-1/t2/making_sense_&_meaning_2022_23/index.md
-    #   - Measuring The World: 2023-24/year-1/t2/measuring_the_world_2022_23/index.md
+    #   - Design Studio II: 2023-24/year-1/t2/design-studio-ii/index.md
+    #   - Future Talks: 2023-24/year-1/t2/future-talks/index.md
+    #   - Design Dialogues: 2023-24/year-1/t2/design-dialogues/index.md
+    #   - Designing for the Next Billion Seconds: 2023-24/year-1/t2/designing-for-the-next-billion-seconds/index.md
+    #   - Making Sense and Meaning: 2023-24/year-1/t2/making-sense-and-meaning/index.md
+    #   - Communicating Ideas: 2023-24/year-1/t2/communicating-ideas/index.md
+    #   - Designing with Collective Intelligence: 2023-24/year-1/t2/designing-with-collective-intelligence/index.md
+    #   - Designing with Extended Intelligences: 2023-24/year-1/t2/designing-with-extended-intelligences/index.md
+    #   - Measuring The World: 2023-24/year-1/t2/measuring-the-world/index.md
+    #   - Digital Prototyping for Design: 2023-24/year-1/t2/digital-prototyping-for-design/index.md
     # - Term 3:
-    #   - 2023-24/t3/index.md
-    #   - Design Studio Term 3: 2023-24/year-1/t3/design_studio_03_from_alternative_presents_to_emerging_futures_2022_23/index.md
-    #   - Distributed Design: 2023-24/year-1/t3/distributed_design_2022_23/index.md
-    #   - Design Ethics: 2023-24/year-1/t3/design_ethics_2022_23/index.md
-    #   - Critical Transfeminist Design: 2023-24/year-1/t3/critical_transfeminist_design_2022_23/index.md
-    #   - Collective Intelligence: 2023-24/year-1/t3/collective_intelligence_2022_23/index.md
-    #   - MDEFest 2023: 2023-24/year-1/t3/mdefest_2022_23/index.md
+    #   - 2023-24/year-1/t3/index.md
+    #   - Design Studio III: 2023-24/year-1/t3/design-studio-iii/index.md
+    #   - Future Talks: 2023-24/year-1/t3/future-talks/index.md
+    #   - Design Ethics: 2023-24/year-1/t3/design-ethics/index.md
+    #   - Critical Transfeminist Design: 2023-24/year-1/t3/critical-transfeminist-design/index.md
+    #   - Communicating Ideas: 2023-24/year-1/t3/communicating-ideas/index.md
+    #   - Atlas of Weak Signals: 2023-24/year-1/t3/atlas-of-weak-signals/index.md
+    #   - Emergent Economies: 2023-24/year-1/t3/emergent-economies/index.md
+    #   - MDEFest 2023: 2023-24/year-1/t3/mdefest/index.md
+    #   - Digital Prototyping for Design: 2023-24/year-1/t3/digital-prototyping-for-design/index.md
   - Year 2:
     - 2023-24/year-2/index.md
     - Calendar: 2023-24/year-2/calendar/index.md
     - Term 1:
       - 2023-24/year-2/t1/index.md
+      - Thesis Project: 2023-24/year-2/t1/thesis-project/index.md
+      - Circular Design in the Built Environment: 2023-24/year-2/t1/circular-design-in-the-built-environment/index.md
+      - Business Innovation: 2023-24/year-2/t1/business-innovation/index.md
+      - Research Methods: 2023-24/year-2/t1/research-methods/index.md
+      - Interaction and Prototyping: 2023-24/year-2/t1/interaction-and-prototyping/index.md
+      - Additive Manufacturing: 2023-24/year-2/t1/additive-manufacturing/index.md
+      - Agroecology: 2023-24/year-2/t1/agroecology/index.md
+    # - Term 2:
+    #   - 2023-24/year-2/t2/index.md
+    #   - Thesis Project: 2023-24/year-2/t2/thesis-project/index.md
+    #   - Research Methods: 2023-24/year-2/t2/research-methods/index.md
+    #   - Urban Shift: 2023-24/year-2/t2/urban-shift/index.md
+    #   - Interaction and Prototyping: 2023-24/year-2/t2/interaction-and-prototyping/index.md
+    # - Term 3:
+    #   - 2023-24/year-2/t3/index.md
+    #   - Thesis Project: 2023-24/year-2/t3/thesis-project/index.md
+    #   - Emergent Economies: 2023-24/year-2/t3/emergent-economies/index.md
+    #   - Research Methods: 2023-24/year-2/t3/research-methods/index.md
+    #   - Urban Shift: 2023-24/year-2/t3/urban-shift/index.md
+
   # - Previous Years:
   #   - Main: previous_years/index.md
   #   - Academic Year 2022-23:
@@ -238,12 +261,10 @@ theme:
   favicon: assets/images/mdef-favicon.svg
   icon:
     repo: fontawesome/brands/git-alt
-
 extra_css:
   - assets/stylesheets/extra.css
   - https://unicons.iconscout.com/release/v3.0.3/css/line.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
-
 
 extra:
   social:
@@ -299,3 +320,4 @@ extra_javascript:
   - 'https://buttons.github.io/buttons.js'
   - 'assets/javascripts/extra.js'
   - 'assets/javascripts/google-drive.js'
+  - 'assets/javascripts/toc-override.js'

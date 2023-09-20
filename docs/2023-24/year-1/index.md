@@ -1,5 +1,5 @@
 <div class="banner-modules">
-    <img class="banner-image" src="/assets/images/people-working.jpg" alt="Year 1">
+    <img class="banner-image" src="https://live.staticflickr.com/65535/53038360051_7fa16770ab_o.jpg" alt="Year 1">
     <h1 class="module-title">Year 1</h1>
 </div>
 

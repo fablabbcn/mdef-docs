@@ -1,14 +1,7 @@
----
-hide:
-    - navigation
----
-
-# Academic Year 2023-24
-
-![](/assets/images/people-working.jpg)
-![](image/mdef_main.jpg)
-
-## Program overview
+<div class="banner-modules">
+    <img class="banner-image" src="https://live.staticflickr.com/65535/53038845703_39a3e5decc_o.jpg" alt="The Design for Emergent Futures Approach">
+    <h1 class="module-title">The Design for Emergent Futures Approach</h1>
+</div>
 
 Welcome to the Mdef Library where you will be finding all the information of the Master programs throughout the years.
 
@@ -22,40 +15,4 @@ The practical and theoretical aspects of the Master are combined to develop a po
 
 Previous graduates of MDEF have proceeded to work in the subjects in which they specialised during the master. Specialist subjects ranged greatly – from understanding democratic governance and trust; questioning our food systems and how they will look in the future; new material development through synthetic biology; training fungi to consume chemical composites amongst many other varied topics facilitated by the unique environment created by the Master and Faculty.
 
-The Master in Design for Emergent Futures approach has been developed out of the Exploring Emergent Futures platform at the Royal College of Art, London, a program developed by James Tooze and Tomas Diez since 2015. MDEF is dedicated to scaling up the impact of maker practices and reimaging how design can be central to enacting a paradigm shift towards preferred plural futures.  
-
-The MDEF program is further outlined on this website. You can check back as new course information becomes available. If you need to consult general program information, you can see the [program booklet](https://iaac.net/wp-content/uploads/2022/11/MDEF-Booklet.pdf).
-
-Here you will also find the reading list, infrastructure, materials list, and contact list.
-
-## Tracks
-
-The Master is structured around four conceptual dimensions: Exploration, Instrumentation, Reflection and Application. These four tracks provide designers with the strategic vision and tools to work at multiple scales in the real world. The theoretical and practical content in the program recognises and explores the possibilities of disruptive technologies: digital fabrication, blockchain, synthetic biology, Artificial Intelligence and others.
-
-### :fontawesome-solid-terminal: Instrumentation
-
-Students learn a modular set of maker skills and tools and how these can be used in the design process to translate their ideas into prototypes and prototypes into products. Skills include coding, digital fabrication, hardware design, synthetic biology, and computational thinking
-
-### :fontawesome-solid-magnifying-glass: Exploration
-
-Students are exposed to a set of technologies and sociocultural phenomena that have the capacity to disrupt our present understanding of society, industry and the economy.
-
-### :fontawesome-solid-lightbulb: Reflection
-
-Students are supported through individual and group reflection sessions to develop their own identity and skill set, knowledge and attitude as designers.
-
-### :fontawesome-solid-flask: Application
-
-Students create design responses to explore their curiosities through innovation. They are encouraged to be creative and follow a culture of making where prototyping acts as a generator of knowledge and experimentation is crucial for problem solving.
-
-## Recommendations
-
-Be supportive. Encourage and support your fellow students. No one here is looking for your criticism, cynicism, advice, or judgment. (We can get those things on the rest of the Internet).
-
-Share generously. Your stories and experiences may be exactly what another student needs to hear today to solve a problem or seize an opportunity.
-
-Be constructive. We’re here to push each other forward and lift each other up. Find ways to help each other think bigger, reframe challenges, and stay curious.
-
-Don’t spam, promote, or troll.  MDEF Barcelona 2022 exists to help you learn. It’s not a place to spam, promote, or bully anyone else.
-
-Keep an open mind. Yep, this isn't your average University course - you wouldn't be here if it was. You are encouraged at all times to keep your mind open and flexible. Embrace change, embrace the unusual - and trust the process.
+The Master in Design for Emergent Futures approach has been developed out of the Exploring Emergent Futures platform at the Royal College of Art, London, a program developed by James Tooze and Tomas Diez since 2015. MDEF is dedicated to scaling up the impact of maker practices and reimaging how design can be central to enacting a paradigm shift towards preferred plural futures.
