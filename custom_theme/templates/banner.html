@@ -1,0 +1,14 @@
+{% if feature_img is defined %}
+<div class="banner-modules">
+    <img class="banner-image" src="{{ feature_img }}" alt="{{ title }}">
+    <h1 class="module-title">{{ title }}</h1>
+    {% if page_type == 'course' %}
+        <h2 class="module-track"><span class="track-category">
+            {{ banner_icon }}
+            {{ track }}
+            </span>
+            Track
+        </h2>
+    {% endif %}
+</div>
+{% endif %}

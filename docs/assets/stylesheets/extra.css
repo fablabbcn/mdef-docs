@@ -1,10 +1,13 @@
 /* ----------INDEX---------- */
 /* ----------GENERAL---------- */
 /* ----------FULL SCREEN---------- */
-/* ----------TOC MENU---------- */
+/* ----------MENUS---------- */
 /* ----------MODULE BANNERS---------- */
 /* ----------FACULTY CARDS---------- */
+/* ----------STUDENTS---------- */
 /* ----------TABLES---------- */
+/* ----------CONTENT TABS (SCHEDULES)---------- */
+/* ----------HIGHLIGHT SECTIONS---------- */
 /* ----------MEDIA QUERIES---------- */
 
 
@@ -156,7 +159,6 @@ button.fullscreen_button:hover{
 	border-radius: 0px 0px 10px 10px;
 }
 
-
 /* ----------MODULE BANNERS---------- */
 
 /* Container holding the image and the text */
@@ -171,7 +173,7 @@ button.fullscreen_button:hover{
     opacity: 0.4;
     aspect-ratio: 3/2;
     object-fit: cover;
-    object-position: 50% 25%;
+    object-position: 50% 50%;
     overflow: hidden;
 }
 
@@ -264,11 +266,8 @@ button.fullscreen_button:hover{
 
 .md-typeset hr.divider-faculty {
     border-bottom: 2px solid var(--md-typeset-table-color);
+    margin: 50px 0px 50px 0px;
 }
-
-/* .md-typeset a {
-    font-weight: 600;
-} */
 
 .socials-faculty {
     padding-right: 10px;
@@ -277,6 +276,78 @@ button.fullscreen_button:hover{
 .md-typeset a.socials-faculty {
     color: var(--md-typeset-color);
     opacity: 50%;
+}
+
+.faculty-content {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 175px;
+}
+
+.faculty-content-bottom p {
+    margin-bottom: 0px;
+}
+
+/* ----------STUDENTS---------- */
+
+.student-block {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	justify-self: center;
+	flex-direction: column;
+	height: 330px;
+}
+
+.student-logo {
+    fill: var(--md-accent-fg-color);
+    width: 130px;
+    padding-bottom: 10px;
+}
+.student-icon-container {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0.264);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+}
+.student-image {
+    width: 150px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    padding: 0px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    overflow: hidden;
+    filter: grayscale(100%);
+}
+.student-image-container {
+    border: var(--md-accent-fg-color) solid 2px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    background-color: #4983ff29;
+}
+
+.student-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-gap: 0px;
+    align-items: center;
+    justify-content: start;
+}
+h2.student-name {
+    text-align: center;
+    font-size: 16px;
 }
 
 /* ----------TABLES---------- */
@@ -293,6 +364,9 @@ button.fullscreen_button:hover{
     color: var(--md-primary-fg-color--light);
 }
 
+
+/* ----------CONTENT TABS (SCHEDULES)---------- */
+
 .md-typeset .tabbed-set {
 	background-color: #4983ff29;
 	padding: 5px 20px;
@@ -306,13 +380,6 @@ button.fullscreen_button:hover{
 .md-typeset .tabbed-control--prev {
     background: #4983ff00;
 }
-
-/* ----------CONTENT TABS (SCHEDULES)---------- */
-
-/* .tabbed-set {
-    border: var(--md-accent-fg-color) 2px;
-    border-style: solid none;
-} */
 
 /* ----------HIGHLIGHT SECTIONS---------- */
 
@@ -418,7 +485,6 @@ button.fullscreen_button:hover{
     border-style: solid;
     background-color: #4983ff29;
     padding: 20px 10px;
-    /* visibility: hidden; */
 }
 .highlight-section {
     display: grid;

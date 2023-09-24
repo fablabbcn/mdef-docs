@@ -1,8 +1,16 @@
-<div class="banner-modules">
-    <img class="banner-image" src="images/community_engagment_1.png" alt="Design With Others">
-    <h1 class="module-title">Design With Others</h1>
-    <h2 class="module-track">Track | <span class="track-category"><i class="fa fa-solid fa-lightbulb"></i>  Reflection</span></h2>
-</div>
+---
+title: Design With Others
+track: Reflection
+feature_img: images/community_engagment_1.png
+page_type: course
+faculty:
+    - holon
+    - merce-rua
+    - merkel-cormenzana
+    - milena-calvo
+---
+
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -171,62 +179,4 @@ https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf
 
 ## Faculty
 
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="http://www.holon.cat/wp-content/uploads/2018/08/eye-crater.png" alt="Holon">
-    </div>
-    <h3 class="name">Holon</h3>
-    <h3>Non-profit Cooperative</h3>
-</div>
-
-[:fontawesome-solid-link:](www.holon.cat){.socials-faculty}
-[:fontawesome-brands-instagram:](https://www.instagram.com/weareholon/){.socials-faculty}
-<br clear="left">
-
-Holon emerges in 2014 as a proposal from the design community to what we see is humanity in transition.
-
-From non-profit cooperatives, associations, and foundations transforming sectors such as housing or energy, to local SMEs exploring the circular economy, to programs of the United Nations working on eco-innovation or international corporations defining how sustainability fits companies of their size. We exist to help these organizations become the new normal through design. We work to align their organizational goals with the needs of the people they serve and their social and environmental context. From experiences to the ecosystem, we shape the everyday life of transitions.
-
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/merkel_cormenzana.jpg" alt="Merkel Cormenzana">
-    </div>
-    <h3 class="name">Merkel Cormenzana</h3>
-    <h3>Mechanical Engineer, University of the Basque Country & University of Southern Denmark (SDU)</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:markel@holon.cat){.socials-faculty}
-<br clear="left">
-
-Markel Cormenzana, Transition Designer. Mechanical Engineer specialized in Product Development from the University of the Basque Country and the University of Southern Denmark (SDU). Ma Advanced Design Studies (UPC-UB). He has channeled his professional activity towards designing (product, service, systems, UX...) and innovating to dance with the complex social, economic and environmental challenges we face as a civilization. He is also a regular guest teacher at several design schools in Barcelona such as IED, BAU, Elisava or ESDESIGN.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/merce_rua.jpg" alt="Mercè Rua">
-    </div>
-    <h3 class="name">Mercè Rua</h3>
-    <h3>Researcher and Design Strategist at Holon.cat</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:merce@holon.cat){.socials-faculty}
-[:fontawesome-brands-instagram:](https://www.instagram.com/merce.rua/){.socials-faculty}
-<br clear="left">
-
-Mercè Rua Farges is a researcher and design strategist at Holon.cat. With a multidisciplinary profile, at the crossroads between the social sciences, design, and the performing arts, she works to train and accompany organizations in their efforts to prosper by favoring a positive impact on society and the environment. Her passion is bringing people and teams together to bring out their collective intelligence and alignment to drive change.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/merkel_cormenzana.jpg" alt="Milena Calvo Juarez">
-    </div>
-    <h3 class="name">Milena Calvo Juarez</h3>
-    <h3>Communities Expert</h3>
-</div>
-
-[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/milena-calvo-juarez-b6785baa/){.socials-faculty}
-<br clear="left">
-
-Milena Juarez is a Brazilian environmental engineer with a master’s in Interdisciplinary Studies in Environmental, Economic and Social Sustainability and specialization in Urban and Industrial Ecology at the Universitat Autònoma de Barcelona. With a large experience in research, Milena has been actively involved in various interdisciplinary research projects in the field of circular economy, resilient cities, co-creation, and sustainable food. She currently coordinates the Barcelona pilot for CENTRINNO EU project at IAAC and works as an action researcher for the REFLOW and FOODSHIFT EU projects. As one of the responsible for community engagement at Fab Lab Barcelona, Milena supports the local activities at the Fab City Hub, a co-creation distributed space to design the future for urban self-sufficiency.
+{{ insert_faculty() }}

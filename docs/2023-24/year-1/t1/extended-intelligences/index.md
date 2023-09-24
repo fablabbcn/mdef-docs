@@ -1,13 +1,14 @@
+---
+title: Extended Intelligences
+track: Exploration
+feature_img: images/extended_intelligences_4.png
+page_type: course
+faculty:
+    - ramon-sanguesa
+    - pau-artigas
+---
 
-# Extended Intelligences
-
-![](images/extended_intelligences_4.png)
-
-## Track
-Exploration
-
-## Faculty
- Taller Estampa, Lucas Lorenzo Pena, Ramon Sanguesa
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -28,84 +29,62 @@ Learn to use technical tools to run some AI programs.
 
 Understand the current proposals in designing with/for/ Extended Intelligence.
 
-## When  
-Monday 29th November to Friday 9th of December
-All the sessions will be in person at IAAC, except a visit, that is still to be defined.
+## Schedule
 
-### November 29th Tuesday
-#### Lucas Pena  + Ramon Ramon Sangüesa
+=== "29/11"
 
-The real AI: what is is, what is not and what it could be.
+    ### Lucas Pena  + Ramon Ramon Sangüesa
 
-Intro to Machine Learning Different Methods  (theory and examples, no programming)
+    The real AI: what is is, what is not and what it could be.
 
-First round of project ideation
+    Intro to Machine Learning Different Methods  (theory and examples, no programming)
 
-### November 30th Wednesday
-#### Lucas Pena  + Ramon Ramon Sangüesa
+    First round of project ideation
 
-Design and AI: designing autonomous intelligent “others”. Main dimensions. Interaction. Design Values. Methodologies: posthuman design, Van Allens chamanistic design
+=== "30/11"
 
-Ethical impacts. Practical work on the students project ideas.  Sharing and critique.
+    ### Lucas Pena  + Ramon Ramon Sangüesa
 
-Pushing for speculation and Futures
+    Design and AI: designing autonomous intelligent “others”. Main dimensions. Interaction. Design Values. Methodologies: posthuman design, Van Allens chamanistic design
 
-### December 1st Thursday
-#### Estampa
-Reflection about AI and contemporary visual culture. Datasets.
+    Ethical impacts. Practical work on the students project ideas.  Sharing and critique.
 
-Intro to Colab + basic code concepts
+    Pushing for speculation and Futures
 
-2h visit (to be decided)
+=== "1/12"
 
-### December 2nd Friday
+    ### Estampa
 
-#### Estampa
+    Reflection about AI and contemporary visual culture. Datasets.
 
-AI and artistic projects.
+    Intro to Colab + basic code concepts
 
-GAN Colab + link to other resources
+    2h visit (to be decided)
 
-Student work/Support
+=== "2/12"
 
-### December 7th Wednesday
-#### Estampa
+    ### Estampa
 
-Student work/Support
+    AI and artistic projects.
 
-### December 1st Thursday
-#### Lucas Pena + Ramon Ramon Sangüesa + Estampa
+    GAN Colab + link to other resources
 
-Students presentation of students work in progress
+    Student work/Support
 
-Feedback
+=== "7/12"
 
+    ### Estampa
 
+    Student work/Support
 
+=== "1/12"
 
+    ### Lucas Pena + Ramon Ramon Sangüesa + Estampa
 
+    Students presentation of students work in progress
 
+    Feedback
 
-## Ramon Sangüesa
+## Faculty
 
-[](/assets/images/faculty_photos/ramon_sanguesa.jpg)
-
-Ramon Sangüesa has been doing research in Artificial Intelligence for more than 20 years specializing in Machine Learning, Uncertain Reasoning, and Multiagent Systems. He is a professor at the Technical University of Catalonia (on academic leave) and now works as the Head of Technology Research at the Elisava Design and Engineering School. He has been a visiting professor and researcher at Columbia University in NYC and Toronto University. He has been involved in Digital Social Innovation for years, being one of the creators of Citilab (Citizen’s lab) in Barcelona’s first director of innovation.
-
-Email: rsanguesa@elisava.net
-Twitter: @ramonsang
-Publications: https://www.cs.upc.edu/~sanguesa/PDFCVRAmonSanguesaL.pdf
-
-## Lucas Lorenzo Peña
-
-[](/assets/images/faculty_photos/lucas_lorenzo_pena.jpg)
-
-Lucas is a full-stack software engineer, creative technologist, UX designer, and principal at Futurity Studio. In his studio, he investigates speculative design and technology experiences related to human-machine and machine-machine decision making, embodied cognition and future interfaces, and the socio-cultural impacts of artificial and machine intelligence.
-
-He has an academic background in human-computer interaction, cognitive science, interaction design, information security, and software engineering. His 7 years of industry experience ranges from collaborations with small teams on physical installations, to working with R&D teams and institutions on digital experiences and platforms. He has worked with teams at the EU Policy Lab, Nike, NASA, and Telefonica - Alpha Innovation.
-
-Email: LucasLPena@gmail.com
-Website: Lucaslorenzo.com
-Twitter: @lucaslorenzop
-Instagram: @digital.faust
-Linkedin: n/lucaslpena
+{{ insert_faculty() }}

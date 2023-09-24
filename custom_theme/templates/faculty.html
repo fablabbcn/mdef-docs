@@ -1,0 +1,22 @@
+<div class="faculty-card">
+    {% if feature_img is not none %}
+    <div class="faculty-image">
+        <img class="faculty-photo" src="{{ feature_img }}" alt="{{ name }}">
+    </div>
+    {% endif %}
+    <div class="faculty-content">
+        <div class="faculty-content-top">
+            <h3 class="name">{{ name }}</h3>
+            {% if role is not none %}
+            <h4>{{ role }}</h4>
+            {% endif %}
+        </div>
+        <div class="faculty-content-bottom">
+            {% if socials["email"] is not none %}
+                <p>test</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{{ body }}
+<hr class="divider-faculty" />

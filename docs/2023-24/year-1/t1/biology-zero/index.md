@@ -1,8 +1,14 @@
-<div class="banner-modules">
-    <img class="banner-image" src="images/bio&agri_2.png" alt="Design With Life">
-    <h1 class="module-title">Design With Life</h1>
-    <h2 class="module-track">Track | <span class="track-category"><i class="fa fa-solid fa-magnifying-glass"></i>  Exploration</span></h2>
-</div>
+---
+title: Biology Zero
+track: Exploration
+feature_img: images/bio&agri_2.png
+page_type: course
+faculty:
+    - nuria-conde
+    - jonathan-minchin
+---
+
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -113,31 +119,4 @@ Access to the means experimentation for the investigative and applied sciences w
 
 ## Faculty
 
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/nuria_conde.jpg" alt="Nuria Conde">
-    </div>
-    <h3 class="name">Nuria Conde</h3>
-    <h3>Expert in bioinformatics and co-director of the Complex Systems research group at Universitat Pompeu Fabra</h3>
-</div>
-<!-- [Email](mailto:nuriacondepueyo@gmail.com) -->
-<br clear="left">
-
-Nuria is a post-doctoral researcher at Complex Systems Laboratory at Universitat Pompeu Fabra (UPF) in the PRBB. She holds a major in Biology and engineering in informatics and performed her research thesis about Biocomputation, which is at the interface of both fields. Nuria teaches biology for architects, artists, and designers of IAAC, Elisava, or Massana universities and is a founder member of the DIYBioBcn, the first biohacking group of Spain.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/jonathan_minchin.jpg" alt="Jonathan Minchin">
-    </div>
-    <h3 class="name">Jonathan Minchin</h3>
-    <h3>Civic Ecology Strategic Advisor</h3>
-</div>
-
-<!--[Email](tomasdiez@iaac.net) -->
-[:fontawesome-solid-link:](http://tomasdiez.com/){.socials-faculty}
-[:fontawesome-brands-twitter:](https://twitter.com/tomasdiez){.socials-faculty}
-[:fontawesome-brands-facebook:](https://www.facebook.com/tomasdiez77){.socials-faculty}
-<br clear="left">
-
-MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010, has worked with development projects alongside Habitat for Humanity - Costa Rica, UNESCO - Cuba, Basic Initiative - Tunisia, and with UN Habitat in Barcelona. He began the Green Fab Lab at IAAC Valldaura Labs campus in Barcelona in 2013, engaging the ‘Fab Academy’ and ‘Bio Academy’ programs. His ongoing projects include Open Source Beehives (OSBH), Robotics for Micro Farms (ROMI), the Zero Series circular economy workshops, and OpenLab.org.
+{{ insert_faculty() }}

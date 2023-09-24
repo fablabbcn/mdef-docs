@@ -1,15 +1,16 @@
-<!-- ---
+---
 title: Design Studio I
-course_info:
-    - faculty: mariana-quintero
-    - track: reflection
-    - feature_img: images/atlas_of_weak_signal_2.png
---- -->
-<div class="banner-modules">
-    <img class="banner-image" src="https://fablabbcn.github.io/mdef-docs/image/mdef_main.jpg" alt="Design Studio I">
-    <h1 class="module-title">Design Studio I</h1>
-    <h2 class="module-track"><span class="track-category"><svg class="fa module-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M342.6 9.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l9.4 9.4L28.1 342.6C10.1 360.6 0 385 0 410.5v5.5c0 53 43 96 96 96h5.5c25.5 0 49.9-10.1 67.9-28.1L448 205.3l9.4 9.4c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-32-32-96-96-32-32zM205.3 256 352 109.3l50.7 50.7-96 96H205.3z"/></svg>Application</span>Track</h2>
-</div>
+track: Application
+feature_img: https://fablabbcn.github.io/mdef-docs/image/mdef_main.jpg
+page_type: course
+faculty:
+    - guillem-camprodon
+    - tomas-diez
+    - alejandra-tothill
+    - roger-guillamany
+---
+
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -160,49 +161,4 @@ To build personal and collective repositories of resources.
 
 ## Faculty
 
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://sustainablebrandsmadrid.com/sb17/wp-content/uploads/2017/04/tomas-diez.jpg" alt="Tomas Diez">
-    </div>
-    <h3 class="name">Tomas Diez</h3>
-    <h4>MDEF Co-Director, Strategic Advisor and IAAC Board Member</h4>
-</div>
-
-<!--[Email](tomasdiez@iaac.net) -->
-[:fontawesome-solid-link:](http://tomasdiez.com/){.socials-faculty}
-[:fontawesome-brands-twitter:](https://twitter.com/tomasdiez){.socials-faculty}
-[:fontawesome-brands-facebook:](https://www.facebook.com/tomasdiez77){.socials-faculty}
-<br clear="left">
-
-Tomas Diez is a Venezuelan Urbanist specialized in digital fabrication and its implications on the future cities and society. He is the co-founder of Fab Lab Barcelona, leads the Fab City Research Laboratory, and is a founding partner of the Fab City Global Initiative. He is the director of the Master in Design for Emergent Futures at the Institute for Advanced Architecture of Catalonia (IAAC) in Barcelona, where he is faculty in urban design and digital fabrication. Tomas is co-founder of other initiatives such as Smart Citizen (open source tools for citizen engagement), Fab City (locally productive, globally-connected cities), Fablabs.io (the listing of fab labs in the world), and StudioP52 (art and design space in Barcelona).
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/mariana_quintero.jpg" alt="Mariana Quintero">
-    </div>
-    <h3 class="name">Mariana Quintero</h3>
-    <h4>Media Arts & Studies, Digital Literacy & Embodied Cognition, MDEF Faculty</h4>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:mariana.quintero@iaac.net){.socials-faculty}
-[:fontawesome-solid-link:](https://mqvlm.github.io/){.socials-faculty}
-<br clear="left">
-
-Multimedia developer, interaction designer & researcher, Mariana Quintero works and develops her practice at the intersection where digital fabrication technologies, digital literacy, and information and computation ethics & aesthetics meet, contributing to projects that investigate how digital information and technologies translate, represent, and mediate knowledge about the world. She is currently a faculty member and part of the strategic team at the Masters in Design for Emergent Futures at IAAC | Fab Lab Barcelona.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/oscar_tomico.jpg" alt="Oscar Tomico">
-    </div>
-    <h3 class="name">Oscar Tomico</h3>
-    <h4>Product Design and Smart Textiles / MDEF Co-Director</h4>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:otomico@elisava.net){.socials-faculty}
-[:fontawesome-solid-link:](https://www.elisava.net/en/teaching-staff){.socials-faculty}
-[:fontawesome-brands-twitter:](https://twitter.com/otomico){.socials-faculty}
-<br clear="left">
-
-Oscar Tomico holds an MSc degree in Industrial Engineering from Polytechnic University of Catalonia (Spain) and a PhD from the same institution, awarded in 2007 with Cum Laude. During his research into Innovation Processes in Product Design, he investigated subjective experience-gathering techniques based on constructivist psychology. After finishing his PhD he worked as a consultant for Telefonica R&D (Barcelona). Tomico joined Eindhoven University of Technology (TU/e) in 2007 as Assistant Professor. He has been a guest researcher and lecturer at AUT Creative technologies (New Zealand), at TaiwanTech (Taiwan), Swedish School of Textiles (Sweden), Institute of Advanced Architecture (Spain), University of Tsukuba, Aalto (Finland) to name a few. During his sabbatical in 2015, he worked as a consultant for the functional textiles department at EURECAT (Spain). He recently (2017) became the head of the Industrial Design Bachelor’s degree program at ELISAVA University School of Design and Engineering of Barcelona.
+{{ insert_faculty() }}

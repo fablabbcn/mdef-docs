@@ -1,9 +1,9 @@
 ---
-hide:
-    - toc
+title: Year 2
+feature_img: https://live.staticflickr.com/65535/52242489344_af96ae1011_o.jpg
 ---
 
-# Year 2
+{{ insert_banner() }}
 
 The second academic year of the MDEF allows students to deepen their training and further develop the final Thesis Project presented at the end of the first academic year. It also allows students to continue their research and innovation agendas using a multiscalar, experimental and realistic approach, and turning the final projects developed in the first year of the program into living platforms for academic research, business development or direct impact on open source communities.
 

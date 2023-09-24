@@ -1,17 +1,15 @@
-<!-- ---
+---
 title: Atlas of Weak Signals
-template: course.html
-course_info:
-    - faculty: mariana-quintero
-    - track: reflection
-    - feature_img: images/atlas_of_weak_signal_2.png
---- -->
+track: Reflection
+feature_img: images/atlas_of_weak_signal_2.png
+page_type: course
+faculty:
+    - alejandra-tothill
+    - sally-bourdon
+    - olga-trevisan
+---
 
-<div class="banner-modules">
-    <img class="banner-image" src="images/atlas_of_weak_signal_2.png" alt="Atlas of Weak Signals">
-    <h1 class="module-title">Atlas of Weak Signals</h1>
-    <h2 class="module-track">Track | <span class="track-category"><i class="fa fa-solid fa-lightbulb"></i>  Reflection</span></h2>
-</div>
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -76,16 +74,4 @@ The goal of this first Weak Signals in the Wild Week is to give the students a g
 
 ## Faculty
 
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/mariana_quintero.jpg" alt="Mariana Quintero">
-    </div>
-    <h3 class="name">Mariana Quintero</h3>
-    <h3>Media Arts & Studies, Digital Literacy & Embodied Cognition, MDEF Faculty</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:mariana.quintero@iaac.net){.socials-faculty}
-[:fontawesome-solid-link:](https://mqvlm.github.io/){.socials-faculty}
-<br clear="left">
-
-Multimedia developer, interaction designer & researcher, Mariana Quintero works and develops her practice at the intersection where digital fabrication technologies, digital literacy, and information and computation ethics & aesthetics meet, contributing to projects that investigate how digital information and technologies translate, represent, and mediate knowledge about the world. She is currently a faculty member and part of the strategic team at the Masters in Design for Emergent Futures at IAAC | Fab Lab Barcelona.
+{{ insert_faculty() }}

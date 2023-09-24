@@ -7,7 +7,7 @@ site_url: https://emergentfutures.fablabbcn.org
 
 nav:
   - Academic Year 2023-24: 2023-24/index.md
-  - Faculty: 2023-24/faculty/index.md
+  - Faculty: faculty/index.md
   - Students: 2023-24/students/index.md
   # - Research Trip: 2023-24/research-trip/index.md
   - Year 1:
@@ -20,7 +20,7 @@ nav:
       - Atlas of Weak Signals: 2023-24/year-1/t1/atlas-of-weak-signals/index.md
       - The Machine Paradox: 2023-24/year-1/t1/the-machine-paradox/index.md
       - Living With Your Own Ideas: 2023-24/year-1/t1/living-with-your-own-ideas/index.md
-      - Design With Life: 2023-24/year-1/t1/design-with-life/index.md
+      - Biology Zero: 2023-24/year-1/t1/biology-zero/index.md
       - Design With Others: 2023-24/year-1/t1/design-with-others/index.md
       - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
     # - Term 2:
