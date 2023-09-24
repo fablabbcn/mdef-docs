@@ -6,3 +6,7 @@ aux/
 __pycache__/
 
 custom_theme/includes/*.html
+
+*.png
+*.jpg
+*.jpeg
