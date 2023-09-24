@@ -42,10 +42,6 @@ def define_env(env):
 
         faculty_path = 'docs/faculty'
 
-        # if os.path.exists(f"docs/faculty/{faculty}.html"):
-            # faculty already was created by somebody else
-        #     return 
-        # else:
         if os.path.exists(f"docs/faculty/{faculty}.md"):
             with open(os.path.join(faculty_path, f'{faculty}.md')) as _file:
                 content = _file.readlines()
@@ -55,8 +51,8 @@ def define_env(env):
                 vbls = frontmatter
                 vbls['body'] = '\n'.join(content[content[1:].index('---\n')+2:])
                 result = template.render(vbls)
-
-                with open(os.path.join(faculty_path, f'{faculty}.html'), 'w') as _file:
+                # TODO add custom_theme as environment variable
+                with open(os.path.join("custom_theme/includes", f'{faculty}.html'), 'w') as _file:
                     _file.write(result)
         else:
             print (f"{faculty}.md not found")
@@ -72,8 +68,9 @@ def define_env(env):
 
             for faculty in env.page.meta['faculty']:
                 create_faculty(faculty)
-                if os.path.exists(f"docs/faculty/{faculty}.html"):
-                    with open(f"docs/faculty/{faculty}.html") as file:
+                # TODO add custom_theme as environment variable
+                if os.path.exists(f"custom_theme/includes/{faculty}.html"):
+                    with open(f"custom_theme/includes/{faculty}.html") as file:
                         result += file.read()
                 else:
                     print (f"{faculty}.html not found")
