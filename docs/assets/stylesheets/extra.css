@@ -464,56 +464,56 @@ h2.student-name {
 }
 
 @media only screen and (min-width: 960px) {
-/* TOC MENU PADDING */
-.md-sidebar--secondary .md-sidebar__scrollwrap {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    padding-bottom: 40px;    
-}
-.md-nav--secondary .md-nav__title {
-	background: none;
-	box-shadow: none;
-	position: sticky;
-	top: 0;
-	z-index: 1;
-}
-.md-nav.md-nav--secondary{
-	border-color:  var(--md-primary-fg-color);
-    border-radius: 10px;
-    border-width: 2px;
-    border-style: solid;
-    background-color: #4983ff29;
-    padding: 20px 10px;
-}
-.highlight-section {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    grid-gap: 15px;
-    align-items: center;
-    justify-content: center;
-}
-.highlight-block {
-    background-color: #4983ff29;
-    width: 100%;
-    height: 475px;
-    padding: 35px;
-    display: grid;
-    grid-template-rows: 1fr 3fr;
-    align-items: flex-start;
-    justify-self: center;
-    align-content: center;
-}
-.icon-highlight-container {
-    scale: 100%;
-}
-.highlight-text h3 {
-    text-align: center;
-    font-size: 1.25em;
-}
+    /* TOC MENU PADDING */
+    .md-sidebar--secondary .md-sidebar__scrollwrap {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        padding-bottom: 40px;    
+    }
+    .md-nav--secondary .md-nav__title {
+        background: none;
+        box-shadow: none;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+    .md-nav.md-nav--secondary{
+        border-color:  var(--md-primary-fg-color);
+        border-radius: 10px;
+        border-width: 2px;
+        border-style: solid;
+        background-color: #4983ff29;
+        padding: 20px 10px;
+    }
+    .highlight-section {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-gap: 15px;
+        align-items: center;
+        justify-content: center;
+    }
+    .highlight-block {
+        background-color: #4983ff29;
+        width: 100%;
+        height: 475px;
+        padding: 35px;
+        display: grid;
+        grid-template-rows: 1fr 3fr;
+        align-items: flex-start;
+        justify-self: center;
+        align-content: center;
+    }
+    .icon-highlight-container {
+        scale: 100%;
+    }
+    .highlight-text h3 {
+        text-align: center;
+        font-size: 1.25em;
+    }
 
-.highlight-text p {
-    font-size: 0.9em;
-}
+    .highlight-text p {
+        font-size: 0.9em;
+    }
 }
