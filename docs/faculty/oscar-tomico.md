@@ -3,7 +3,7 @@ name: Oscar Tomico
 role: Product Design and Smart Textiles / MDEF Co-Director
 feature_img: /assets/images/faculty/oscar-tomico.jpg
 socials:
-    email:
+    email: otomico@elisava.net
     website: https://www.elisava.net/en/teaching-staff
     linkedin:
     twitter: https://twitter.com/otomico

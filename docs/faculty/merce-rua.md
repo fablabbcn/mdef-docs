@@ -4,7 +4,7 @@ role: Researcher and Design Strategist at Holon.cat
 feature_img: /assets/images/faculty/merce-rua.jpg
 socials:
     email: merce@holon.cat
-    website:
+    website: https://www.holon.cat/
     linkedin:
     twitter:
     facebook:

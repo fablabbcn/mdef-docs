@@ -1,9 +1,9 @@
 ---
 name: Mariana Quintero
 role: Media Arts & Studies, Digital Literacy & Embodied Cognition, MDEF Faculty
-feature_img: ../../assets/images/faculty_photos/mariana_quintero.jpg
+feature_img: /assets/images/faculty/mariana-quintero.jpg
 socials:
-    email:
+    email: mariana.quintero@iaac.net
     website: https://mqvlm.github.io/
     linkedin:
     twitter:

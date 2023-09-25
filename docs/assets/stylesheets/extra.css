@@ -246,8 +246,12 @@ button.fullscreen_button:hover{
     object-fit: cover;
     object-position: 50% 50%;
     overflow: hidden;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     filter: grayscale(100%);
+}
+
+.md-typeset .faculty-bio {
+    margin-top: 25px;
 }
 
 .md-typeset .faculty-card h4 {
@@ -270,8 +274,8 @@ button.fullscreen_button:hover{
 }
 
 .socials-faculty {
-    min-width: 22px;
-    height: 22px !important;
+    min-width: 20px;
+    height: 20px !important;
     fill: var(--md-typeset-color);
     position: relative;
     opacity: 50%;
@@ -289,7 +293,7 @@ button.fullscreen_button:hover{
 }
 
 .md-typeset .faculty-content-bottom {
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     display: flex;
     flex-direction: row;
     align-items: flex-end;

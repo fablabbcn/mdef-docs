@@ -1,6 +1,6 @@
 ---
 name: Ramón Sangüesa
-role:
+role: MDEF Faculty / Artificial Intelligence and Machine Learning
 feature_img: /assets/images/faculty/ramon-sanguesa.jpg
 socials:
     email: rsanguesa@elisava.net
