@@ -1,7 +1,7 @@
 ---
 title: Design With Others
 track: Reflection
-feature_img: images/community_engagment_1.png
+feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.png
 page_type: course
 faculty:
     - holon

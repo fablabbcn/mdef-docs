@@ -1,7 +1,7 @@
 ---
 title: Atlas of Weak Signals
 track: Reflection
-feature_img: images/atlas_of_weak_signal_2.png
+feature_img: /assets/images/2023-24/year-1/t-1/atlas-of-weak-signal.png
 page_type: course
 faculty:
     - alejandra-tothill

@@ -1,7 +1,7 @@
 ---
 title: Design Studio I
 track: Application
-feature_img: https://fablabbcn.github.io/mdef-docs/image/mdef_main.jpg
+feature_img: /assets/images/2023-24/year-1/t-1/design-studio-i.png
 page_type: course
 faculty:
     - guillem-camprodon

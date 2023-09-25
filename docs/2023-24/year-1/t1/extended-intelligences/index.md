@@ -1,7 +1,7 @@
 ---
 title: Extended Intelligences
 track: Exploration
-feature_img: images/extended_intelligences_4.png
+feature_img: /assets/images/2023-24/year-1/t-1/extended-intelligences.png
 page_type: course
 faculty:
     - ramon-sanguesa

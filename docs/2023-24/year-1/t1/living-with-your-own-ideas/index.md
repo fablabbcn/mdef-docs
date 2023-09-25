@@ -1,8 +1,15 @@
-<div class="banner-modules">
-    <img class="banner-image" src="images/magic_machines_1.png" alt="Living with Your Own Ideas">
-    <h1 class="module-title">Living with Your Own Ideas</h1>
-    <h2 class="module-track">Track | <span class="track-category"><i class="fa fa-solid fa-lightbulb"></i>  Reflection</span></h2>
-</div>
+---
+title: Living with Your Own Ideas
+track: Reflection
+feature_img: /assets/images/2023-24/year-1/t-1/living-with-your-own-ideas.png
+page_type: course
+faculty:
+    - oscar-tomico
+    - kristina-andersen
+    - angella-mackey
+---
+
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -49,7 +56,6 @@ For the first day (Tuesday) please bring materials for tinkering like paper, old
     Critique and discussion.
 
 
-
 ## Deliverables
 
 Research artifacts, lo-fi version of project/concept, personal reflection.
@@ -87,50 +93,4 @@ Devendorf, L., Andersen, K., & Kelliher, A. (2020). Making Design Memoirs: Under
 
 ## Faculty
 
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/oscar_tomico.jpg" alt="Oscar Tomico">
-    </div>
-    <h3 class="name">Oscar Tomico</h3>
-    <h3>Product Design and Smart Textiles / MDEF Co-Director</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:otomico@elisava.net){.socials-faculty}
-[:fontawesome-solid-link:](https://www.elisava.net/en/teaching-staff){.socials-faculty}
-[:fontawesome-brands-twitter:](https://twitter.com/otomico){.socials-faculty}
-<br clear="left">
-
-Oscar Tomico holds an MSc degree in Industrial Engineering from Polytechnic University of Catalonia (Spain) and a PhD from the same institution, awarded in 2007 with Cum Laude. During his research into Innovation Processes in Product Design, he investigated subjective experience-gathering techniques based on constructivist psychology. After finishing his PhD he worked as a consultant for Telefonica R&D (Barcelona). Tomico joined Eindhoven University of Technology (TU/e) in 2007 as Assistant Professor. He has been a guest researcher and lecturer at AUT Creative technologies (New Zealand), at TaiwanTech (Taiwan), Swedish School of Textiles (Sweden), Institute of Advanced Architecture (Spain), University of Tsukuba, Aalto (Finland) to name a few. During his sabbatical in 2015, he worked as a consultant for the functional textiles department at EURECAT (Spain). He recently (2017) became the head of the Industrial Design Bachelor’s degree program at ELISAVA University School of Design and Engineering of Barcelona.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/kristina_andersen.jpg" alt="Kristina Andersen">
-    </div>
-    <h3 class="name">Kristina Andersen</h3>
-    <h3>Associate Professor at Eindhoven University of Technology</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:h.k.g.andersen@tue.nl){.socials-faculty}
-<br clear="left">
-
-Kristina Andersen is associate professor at the Future Everyday cluster of the Department of Industrial Design. Her work is concerned with how we can allow each other to imagine our possible technological futures through digital craftsmanship and collaborations with semi intelligent machines in the context of material practices of soft fiber-based things. How can we innovate, design and act around that which is yet to be imagined? Who gets to drive innovation processes? And how can we reframe our methodologies to include the complex cultural, political, and personal aspects of life? Can we approach this through making (and thinking) about technology, communities and materials as a way to construct visions of the unknown?
-
-Andersen was based at STEIM for 14 years, she was part of the Making Things Public art research program at the Gerrit Rietveld Academie and lead the Instruments and Interfaces master’s degree program at the Royal Conservatoire in The Hague. She is a longstanding advisor of the Stimuleringsfonds Creatieve Industrie, and currently acts as expert reviewer for H2020, ICT and FET for both application and project reviews. Andersen co-chaired the CHI art 2018, CHI Design paper track 2019 and 2020, and DIS pictorials 2019.
-
-<hr class="divider-faculty" />
-<div class="faculty-card">
-    <div class="faculty-image">
-        <img class="faculty-photo" src="https://fablabbcn.github.io/mdef-docs/assets/images/faculty_photos/angella_mackey.jpg" alt="Angella Mackay">
-    </div>
-    <h3 class="name">Angella Mackay</h3>
-    <h3>Lecturer at the Amsterdam University of Applied Sciences (AUAS)</h3>
-</div>
-
-[:fontawesome-regular-envelope:](mailto:a.m.mackey@hva.nl){.socials-faculty}
-[:fontawesome-brands-linkedin:](https://www.linkedin.com/in/angellamackey/){.socials-faculty}
-<br clear="left">
-
-Angella Mackey is a designer, researcher and educator. She currently works at the Amsterdam University of Applied Sciences (AUAS), teaching Design Processes for the Masters Digital Design (MSc.) program, as well as doing research with the Play and Civic Media research group. She is also a Marie Skłodowska-Curie doctoral fellow at Eindhoven University of Technology and Philips Lighting Research. For over a decade her practise as a designer has investigated wearable technologies in art, research and commercial contexts. She has designed functional garments in a wide range of industries, from medical to commercial space flight, and lectures on the design challenges of integrating electronics into fashion. Most notably, she founded Vega Wearable Light, a line of illuminated outerwear for style-conscious cyclists from 2010-2014.
-
-Mackey's doctoral research focuses on explorations of digital materials combined with fashion and everyday clothing-wearing practices as a means of gaining insight into future smart-garment systems.
+{{ insert_faculty() }}

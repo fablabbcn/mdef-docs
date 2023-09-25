@@ -1,7 +1,7 @@
 ---
 title: Biology Zero
 track: Exploration
-feature_img: images/bio&agri_2.png
+feature_img: /assets/images/2023-24/year-1/t-1/biology-zero.png
 page_type: course
 faculty:
     - nuria-conde
