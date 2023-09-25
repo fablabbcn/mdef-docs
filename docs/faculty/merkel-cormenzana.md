@@ -3,7 +3,7 @@ name: Merkel Cormenzana
 role: Mechanical Engineer, University of the Basque Country & University of Southern Denmark (SDU)
 feature_img: /assets/images/faculty_photos/merkel_cormenzana.jpg
 socials:
-    email: mailto:markel@holon.cat
+    email: markel@holon.cat
     website:
     linkedin:
     twitter:

@@ -270,12 +270,15 @@ button.fullscreen_button:hover{
 }
 
 .socials-faculty {
-    padding-right: 10px;
-}
-
-.md-typeset a.socials-faculty {
-    color: var(--md-typeset-color);
+    min-width: 22px;
+    height: 22px !important;
+    fill: var(--md-typeset-color);
+    position: relative;
     opacity: 50%;
+    vertical-align: bottom;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px 15px 0px 0px;
 }
 
 .faculty-content {
@@ -285,8 +288,11 @@ button.fullscreen_button:hover{
     height: 175px;
 }
 
-.faculty-content-bottom p {
+.md-typeset .faculty-content-bottom {
     margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
 }
 
 /* ----------STUDENTS---------- */

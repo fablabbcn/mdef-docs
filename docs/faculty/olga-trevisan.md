@@ -3,7 +3,7 @@ name: Olga Trevisan
 role: Visual Artist
 feature_img:
 socials:
-    email: mailto:olga.trevisan@iaac.net
+    email: olga.trevisan@iaac.net
     website:
     linkedin: https://www.linkedin.com/in/olga-trevisan-21781160/
     twitter:

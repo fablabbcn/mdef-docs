@@ -3,7 +3,7 @@ name: Ramón Sangüesa
 role:
 feature_img: /assets/images/faculty/ramon-sanguesa.jpg
 socials:
-    email: mailto:rsanguesa@elisava.net
+    email: rsanguesa@elisava.net
     website: https://www.cs.upc.edu/~sanguesa/PDFCVRAmonSanguesaL.pdf
     linkedin:
     twitter: https://twitter.com/ramonsang

@@ -3,7 +3,7 @@ name: Angella Mackay
 role: Lecturer at the Amsterdam University of Applied Sciences (AUAS)
 feature_img: /assets/images/faculty/angella-mackey.jpg
 socials:
-    email: mailto:a.m.mackey@hva.nl
+    email: a.m.mackey@hva.nl
     website:
     linkedin: https://www.linkedin.com/in/angellamackey/
     twitter:

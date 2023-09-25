@@ -3,7 +3,7 @@ name: Jonathan Minchin
 role: Civic Ecology Strategic Advisor
 feature_img: /assets/images/faculty/jonathan-minchin.jpg
 socials:
-    email: mailto:jonathan@ecologicalinteraction.org
+    email: jonathan@ecologicalinteraction.org
     website: https://diybcn.org/
     website: https://www.ecologicalinteraction.org/
     linkedin:

@@ -3,7 +3,7 @@ name: Kristina Andersen
 role: Associate Professor at Eindhoven University of Technology 
 feature_img: /assets/images/faculty/kristina-andersen.jpg
 socials:
-    email: mailto:h.k.g.andersen@tue.nl
+    email: h.k.g.andersen@tue.nl
     website:
     linkedin:
     twitter:
