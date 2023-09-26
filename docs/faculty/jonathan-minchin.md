@@ -6,7 +6,7 @@ socials:
     email: jonathan@ecologicalinteraction.org
     website: https://diybcn.org/
     website: https://www.ecologicalinteraction.org/
-    linkedin:
+    linkedin: https://www.linkedin.com/in/jonathan-minchin-971a0b23/
     twitter: https://twitter.com/eco_interact
     twitter: https://twitter.com/diybiobcn
     facebook:
@@ -14,4 +14,4 @@ socials:
     github:
 ---
 
-Jonathan directs the applied research company Ecological Interaction. Fusing traditional knowledge with modern technology and practice. His farm in the Catalan comarç of Benifallet is an arid land regeneration project focusing on agro ecology techniques, silviculture, traditional construction, and environmental monitoring. Jonathan has supported the Fab Lab Barcelona since 2011, and between 2013 and 2018 he ran ‘Can Valldaura Labs’, an IAAC campus. Whilst living and working on-site and leading weekly volunteer projects, he set up the Green Fab Lab and initiated ecologically driven and rural projects, including ‘Open Source Beehives’, the EU Horizon 2020 program ‘ROMI’ (Robotics for Microfarms). His current work involves Computational agriculture, GIS systems for technology and knowledge transfer, and the development of other observational conservation tools and farming technologies. In the field of ‘International Cooperation, Sustainable Emergency Architecture’ (Msc), he has worked on housing and development projects alongside ‘UN habitat’, ‘Habitat for Humanity’, ‘UNESCO’ and ‘Basic Initiative’. His writing on “Geographic referencing for Technology Transfer” was published in the book “Reflections on Development and Cooperation”. He has studied and taught in the Fab Academy and Bio Academy and set up the Zero Series workshops in Biology and Agro-Ecology alongside DIYbio Barcelona. He teaches in varied IAAC Masters’s programs, including the MDEF of the Fab Lab Barcelona. He has co-founded the Open Lab platform for appropriate technology transfer.
+Jonathan, MSC in ‘International Cooperation, Sustainable Emergency Architecture’ 2010, and coordinated and maintained the Green Fab Lab at IAAC Valldaura Labs campus from Barcelona 2013 and delivered the ‘Fab Academy’, ‘Bio Academy’ and Social Agriculture programs as well as ongoing international and EU research projects that include Open Source Beehives (OSBH), Robotics for Micro Farms (ROMI). Jonathan currently directs the ‘Ecological Interaction’ (Ei) applied research group from a ten hectare operational farm and living lab in the south of catalonia. Current projects include the  ‘Zero Series’ circular economy workshops, computational agriculture programs and OpenLab platform for regionally driven design.
