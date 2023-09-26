@@ -1,13 +1,16 @@
 ---
 title: Design Studio I
-track: Application
-feature_img: /assets/images/2023-24/year-1/t-1/design-studio-i.png
 page_type: course
+track: Application
+course_type: Course
+feature_img: /assets/images/2023-24/year-1/t-1/design-studio-i.jpeg
+img_caption: Design Dialogues, 2022, Barcelona
 faculty:
     - guillem-camprodon
     - tomas-diez
     - alejandra-tothill
     - roger-guillamany
+ects: 12
 ---
 
 {{ insert_banner() }}
@@ -158,6 +161,23 @@ To build personal and collective repositories of resources.
 | 33%         | :fontawesome-solid-check: Design Studio faculties’ combined grade |
 | 33%         | :fontawesome-solid-check: Average grade your peers give you       |
 | 33%         | :fontawesome-solid-check: Completion of your first Thesis draft   |
+
+### IAAC Grading System
+
+| Grade       | Description                                     |
+| ----------- | ------------------------------------            |
+| 0 - 4.9     | Fail (submission of a supplementary work by May)|
+| 5.0 -6.9    | Pass                                            |
+| 7.0 - 8.9   | Good                                            |
+| 9.0 - 10    | Excellent/Distinction                           |
+
+*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
+
+Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Faculty
 

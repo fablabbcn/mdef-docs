@@ -1,11 +1,14 @@
 ---
 title: Extended Intelligences
-track: Exploration
-feature_img: /assets/images/2023-24/year-1/t-1/extended-intelligences.png
 page_type: course
+track: Exploration
+# course_type:
+feature_img: /assets/images/2023-24/year-1/t-1/extended-intelligences.png
+# img_caption:
 faculty:
     - ramon-sanguesa
     - pau-artigas
+ects: 3
 ---
 
 {{ insert_banner() }}
@@ -84,6 +87,12 @@ Understand the current proposals in designing with/for/ Extended Intelligence.
     Students presentation of students work in progress
 
     Feedback
+
+## Grading Methods
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Faculty
 

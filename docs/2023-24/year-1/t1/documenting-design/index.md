@@ -1,10 +1,13 @@
 ---
-title: Documentation as a Narrative Logbook
-track: Reflection
-feature_img: /assets/images/2023-24/year-1/t-1/documentation-as-a-narrative-logbook.png
+title: Documenting Design
 page_type: course
+track: Reflection
+course_type: Short Course
+feature_img: /assets/images/2023-24/year-1/t-1/documentation-as-a-narrative-logbook.png
+img_caption: Leonardo Da Vinci, Codex Atlanticus. Milan | Biblioteca Ambrosiana
 faculty:
     - pablo-zuloaga
+ects: 1
 ---
 
 {{ insert_banner() }}
@@ -30,9 +33,6 @@ By embracing this perspective, students will gain a deeper understanding of how 
 - Case studies
 - Project-based learning
 - Peer learning
-
-### Materials Needs 
-Laptop with Internet Access
 
 ## Schedule
 
@@ -74,19 +74,22 @@ Laptop with Internet Access
     - Addressing specific concerns and doubts related to documentation
     - Final tips and suggestions for long-term sustainability and ongoing website maintenance
 
+## Deliverables
+
+Updated website using the suggested taxonomy structure and the considerations given in class.
 
 ## Grading Method
 
 | Percentage             | Description                         |
 | -----------------------| ------------------------------------|
-| 30% Website Taxonomy| Using the correct Taxonomy in your website to organize the information.|
-| 30% Website Completeness| Having the website updated with the required content at the reviews.|
-| 20% Classmates Assessment| 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.|
-| 20% Personal Reflections| Reflecting in class about the learnings and having the final reflection on the website.|
+| 30% | **Website Taxonomy:** Using the correct Taxonomy in your website to organize the information.|
+| 30% | **Website Completeness:** Having the website updated with the required content at the reviews.|
+| 20% | **Classmates Assessment:** 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.|
+| 20% | **Personal Reflections:** Reflecting in class about the learnings and having the final reflection on the website.|
 
-## Deliverables
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-Updated website using the suggested taxonomy structure and the considerations given in class.
+    {{ ects }} ECTS
 
 ## Faculty 
 

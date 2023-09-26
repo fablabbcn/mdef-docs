@@ -1,12 +1,15 @@
 ---
 title: Atlas of Weak Signals
-track: Reflection
-feature_img: /assets/images/2023-24/year-1/t-1/atlas-of-weak-signal.png
 page_type: course
+track: Reflection
+# course_type:
+feature_img: /assets/images/2023-24/year-1/t-1/atlas-of-weak-signal.png
+# img_caption:
 faculty:
     - alejandra-tothill
     - sally-bourdon
     - olga-trevisan
+ects: 1
 ---
 
 {{ insert_banner() }}
@@ -58,11 +61,14 @@ The goal of this first Weak Signals in the Wild Week is to give the students a g
 
 ## Grading Method
 
-
 | Percentage  | Description                                                           |
 | ----------- | ------------------------------------                                  |
 | 50%         | :fontawesome-solid-check: Participation in the Activities of the Week |
 | 50%         | :fontawesome-solid-check: Final Reflection + Multiscalar Design Space |
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Additional Resources
 

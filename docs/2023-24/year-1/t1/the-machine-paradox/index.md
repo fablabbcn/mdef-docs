@@ -1,13 +1,16 @@
 ---
 title: The Machine Paradox
-track: Instrumentation
-feature_img: /assets/images/2023-24/year-1/t-1/the-machine-paradox.png
 page_type: course
+track: Instrumentation
+# course_type:
+feature_img: /assets/images/2023-24/year-1/t-1/the-machine-paradox.png
+# img_caption:
 faculty:
     - santiago-fuentemilla
     - oscar-gonzalez
     - josep-marti
     - petra-garajova
+ects: 5
 ---
 
 {{ insert_banner() }}
@@ -182,20 +185,22 @@ Involvement, Motivation level, proactive behaviors
 
 Bonus if your artifact doesn´t explode and actually works as expected
 
+### IAAC Grading System
 
-**IAAC Grading System:**
+| Grade       | Description                                     |
+| ----------- | ------------------------------------            |
+| 0 - 4.9     | Fail (submission of a supplementary work by May)|
+| 5.0 -6.9    | Pass                                            |
+| 7.0 - 8.9   | Good                                            |
+| 9.0 - 10    | Excellent/Distinction                           |
 
-• 0 - 4.9 Fail (submission of a supplementary work before the 1st term finish)
+*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
 
-• 5.0 -6.9 Pass
+Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
 
-• 7.0 - 8.9 Good
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-• 9.0 - 10 Excellent/Distinction.
-
-Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered to a max of 5.0. Incomplete submission is considered a missing submission.
+    {{ ects }} ECTS
 
 ### Past Examples
 

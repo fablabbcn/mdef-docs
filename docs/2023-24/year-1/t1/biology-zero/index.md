@@ -1,121 +1,146 @@
 ---
 title: Biology Zero
-track: Exploration
-feature_img: /assets/images/2023-24/year-1/t-1/biology-zero.png
 page_type: course
+track: Exploration
+course_type: Short Course
+feature_img: /assets/images/2023-24/year-1/t-1/biology-zero.png
+img_caption: All Photo Credits | Jonathan Minchin, Nuria Conde and graduate MDEF students
 faculty:
     - nuria-conde
     - jonathan-minchin
+ects: 1
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-The recent growth of the international DIY-Bio / I-GEM and Bio Hackers networks are born of a motivation to narrow the golf between research conducted in institutional and corporate settings and to redirect the scientific locus back towards citizen scientists. The agenda of democratising access to the sciences is shared with that of libre software and open source electronics and maker movements.
+The recent growth of the international DIY-Bio / I-GEM and Bio Hackers networks are born of a motivation to narrow the golf between research conducted in institutional and corporate settings and to redirect the scientific locus back towards citizen scientists. The agenda of democratizing access to the sciences is shared with that of libre software and open source electronics and maker movements. The course will introduce biological design as a creative and transdisciplinary practise that is open to all.
 
-Access to the means experimentation for the investigative and applied sciences will not only change the way we understand and describe the world but also bring forth new knowledge, designs and engineering practises previously constrained to larger scale operations. Through the course, researchers will learn how to identify microorganisms, how to take samples and prepare cultivation medias, how to observe microscopic organisms and to obtain amplify DNA and analyse it. Researchers will be introduced to scientific concepts such as sterility, metabolism, genome, synthetic biology, biochemistry and microbiology. Gaining the ability to makecreative decisions and construct logical frameworks for study and production in the field of biology.
+Access to the means of experimentation for the investigative and applied sciences will not only change the way we understand and describe the world but also bring forth new knowledge, designs and engineering practices. Through the course, researchers will learn how to identify microorganisms, how to take samples and prepare cultivation medias, how to observe microscopic organisms and to design with DNA. Researchers will be introduced to scientific concepts such as sterility, metabolism, genome, synthetic biology, biochemistry and microbiology. Gaining the ability to make creative decisions and construct logical frameworks for study and production in the field of biology.
+
+**Keywords: DIYbio, synthetic biology, biological design**
+
+
+### Learning Objectives
+
+- Become familiarized with DIY-Bio communities, online knowledge bases as well as and practical techniques and resources.
+
+- Gain an understanding of major and relevant biologically driven design principles and how these can be applied practically to real world problems and emergent solutions. 
+
+- Distinguish between research disciplines including biochemistry / molecular biology / material science and Synthetic biology. 
+
+- Attain a capability to differentiate, specify and select relevant researchers and read a scientific papers without misunderstanding. Gain proficiency in making proposals in a general way, based on that research.
+
+- Being able to follow the scientific methodology applied to experimentation to generate new knowledge. To plan, execute and extract the proper conclusions from an experiment.
 
 ## Schedule
 
-=== "18/10"
+=== "07/11"
+
+    **10:00 - 12:00**
+
+    **Theory** - Synthetic Biology
+    
+    **Theory** - Planetary Wellbeing
+
+    **12.15 - 14.15**
+
+    **Practical** - Sampling
+    
+    **Practical** - Making Petris
+
+=== "08/11"
+
+    **10:00 - 12:00**
+
+    **Theory** - Microbiology + Microbiome
+
+    **12.15 - 14.15**
+
+    **Practical** - Microscopy
+
+=== "09/11"
 
     **10-12 pm**
 
-    Theory - Introduction to science of Biology. Scientific method. Focus on microbiology.
+    **Theory** - Cell Building + Genetics
 
     **12.15-14.15 pm**
 
-    Practical - Creating a sterile environment / Preparation sterile petri dishes.
+    **Practical** - Designing a GMO
 
-=== "19/10"
+### Methodological Strategies
 
-    **10-12 pm**
+**Theory Lectures:**
 
-    Theory - Introduction to microscopy, preparation of slide samples.
+- Synthetic BIology / Planetary Wellbeing / Microbiology + Microbiome / Cell Building + Genetics
 
-    **12.15-14.15 pm**
+**Workshops:**
 
-    Practical - microscopy.
+- Designing a Genetically Modified organism
 
-=== "20/10"
+**Practical Experiments:**
 
-    **10-12 pm**
+- Microbe Cultivation / Cultivation Media / Microscopy 
 
-    Theory - Biochemistry and Metabolism definition and the basic pathways.
+**Case Studies:**
 
-    **12.15-14.15 pm**
+- Selecting and developing a hypothetical practical experiment
 
-    Practical - Preparing Liquid Culture: Spirulina and Kombucha. Bioplastics.
+**Scientific Methodology:**
 
-=== "25/10"
+- Task 1: Referencing research, designing an experiment.
 
-    **10-14.15 pm**
+**Practical Experience:**
 
-    PRBB Visit
+- Task 2: Individuals will map out the local micro-biome.
+- Task 3: Small teams of students will work on cultivation medias,
+- Task 4: Individuals will use microscopes to identify organisms.
 
-    **15.00-16.30 pm**
+**Concept Design // Project based Learning:**
 
-    Theory - Reading scientific papers. Thinking about planetary wellbeing.  
+- Task 5: Cell Building and Genetics
 
-    **16.30-18.30 pm**
+**Visual Thinking:**
 
-    Practical - Bioplastics.
-
-=== "26/10"
-
-    **12.15-14.15 pm**
-
-    Theory - Robotics and changes in Agriculture.
-
-    **15.00-16.30 pm**
-
-    Theory - Bees.
-
-=== "27/10"
-
-    **10-12 pm**
-
-    Practical - Soil Microbiome - Winogradsky Columns - Munsel Charts - Texture.
-
-    **12.15-14.15 pm**
-
-    Practical - Measuring NPK and: Spectrophotometry measuring growth.
-
-=== "28/10"
-
-    **10-12 pm**
-
-    Fungi incubator workshop visit.
-
-=== "29/10"
-
-    **10-12 pm**
-
-    Visit CCCB
+- Task 6: (Homework) Visualize a designed experiment.
 
 
 ## Deliverables
 
-**Biology**
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
 
-- A hypothetical yet designed experiment following the scientific method.
+Creatively depict, describe and visualize a ‘**Designed experiment**’ that encompasses class concepts, notes and explores the Scientific method and its processes of hypothesizing, developing and testing. The depiction could be in any form of a poster / diagram / info-graphic or any other media. It should creatively depict the impacts of a newly conceived ‘Genetically Modified Organism’ in the world.
 
-- Scientific paper identification, reading, and synopsis.
+## Grading Method
 
-**Agronomy**
+### IAAC Grading System
 
-- A group species identification datapoint map based on city and forest foraging.
+| Grade       | Description                                     |
+| ----------- | ------------------------------------            |
+| 0 - 4.9     | Fail (submission of a supplementary work by May)|
+| 5.0 -6.9    | Pass                                            |
+| 7.0 - 8.9   | Good                                            |
+| 9.0 - 10    | Excellent/Distinction                           |
+
+*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
+
+Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Additional Resources
 
-[George Church (geneticist). *Wikipedia*.](https://en.wikipedia.org/wiki/George_Church_(geneticist))
+[Regenesis : George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
 
-[Cómo convertirse en un biohacker | Nuria Conde | TEDxBarcelona. *YouTube*.](https://www.youtube.com/watch?v=_kc0IFavUes)
+[TED X Talk : How to convert yourself into a biohacker](https://www.youtube.com/watch?v=_kc0IFavUes&feature=emb_title)
 
-[BioHack Academy](https://assets.waag.org/biohackacademy/)
+[Biohack Academy](http://biohackacademy.github.io/)
 
-[iGEM](https://igem.org/)
+[iGEM](https://igem.org/Main_Page)
 
 ## Faculty
 

@@ -1,8 +1,10 @@
 ---
 title: Landing
-track: Application
-feature_img: /assets/images/2023-24/year-1/t-1/landing.png
 page_type: course
+track: Application
+# course_type:
+feature_img: /assets/images/2023-24/year-1/t-1/landing.png
+# img_caption:
 faculty:
     - guillem-camprodon
     - tomas-diez
@@ -10,6 +12,7 @@ faculty:
     - milena-calvo
     - josep-marti
     - pablo-zuloaga
+ects: 0
 ---
 
 {{ insert_banner() }}
@@ -65,6 +68,12 @@ Do not panic: IAAC is not a correctional facility! And we will only use the best
     Oscar Tomico & Mariana Quintero Class - Hybrid Profiles
 
     Beers at Camping BCN
+
+## Grading Methods
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Faculty  
 

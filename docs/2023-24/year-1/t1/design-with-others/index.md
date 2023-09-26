@@ -1,13 +1,16 @@
 ---
 title: Design With Others
-track: Reflection
-feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.png
 page_type: course
+track: Reflection
+# course_type:
+feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.png
+# img_caption:
 faculty:
     - holon
     - merce-rua
     - merkel-cormenzana
     - milena-calvo
+ects: 2
 ---
 
 {{ insert_banner() }}
@@ -138,6 +141,10 @@ Students are requested to submit all the material requested by the faculty + the
 | 7%          | :fontawesome-solid-check: Reflection on the website|
 | 3%          | :fontawesome-solid-check: Self grading|
 | 30%          | :fontawesome-solid-check: Final output|
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Additional Resources
 

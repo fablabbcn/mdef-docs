@@ -8,6 +8,7 @@
 /* ----------TABLES---------- */
 /* ----------CONTENT TABS (SCHEDULES)---------- */
 /* ----------HIGHLIGHT SECTIONS---------- */
+/* ----------CUSTOM ADMONITION---------- */
 /* ----------MEDIA QUERIES---------- */
 
 
@@ -18,10 +19,16 @@
     --primary-color-light-mode: #1c449a;
     --white: #fbfbfe;
     --black: #000000;
-}
+    --md-admonition-icon--ects: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M316.9 18c-5.3-11-16.5-18-28.8-18s-23.4 7-28.8 18L195 150.3 51.4 171.5c-12 1.8-22 10.2-25.7 21.7s-.7 24.2 7.9 32.7L137.8 329l-24.6 145.7c-2 12 3 24.2 12.9 31.3s23 8 33.8 2.3l128.3-68.5 128.3 68.5c10.8 5.7 23.9 4.9 33.8-2.3s14.9-19.3 12.9-31.3L438.5 329l104.2-103.1c8.6-8.5 11.7-21.2 7.9-32.7s-13.7-19.9-25.7-21.7l-143.7-21.2L316.9 18z"/></svg>')
+
+}  
 
 img {
     width: 100%;
+}
+
+.md-typeset ul {
+	list-style-type: square;
 }
 
 .md-typeset .hidden {
@@ -219,6 +226,10 @@ button.fullscreen_button:hover{
     padding-right: 5px;
 }
 
+.banner-caption {
+    text-align: right;
+    font-size: 14px;
+}
 
 /* ----------FACULTY CARDS---------- */
 
@@ -250,6 +261,7 @@ button.fullscreen_button:hover{
     filter: grayscale(100%);
 }
 
+
 .md-typeset .faculty-bio {
     margin-top: 25px;
 }
@@ -272,6 +284,7 @@ button.fullscreen_button:hover{
     border-bottom: 2px solid var(--md-typeset-table-color);
     margin: 50px 0px 50px 0px;
 }
+
 
 .socials-faculty {
     min-width: 20px;
@@ -380,6 +393,7 @@ h2.student-name {
 .md-typeset .tabbed-set {
 	background-color: #4983ff29;
 	padding: 5px 20px;
+    border-radius: 10px;
 }
 
 .md-typeset .tabbed-control--next {
@@ -445,7 +459,35 @@ h2.student-name {
     font-size: 1em;
 }
 
+/* ----------CUSTOM ADMONITION---------- */
 
+.md-typeset .admonition.ects,
+.md-typeset details.ects {
+border-color: var(--md-accent-fg-color);
+}
+.md-typeset .ects > .admonition-title,
+.md-typeset .ects > summary {
+background-color: #4983ff29;
+}
+.md-typeset .ects > .admonition-title::before,
+.md-typeset .ects > summary::before {
+background-color: var(--md-accent-fg-color);
+-webkit-mask-image: var(--md-admonition-icon--ects);
+        mask-image: var(--md-admonition-icon--ects);
+}
+.admonition.ects {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px 0px 0px 25px;
+    background-color: #4983ff29;
+}
+.admonition.ects .admonition-title{
+    border-radius: 0px 10px 0px 0px;
+}
+.admonition.ects p {
+    font-size: 16px;
+    font-weight: bold;
+}
 /* ----------MEDIA QUERIES---------- */
 
 @media only screen and (min-width: 600px) {
@@ -496,6 +538,7 @@ h2.student-name {
         background-color: #4983ff29;
         padding: 20px 10px;
     }
+    /* Highlight Section Media Queries */
     .highlight-section {
         display: grid;
         grid-template-columns: 1fr 1fr;
