@@ -7,8 +7,15 @@
             {{ banner_icon }}
             {{ track }}
             </span>
-            Track
+            {% if course_type is defined %}
+                {{ course_type }}
+            {% else %}
+                
+            {% endif %}            
         </h2>
     {% endif %}
 </div>
+{% if img_caption is not none %}
+<p class="banner-caption">{{ img_caption }}</p>
+{% endif %}
 {% endif %}
