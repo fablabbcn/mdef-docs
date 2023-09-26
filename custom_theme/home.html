@@ -1,5 +1,47 @@
 <!-- See example https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/src/overrides/home.html -->
 
+<style>
+  .md-typeset .main-home-h2h2 {
+    font-size: 2em;
+    color: var(--md-typeset-color);
+  }
+
+  @media only screen and (min-width: 960px) {
+    .main-home .md-sidebar.md-sidebar--primary {
+        width: 0px;
+    }
+    .main-home .md-sidebar.md-sidebar--secondary {
+        width: 0px;
+    }
+    .main-home .md-content {
+      width: 100%;
+    }
+  }
+  @media only screen and (min-width: 1212px) {
+    .main-home .highlight-section {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-gap: 15px;
+        align-items: center;
+        justify-content: center;
+    }
+    .main-home .highlight-block {
+        background-color: #4983ff29;
+        width: 100%;
+        height: 545px;
+        padding: 35px;
+        display: grid;
+        grid-template-rows: 1fr 3fr;
+        align-items: flex-start;
+        justify-self: center;
+        align-content: center;
+    }
+}
+</style>
+
+
+
 {% extends "main.html" %}
 
 {% block tabs %}
@@ -9,8 +51,11 @@
 
 <!-- Content -->
 {% block content %}
+<div class="main-home">
 {{ super() }}
+</div>
 {% endblock %}
 
 <!-- Application footer -->
 {% block footer %}{% endblock %}
+
