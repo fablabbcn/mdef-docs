@@ -1,5 +1,12 @@
 site/
 TO-DO.md
+TODO
 *.DS_Store
 aux/
 __pycache__/
+
+custom_theme/includes/*.html
+
+*.png
+*.jpg
+*.jpeg

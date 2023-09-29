@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 550 550" style="enable-background:new 0 0 550 550;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.5" y1="275" x2="550.5" y2="275">
+	<stop  offset="0.1195" style="stop-color:#4983FF"/>
+	<stop  offset="0.8726" style="stop-color:#1C449A"/>
+</linearGradient>
+<rect x="0.5" class="st0" width="550" height="550"/>
+<g>
+	<path class="st1" d="M157.63,357.2c-8.92,0-16.2-2.83-21.85-8.47c-5.65-5.65-8.47-12.93-8.47-21.85V89.59
+		c0-8.92,2.82-16.21,8.47-21.85c5.65-5.65,12.93-8.47,21.85-8.47h50.55v32.11H171.6c-5.35,0-8.03,2.97-8.03,8.92v215.87
+		c0,5.95,2.68,8.92,8.03,8.92h36.57v32.11H157.63z"/>
+	<path class="st1" d="M341.83,490.74v-32.11h36.57c5.35,0,8.03-2.97,8.03-8.92V233.84c0-5.95-2.68-8.92-8.03-8.92h-36.57V192.8
+		h50.55c8.92,0,16.21,2.83,21.85,8.47c5.65,5.65,8.47,12.93,8.47,21.85v237.28c0,8.92-2.83,16.21-8.47,21.85
+		c-5.65,5.65-12.93,8.47-21.85,8.47H341.83z"/>
+</g>
+</svg>
