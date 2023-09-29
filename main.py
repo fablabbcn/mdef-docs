@@ -55,15 +55,12 @@ def define_env(env):
                 with open(os.path.join("custom_theme/includes", f'{faculty}.html'), 'w') as _file:
                     _file.write(result)
         else:
-            print (f"{faculty}.md not found")
+            print (f"MACROS WARNING - {faculty}.md not found")
 
     @env.macro
     def insert_faculty():
 
         if 'faculty' in env.page.meta:
-            print ('--------')
-            print (env.page.meta['faculty'])
-            print ('--------')
             result = ''
 
             for faculty in env.page.meta['faculty']:
@@ -76,20 +73,3 @@ def define_env(env):
                     print (f"{faculty}.html not found")
 
         return result
-
-# def on_pre_page_macros(env):
-#     if 'page_type' in env.page.meta:
-#         if env.page.meta['page_type'] == 'course':
-#             md = env.markdown
-#             print (md)
-
-            # p = re.compile("^(#{1,6}\s*[\S]+)")
-            # p = re.compile("/(?:^|\n)##\s[^\n]*\n(.*?)(?=\n##?\s|$)/gs")
-            # p = re.compile("^" + 'Schedule' + "$", re.MULTILINE)
-            # start = p.search(md)
-            # print (start)
-
-            # if start is not None:
-            #     print (start)
-
-            # env.markdown = '{{ insert_banner() }}\n' + env.markdown
