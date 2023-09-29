@@ -274,7 +274,6 @@ extra:
     - icon: fontawesome/brands/github
       link: 'https://www.github.com/fablabbcn/'
   # project: ''
-  # footer_logo: '/assets/images/eu-flag.png'
   fullscreen_button: false
   
 plugins:
