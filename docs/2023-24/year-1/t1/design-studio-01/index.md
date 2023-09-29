@@ -67,13 +67,13 @@ The specific goals are the following:
 
     **Activity 1**: From the different roles that prototypes play in design research, reflect which ones you have used in the past and which ones you could include in your practice.
 
-    **Activity 2**: Reflect on your own RtD toolbox based on your vision and identity. Select the main roles of prototyping and other design activities that you want to use based on the context you are in.
+    **Activity 2**: Bring a random scrap material from home. Use the material to sketch a prototype of another colleague's inquiry.
 
-    **Deliverable**: 1 Post on your website with your new extended workspace.
+    **Deliverable**: Write a post on your website describing your own RtD toolbox based on your vision and identity. Select the main roles of prototyping and other design activities that you want to use based on the context you are in.
 
-    **Schedule**: Each session will start with a 20-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
 
-=== "**16/10**"
+=== "16/10"
 
     :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
@@ -89,9 +89,9 @@ The specific goals are the following:
 
     **Deliverable 2**: Carry out different pilot design interventions to understand in an embodied and situated way your design space.
 
-    **Schedule**: Each session will start with a 20-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
 
-=== "**30/10**"
+=== "30/10"
 
     :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
@@ -105,9 +105,9 @@ The specific goals are the following:
 
     **Deliverable 1**: Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.
 
-    **Schedule**: Each session will start with a 20-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
 
-=== "**13/11**"
+=== "13/11"
 
     :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
@@ -123,9 +123,9 @@ The specific goals are the following:
 
     **Deliverable**: Document the collective design intervention, analyze it and reflect on the findings.
 
-    **Schedule**: Each session will start with a 20-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
 
-=== "**27/11**"
+=== "27/11"
 
     :fontawesome-solid-bolt-lightning: **Design Studio Reviews (group)**
 
@@ -141,7 +141,7 @@ The specific goals are the following:
 
     **Deliverable 2**: Work on the design dialogues deliverables.
 
-=== "**11/12**"
+=== "11/12"
 
     :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
