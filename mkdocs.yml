@@ -1,7 +1,7 @@
 site_name: MASTER IN DESIGN FOR EMERGENT FUTURES
 site_description: MDEF Documentation
 site_author: IAAC, ELISAVA, Fab Lab Barcelona
-site_url: https://emergentfutures.fablabbcn.org
+site_url: https://mdef.fablabbcn.org
 # repo_name: mdef-docs
 # repo_url: https://github.com/fablabbcn/mdef-docs
 
@@ -53,10 +53,10 @@ nav:
     - Calendar: 2023-24/year-2/calendar/index.md
     - Thesis Project: 2023-24/year-2/thesis-project/index.md
     - Research Methods: 2023-24/year-2/research-methods/index.md
-    - Circular Design in the Built Environment (Elective): 2023-24/year-2/circular-design-in-the-built-environment/index.md
-    - Business Innovation (Elective): 2023-24/year-2/business-innovation/index.md
-    - Interaction and Prototyping (Elective): 2023-24/year-2/interaction-and-prototyping/index.md
-    - Agroecology (Elective): 2023-24/year-2/agroecology/index.md
+    - Circular Matter: 2023-24/year-2/circular-matter/index.md
+    - Business Innovation: 2023-24/year-2/business-innovation/index.md
+    - Interaction and Prototyping: 2023-24/year-2/interaction-and-prototyping/index.md
+    - Ecological Interactions: 2023-24/year-2/ecological-interactions/index.md
     # - Term 2:
     #   - 2023-24/year-2/t2/index.md
     #   - Thesis Project: 2023-24/year-2/t2/thesis-project/index.md
