@@ -1,7 +1,7 @@
 ---
 name: Ramón Sangüesa
 role: MDEF Faculty / Artificial Intelligence and Machine Learning
-feature_img: /assets/images/faculty/ramon-sanguesa.jpg
+feature_img: /assets/images/faculty/ramon-sanguesa.jpeg
 socials:
     email: rsanguesa@elisava.net
     website: https://www.cs.upc.edu/~sanguesa/PDFCVRAmonSanguesaL.pdf

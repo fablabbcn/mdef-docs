@@ -229,8 +229,15 @@ button.fullscreen_button:hover{
 .banner-caption {
     text-align: right;
     font-size: 14px;
+    margin: 16px 0px;
 }
 
+.image-caption {
+    text-align: right;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
 /* ----------FACULTY CARDS---------- */
 
 .md-typeset .faculty-card {
@@ -387,6 +394,14 @@ h2.student-name {
     color: var(--md-primary-fg-color--light);
 }
 
+.md-typeset table:not([class]) tbody tr {
+    background-color: #4983ff29;
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+    background-color: hsla(221, 100%, 64%, 0.322);
+    box-shadow: 0 .05rem 0 var(--md-default-bg-color) inset;
+}
 
 /* ----------CONTENT TABS (SCHEDULES)---------- */
 

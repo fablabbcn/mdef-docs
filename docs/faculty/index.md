@@ -12,12 +12,12 @@ faculty:
     - andres-colmenares
     - nuria-conde
     - markel-cormenzana
-    - christian-ernst
+    # - christian-ernst
     - santiago-fuentemilla
     - petra-garajova
     - oscar-gonzalez
     - ariel-guersenzvaig
-    - roger-guillamany
+    - roger-guilemany
     - jessica-guy
     - milena-calvo
     - angella-mackey
@@ -25,10 +25,10 @@ faculty:
     - jonathan-minchin
     - manuela-reyes
     - merce-rua
-    - pitro-rustici
+    # - pitro-rustici
     - ramon-sanguesa
     - oscar-tomico
-    - alejandra-tothill
+    - jana-tothill
     - olga-trevisan
     - pablo-zuloaga
 ---
