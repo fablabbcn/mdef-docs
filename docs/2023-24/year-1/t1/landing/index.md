@@ -3,7 +3,7 @@ title: Landing
 page_type: course
 track: Application
 # course_type:
-feature_img: /assets/images/2023-24/year-1/t-1/landing.png
+feature_img: /assets/images/2023-24/year-1/t-1/landing.jpeg
 # img_caption:
 faculty:
     - guillem-camprodon
