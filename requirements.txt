@@ -2,6 +2,7 @@ mkdocs
 mkdocs-material>=8
 mkdocs-material-extensions
 mkdocs-macros-plugin
+mkdocs-exclude
 #mkdocs-print-site-plugin
 #mkdocs-plugin-tags
 #mkdocs-with-pdf

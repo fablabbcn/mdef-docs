@@ -281,6 +281,13 @@ plugins:
   - macros
   - search
   # - privacy
+  - exclude:
+      glob:
+      - previous-years/*
+      - 2023-24/year-1/t2/*
+      - 2023-24/year-1/t3/*
+      - 2023-24/year-2/t2/*
+      - 2023-24/year-2/t3/*
 
 markdown_extensions:
   - md_in_html
