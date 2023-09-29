@@ -276,14 +276,14 @@ extra:
   # project: ''
   # footer_logo: '/assets/images/eu-flag.png'
   fullscreen_button: false
-
+  
 plugins:
   - macros
   - search
   # - privacy
   - exclude:
       glob:
-      - previous-years/*
+      - previous_years/*
       - 2023-24/year-1/t2/*
       - 2023-24/year-1/t3/*
       - 2023-24/year-2/t2/*
