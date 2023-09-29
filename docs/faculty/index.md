@@ -1,5 +1,7 @@
 ---
 title: Faculty
+hide:
+    - toc
 faculty:
     - guillem-camprodon
     - laura-benitez
