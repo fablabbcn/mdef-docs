@@ -241,11 +241,8 @@ button.fullscreen_button:hover{
 /* ----------FACULTY CARDS---------- */
 
 .md-typeset .faculty-card {
-    display: initial;
-    /* display: grid;
-    grid-template-columns: auto auto;
-    grid-gap: 20px; */
-    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
 }
 
 .md-typeset.faculty-image {
@@ -267,7 +264,6 @@ button.fullscreen_button:hover{
     margin-bottom: 40px;
     filter: grayscale(100%);
 }
-
 
 .md-typeset .faculty-bio {
     margin-top: 25px;
@@ -292,7 +288,6 @@ button.fullscreen_button:hover{
     margin: 50px 0px 50px 0px;
 }
 
-
 .socials-faculty {
     min-width: 20px;
     height: 20px !important;
@@ -309,7 +304,6 @@ button.fullscreen_button:hover{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 175px;
 }
 
 .md-typeset .faculty-content-bottom {
@@ -517,6 +511,16 @@ background-color: var(--md-accent-fg-color);
     .md-typeset h1 {
         font-size: 50px;
         line-height: 50px;
+    }
+    .md-typeset .faculty-card {
+        display: initial;
+        padding-top: 50px;
+    }
+    .faculty-content {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        height: 175px;
     }
 }
 
