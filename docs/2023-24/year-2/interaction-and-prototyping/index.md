@@ -1,1 +1,1 @@
-# Interaction and Prototyping
+# Interaction and Prototyping - Elective

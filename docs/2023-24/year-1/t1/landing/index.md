@@ -2,7 +2,7 @@
 title: Landing
 page_type: course
 track: Application
-# course_type:
+course_type: Workshop
 feature_img: /assets/images/2023-24/year-1/t-1/landing.jpeg
 # img_caption:
 faculty:
@@ -19,55 +19,75 @@ ects: 0
 
 ## Syllabus
 
-The MDEF boot camp is a landing and setup workshop that will introduce students to the main ambitions of the master program. The boot camp format will allow students to familiarize themselves with the physical spaces where the program will operate and experiment (Studio, Lab, and neighborhood), as well as provide the initial tools to document and share their progress during their studies at IAAC.
+Landing at the Masters in Design for Emergent Futures is for sure a challenging endeavor. Not only is it a new country and new city for most students, but also the beginning of a new life that will definitely influence the design profile and practice of everyone participating in MDEF, including the faculty and staff. Every edition of the program is different, there is no standard day, week, month or year for MDEF, given its constant evolution, and how it is influenced by the diversity of participants, as well as the constantly evolving reality around us.
 
-From Wikipedia: “Boot camps can be governmental being part of the correctional and penal system of some countries. Modeled after military recruit training camps, these programs are based on shock incarceration grounded on military techniques. “
+Knowing the importance to understand where and with whom we will be sharing this learning space for the next year (or two for some of you), we have dedicated a week of the program to know about each other, faculty and students, also about IAAC, Elisava and Fab Lab Barcelona, and specially about the Poblenou neighborhood and the city of Barcelona as the main experimental playground of the program. We expect the landing week to situate students in context, and to help them to identify opportunities for collaboration to develop their research agenda during the year of the program.
 
-Do not panic: IAAC is not a correctional facility! And we will only use the best of the boot camp format to facilitate the learning process and the adaptation of the students to the program and the available facilities.
+### Learning Objectives
+
+The Landing Week of MDEF aims to offer students the opportunity to connect with the ecosystem around the program, including students, faculty, staff, spaces and organizations that make it possible to create an ever evolving learning space around it.
+
+- Connect with fellow students and learn about the diversity of culture and professional profiles of the class.
+- Understand and learn from the research interests of each one of the directors, Tomas Diez, Laura Benitez and Guillem Camprodon. 
+- Learn about the opportunities offered by each of the campuses involved in the program, Elisava, IAAC and Fab Lab Barcelona. 
+- Explore and connect with spaces and organizations in the Poblenou and the City of Barcelona, which students will potentially collaborate with. 
+- Share the first ideas for students to align their purpose as designers and make the first steps to define their new designer profile.
+
+### Methodological Strategies
+
+MDEF Landing Week will use basic methodologies to engage students in knowing better the program’s context and ecosystem, and be a personal and group experience of exploration through conversation and active listening.
 
 ## Schedule
 
+=== "02/10"
+
+    **15:00** - Opening of IAAC’s Academic Year at Pujades 102
+
+=== "03/10"
+
+    **10:30-11:30** - Welcome speech by MDEF’s Directors
+
+    **11:30-12:00** - Introduction to the Master program by Tomas Diez and Guillem Camprodon
+
+    **12:00-12:30** - Connection with faculty
+
+    **Break**
+
+    **12:40-14:00** - Students Intro - The old me and my new me
+
+
 === "04/10"
 
-    **14:30 to 18:00 CET**
+    **10:00-11:30** - Directors’ research agenda - Tomas Diez, Meaningful Design
 
-    MDEF Classroom
+    **11:30-12:00** - Break
 
-    Tomas Diez - Introduction
+    **12:00-13:30** - Directors research agenda - Guillem Camprodon, Emergent Tech
 
-    Intro to the Master Structure & 1st term Schedule of Courses
+    **15:00-18:00** - Exploring the Poblenou ecosystem - Chiara Dall’Olio, Milena Juarez
 
-    Student’s introductions -What's my fight
+    **Planned visits:** 22@ introduction, Poblenou Urban District, TansfoLAB BCN, Biciclot, Bioma
+
 
 === "05/10"
 
-    **14:30 to 18:00 CET**
+    **10:00-11:30** - Communicating the MDEF journey - Pablo Zuloaga
 
-    Elisava
+    **12:00-14:00** - Building an online bitacora and portfolio, the MDEF digital garden - Santi Fuentemilla
 
-    Oscar Tomico - Introduction - First-Person Perspective
 
 === "06/10"
 
-    **14:30 to 18:00 CET**
+    **10:00-11:30** - MDEF campus Elisava
 
-    Poblenou
+    **11:30-13:00** - Directors research agenda - Laura Benitez
 
-    Chiara Dall'Olio and Milena Jarez - Poblenou Tour
+## Deliverables
 
-=== "07/10"
+- Landing website
+- Purpose statement
 
-    **14:30 to 18:00 CET**
-
-    MDEF Classroom
-
-    Mariana Quintero - Intro to the student's Digital Garden
-
-    Josep Marti - Website building
-
-    Oscar Tomico & Mariana Quintero Class - Hybrid Profiles
-
-    Beers at Camping BCN
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
 
 ## Grading Methods
 
@@ -75,6 +95,14 @@ Do not panic: IAAC is not a correctional facility! And we will only use the best
 
     {{ ects }} ECTS
 
-## Faculty  
+## Additional Resources
+
+- [Design Thinking is like syphilis](https://sts-news.medium.com/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29)
+- [Design as Participation](https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)
+- [Design Won’t Save the World](https://hairyelefante.medium.com/design-is-not-going-to-save-the-world-8985870471a5)
+- [Prototypes and Prototyping Design Research](https://www.dropbox.com/s/yljt1r0n6hbu7rd/PrototypesChapterFinalDRAFT.pdf?dl=0)
+- [The Tyranny of Convenience](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html)
+
+## Faculty
 
 {{ insert_faculty() }}

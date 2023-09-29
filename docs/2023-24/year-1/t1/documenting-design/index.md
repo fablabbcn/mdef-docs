@@ -43,7 +43,7 @@ By embracing this perspective, students will gain a deeper understanding of how 
     - Introduction to Narrative Documentation in Design Practice
     - Importance of documentation for creative projects
     - Understanding the elements of compelling storytelling in design
-    - Learning from mistakes and reflection as part of the creative design process.
+    - Learning from mistakes and reflection as part of the creative design process
     - Weekly documentation guidelines and expectations
 
 === "Session 2"
@@ -80,17 +80,17 @@ Updated website using the suggested taxonomy structure and the considerations gi
 
 ## Grading Method
 
-| Percentage             | Description                         |
-| -----------------------| ------------------------------------|
-| 30% | **Website Taxonomy:** Using the correct Taxonomy in your website to organize the information.|
-| 30% | **Website Completeness:** Having the website updated with the required content at the reviews.|
-| 20% | **Classmates Assessment:** 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.|
-| 20% | **Personal Reflections:** Reflecting in class about the learnings and having the final reflection on the website.|
+| Percentage             | Description                                                                                      |
+| -----------------------| ------------------------------------                                                             |
+| 30% | **Website Taxonomy**: Using the correct Taxonomy in your website to organize the information.                       |
+| 30% | **Website Completeness**: Having the website updated with the required content at the reviews.                      |
+| 20% | **Classmates Assessment**: 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.       |
+| 20% | **Personal Reflections**: Reflecting in class about the learnings and having the final reflection on the website.   |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
 
-## Faculty 
+## Faculty
 
 {{ insert_faculty() }}

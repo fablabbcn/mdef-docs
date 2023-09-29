@@ -2,145 +2,186 @@
 title: Design With Others
 page_type: course
 track: Reflection
-# course_type:
-feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.png
-# img_caption:
+course_type: Workshop | Seminar | Visits
+feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.jpeg
+img_caption: A member of Holon facilitating a creative session with cooperative housing community. Both “studio” and “field” concepts are reformulated in a design practice that happens within communities.
 faculty:
     - holon
     - merce-rua
-    - merkel-cormenzana
+    - markel-cormenzana
     - milena-calvo
 ects: 2
 ---
 
 {{ insert_banner() }}
 
-## Syllabus
+## Syllabus - Theory
 
-Design practice and the role of the designer has been evolving over time. Evolving from an utilitarian perspective at the service of industry (design over) to the integration of the perspective of the human user and it’s needs (design for) and, later on,  it’s integration as an active agent in the design process (design with) the agency and expertise of the designer has been critically put into question generation after generation. Presencing the burst of the user-centered bubble and in the face of various existential risks, along these sessions, we will inquire over our role as designers and experience what it means to design within creative communities with the goal of  putting our personal projects and capacities at the service of deep transitions.  
+*A full week of three hour sessions to kickstart designing with creative communities and engaging with the social body.*
 
-### Community engagement in practice - learning from Fab Lab Barcelona’s projects
+Design practice and the role of the designer has been evolving over time. Evolving from an utilitarian perspective at the service of industry (design over) to the integration of the perspective of the human user and it’s needs (design for) and, later on, it’s integration as an active agent in the design process (design with) the agency and expertise of the designer has been critically put into question generation after generation. Presencing the burst of the user-centered bubble and in the face of various existential risks, along these sessions, we will inquire over our role as designers and experience what it means to design within creative communities with the goal of putting our personal projects and capacities at the service of deep transitions.
 
-Those promoting participatory action-research believe that people have a universal right to participate in the production of knowledge which is a disciplined process of personal and social transformation. In this process, people rupture their existing attitudes of silence, accommodation and passivity, and gain confidence and abilities to alter unjust conditions and structures' (Paulo Freire, in Smith et al, 1997:xi).
+### Learning Objectives
+
+Students after completion of the course should be able to:
+
+- Detect, understand and tackle complex issues through design practices
+- Engage with “creative communities” related to the matters of concern
+- Situate their practice in the field
+- Engage in strategic intervention through prototyping
+- Get familiar and confident facilitating groups of people and processes
+- Widen their perspective of what community engagement means and learn a technique to work and learn from non human entities
+
+**Keywords: Creative communities, strategic intervention, tooling**
+
+## Syllabus - Practice
+
+*Learning from Fab Lab Barcelona’s projects.*
+
+Those promoting participatory action-research believe that ‘*people have a universal right to participate in the production of knowledge which is a disciplined process of personal and social transformation. In this process, people rupture their existing attitudes of silence, accommodation and passivity, and gain confidence and abilities to alter unjust conditions and structures*'. (Paulo Freire, in Smith et al, 1997:xi)
 
 Fab Lab Barcelona has been involved in many European and local action-research projects with the goal of developing, testing, and implementing alternative and circular strategies towards a (more) locally productive and globally connected city.
 
-In the practical sections of the Community Engagement seminar, MDEF students will be invited to explore methodologies and tools of two community-based local pilots led by Fab Lab Barcelona. The local pilots connected to the SISCODE and CENTRINNO EU projects, while differing in specific objectives and goals, have been aligned with the Fab City principles and share a common objective: both expand the purpose of creative spaces and practitioners to transform communities, societies and ecosystems, supporting the development of new approaches to innovation, learning and impact at the local level, while articulating global efforts.
+In the practical sections of the Community Engagement seminar, MDEF students will be invited to explore principles, methodologies and tools used by Fab Lab Barcelona team and their impacts in community-based projects. The selected local pilot projects will primarily draw inspiration from two recent European projects, Distributed Design and CENTRINNO, with a keen focus on leveraging Fab Lab Barcelona's extensive expertise in social innovation and community engagement in practice.
 
-Within the context of the above-mentioned projects, during the two sessions, students will practice with methods to support social change whilst focussing down on the purpose of engagement. By learning and understanding the application of tailored tools and their practical uses, students will have access to knowledge and resources to use in their future projects. The pool of tools ranges from enabling actions to map actors and resources, analysing local contexts, identifying potential synergies and opportunities, and amplifying key benefits for local stakeholders.
+While differing in specific objectives and goals, the selected projects have been aligned with the Fab City principles and share a common objective: both expand the purpose of creativity to transform communities, societies and ecosystems, supporting the development of new approaches to innovation, learning and impacting at the local level, while articulating global efforts.
 
-The practical course will be further enriched with thematic topics addressing circular and collaborative manufacturing, co-creation mechanisms, practice-based capacity building and peer-learning. During the two days of activities, students will also have the opportunity to visit and engage with four local community-driven projects in Poblenou. The visits will take place from 5pm to 7pm on November 22nd and 24th (TBC) and are aimed at learning about the projects’ stories and achievements, their innovative strategies and approaches to inclusive and circular ecosystems.
+Within this context, during the two sessions, students will practice with methods to support social change whilst focussing down on the purpose of engagement. The practical course will be further enriched with thematic topics addressing circular and collaborative manufacturing, co-creation mechanisms, practice-based capacity building and peer-learning. During the two days of activities, students will also have the opportunity to visit and engage with local community-driven initiatives around Barcelona.
 
+### Learning Objectives
 
-=== "22/11"
+This seminar offers students a comprehensive learning experience in the field of community engagement, social innovation, and collaborative practices. Following a practical approach based on that can be applied to their future projects, by:
 
-    **Session 1: Theoretical framing. Focal points.**
+- Understanding alternative and circular strategies aimed at fostering local productivity while maintaining global connectivity.
+- Exploring effective principles to engage with new or existing communities.
+- Having access to tailored tools, methodologies, and other resources discussed in real-world scenarios.
+- Meeting local actors and inspiring initiatives. Students will have the opportunity to visit and engage with local community-driven projects in Poblenou. 
 
-    **SEMINAR**
+**Keywords: Participatory processes, co-creation, community engagement, local production**
 
-    - Genealogy of this practice
+## Schedule - Theory
 
-    - Shaking the role of the designer
+=== "Sessions 1 & 4"
 
-    - Intersecting interests and communities
+    **WORKSHOP: Design prefigurations around food**
+    
+    Lead: Markel
+    
+    Using food as a proxy for ecological relationships, students will explore how to engage with local creative communities to intervene into complex issues around food and their ramifications. The workshop should result in the identification of a creative community, a reflection around the politics of design in relation to human and non-human actants and the development of an experiment/prototype to intervene into the system in collaboration with “communities”.
+    
+    **Session 1:**
 
-    - Practice or Homework: Ecosystem mapping and finding fit. Introspective work: from ego to eco.
+    - Working frameworks
+    - Mapping and sensing food issues and it’s ramifications
+    - Inspo lightning talk (to be defined)
+    - Approaching a creative community
+    - Approaching the homework: planing
 
-    **Introduction to Fab Lab Barcelona’s approach to communities**
+    Homework between sessions: “Meeting” creative communities, field research and insight generation.
 
-    - Community engagement principles
+    **Session 4:**
 
-    - Overall process and strategies
+    - Debriefing encounters
+    - Insight generation
+    - Prototyping an intervention
+    - Rehearsal
+    - Action plan
 
-    **SISCODE EU project - Designing and crafting from food waste in the neighborhood of Poblenou, Barcelona with Remix El Barrio**
+=== "Session 2"
 
-    - Lessons learned
+    **SEMINAR/WORKSHOP: (3h) Tooling**
 
-    - Legacy, tools and resources
-
-    - Practicing with a selected tool
-
-    **Visiting communities**
-
-    - Visit to community-driven organizations in Poblenou
-
-=== "23/11"
-
-    **Session 2: Emergent strategy**
-
-    **SEMINAR/WORKSHOP**
-
-    - Intervention portfolio approach to systems transformation
-
-    - Reflecting / Sketching your role(s) in the system.
-
-    - Setting an agenda and stewarding change.
-
-    - Practice: targeted systems change and transitions over a generation.
-
-=== "24/11"
-
-    **Session 3: Tooling**
-
-    **SEMINAR/WORKSHOP**
+    Lead: Mercè
 
     - Creative communities
-
     - Mindset and ways of designing
-
     - Facilitation
-
     - Social capital
+    - The limits of participation: Case studies from Holon’s experience
 
-    - The limits of participation
+=== "Session 3"
 
-    - Practice or Homework: Prototyping from a design within stance and social learning
+    **WORKSHOP: (3h) Performing ecosystems and transitions**
 
-    **Delivery 2st Iteration**
-
-    **From 3pm to 5pm:**
-
-    - Power versus interest: understanding local contexts
-
-    - CENTRINNO EU project, exploring industrial historical sites to become new and inclusive hubs of entrepreneurship and creativity while fostering sustainability.
-
-    - Lessons learned
-
-    - Legacy, tools and resources
-
-    - Practicing with a selected tool
-
-    **From 5pm to 7pm: Visiting communities**
-
-    - Visit to community-driven organizations in Poblenou
-
-
-
-=== "25/11"
-
-    **Session 4: Performing ecosystems and transitions**
-
-    **DIGITAL WORKSHOP**
-
-    - Shareback insights community work
+    Lead: Mercè
 
     - Participatory ecosystems: Knowledge as a correlate and Body and bodies as epistemological instruments
-
     - Exercise 4D Map. Visualization and direct exemplification of the generation of truth.
+
+## Schedule - Practice
+
+=== "Session 1"
+
+    **Setting the ground for distributed impact**
+
+    From 3pm to 5pm:
+
+    - Introduction to Fab Lab Barcelona’s approach to communities 
+        - FLB’s Community engagement principles 
+        - Overall process and strategies
+    - Distributed Design - Building new pathways for sustainability in diversity and social justice, engaging civic leaders, makers, (digital) social innovators on societal change and transformation.
+        - Lessons learned 
+        - Legacy, tools and resources
+
+    From 5pm to 7pm: Visiting communities
+
+    - Visit to community-driven organizations
+
+=== "Session 2"
+
+    **Local value creation through collaboration**
+
+    From 3pm to 5pm: 
+
+    - Power versus interest: understanding local contexts
+    - CENTRINNO EU project - Exploring industrial historical sites to become new and inclusive hubs of entrepreneurship and creativity while fostering sustainability.
+        - Lessons learned
+        - Legacy, tools and resources
+
+    From 5pm to 7pm: Visiting communities
+
+    - Visit to community-driven organizations
 
 ## Deliverables
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+### Session 1 & 4 - WORKSHOP: Design prefigurations around food
+
+Students are requested to deliver a final presentation (with a digital record) that reflects around the process and learnings achieved. This presentation should present the final prototype/intervention proposal and evidence from its rehearsal. This might include: digital prototypes, videos, pictures, storytelling, etc.
+
+### Session 2 - (3h) Tooling
+
+Students will be asked to identify a creative community related to their matter of concern, research it, and frame an intervention towards this creative community.
+
+Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses. 
+
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab within a maximum of 1 week after the students’ submission deadline.
 
 ## Grading Method
 
-| Percentage  | Description                                                       |
-| ----------- | ------------------------------------                              |
-| 45%         | :fontawesome-solid-check: Participation in tasks/workshops (including at-home tasks)|
-| 15%         | :fontawesome-solid-check: Team work, collaboration and discussion|
-| 7%          | :fontawesome-solid-check: Reflection on the website|
-| 3%          | :fontawesome-solid-check: Self grading|
-| 30%          | :fontawesome-solid-check: Final output|
+The course will be evaluated with a numeric grade that will average results from the 4 sessions.
+
+### Session 1 & 4 - WORKSHOP: Design prefigurations around food
+
+| Percentage  | Description                          |
+| ----------- | ------------------------------------ |
+| 20%         | Participation                        |
+| 40%         | Prototype development and evidencing |
+| 40%         | Personal reflections                 |
+
+### Session 2 - (3h) Tooling
+
+| Percentage  | Description                          |
+| ----------- | ------------------------------------ |
+| 20%         | Participation                        |
+| 40%         | Homework                             |
+| 40%         | Personal reflections                 |
+
+### Session 3 - (3h) Performing ecosystems and transitions
+
+| Percentage  | Description                             |
+| ----------- | ------------------------------------    |
+| 70%         | Participation                           |
+| 30%         | Team work, collaboration and discussion |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
@@ -148,7 +189,7 @@ Students are requested to submit all the material requested by the faculty + the
 
 ## Additional Resources
 
-### Bibliography and Background Research Material
+### Bibliography
 
 - *Thinking in Systems* - Donella Meadows
 - *Dark Matter and Trojan Horses* - Dan Hill
@@ -162,27 +203,38 @@ Students are requested to submit all the material requested by the faculty + the
 
 ### Netography
 
-http://donellameadows.org/dancing-with-systems/
+[Dancing With Systems](http://donellameadows.org/dancing-with-systems/)
 
-https://thesystemsthinker.com/guidelines-for-designing-systemic-interventions/
+[Guidelines for Designing Systemic Interventions](https://thesystemsthinker.com/guidelines-for-designing-systemic-interventions/)
 
-https://medium.com/fieldnotes-by-sam-rye/towards-targeted-systems-change-7f4db6febb51
+[Towards ‘Targeted Systems Change’](https://medium.com/fieldnotes-by-sam-rye/towards-targeted-systems-change-7f4db6febb51)
 
-https://drive.google.com/file/d/1UrOxrth4SomIGY0u7qf0lCVwdHS5_BTK/view?usp=sharing
+[Recipes for Systemic Change](https://drive.google.com/file/d/1UrOxrth4SomIGY0u7qf0lCVwdHS5_BTK/view?usp=sharing)
 
-https://medium.com/weareholon/performing-transitions-within-emergent-paradigms-452a63949b20
+[Performing transitions within emergent paradigms](https://medium.com/weareholon/performing-transitions-within-emergent-paradigms-452a63949b20)
 
-http://jonkolko.com/writingSensemaking.php
+[Sensemaking and Framing: A Theoretical Reflection on Perspective in Design Synthesis](http://jonkolko.com/writingSensemaking.php)
 
-https://drive.google.com/file/d/1vDA4K1-ceE0aNtWD5hP1IOOJJoQ2jj_4/view?usp=sharing
+[Effective Framing in Design](https://drive.google.com/file/d/1vDA4K1-ceE0aNtWD5hP1IOOJJoQ2jj_4/view?usp=sharing)
 
-https://medium.com/weareholon/the-everyday-of-cooperative-housing-la-borda-de-can-batll%C3%B3-1d123955ae35
+[Conviviality in a cooperative housing — La Borda de Can Batlló](https://medium.com/weareholon/the-everyday-of-cooperative-housing-la-borda-de-can-batll%C3%B3-1d123955ae35)
 
-https://medium.com/@camerontw
+[Medium: Cameron Tonkinwise](https://medium.com/@camerontw)
 
-https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf
+[Transition Design 2015](https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf)
 
+### Open access tools for community engagement
 
+- Community lovers guide
+- Creative Community planning
+- Centering equity in collective impact 
+- The center for convivial research
+- Community Sense
+- Community Tool Box
+- Community Canvas
+- https://www.spacesandcities-toolkit.com/
+- How to Lead Collective Impact Working Groups: A Comprehensive Toolkit
+- Tools for working groups
 
 ## Faculty
 
