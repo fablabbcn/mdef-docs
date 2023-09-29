@@ -288,6 +288,7 @@ plugins:
       - 2023-24/year-1/t3/*
       - 2023-24/year-2/t2/*
       - 2023-24/year-2/t3/*
+      - 2023-24/research-trip/*
 
 markdown_extensions:
   - md_in_html
