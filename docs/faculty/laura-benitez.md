@@ -3,9 +3,9 @@ name: Laura Benitez
 role: MDEF Co-Director
 feature_img: /assets/images/faculty/laura-benitez.jpg
 socials:
-    email: lbenitezv@elisava.net
+    email: laura.benitez.valero@gmail.com
     website:
-    linkedin:
+    linkedin: https://www.linkedin.com/in/laura-ben%C3%ADtez-valero-229a8576/
     twitter:
     facebook:
     instagram:
