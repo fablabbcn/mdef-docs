@@ -1,7 +1,7 @@
 ---
 name: Olga Trevisan
 role: Visual Artist
-feature_img:
+feature_img: /assets/images/faculty/olga-trevisan.jpg
 socials:
     email: olga.trevisan@iaac.net
     website:

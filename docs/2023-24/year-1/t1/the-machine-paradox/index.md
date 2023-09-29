@@ -26,11 +26,6 @@ Our active learning methodology is based on the practice and spiral development,
 We will offer an impact experience, seeking to inspire and motivate the participants to use the possibilities of digital manufacturing and technologies to prototype, design, fabricate and program an “honest” mechanical artifact.
 
 
-
-![](images/tec_beyond_5.png)
-![](images/tec_beyond_5.1.png)
-![](images/tec_beyond_6.png)
-
 ## Schedule
 
 ### Total Duration
@@ -50,8 +45,6 @@ from 15:00 to 19:00 (16 per week)
 Non guided sessions where students work on a task independently or in groups
 
 ### Structure and Phases
-
-![](images/structure.jpg)
 
 
 Class by class schedule of topics and activities.

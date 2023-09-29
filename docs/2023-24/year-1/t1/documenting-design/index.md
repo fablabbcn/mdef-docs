@@ -3,7 +3,7 @@ title: Documenting Design
 page_type: course
 track: Reflection
 course_type: Short Course
-feature_img: /assets/images/2023-24/year-1/t-1/documentation-as-a-narrative-logbook.png
+feature_img: /assets/images/2023-24/year-1/t-1/documenting-design.png
 img_caption: Leonardo Da Vinci, Codex Atlanticus. Milan | Biblioteca Ambrosiana
 faculty:
     - pablo-zuloaga
