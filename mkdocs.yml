@@ -15,14 +15,14 @@ nav:
     - Calendar: 2023-24/year-1/calendar/index.md
     - Term 1:
       - 2023-24/year-1/t1/index.md
-      - Design Studio I: 2023-24/year-1/t1/design-studio-i/index.md
+      - Design Studio 01: 2023-24/year-1/t1/design-studio-01/index.md
+      - Documenting Design: 2023-24/year-1/t1/documenting-design/index.md
       - Landing: 2023-24/year-1/t1/landing/index.md
       - Atlas of Weak Signals: 2023-24/year-1/t1/atlas-of-weak-signals/index.md
       - The Machine Paradox: 2023-24/year-1/t1/the-machine-paradox/index.md
       - Living With Your Own Ideas: 2023-24/year-1/t1/living-with-your-own-ideas/index.md
       - Biology Zero: 2023-24/year-1/t1/biology-zero/index.md
       - Agriculture Zero: 2023-24/year-1/t1/agriculture-zero/index.md
-      - Documenting Design: 2023-24/year-1/t1/documenting-design/index.md
       - Design With Others: 2023-24/year-1/t1/design-with-others/index.md
       - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
     # - Term 2:
@@ -51,15 +51,12 @@ nav:
   - Year 2:
     - 2023-24/year-2/index.md
     - Calendar: 2023-24/year-2/calendar/index.md
-    - Term 1:
-      - 2023-24/year-2/t1/index.md
-      - Thesis Project: 2023-24/year-2/t1/thesis-project/index.md
-      - Circular Design in the Built Environment: 2023-24/year-2/t1/circular-design-in-the-built-environment/index.md
-      - Business Innovation: 2023-24/year-2/t1/business-innovation/index.md
-      - Research Methods: 2023-24/year-2/t1/research-methods/index.md
-      - Interaction and Prototyping: 2023-24/year-2/t1/interaction-and-prototyping/index.md
-      - Additive Manufacturing: 2023-24/year-2/t1/additive-manufacturing/index.md
-      - Agroecology: 2023-24/year-2/t1/agroecology/index.md
+    - Thesis Project: 2023-24/year-2/thesis-project/index.md
+    - Research Methods: 2023-24/year-2/research-methods/index.md
+    - Circular Design in the Built Environment (Elective): 2023-24/year-2/circular-design-in-the-built-environment/index.md
+    - Business Innovation (Elective): 2023-24/year-2/business-innovation/index.md
+    - Interaction and Prototyping (Elective): 2023-24/year-2/interaction-and-prototyping/index.md
+    - Agroecology (Elective): 2023-24/year-2/agroecology/index.md
     # - Term 2:
     #   - 2023-24/year-2/t2/index.md
     #   - Thesis Project: 2023-24/year-2/t2/thesis-project/index.md

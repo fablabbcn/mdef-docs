@@ -6,7 +6,7 @@ track: Reflection
 feature_img: /assets/images/2023-24/year-1/t-1/atlas-of-weak-signal.png
 # img_caption:
 faculty:
-    - alejandra-tothill
+    - jana-tothill
     - sally-bourdon
     - olga-trevisan
 ects: 1

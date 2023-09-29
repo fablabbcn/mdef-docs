@@ -1,4 +1,7 @@
 ---
+hide:
+    - toc
+    - navigation
 title: Master in Design for Emergent Futures
 template: home.html
 ---
