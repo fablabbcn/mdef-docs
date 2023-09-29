@@ -230,6 +230,7 @@ button.fullscreen_button:hover{
     text-align: right;
     font-size: 14px;
     margin: 16px 0px;
+    font-style: italic;
 }
 
 .image-caption {
@@ -237,6 +238,7 @@ button.fullscreen_button:hover{
     font-size: 14px;
     margin-top: 0px;
     margin-bottom: 40px;
+    font-style: italic;
 }
 /* ----------FACULTY CARDS---------- */
 
