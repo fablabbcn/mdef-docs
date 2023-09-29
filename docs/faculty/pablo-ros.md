@@ -4,9 +4,8 @@ role: Architect, IAAC Seminar Faculty
 feature_img: /assets/images/faculty/pablo-ros.jpeg
 socials:
     email:
-    website:
-    website:
-    linkedin:
+    website: https://vimeo.com/neolexia
+    linkedin: https://www.linkedin.com/in/pablo-ros-06273519/
     twitter:
     facebook:
     instagram:

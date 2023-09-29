@@ -26,6 +26,8 @@ faculty:
     - josep-marti
     - jonathan-minchin
     - manuela-reyes
+    - cristian-rizzuti
+    - pablo-ros
     - merce-rua
     # - pitro-rustici
     - ramon-sanguesa
