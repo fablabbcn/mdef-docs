@@ -3,7 +3,7 @@ name: Ramón Sangüesa
 role: MDEF Faculty / Artificial Intelligence and Machine Learning
 feature_img: /assets/images/faculty/ramon-sanguesa.jpeg
 socials:
-    email: rsanguesa@elisava.net
+    email: ramonsang@protonmail.com
     website: https://www.cs.upc.edu/~sanguesa/PDFCVRAmonSanguesaL.pdf
     linkedin:
     twitter: https://twitter.com/ramonsang
@@ -11,4 +11,4 @@ socials:
     instagram:
     github:
 ---
-Ramon Sangüesa has been doing research in Artificial Intelligence for more than 20 years specializing in Machine Learning, Uncertain Reasoning, and Multiagent Systems. He is a professor at the Technical University of Catalonia (on academic leave) and now works as the Head of Technology Research at the Elisava Design and Engineering School. He has been a visiting professor and researcher at Columbia University in NYC and Toronto University. He has been involved in Digital Social Innovation for years, being one of the creators of Citilab (Citizen’s lab) in Barcelona’s first director of innovation.
+Ramon Sangüesa is a professor at the Polytechnic University of Catalonia, (UPC) he has been affiliate researcher at and Visiting Professor at Department of Sociology at Columbia University (New York) and Senior Fellow of the Strategic Innovation Lab at the Ontario College of Art and Design at the University of Toronto (Canada). He is currently Academic Coordinator of the new Degree in Artificial Intelligence at UPC university.

@@ -23,6 +23,7 @@ faculty:
     - roger-guilemany
     - jessica-guy
     - gabriele-jureviciute
+    - lucas-pena
     - angella-mackey
     - josep-marti
     - kevin-matar
@@ -30,10 +31,12 @@ faculty:
     - manuela-reyes
     - cristian-rizzuti
     - pablo-ros
+    - davide-rovera
     - merce-rua
     # - pitro-rustici
     - ramon-sanguesa
     - nico-schouten
+    - adai-surinach
     - oscar-tomico
     - jana-tothill
     - olga-trevisan
