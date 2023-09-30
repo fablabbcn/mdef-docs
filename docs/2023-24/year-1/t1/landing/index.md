@@ -49,25 +49,24 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
     **11:30-12:00** - Introduction to the Master program by Tomas Diez and Guillem Camprodon
 
-    **12:00-12:30** - Connection with faculty
+    **12:00-12:20** - Connection with faculty
 
     **Break**
 
-    **12:40-14:00** - Students Intro - The old me and my new me
+    **12:30-14:00** - Students Intro - What's your purpose by Laura Folrlano
 
 
 === "04/10"
 
-    **10:00-11:30** - Directors’ research agenda - Tomas Diez, Meaningful Design
+    **11:00-12:30** - Directors' research agenda - Guillem Camprodon, Emergent Tech
 
-    **11:30-12:00** - Break
+    **12:30-12:45** - Break
 
-    **12:00-13:30** - Directors research agenda - Guillem Camprodon, Emergent Tech
+    **13:00-14:15** - Directors’ research agenda - Tomas Diez, Meaningful Design
 
     **15:00-18:00** - Exploring the Poblenou ecosystem - Chiara Dall’Olio, Milena Juarez
 
-    **Planned visits:** 22@ introduction, Poblenou Urban District, TansfoLAB BCN, Biciclot, Bioma
-
+    **Planned visits**: 22@ introduction, Poblenou Urban District, TansfoLAB BCN, Biciclot, Bioma
 
 === "05/10"
 
@@ -78,9 +77,14 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
 === "06/10"
 
-    **10:00-11:30** - MDEF campus Elisava
+    **9:30-10:00** - Welcome to Elisava MDEF campus
 
-    **11:30-13:00** - Directors research agenda - Laura Benitez
+    **10:00-11:45** - Visit & training for the Prototype Workshop, Motion Capture room and Graphic Workshop
+
+    **11:45-12:15** - Elisava facilities visit + break
+
+    **12:15-13:30** - Directors research agenda - Laura Benitez
+
 
 ## Deliverables
 

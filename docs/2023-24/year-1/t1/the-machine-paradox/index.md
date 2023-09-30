@@ -80,16 +80,63 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
 - Non-guided sessions where students work on a task independently or in groups
 
-![](/assets/images/2023-24/year-1/t-1/the-machine-paradox-schedule.jpeg)
+=== "17/10"
 
-- **Tuesday**: Presentation & Unpacking (I know what's inside)
-- **Wednesday**: Disassemble(I’m not afraid of exploring)
-- **Thursday**: Forensic (I know what I have)
-- **Friday**: In-Control (I built something I trust)
-- **Tuesday**: What to do with these parts (Beta devices)
-- **Wednesday**: Integration of artifacts(I build something that works)
-- **Thursday**: Field visit & recordings during the afternoon
-- **Friday**: Final Presentations (I have a final machine)
+    **Tuesday**: Presentation & Unpacking (I know what's inside)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "18/10"
+
+    **Wednesday**: Disassemble (I’m not afraid of exploring)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "19/10"
+
+    **Thursday**: Forensic (I know what I have)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "20/10"
+
+    **Friday**: In-Control (I built something I trust)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "24/10"
+
+    **Tuesday**: What to do with these parts (Beta devices)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "25/10"
+
+    **Wednesday**: Integration of artifacts (I build something that works)
+
+    **Class:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 19:00
+
+=== "26/10"
+
+    **Thursday**: Field visit & recordings during the afternoon
+
+=== "27/10"
+
+    **Friday**: Final Presentations(I have a final machine)
+
+![](/assets/images/2023-24/year-1/t-1/the-machine-paradox-schedule.jpeg)
 
 ## Deliverables
 
@@ -125,19 +172,6 @@ Students are requested to submit all the material requested by the faculty + the
 - Learning by Accomplishments and failure
 
 ## Grading Method
-
-### IAAC Grading System
-
-| Grade       | Description                                     |
-| ----------- | ------------------------------------            |
-| 0 - 4.9     | Fail (submission of a supplementary work by May)|
-| 5.0 -6.9    | Pass                                            |
-| 7.0 - 8.9   | Good                                            |
-| 9.0 - 10    | Excellent/Distinction                           |
-
-*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 

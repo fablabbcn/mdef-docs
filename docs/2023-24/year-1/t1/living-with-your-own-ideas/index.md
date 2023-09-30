@@ -81,18 +81,11 @@ Students are requested to submit all the material requested by the faculty + the
 
 ## Grading Method
 
-### IAAC Grading System
-
-| Grade       | Description                                     |
+| Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
-| 0 - 4.9     | Fail (submission of a supplementary work by May)|
-| 5.0 -6.9    | Pass                                            |
-| 7.0 - 8.9   | Good                                            |
-| 9.0 - 10    | Excellent/Distinction                           |
-
-*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+| 20%         | Participation                                   |
+| 40%         | Deliverables                                    |
+| 40%         | Personal reflections                            |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
