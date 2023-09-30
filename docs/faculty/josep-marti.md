@@ -3,7 +3,7 @@ name: Josep Marti Elias
 role: Fabrication Expert
 feature_img: /assets/images/faculty/josep-marti.jpeg
 socials:
-    email:
+    email: josep@fablabbcn.org
     website:
     linkedin: https://www.linkedin.com/in/josepmarti41/
     twitter:

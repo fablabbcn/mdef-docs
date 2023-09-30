@@ -3,7 +3,7 @@ name: Santiago Fuentemilla Garriga
 role: Future Learning Lead
 feature_img: /assets/images/faculty/santiago-fuentemilla.jpeg
 socials:
-    email:
+    email: santi@fablabbcn.org
     website:
     linkedin: https://es.linkedin.com/in/santi-fuentemilla-garriga-7877892b
     twitter: https://twitter.com/santifu
