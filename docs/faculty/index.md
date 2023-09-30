@@ -10,6 +10,7 @@ faculty:
     - pau-artigas
     - audrey-belliot
     - sally-bourdon
+    - milena-calvo
     - albert-canigueral
     - andres-colmenares
     - nuria-conde
@@ -21,9 +22,10 @@ faculty:
     - ariel-guersenzvaig
     - roger-guilemany
     - jessica-guy
-    - milena-calvo
+    - gabriele-jureviciute
     - angella-mackey
     - josep-marti
+    - kevin-matar
     - jonathan-minchin
     - manuela-reyes
     - cristian-rizzuti
@@ -31,6 +33,7 @@ faculty:
     - merce-rua
     # - pitro-rustici
     - ramon-sanguesa
+    - nico-schouten
     - oscar-tomico
     - jana-tothill
     - olga-trevisan
