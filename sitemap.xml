@@ -126,6 +126,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mdef.fablabbcn.org/faculty/adai-surinach/</loc>
+         <lastmod>2023-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mdef.fablabbcn.org/faculty/albert-canigueral/</loc>
          <lastmod>2023-09-30</lastmod>
          <changefreq>daily</changefreq>
@@ -212,6 +217,11 @@
     </url>
     <url>
          <loc>https://mdef.fablabbcn.org/faculty/laura-benitez/</loc>
+         <lastmod>2023-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mdef.fablabbcn.org/faculty/lucas-pena/</loc>
          <lastmod>2023-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
