@@ -25,13 +25,9 @@ Access to the means of experimentation for the investigative and applied science
 ### Learning Objectives
 
 - Become familiarized with DIY-Bio communities, online knowledge bases as well as and practical techniques and resources.
-
 - Gain an understanding of major and relevant biologically driven design principles and how these can be applied practically to real world problems and emergent solutions. 
-
 - Distinguish between research disciplines including biochemistry / molecular biology / material science and Synthetic biology. 
-
 - Attain a capability to differentiate, specify and select relevant researchers and read a scientific papers without misunderstanding. Gain proficiency in making proposals in a general way, based on that research.
-
 - Being able to follow the scientific methodology applied to experimentation to generate new knowledge. To plan, execute and extract the proper conclusions from an experiment.
 
 ## Schedule
@@ -62,11 +58,11 @@ Access to the means of experimentation for the investigative and applied science
 
 === "09/11"
 
-    **10-12 pm**
+    **10:00 - 12:00**
 
     **Theory** - Cell Building + Genetics
 
-    **12.15-14.15 pm**
+    **12.15 - 14.15**
 
     **Practical** - Designing a GMO
 
@@ -74,7 +70,7 @@ Access to the means of experimentation for the investigative and applied science
 
 **Theory Lectures:**
 
-- Synthetic BIology / Planetary Wellbeing / Microbiology + Microbiome / Cell Building + Genetics
+- Synthetic Biology / Planetary Wellbeing / Microbiology + Microbiome / Cell Building + Genetics
 
 **Workshops:**
 
@@ -105,7 +101,6 @@ Access to the means of experimentation for the investigative and applied science
 **Visual Thinking:**
 
 - Task 6: (Homework) Visualize a designed experiment.
-
 
 ## Deliverables
 

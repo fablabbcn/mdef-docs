@@ -4,7 +4,7 @@ page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2023-24/year-1/t-1/agriculture-zero.jpg
-img_caption: Image credit | Jonathan Minchin + Beehives image by 'Makery license'
+img_caption: Image credit | Jonathan Minchin + Beehives image by ‘Makery license’
 faculty:
     - jonathan-minchin
 ects: 1
@@ -21,15 +21,11 @@ Over the centuries, the agricultural industrial sector has grown to become a for
 
 ### Learning Objectives
 
-- Develop a basic agronomical knowledge of farming practises, crops and cultivation cycles through differing bioregions and climate zones.
-
-- Hands on experience with real world farming maintenance tasks and practices, and be able to identify needs and gaps for innovation.
-
-- Distinguish between agricultural systems, typologies, traditions and scales of industry, to situate these as discourses in wider societal and economic systems.
-
-- Become familiar with agricultural knowledge bases and resources, online communities of practise and movements locally and globally. 
-
-- Gain a knowledge of current and future farming technology, in the context of digital and ecological transitions.
+- Develop a **basic agronomical knowledge** of farming practises, crops and cultivation cycles through differing bioregions and climate zones.
+- **Hands on experience** with real world farming maintenance tasks and practices, and be able to identify needs and gaps for innovation.
+- Distinguish between **agricultural systems**, typologies, traditions and scales of industry, to situate these as discourses in wider societal and economic systems.
+- Become familiar with agricultural **knowledge bases and resources**, online communities of practise and movements locally and globally. 
+- Gain a knowledge of current and future **farming technology**, in the context of digital and ecological transitions. 
 
 ### Methodological Strategies
 
@@ -74,7 +70,7 @@ Task 3: Circular Design for Agro Forestry
 
     **12:15h - 14:15h**
 
-    **Workshop** -  Circular designs for agroforestry
+    **Workshop** - Circular designs for agroforestry
 
 === "08/11"
     
@@ -111,18 +107,18 @@ Task 3: Circular Design for Agro Forestry
 
     **10:00h - 12:00h**
 
-    Final Presentations
+    **Final Presentations**
 
     **12:15h - 14:15h**
 
-    Film Viewing
+    **Film Viewing**
 
 
 ## Deliverables
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
-
 Design a planting layout or farming strategy for an Agro Forestry garden that integrates with existing farm to fork or nutrient flow systems within the Barcelona region. Submissions should be described visually in a creative format. This could be delivered in any poster form, examples include flow diagrams, drawn maps, of by site plans or info-graphic. 
+
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
 
 ## Grading Method
 
@@ -145,23 +141,15 @@ Students who submit after the deadlines defined by the faculty and coordination 
 
 ## Additional Resources
 
-*Monboit, G. Feral, Searching for enchantment on the frontiers of rewilding (Allen Lane 2013)*
-
-*Fukuoka, M. (1985). Natural Way of Farming: The Theory and Practice of Green Philosophy.*
-
-*Kimmerer. R. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants (Penguin 2020)*
-
-*Colliaux. D. Hannape. P. Minchin. J. Goelzer. S. Computational Agroecology, should we bet the micro farm on it. (Limits 2022)*
-
-*Minchin, J, Ecological interaction : A genetic and phylogeographic framework for growing new innovations (Univ. International Catalunya, 2010)*
-
-*Dollens, D, EcoDialectic Rewilding a Catalan Landscape with Agroforestry, AI and Microbes. Version 2. (Academia.edu)*
-
-*Minchin J. Reflections on development. International Cooperation  in a post connected state, Georeferencing for technology transfer (Univ International Catalunya 2010)*
-
-*Quitmeyer, Andrew. “Digital Naturalist Design Guidelines: Theory, Investigation, Development, and Evaluation of a Computational Media Framework to Support Ethological Exploration.” Proceedings of the 2017 ACM SIGCHI Conference on Creativity and Cognition (2017)*
-
-*Bateson, G, Steps To an Ecology of Mind (Univ. Chicago Press, Chicago,1972)*
+- *Monboit, G. Feral, Searching for enchantment on the frontiers of rewilding (Allen Lane 2013)*
+- *Fukuoka, M. (1985). Natural Way of Farming: The Theory and Practice of Green Philosophy.*
+- *Kimmerer. R. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants (Penguin 2020)*
+- *Colliaux. D. Hannape. P. Minchin. J. Goelzer. S. Computational Agroecology, should we bet the micro farm on it. (Limits 2022)*
+- *Minchin, J, Ecological interaction : A genetic and phylogeographic framework for growing new innovations (Univ. International Catalunya, 2010)*
+- *Dollens, D, EcoDialectic Rewilding a Catalan Landscape with Agroforestry, AI and Microbes. Version 2. (Academia.edu)*
+- *Minchin J. Reflections on development. International Cooperation  in a post connected state, Georeferencing for technology transfer (Univ International Catalunya 2010)*
+- *Quitmeyer, Andrew. “Digital Naturalist Design Guidelines: Theory, Investigation, Development, and Evaluation of a Computational Media Framework to Support Ethological Exploration.” Proceedings of the 2017 ACM SIGCHI Conference on Creativity and Cognition (2017)*
+- *Bateson, G, Steps To an Ecology of Mind (Univ. Chicago Press, Chicago,1972)*
 
 ## Faculty
 
