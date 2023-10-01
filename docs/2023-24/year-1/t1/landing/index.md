@@ -53,7 +53,7 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
     **Break**
 
-    **12:30-14:00** - Students Intro - What's your purpose by Laura Folrlano
+    **12:30-14:00** - Students Intro - What's your purpose by Laura Benitez
 
 
 === "04/10"

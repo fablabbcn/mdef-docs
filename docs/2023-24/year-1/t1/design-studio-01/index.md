@@ -45,19 +45,11 @@ The specific goals are the following:
 
 ## Schedule
 
-=== "02/10"
+=== "03/10"
 
-    **Landing Kick off - Pick your purpose**
+    **Landing Kick off - What's your purpose**
 
-    **Goals**: Integrate personal and professional interests.
-
-    **Activity 1**: Pick your purpose(s). Make a poster of your interests.
-
-    **Activity 2**: Create your vision (pushing your purpose further) and Identity (skills, knowledge, attitude), collaboration plan.
-
-    **Deliverable 1**: Post the poster on your website.
-
-    **Deliverable 2**: Document your vision, identity, collaboration plan and reflect on your personal development.
+     **Goals**: This session will be part of the landing week activities. A reflection of where each of us is now and where we would like to be by the end of the program, "The old me and my new me".
 
 === "09/10"
 
