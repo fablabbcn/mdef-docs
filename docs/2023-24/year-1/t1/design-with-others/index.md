@@ -3,7 +3,7 @@ title: Design With Others
 page_type: course
 track: Reflection
 course_type: Workshop | Seminar | Visits
-feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.jpeg
+feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.jpg
 img_caption: A member of Holon facilitating a creative session with cooperative housing community. Both “studio” and “field” concepts are reformulated in a design practice that happens within communities.
 faculty:
     - holon

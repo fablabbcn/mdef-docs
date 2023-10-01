@@ -3,7 +3,7 @@ title: Biology Zero
 page_type: course
 track: Exploration
 course_type: Short Course
-feature_img: /assets/images/2023-24/year-1/t-1/biology-zero.png
+feature_img: /assets/images/2023-24/year-1/t-1/biology-zero.jpg
 img_caption: All Photo Credits | Jonathan Minchin, Nuria Conde and graduate MDEF students
 faculty:
     - nuria-conde
