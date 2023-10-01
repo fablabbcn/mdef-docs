@@ -23,6 +23,9 @@
 
 }  
 
+strong {
+    font-weight: 800;
+}
 img {
     width: 100%;
 }
@@ -90,6 +93,12 @@ img {
     color: var(--md-typeset-color);
 }
 
+.md-main__inner {
+	justify-content: center;
+}
+.md-content {
+	max-width: 75%;
+}
 
 /* ----------FULL SCREEN---------- */
 
