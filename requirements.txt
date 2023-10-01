@@ -4,6 +4,7 @@ mkdocs-material-extensions
 mkdocs-macros-plugin
 mkdocs-exclude
 mistune
+mkdocs-open-in-new-tab
 #mkdocs-print-site-plugin
 #mkdocs-plugin-tags
 #mkdocs-with-pdf

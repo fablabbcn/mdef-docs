@@ -281,7 +281,7 @@ extra:
 plugins:
   - macros
   - search
-  # - privacy
+  - open-in-new-tab
   - exclude:
       glob:
       - previous_years/*
