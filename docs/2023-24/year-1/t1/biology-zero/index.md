@@ -110,18 +110,9 @@ Creatively depict, describe and visualize a ‘**Designed experiment**’ that e
 
 ## Grading Method
 
-### IAAC Grading System
+!!! info ""
 
-| Grade       | Description                                     |
-| ----------- | ------------------------------------            |
-| 0 - 4.9     | Fail (submission of a supplementary work by May)|
-| 5.0 -6.9    | Pass                                            |
-| 7.0 - 8.9   | Good                                            |
-| 9.0 - 10    | Excellent/Distinction                           |
-
-*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 

@@ -62,6 +62,10 @@ https://www.elisava.net/en/publications/temes-de-disseny-36-design-futures-now-l
 
 ## Grading Method
 
+!!! info ""
+
+    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
+
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS

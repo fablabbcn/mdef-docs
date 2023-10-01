@@ -72,11 +72,11 @@ The course duration is a total of 32 hours of guided workshop time, spanned alon
 
 The guided workshop time will happen Tuesday to Friday and the students are committed to work during the afternoon in the projects on a self-guided methodology.
 
-**Classes:** from 10:00 to 14:00 (16 per week)
+**Classes:** from 10:00 to 14:00
 
 - Hands-on sessions guided by instructors
 
-**Group work:** from 15:00 to 19:00 (16 per week)
+**Group work:**
 
 - Non-guided sessions where students work on a task independently or in groups
 
@@ -86,15 +86,11 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
     **Class:** from 10:00 to 14:00
 
-    **Group work:** from 15:00 to 19:00
-
 === "18/10"
 
     **Wednesday**: Disassemble (I’m not afraid of exploring)
 
     **Class:** from 10:00 to 14:00
-
-    **Group work:** from 15:00 to 19:00
 
 === "19/10"
 
@@ -102,15 +98,11 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
     **Class:** from 10:00 to 14:00
 
-    **Group work:** from 15:00 to 19:00
-
 === "20/10"
 
     **Friday**: In-Control (I built something I trust)
 
     **Class:** from 10:00 to 14:00
-
-    **Group work:** from 15:00 to 19:00
 
 === "24/10"
 
@@ -118,19 +110,21 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
     **Class:** from 10:00 to 14:00
 
-    **Group work:** from 15:00 to 19:00
-
 === "25/10"
 
     **Wednesday**: Integration of artifacts (I build something that works)
 
     **Class:** from 10:00 to 14:00
 
-    **Group work:** from 15:00 to 19:00
+    **Group work:** from 15:00 to 18:00
 
 === "26/10"
 
     **Thursday**: Field visit & recordings during the afternoon
+
+    **Group work:** from 10:00 to 14:00
+
+    **Group work:** from 15:00 to 18:00
 
 === "27/10"
 
@@ -172,6 +166,10 @@ Students are requested to submit all the material requested by the faculty + the
 - Learning by Accomplishments and failure
 
 ## Grading Method
+
+!!! info ""
+
+    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
