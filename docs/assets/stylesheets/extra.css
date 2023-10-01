@@ -99,6 +99,9 @@ img {
 .md-content {
 	max-width: 75%;
 }
+.icon-padding {
+    padding-right: 5px;
+}
 
 /* ----------FULL SCREEN---------- */
 
