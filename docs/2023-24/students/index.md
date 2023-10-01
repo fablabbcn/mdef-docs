@@ -4,42 +4,61 @@ hide:
     - navigation
 students:
     Manuja Agnohotri:
-        photo: assets/images/students/manuja-agnohotri.jpg
-        website: https://manuja.com
+        photo:
+        website:
     Nicolò Baldi:
-        photo: https://i.stack.imgur.com/kXrjb.png
-        website: https://nicolo.baldi
+        photo:
+        website:
     Flora Rose Elise Berkowitz:
-        photo: assets/images/students/manuja-agnohotri.jpg
-        website: https://manuja.com
+        photo:
+        website:
     Vania Belen Bisbal Villacorta:
-        photo: https://i.stack.imgur.com/kXrjb.png
-        website: https://nicolo.baldi
+        photo:
+        website:
+    Everardo Castro Torres:
+        photo:
+        website:
+    Jorge De la Mora:
+        photo:
+        website:
+    Qianyin Du:
+        photo:
+        website:
+    Anthuanet Falcon Quispe:
+        photo:
+        website:
+    Anna Fedele:
+        photo:
+        website:
+    Francisca Herrera:
+        photo:
+        website:
+    Carlotta Alberta Hylkema:
+        photo:
+        website:
+    Oliver Lloyd:
+        photo:
+        website:
+    Anna Lozano:
+        photo:
+        website:
+    Emmanuel Pangilinan:
+        photo:
+        website:
+    Mihnea Nicolae Patrascu:
+        photo:
+        website:
+    Dhrishya Ramadass:
+        photo:
+        website:
+    Carmen Robres de Veciana:
+        photo:
+        website:
+    Marius Schairer:
+        photo:
+        website:
 ---
 
 # Students
 
 {{ insert_students() }}
-
-!!! warning "How to add your website?"
-    Make a pull request in https://github.com/fablabbcn/mdef-docs!
-    
-!!! info "Students list"
-    - Manuja Agnohotri
-    - Nicolò Baldi
-    - Flora Rose Elise Berkowitz
-    - Vania Belen Bisbal Villacorta
-    - Everardo Castro Torres
-    - Jorge De la Mora
-    - Qianyin Du
-    - Anthuanet Falcon Quispe
-    - Anna Fedele
-    - Francisca Herrera
-    - Carlotta Alberta Hylkema
-    - Oliver Lloyd
-    - Anna Lozano
-    - Emmanuel Pangilinan
-    - Mihnea Nicolae Patrascu
-    - Dhrishya Ramadass
-    - Carmen Robres de Veciana
-    - Marius Schairer
