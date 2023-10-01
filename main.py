@@ -1,4 +1,5 @@
 from jinja2 import Environment, FileSystemLoader
+from mistune import html
 import re
 import os
 import yaml
@@ -36,8 +37,11 @@ def define_env(env):
 
         return frontmatter
 
+    def render_markdown(markdown):
+        return html(markdown)
+
     def create_faculty(faculty):
-        environment = Environment(loader=FileSystemLoader("custom_theme/templates/"))
+        environment = Environment(loader=FileSystemLoader("custom_theme/templates/"), autoescape=True)
         template = environment.get_template("faculty.html")
 
         faculty_path = 'docs/faculty'
@@ -49,7 +53,8 @@ def define_env(env):
             frontmatter = get_frontmatter(content)
             if frontmatter is not None:
                 vbls = frontmatter
-                vbls['body'] = '\n'.join(content[content[1:].index('---\n')+2:])
+                vbls['body'] = render_markdown(''.join(content[content[1:].index('---\n')+2:]))
+
                 result = template.render(vbls)
                 # TODO add custom_theme as environment variable
                 with open(os.path.join("custom_theme/includes", f'{faculty}.html'), 'w') as _file:
