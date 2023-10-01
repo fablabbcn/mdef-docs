@@ -40,9 +40,9 @@ def define_env(env):
     def render_markdown(markdown):
         return html(markdown)
 
-    def create_faculty(faculty):
-        environment = Environment(loader=FileSystemLoader("custom_theme/templates/"), autoescape=True)
-        template = environment.get_template("faculty.html")
+    def create_faculty(faculty, custom_dir):
+        environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
+        template = environment.get_template("faculty_item.html")
 
         faculty_path = 'docs/faculty'
 
@@ -57,24 +57,46 @@ def define_env(env):
 
                 result = template.render(vbls)
                 # TODO add custom_theme as environment variable
-                with open(os.path.join("custom_theme/includes", f'{faculty}.html'), 'w') as _file:
+                with open(os.path.join(f"{custom_dir}/includes", f'{faculty}.html'), 'w') as _file:
                     _file.write(result)
         else:
             print (f"MACROS WARNING - {faculty}.md not found")
 
     @env.macro
     def insert_faculty():
+        custom_dir = os.path.basename(os.path.normpath(env.conf.theme.custom_dir))
 
         if 'faculty' in env.page.meta:
             result = ''
 
             for faculty in env.page.meta['faculty']:
-                create_faculty(faculty)
-                # TODO add custom_theme as environment variable
-                if os.path.exists(f"custom_theme/includes/{faculty}.html"):
-                    with open(f"custom_theme/includes/{faculty}.html") as file:
+                create_faculty(faculty, custom_dir)
+
+                if os.path.exists(f"{custom_dir}/includes/{faculty}.html"):
+                    with open(f"{custom_dir}/includes/{faculty}.html") as file:
                         result += file.read()
                 else:
                     print (f"{faculty}.html not found")
 
         return result
+
+    @env.macro
+    def insert_students():
+        custom_dir = os.path.basename(os.path.normpath(env.conf.theme.custom_dir))
+
+        environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
+        template = environment.get_template("students.html")
+
+        if 'students' in env.page.meta:
+            students = []
+            for item in env.page.meta['students'].keys():
+                students.append({'name': item,
+                                 'photo': env.page.meta['students'][item]['photo'],
+                                 'website': env.page.meta['students'][item]['website']
+                                 })
+
+            result = template.render(students=students)
+            return result
+        else:
+            print ('Incorrectly configured')
+            return None
