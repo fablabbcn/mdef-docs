@@ -1,6 +1,6 @@
 ---
 name: Tomas Diez
-role: MDEF Co-Director, Strategic Advisor and IAAC Board Member
+role: MDEF Co-Director, Fab City Foundation Executive Director
 feature_img: /assets/images/faculty/tomas-diez.jpeg
 socials:
     email: tomasdiez@iaac.net

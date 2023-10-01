@@ -1,6 +1,6 @@
 ---
 name: Guillem Camprodon
-role: MDEF Co-Director, Executive Director of Fab Lab Barcelona
+role: MDEF Co-Director, Fab Lab Barcelona Executive Director 
 feature_img: /assets/images/faculty/guillem-camprodon.jpeg
 socials:
     email: guillem@iaac.net
