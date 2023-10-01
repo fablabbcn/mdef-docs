@@ -7,6 +7,10 @@ __pycache__/
 
 custom_theme/includes/*.html
 
-*.png
-*.jpg
-*.jpeg
+docs/previous-years
+docs/2023-24/year-1/t2
+docs/2023-24/year-1/t3
+docs/2023-24/year-2/t2
+docs/2023-24/year-2/t3
+docs/2023-24/research-trip
+docs/assets/images/zz

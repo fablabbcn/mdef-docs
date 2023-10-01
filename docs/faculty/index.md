@@ -7,6 +7,7 @@ faculty:
     - guillem-camprodon
     - laura-benitez
     - tomas-diez
+    - chiara-dallolio
     - kristina-andersen
     - pau-artigas
     - audrey-belliot

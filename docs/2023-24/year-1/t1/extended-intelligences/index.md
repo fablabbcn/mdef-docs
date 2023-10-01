@@ -116,19 +116,6 @@ Document containing:
 | 50%         | Project                                         |
 | 25%         | Personal Reflections                            |
 
-### IAAC Grading System
-
-| Grade       | Description                                     |
-| ----------- | ------------------------------------            |
-| 0 - 4.9     | Fail (submission of a supplementary work by May)|
-| 5.0 -6.9    | Pass                                            |
-| 7.0 - 8.9   | Good                                            |
-| 9.0 - 10    | Excellent/Distinction                           |
-
-*Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-
-Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
-
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS

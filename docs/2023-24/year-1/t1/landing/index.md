@@ -93,7 +93,11 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
 Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
 
-## Grading Methods
+## Grading Method
+
+!!! info ""
+
+    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 

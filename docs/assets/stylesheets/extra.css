@@ -96,8 +96,9 @@ img {
 .md-main__inner {
 	justify-content: center;
 }
-.md-content {
-	max-width: 75%;
+
+.icon-padding {
+    padding-right: 5px;
 }
 
 /* ----------FULL SCREEN---------- */
@@ -455,6 +456,10 @@ h2.student-name {
     justify-content: center;
 }
 
+.highlight-section.overview-page {
+    padding-top: 30px;
+}
+
 .highlight-block {
     border-color:  var(--md-primary-fg-color);
     border-radius: 10px;
@@ -598,5 +603,8 @@ background-color: var(--md-accent-fg-color);
 
     .highlight-text p {
         font-size: 0.9em;
+    }
+    .md-content {
+        max-width: 75%;
     }
 }
