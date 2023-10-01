@@ -17,7 +17,9 @@ faculty:
     - markel-cormenzana
     # - christian-ernst
     - santiago-fuentemilla
+    - ana-gallego
     - petra-garajova
+    - mariano-gomez-luque
     - oscar-gonzalez
     - ariel-guersenzvaig
     - roger-guilemany
