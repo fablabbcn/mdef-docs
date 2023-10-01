@@ -451,7 +451,7 @@ h2.student-name {
 .highlight-section {
     display: grid;
     grid-template-columns: auto;
-    grid-gap: 10px;
+    grid-gap: 25px;
     align-items: center;
     justify-content: center;
 }
@@ -461,10 +461,10 @@ h2.student-name {
 }
 
 .highlight-block {
-    border-color:  var(--md-primary-fg-color);
+    /* border-color:  var(--md-primary-fg-color);
     border-radius: 10px;
     border-width: 2px;
-    border-style: solid;
+    border-style: solid; */
     background-color: #4983ff29;
     width: 100%;
     min-height: 400px;
@@ -482,7 +482,25 @@ h2.student-name {
 
 .highlight-text p {
     font-size: 1em;
+    text-align: center;
 }
+
+@media only screen and (min-width: 960px) {
+    .highlight-block {
+        height: 420px;
+      }
+  }
+
+@media only screen and (min-width: 1120px) {
+    .highlight-block {
+      height: 400px;
+    }
+  }
+  @media only screen and (min-width: 1300px) {
+    .highlight-block {
+      height: 350px;
+    }
+  }
 
 /* ----------CUSTOM ADMONITION---------- */
 
@@ -585,7 +603,6 @@ background-color: var(--md-accent-fg-color);
     .highlight-block {
         background-color: #4983ff29;
         width: 100%;
-        height: 475px;
         padding: 35px;
         display: grid;
         grid-template-rows: 1fr 3fr;
