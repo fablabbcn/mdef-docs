@@ -2,6 +2,7 @@
 title: Faculty
 hide:
     - toc
+    - navigation
 faculty:
     - guillem-camprodon
     - laura-benitez

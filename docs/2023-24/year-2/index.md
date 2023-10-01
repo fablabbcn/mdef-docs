@@ -1,6 +1,8 @@
 ---
 title: Year 2
 feature_img: https://live.staticflickr.com/65535/52242489344_af96ae1011_o.jpg
+hide:
+    - toc
 ---
 
 {{ insert_banner() }}

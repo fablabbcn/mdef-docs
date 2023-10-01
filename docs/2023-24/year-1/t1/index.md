@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Term 1
 
 <h2>Framing Collective Design Interventions</h2>

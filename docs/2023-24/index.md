@@ -1,6 +1,8 @@
 ---
 title: The Design for Emergent Futures Approach
 feature_img: https://live.staticflickr.com/65535/53038845703_39a3e5decc_o.jpg
+hide:
+    - navigation
 ---
 
 {{ insert_banner() }}
