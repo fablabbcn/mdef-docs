@@ -5,4 +5,3 @@ hide:
 template: home.html
 title: MASTER IN DESIGN FOR EMERGENT FUTURES
 ---
-
