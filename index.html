@@ -1212,10 +1212,10 @@
     padding: 20px 0px;
     font-size: 20px;
   }
-  iframe {
+  /* iframe {
     width: 100%;
     aspect-ratio: 16/9;
-  }
+  } */
   .main-home section {
     padding-top: 15px;
   }
@@ -1227,6 +1227,91 @@
     padding: 10px 100px;
   }
    */
+
+   /* --------VIDEO SETTINGS-------- */
+
+   .player-ph{
+  width: 50%;
+  height: 100%;
+  position: relative;
+  background: url("/assets/images/landing/video.jpg");
+  background-size: cover;
+	 mix-blend-mode: multiply;
+    filter: url("data:image/svg+xml;utf8,&lt;svg xmlns=\'http://www.w3.org/2000/svg\'&gt;&lt;filter id=\'grayscale\'&gt;&lt;feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/&gt;&lt;/filter&gt;&lt;/svg&gt;#grayscale"); /* Firefox 10+, Firefox on Android */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */;
+}
+
+#player-wrap {
+	cursor: pointer;
+	width: 100%;
+	padding-bottom: 56.25%;
+  position: relative;
+}
+
+.player-ph,
+.player-ph--color,
+#player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#player {
+  z-index: 5;
+  pointer-events: none;
+  opacity: 0
+}
+
+.player-ph--color {
+  background: linear-gradient(to right, var(--md-accent-fg-color) , rgb(255, 255, 255));
+}
+
+.player-ph--color:after {
+    content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M464 256a208 208 0 1 0-416 0 208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0 256 256 0 1 1-512 0zm188.3-108.9c7.6-4.2 16.8-4.1 24.3.5l144 88c7.1 4.4 11.5 12.1 11.5 20.5s-4.4 16.1-11.5 20.5l-144 88c-7.4 4.5-16.7 4.7-24.3.5S176 352.9 176 344.2V168c0-8.7 4.7-16.7 12.3-20.9z"/></svg>');
+		position: absolute;
+		top: 50%;
+		left: 50%;
+    margin: -50px 0 0 -50px;
+		height: 100px;
+    width: 100px;
+    font-size: 0px;
+    line-height: 0px;
+    color: #fff;
+		opacity: .55;
+		display: block;
+		z-index: 10; 
+  }
+
+#player {
+  transition: opacity .325s ease-out;
+}
+
+.player-ph--color:after {
+  transition: opacity 1s ease-out;
+}
+
+#player-parent {
+	&.pausing,
+	&.paused {
+		#player {
+			opacity: 0	
+		}
+	}
+	
+  &.playing,
+	&.showing {
+    .player-ph--color:after {
+      opacity: 0
+    }
+	}
+	
+	&.playing #player {
+		opacity: 1
+	}
+}
 </style>
 
 <div class="main-home">
@@ -1281,7 +1366,24 @@
 <section>
   <h2>Making Emergent Futures</h2>
   <p class="description">The MDEF Thesis Project offers a unique approach to develop student projects, contributing to their scalability, exploring distribution and sustainability strategies through innovative methods.</p>
-  <iframe src="https://www.youtube.com/embed/lLQ29XCxcLA?modestbranding=1&showinfo=0autoplay=1rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share controls=0 rel=0 autoplay=1" allowfullscreen></iframe>
+
+  <div id="player-parent">
+    <div id="player-wrap" class="pr">
+      <div class="player-ph--color">&nbsp;</div>
+      <div class="player-ph"></div>
+
+      <div id="player" data-yt="lLQ29XCxcLA"></div>
+    </div>
+  </div>
+
+  <script>
+    // 2. This code loads the IFrame Player API code asynchronously.
+    var tag = document.createElement('script');
+
+    tag.src = 'https://www.youtube.com/iframe_api';
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  </script>
 </section>
 </div>
 
@@ -1390,6 +1492,8 @@
   </div>
 </footer>
       
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 <script>
 
   window.addEventListener('scroll', function(){
@@ -1410,6 +1514,110 @@
       rightBracket.style.opacity = 100 - (value * 0.15) + "%";
     }
   })
+</script>
+
+<script>
+  var player,
+            $player,
+            $playerWrap,
+            $playerParent;
+
+          // 3. This function creates an <iframe> (and YouTube player)
+          //    after the API code downloads.
+          function onYouTubeIframeAPIReady() {
+            window.$player = $('#player'),
+            window.$playerWrap = $('#player-wrap');
+            window.$playerParent = $('#player-parent');
+
+            window.player = new YT.Player('player', {
+              height: '100%',
+              width: '100%',
+              videoId: jQuery('#player').attr('data-yt'),
+              host: 'http://www.youtube.com',
+              playerVars: {
+                'enablejsapi' : 1,
+                'playsinline': 1,
+                'autoplay': 0,
+                'controls': 0,
+                'rel' : 0,
+                'showinfo' : 0,
+                'showsearch' : 0,
+                'mute' : 1,
+                'modestbranding' : 1,
+                'disablekb' : 1,
+                'loop' : 1,
+                'origin': window.location.href
+              },
+              events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange
+              }
+            });
+          }
+
+          function playClasses($el) {
+                $el.addClass('playing').removeClass('paused showing');
+          };
+
+          function pauseClasses($el) {
+                $el.removeClass('playing pausing').addClass('paused');
+          };
+
+          // 4. The API will call this function when the video player is ready.
+          function onPlayerReady(event) {
+
+            (function($) {
+                window.$playerWrap = $('#player-wrap');
+                window.$playerParent = $('#player-parent');
+                window.$playerWrap.on('click', function(){
+
+                    var player = window.player,
+                        $me = $(this);
+
+
+                    if (player.getPlayerState() == 1) {
+                        window.$playerParent.removeClass('playing').addClass('pausing');
+
+                        setTimeout(function(){
+                            player.pauseVideo();                
+                        }, 350);
+                    } else {
+                        window.$playerParent.addClass('showing');
+                        player.playVideo();             
+                    }
+                });
+            })(jQuery);
+          };
+
+
+
+          // 5. The API calls this function when the player's state changes.
+          //    The function indicates that when playing a video (state=1),
+          //    the player should play for six seconds and then stop.
+          var done = false;
+
+          function onPlayerStateChange(event) {
+
+            var thedata = event.data;
+            //Ended
+            if (thedata === 0) {
+                window.player.playVideo(); 
+                window.player.seekTo(1); 
+            }
+
+            // Playing
+            if (thedata === 1) {
+                setTimeout(function(){
+                    playClasses(window.$playerParent);      
+                }, 450);
+            }
+
+            // Paused
+            if(thedata === 2) {
+                pauseClasses(window.$playerParent);
+            }
+          }
+  
 </script>
 
     </div>
