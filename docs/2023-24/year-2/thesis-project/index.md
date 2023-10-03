@@ -53,7 +53,15 @@ In addition to conducting research, students will develop a deep understanding o
 
 **Keywords: Emergent technologies, community engagement, business models, action research**
 
-## Learning Objectives
+### Methodological Strategies
+
+1. Research-Based Approach
+2. Theoretical Frameworks and Methodologies
+3. Community and Context Situating
+4. Scalability and Business Model Development
+5. Ethical and Sustainable Integration of Emerging Technologies
+
+### Learning Objectives
 
 1. Deepen understanding of technologies such as digital fabrication, AI, blockchain, and other emerging technologies, and explore their potential applications in addressing complex challenges in emergent futures.
 
@@ -66,8 +74,6 @@ In addition to conducting research, students will develop a deep understanding o
 5. Utilize field research, interviews, and participatory methods to gain insights into the needs, aspirations, and challenges of target communities in the context of emerging technologies, exploring how these technologies can be leveraged to create positive social impact.
 
 By achieving these learning objectives, students will be equipped with the necessary skills and knowledge to create innovative and sustainable designs that address emergent challenges, while effectively integrating and leveraging emerging technologies in a responsible and impactful manner.
-
-
 
 ## Schedule
 
@@ -147,15 +153,23 @@ Based on a 10-session framework, the following calendar outlines the key activit
 
 *Please note that this calendar is a general outline and may be subject to adjustments based on the specific requirements of the program and individual projects.*
 
-## Methodological Strategies
-
-1. Research-Based Approach
-2. Theoretical Frameworks and Methodologies
-3. Community and Context Situating
-4. Scalability and Business Model Development
-5. Ethical and Sustainable Integration of Emerging Technologies
 
 
+## Deliverables
+
+Research proposal and project plan for the next stages of the design process
+Documented process in MDEF repository.
+
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
+
+## Evaluation Strategies 
+
+- Attendance at meetings with tutors and classes
+- Delivery of assignments
+
+## Additional Resources
+
+The bibliography will be tailored to each student's research focus.
 
 ## Faculty
 
