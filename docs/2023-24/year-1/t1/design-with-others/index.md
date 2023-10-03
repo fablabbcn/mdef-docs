@@ -154,7 +154,7 @@ Students will be asked to identify a creative community related to their matter 
 
 Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses. 
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab within a maximum of 1 week after the students’ submission deadline.
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
 
 ## Grading Method
 

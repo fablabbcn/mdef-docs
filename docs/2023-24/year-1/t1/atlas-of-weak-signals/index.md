@@ -51,7 +51,7 @@ Oct **10th & 11th**, 2023
 
 One post on the personal student website with a reflection regarding their Atlas of weak signal design space. This reflection should include an introspective view concerning the benefits (or not) of the tool provided. High resolution image of their first Multiscalar Design Space.
 
-Students are requested to submit all the material on the IAAC Gdrive and write their reflections on the [MDEF repository](https://mdef.iaac.net/) on GitLab within a maximum of 1 week after the students’ submission deadline.
+Students are requested to submit all the material on the IAAC Gdrive and write their reflections on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
 
 ## Additional Resources
 

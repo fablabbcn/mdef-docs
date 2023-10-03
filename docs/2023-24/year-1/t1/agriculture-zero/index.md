@@ -118,7 +118,7 @@ Task 3: Circular Design for Agro Forestry
 
 Design a planting layout or farming strategy for an Agro Forestry garden that integrates with existing farm to fork or nutrient flow systems within the Barcelona region. Submissions should be described visually in a creative format. This could be delivered in any poster form, examples include flow diagrams, drawn maps, of by site plans or info-graphic. 
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
 
 ## Grading Method
 

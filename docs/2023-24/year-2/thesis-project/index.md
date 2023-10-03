@@ -160,7 +160,7 @@ Based on a 10-session framework, the following calendar outlines the key activit
 Research proposal and project plan for the next stages of the design process
 Documented process in MDEF repository.
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://fablabbcn.github.io/mdef-docs/) on GitLab.
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
 
 ## Evaluation Strategies 
 
