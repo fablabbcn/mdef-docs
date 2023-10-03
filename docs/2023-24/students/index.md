@@ -3,6 +3,9 @@ hide:
     - toc
     - navigation
 students:
+    Caglar Alkan:
+        photo: 
+        website: https://caglaralkan.github.io/MDEF/
     Manuja Agnohotri:
         photo:
         website:
