@@ -101,6 +101,13 @@ img {
     padding-right: 5px;
 }
 
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+.md-typeset .md-button {
+    border-radius: 10px;
+}
 /* ----------FULL SCREEN---------- */
 
 button.fullscreen_button:hover{
@@ -501,6 +508,19 @@ h2.student-name {
       height: 350px;
     }
   }
+
+.shadow-block {
+    background-color: #4983ff29;
+    width: 100%;
+    padding: 50px;
+    display: grid;
+    align-self: center;
+    text-align: center;
+    font-size: 20px;
+}
+.shadow-block:hover {
+    background-color: hsla(221, 100%, 64%, 0.322);
+}
 
 /* ----------CUSTOM ADMONITION---------- */
 
