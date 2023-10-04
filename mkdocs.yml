@@ -2,8 +2,8 @@ site_name: MASTER IN DESIGN FOR EMERGENT FUTURES
 site_description: MDEF Documentation
 site_author: IAAC, ELISAVA, Fab Lab Barcelona
 site_url: https://mdef.fablabbcn.org
-# repo_name: mdef-docs
-# repo_url: https://github.com/fablabbcn/mdef-docs
+repo_name: mdef-docs
+repo_url: https://github.com/fablabbcn/mdef-docs
 
 nav:
   - Welcome!: 2023-24/index.md
