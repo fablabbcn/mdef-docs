@@ -4,6 +4,7 @@ site_author: IAAC, ELISAVA, Fab Lab Barcelona
 site_url: https://mdef.fablabbcn.org
 repo_name: mdef-docs
 repo_url: https://github.com/fablabbcn/mdef-docs
+edit_uri: edit/main/docs/
 
 nav:
   - Welcome!: 2023-24/index.md
@@ -245,6 +246,7 @@ theme:
     - search.suggest
     - content.tooltips
     - content.tabs.link
+    - content.action.edit
   custom_dir: 'custom_theme'
   palette:
     # See assets/stylesheets/extra.css file for the color definitions

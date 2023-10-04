@@ -183,6 +183,15 @@ button.fullscreen_button:hover{
 	border-radius: 0px 0px 10px 10px;
 }
 
+.edit-button-container {
+	display: flex;
+	justify-content: right;
+    padding-bottom: 10px;
+}
+.edit-button-container .md-content__button.md-icon {
+    float: none;
+}
+
 /* ----------MODULE BANNERS---------- */
 
 /* Container holding the image and the text */
