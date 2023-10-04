@@ -346,6 +346,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mdef.fablabbcn.org/glossary/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mdef.fablabbcn.org/meta/</loc>
          <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
