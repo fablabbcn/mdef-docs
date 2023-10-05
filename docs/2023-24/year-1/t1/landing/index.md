@@ -74,6 +74,10 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
     **12:00-14:00** - Building an online bitacora and portfolio, the MDEF digital garden - Santi Fuentemilla
 
+    **Resources:**
+
+    - [How to set up your documentation - Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/git-mkdocs/)
+
 
 === "06/10"
 
