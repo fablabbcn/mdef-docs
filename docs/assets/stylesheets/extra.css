@@ -266,6 +266,18 @@ button.fullscreen_button:hover{
     margin-bottom: 40px;
     font-style: italic;
 }
+
+/* ----------DEFINITIONS---------- */
+
+.md-content code {
+    color: var(--md-accent-fg-color);
+    font-size: 18px;
+    font-weight: 800;
+    margin: 20px 0px;
+}
+.md-content dt {
+    padding-top: 30px;
+}
 /* ----------FACULTY CARDS---------- */
 
 .md-typeset .faculty-card {
