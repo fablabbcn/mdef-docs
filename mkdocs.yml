@@ -233,6 +233,7 @@ theme:
   name: 'material'
   font:
     text: Space Grotesk
+    code: Space Mono
   features:
     - navigation.instant
     - navigation.indexes
