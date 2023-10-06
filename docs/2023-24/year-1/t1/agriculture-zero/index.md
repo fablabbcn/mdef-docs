@@ -124,7 +124,7 @@ Students are requested to submit all the material requested by the faculty + the
 
 !!! info ""
 
-    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
+    :fontawesome-solid-circle-info:{ .icon-padding-right } **Grading criteria will be defined by faculty during the module.**
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 

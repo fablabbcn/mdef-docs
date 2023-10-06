@@ -112,7 +112,7 @@ Creatively depict, describe and visualize a ‘**Designed experiment**’ that e
 
 !!! info ""
 
-    :fontawesome-solid-circle-info:{ .icon-padding } **Grading criteria will be defined by faculty during the module.**
+    :fontawesome-solid-circle-info:{ .icon-padding-right } **Grading criteria will be defined by faculty during the module.**
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 

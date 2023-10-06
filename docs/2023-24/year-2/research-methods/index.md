@@ -10,4 +10,4 @@ faculty:
 
 !!! info ""
 
-    :fontawesome-solid-circle-info:{ .icon-padding } **Details coming soon!**
+    :fontawesome-solid-circle-info:{ .icon-padding-right } **Details coming soon!**

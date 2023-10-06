@@ -3,12 +3,14 @@
 /* ----------FULL SCREEN---------- */
 /* ----------MENUS---------- */
 /* ----------MODULE BANNERS---------- */
+/* ----------DEFINITIONS---------- */
 /* ----------FACULTY CARDS---------- */
 /* ----------STUDENTS---------- */
 /* ----------TABLES---------- */
 /* ----------CONTENT TABS (SCHEDULES)---------- */
 /* ----------HIGHLIGHT SECTIONS---------- */
 /* ----------CUSTOM ADMONITION---------- */
+/* ----------ICONS---------- */
 /* ----------MEDIA QUERIES---------- */
 
 
@@ -108,6 +110,8 @@ img {
 .md-typeset .md-button {
     border-radius: 10px;
 }
+
+
 /* ----------FULL SCREEN---------- */
 
 button.fullscreen_button:hover{
@@ -192,7 +196,9 @@ button.fullscreen_button:hover{
     float: none;
 }
 
-/* ----------MODULE BANNERS---------- */
+
+
+/* ----------BANNERS---------- */
 
 /* Container holding the image and the text */
 .banner-modules {
@@ -204,7 +210,7 @@ button.fullscreen_button:hover{
 
 .banner-image {
     opacity: 0.4;
-    aspect-ratio: 3/2;
+    aspect-ratio: 16/9;
     object-fit: cover;
     object-position: 50% 50%;
     overflow: hidden;
@@ -544,6 +550,11 @@ h2.student-name {
 }
 
 /* ----------CUSTOM ADMONITION---------- */
+
+
+.md-typeset .admonition {
+    border-radius: 10px;
+}
 
 .md-typeset .admonition.ects,
 .md-typeset details.ects {
