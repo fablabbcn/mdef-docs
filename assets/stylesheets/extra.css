@@ -99,10 +99,6 @@ img {
 	justify-content: center;
 }
 
-.icon-padding {
-    padding-right: 5px;
-}
-
 .button-container {
     display: flex;
     justify-content: center;
@@ -582,6 +578,16 @@ background-color: var(--md-accent-fg-color);
 .admonition.ects p {
     font-size: 16px;
     font-weight: bold;
+}
+
+/* ----------ICONS---------- */
+
+.icon-padding-right {
+    padding-right: 5px;
+}
+
+.icon-padding-left {
+    padding-left: 5px;
 }
 /* ----------MEDIA QUERIES---------- */
 
