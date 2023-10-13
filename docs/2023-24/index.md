@@ -75,12 +75,22 @@ These four tracks provide designers with the strategic vision and tools to work 
 
 ## Recommendations
 
-**Be supportive.** Encourage and support your fellow students. No one here is looking for your criticism, cynicism, advice, or judgment. (We can get those things on the rest of the Internet).
+**Be supportive.** :fontawesome-solid-heart:{ .icon-padding-left .icon-color .heart }
 
-**Share generously.** Your stories and experiences may be exactly what another student needs to hear today to solve a problem or seize an opportunity.
+Encourage and support your fellow students. No one here is looking for your criticism, cynicism, advice, or judgment. (We can get those things on the rest of the Internet).
 
-**Be constructive.** We're here to push each other forward and lift each other up. Find ways to help each other think bigger, reframe challenges, and stay curious.
+**Share generously.** :fontawesome-solid-handshake-angle:{ .icon-padding-left .icon-color .share }
 
-**Don't spam, promote, or troll.** The program exists to help you learn. It's not a place to spam, promote, or bully anyone else.
+Your stories and experiences may be exactly what another student needs to hear today to solve a problem or seize an opportunity.
 
-**Keep an open mind.** Yep, this isn't your average University course - you wouldn't be here if it was. You are encouraged at all times to keep your mind open and flexible. Embrace change, embrace the unusual - and trust the process.
+**Be constructive.** :fontawesome-solid-wrench:{ .icon-padding-left .icon-color .turn }
+
+We're here to push each other forward and lift each other up. Find ways to help each other think bigger, reframe challenges, and stay curious.
+
+**Don't spam, promote, or troll.** :fontawesome-solid-meteor:{ .icon-padding-left .icon-color .meteor }
+
+The program exists to help you learn. It's not a place to spam, promote, or bully anyone else.
+
+**Keep an open mind.** :fontawesome-solid-brain:{ .icon-padding-left .icon-color .brain }
+
+Yep, this isn't your average University course - you wouldn't be here if it was. You are encouraged at all times to keep your mind open and flexible. Embrace change, embrace the unusual - and trust the process.
