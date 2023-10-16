@@ -179,7 +179,7 @@ Students are requested to submit all the material requested by the faculty + the
     {{ ects }} ECTS
 
 ## Course Resources
-- [Hackmd Documentation](https://hackmd.io/@santifu/theparadoxmachine) - Collection of presentations, links and reources for the course.
+- [Hackmd Documentation](https://hackmd.io/@fablabbcn/theparadoxmachine) - Collection of presentations, links and reources for the course.
 - [Miro Board](https://miro.com/app/board/uXjVNaaI5lo=/?share_link_id=211542821117)
 
 
