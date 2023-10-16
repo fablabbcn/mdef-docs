@@ -1,6 +1,6 @@
 ---
 name: Mikel Llobera
-role:  MDEF Faculty, Digital Fabrication Expert 
+role: Digital Fabrication Expert 
 feature_img: /assets/images/faculty/mikel-llobera.jpg
 socials:
     email: mikelguelbenzu@gmail.com 
