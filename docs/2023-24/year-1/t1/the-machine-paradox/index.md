@@ -7,9 +7,12 @@ feature_img: /assets/images/2023-24/year-1/t-1/the-machine-paradox.png
 img_caption: Unpacking intelligent machines 19/20
 faculty:
     - santiago-fuentemilla
+    - guillem-camprodon
     - oscar-gonzalez
     - josep-marti
     - petra-garajova
+    - adai-surinach
+    - mikel-llobera
 ects: 5
 ---
 
@@ -174,6 +177,11 @@ Students are requested to submit all the material requested by the faculty + the
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
+
+## Course Resources
+- [Hackmd Documentation](https://hackmd.io/@santifu/theparadoxmachine) - Collection of presentations, links and reources for the course.
+- [Miro Board](https://miro.com/app/board/uXjVNaaI5lo=/?share_link_id=211542821117)
+
 
 ## Additional Resources
 
