@@ -27,6 +27,7 @@ faculty:
     - roger-guilemany
     - jessica-guy
     - gabriele-jureviciute
+    - mikel-llobera
     - lucas-pena
     - angella-mackey
     - josep-marti
