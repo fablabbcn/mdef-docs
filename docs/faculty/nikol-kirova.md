@@ -1,7 +1,7 @@
 ---
 name: Nikol Kirova
 role: Interdisciplinary Architect 
-feature_img: /assets/images/faculty/nikol-kirova.png
+feature_img: /assets/images/faculty/nikol-kirova.jpg
 socials:
     email:
     website: https://iaac.net/dt-team/nikol-kirova/
