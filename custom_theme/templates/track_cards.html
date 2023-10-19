@@ -17,7 +17,8 @@
             <ul>
                 {% for module in tracks[track] %}
                     {% if uri_year == tracks[track][module]['year'] and ( uri_term == 'all' or uri_term == tracks[track][module]['term']) %}
-                        <li>{%if uri_term == 'all' %}{{tracks[track][module]['term-expanded']}}{% endif %}<a href="{{ tracks[track][module]['href'] }}"><strong> {{ tracks[track][module]['title'] }} </strong> | {{ tracks[track][module]['course_type'] }}</a></li>
+                        <!-- <li>{%if uri_term == 'all' %}{{tracks[track][module]['term-expanded']}}{% endif %}<a href="{{ tracks[track][module]['href'] }}"><strong> {{ tracks[track][module]['title'] }} </strong> | {{ tracks[track][module]['course_type'] }}</a></li> -->
+                        <li><a href="{{ tracks[track][module]['href'] }}"><strong> {{ tracks[track][module]['title'] }}</strong></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
