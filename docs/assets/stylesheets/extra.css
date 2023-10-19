@@ -734,7 +734,7 @@ background-color: var(--md-accent-fg-color);
 @media only screen and (min-width: 600px) {
     .banner-image {
         max-height: 63vh;
-        min-height: 350px;
+        min-height: 385px;
     }
     .md-typeset .faculty-card img.faculty-photo {
         width: 175px;
