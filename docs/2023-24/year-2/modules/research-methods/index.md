@@ -7,6 +7,8 @@ feature_img: /assets/images/2023-24/year-2/t-1/research-methods.png
 img_caption: Credits | ^LINK. by Aditya Mandlik
 faculty:
     - mathilde-marengo
+    - nikol-kirova
+    - fiona-demeur
 ---
 
 {{ insert_banner() }}
