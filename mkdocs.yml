@@ -52,13 +52,13 @@ nav:
   - Year 2:
     - 2023-24/year-2/index.md
     - Calendar: 2023-24/year-2/calendar/index.md
-    - Thesis Project: 2023-24/year-2/thesis-project/index.md
-    - Research Methods: 2023-24/year-2/research-methods/index.md
-    - Circular Matter: 2023-24/year-2/circular-matter/index.md
-    - Business Innovation: 2023-24/year-2/business-innovation/index.md
-    - Theories of the Urban: 2023-24/year-2/theories-of-the-urban/index.md
-    - Interaction and Prototyping: 2023-24/year-2/interaction-and-prototyping/index.md
-    - Ecological Interactions: 2023-24/year-2/ecological-interactions/index.md
+    - Thesis Project: 2023-24/year-2/modules/thesis-project/index.md
+    - Research Methods: 2023-24/year-2/modules/research-methods/index.md
+    - Circular Matter: 2023-24/year-2/modules/circular-matter/index.md
+    - Business Innovation: 2023-24/year-2/modules/business-innovation/index.md
+    - Theories of the Urban: 2023-24/year-2/modules/theories-of-the-urban/index.md
+    - Interaction and Prototyping: 2023-24/year-2/modules/interaction-and-prototyping/index.md
+    - Ecological Interactions: 2023-24/year-2/modules/ecological-interactions/index.md
     # - Term 2:
     #   - 2023-24/year-2/t2/index.md
     #   - Thesis Project: 2023-24/year-2/t2/thesis-project/index.md
