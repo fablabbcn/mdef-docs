@@ -81,6 +81,9 @@ Students are requested to submit all the material requested by the faculty + the
 
 ## Grading Method
 
+Class discussion and questions (formative), personal feedback (formative), attendance and participation (summative), deliverables including presentation and video (summative), personal reflections (summative).
+
+
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
 | 20%         | Participation                                   |

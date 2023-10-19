@@ -1,5 +1,5 @@
 ---
-title: Interaction and Prototyping | LLUM BCN 2024
+title: Interaction and Prototyping
 page_type: course
 track: Instrumentation
 course_type: Elective
@@ -12,7 +12,7 @@ faculty:
 
 {{ insert_banner() }}
 
-## Context
+## Context for Llum BCN 2024
 
 The Llum BCN festival is organised by the Barcelona Institute of Culture (ICUB). It  takes place during the month of February to coincide with the Festival de Santa Eulalia.
 

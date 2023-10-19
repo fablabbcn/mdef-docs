@@ -5,7 +5,8 @@ hide:
 
 # Term 1
 
-<h2>Framing Collective Design Interventions</h2>
+
+## Framing Collective Design Interventions
 
 Understanding what it means to design for emergent futures. Analyzing the past and finding weak signals. References, state of the art. Identifying areas of interest. Experimenting from the first-person perspective. Foundational literacies of Open Source Ecosystems and Digital infrastructure, Synthetic Biology, Collective Intelligences and ML technologies and Community Engagement.
 

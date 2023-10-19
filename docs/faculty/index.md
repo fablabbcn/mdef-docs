@@ -17,10 +17,12 @@ faculty:
     - andres-colmenares
     - nuria-conde
     - markel-cormenzana
+    - fiona-demeur
     # - christian-ernst
     - santiago-fuentemilla
     - ana-gallego
     - petra-garajova
+    - nikol-kirova
     - mariano-gomez-luque
     - oscar-gonzalez
     - ariel-guersenzvaig
@@ -30,6 +32,7 @@ faculty:
     - mikel-llobera
     - lucas-pena
     - angella-mackey
+    - mathilde-marengo
     - josep-marti
     - kevin-matar
     - jonathan-minchin
@@ -46,6 +49,9 @@ faculty:
     - jana-tothill
     - olga-trevisan
     - pablo-zuloaga
+
+
+
 ---
 
 {{ insert_faculty() }}

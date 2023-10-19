@@ -3,9 +3,10 @@ from mistune import html
 import re
 import os
 import yaml
+from pathlib import Path
 
 def define_env(env):
-    
+
     @env.macro
     def insert_banner():
 
@@ -100,3 +101,60 @@ def define_env(env):
         else:
             print ('Incorrectly configured')
             return None
+
+    @env.macro
+    def insert_tracks():
+        custom_dir = os.path.basename(os.path.normpath(env.conf.theme.custom_dir))
+
+        environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
+        template = environment.get_template("track_cards.html")
+
+        src_uri = env.page.file.src_uri
+        parents = Path(src_uri).parents
+        folder = str(parents[0])
+        depth = len(parents)
+
+        if depth == 3:
+            uri_term = 'all'
+            uri_year = os.path.split(parents[0])[1]
+        if depth == 4:
+            uri_term = os.path.split(parents[0])[1]
+            uri_year = os.path.split(parents[1])[1]
+
+        tracks = {}
+
+        for (root,dirs,files) in os.walk(os.path.join('docs',folder)):
+            droot = len(Path(root).parents)
+            if droot == 5:
+                module = os.path.split(Path(root))[1]
+                term = os.path.split(Path(root).parents[0])[1]
+                year = os.path.split(Path(root).parents[1])[1]
+
+                with open(os.path.join(root, 'index.md')) as _file:
+                    content = _file.readlines()
+
+                frontmatter = get_frontmatter(content)
+                href = None
+
+                if frontmatter is not None:
+                    href = os.path.join(root).replace('docs', '')
+
+                data = {}
+
+                if frontmatter is not None:
+                    track = frontmatter['track']
+
+                    if track not in tracks:
+                        tracks[track] = {}
+
+                    tracks[track][module] = {
+                        'title': frontmatter['title'],
+                        'course_type': frontmatter['course_type'],
+                        'year': year,
+                        'term': term,
+                        'term-expanded': f'Term {term[-1]}',
+                        'href': href
+                    }
+
+        result = template.render(tracks=tracks, uri_year = uri_year, uri_term = uri_term)
+        return result
