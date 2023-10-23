@@ -8,6 +8,7 @@ img_caption:
 faculty:
     - tomas-diez
     - santiago-fuentemilla
+ects: 28
 ---
 
 {{ insert_banner() }}
@@ -162,10 +163,18 @@ Documented process in MDEF repository.
 
 Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
 
-## Evaluation Strategies 
+## Grading Method
 
 - Attendance at meetings with tutors and classes
 - Delivery of assignments
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS over three terms:
+
+    - Term 1: **Implementation** (*8 ECTS*)
+    - Term 2: **Validation** (*8 ECTS*)
+    - Term 3: **Dissemination (Scale and Distribute)** (*12 ECTS*)
 
 ## Additional Resources
 

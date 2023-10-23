@@ -9,6 +9,7 @@ faculty:
     - gabriele-jureviciute
     - kevin-matar
     - nico-schouten
+ects: 3
 ---
 
 {{ insert_banner() }}
@@ -41,6 +42,12 @@ At course completion the student will:
 - Be able to map the material flows and their embodied carbon through the lifecycle;
 - Be familiar of the environmental impact caused by analysed materials and how to design for reducing it;
 - Be able to bring these tools into practice and assess how the individual master thesis project addresses the issues that need to be solved, identify systemic barriers to implementation and propose solutions that can help overcome them.
+
+## Grading Method
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Additional Resources
 

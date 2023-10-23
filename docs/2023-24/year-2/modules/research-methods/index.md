@@ -1,5 +1,5 @@
 ---
-title: Research Methods
+title: Research & Methods
 page_type: course
 track: Exploration
 course_type: Elective
@@ -9,6 +9,7 @@ faculty:
     - mathilde-marengo
     - nikol-kirova
     - fiona-demeur
+ects: 3
 ---
 
 {{ insert_banner() }}
@@ -20,6 +21,16 @@ The second year of the IAAC Master programs is dedicated to the development of a
 ## Format
 
 The course is run in a mixed format consisting of short lectures and development exercises. Each class/development exercise, the students will treat a new subject related to their research development, from planning their research, methods and skills, research protocols and databases, to the delivery of their thesis.
+
+## Grading Method
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS over three terms:
+
+    - Term 1: **Research & Methods 01** (*1 ECTS*)
+    - Term 2: **Research & Methods 02** (*1 ECTS*)
+    - Term 3: **Research & Methods 03** (*1 ECTS*)
 
 ## Faculty
 
