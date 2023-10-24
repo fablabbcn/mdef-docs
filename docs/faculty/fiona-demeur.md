@@ -1,6 +1,6 @@
 ---
 name: Fiona Demeur
-role: Faculty Assistants
+role: Faculty & Erasmus+ Project Manager
 feature_img: /assets/images/faculty/fiona-demeur.png
 socials:
     email:
@@ -12,6 +12,6 @@ socials:
     github:
 ---
 
-Fiona Demeur is an architectural designer with a passion for designing and working with nature to find architectural solutions for the city, and developing new strategies for education. She is currently working in the AAG EU Project Team as a researcher and managing the Erasmus+ Programmes which focus on education.
+Fiona Demeur is an architectural designer with a passion for designing and working with nature to find architectural solutions for the city. She is currently working in the EU Project’s Department as a researcher and managing the Erasmus+ Programmes including Urban Shift. 
 
-Her research now is primarily focusing on transdisciplinary education programmes and working with nature-based solutions. After completing the Master in Advanced Architecture 02 at IAAC where she developed her thesis on food circularity, she has also been involved with two start-ups merging sustainable solutions with technological strategies.
+After completing the Master in Advanced Architecture 02 at IAAC where she developed her thesis on food circularity, she has been involved with two start-ups. The first, eiria, a start-up developed here at IAAC during the BUILDs Programme and formerly known as aeroSQAIR, and secondly add.apt, a start-up based in Lagos, Nigeria formed by IAAC alumni. Both start-ups have been focusing on merging sustainable solutions with technological strategies.

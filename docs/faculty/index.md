@@ -19,6 +19,7 @@ faculty:
     - markel-cormenzana
     - fiona-demeur
     # - christian-ernst
+    - chiara-farinea
     - santiago-fuentemilla
     - ana-gallego
     - petra-garajova
