@@ -76,7 +76,7 @@ Green Innovation Group (GIG), Copenhagen
         <img class="partner-square" src="/assets/images/partners/stuttgart-media-university-hdm.png" alt="">
     </div>
     <div class="partner-logo">
-        <img class="partner-vertical" src="/assets/images/partners/wifi-wirtschaftsförderungsinstitut.png" alt="">
+        <img class="partner-vertical" src="/assets/images/partners/wifi-wirtschaftsforderungsinstitut.png" alt="">
     </div>
     <div class="partner-logo">
         <img class="partner-horizontal" src="/assets/images/partners/multicriteria.jpg" alt="">
