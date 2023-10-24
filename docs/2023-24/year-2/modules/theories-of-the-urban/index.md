@@ -3,7 +3,7 @@ title: Theories of the Urban
 page_type: course
 track: Reflection
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/theories-of-the-urban.png
+feature_img: /assets/images/2023-24/year-2/modules/theories-of-the-urban.png
 img_caption: Credits | Unsplash 
 faculty:
     - mariano-gomez-luque

@@ -3,7 +3,7 @@ title: Thesis Project
 page_type: course
 track: Application
 course_type: Workshop
-feature_img: /assets/images/2023-24/year-2/t-1/thesis-project.jpeg
+feature_img: /assets/images/2023-24/year-2/modules/thesis-project.jpeg
 img_caption: 
 faculty:
     - tomas-diez
@@ -15,7 +15,8 @@ ects: 28
 
 ## Syllabus
 
-Second Year Design Studio - Master in Design for Emergent Futures
+**Second Year Design Studio - Master in Design for Emergent Futures**
+
 The second year of the Design Studio in the Master in Design for Emergent Futures program is dedicated to the in-depth development of students' projects, supported by complementary seminars. The structure of the second year is as follows:
 
 **Term 1: Research and Scientific Background**

@@ -3,7 +3,7 @@ title: Research & Methods
 page_type: course
 track: Exploration
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/research-methods.png
+feature_img: /assets/images/2023-24/year-2/modules/research-methods.png
 img_caption: Credits | ^LINK. by Aditya Mandlik
 faculty:
     - mathilde-marengo

@@ -3,7 +3,7 @@ title: Interaction and Prototyping
 page_type: course
 track: Instrumentation
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/interaction-and-prototyping.jpeg
+feature_img: /assets/images/2023-24/year-2/modules/interaction-and-prototyping.jpeg
 img_caption: <a href="https://iaac.net/iaac-is-part-of-llum-barcelona-2023/">IAAC LLUM Installation, 2023</a>
 faculty:
     - pablo-ros

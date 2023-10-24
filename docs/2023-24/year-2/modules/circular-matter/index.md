@@ -3,7 +3,7 @@ title: Circular Matter
 page_type: course
 track: Reflection
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/circular-matter.png
+feature_img: /assets/images/2023-24/year-2/modules/circular-matter.png
 img_caption: Credits | Material Stories | Steel, Embodied Energy and Design, D.Benjamin. Columbia University GSAPP
 faculty:
     - gabriele-jureviciute
@@ -25,7 +25,7 @@ Growing urban regions and consumption patterns combined with an extractive and w
 In 2004 it was estimated that at the current rate of mining, we are left with 32 years of copper, 23 years of tin, and 21 years of lead (C.O’Donnell, D.Pranger). With the raw materials becoming scarce, in the near future, recycling and reusing will become an inevitable part of how architects, designers and engineers construct the built environment.  
   
 
-![](/assets/images/2023-24/year-2/t-1/circular-matter-systems-map.jpeg)
+![](/assets/images/2023-24/year-2/modules/circular-matter-systems-map.jpeg)
 
 <p class="image-caption">Credits | From Diversity to Sustainability by J.B.Saleh, Y.Wu, A.Najera, X.Can. IAAC 2022/23</p>
 

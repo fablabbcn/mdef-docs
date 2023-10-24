@@ -3,7 +3,7 @@ title: Ecological Interactions
 page_type: course
 track: Instrumentation
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/ecological-interactions.png
+feature_img: /assets/images/2023-24/year-2/modules/ecological-interactions.png
 img_caption: Establishing an agro ecology system for the gardens of Valldaura 
 faculty:
     - jonathan-minchin

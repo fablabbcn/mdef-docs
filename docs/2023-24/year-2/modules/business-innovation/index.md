@@ -3,7 +3,7 @@ title: Business Innovation
 page_type: course
 track: Reflection
 course_type: Elective
-feature_img: /assets/images/2023-24/year-2/t-1/business-innovation.png
+feature_img: /assets/images/2023-24/year-2/modules/business-innovation.png
 img_caption: <a href="https://www.midjourney.com/">Image made with Midjourney</a>
 faculty:
     - davide-rovera
