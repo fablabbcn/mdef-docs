@@ -95,8 +95,6 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 - Landing website
 - Purpose statement
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
-
 ## Grading Method
 
 !!! info ""

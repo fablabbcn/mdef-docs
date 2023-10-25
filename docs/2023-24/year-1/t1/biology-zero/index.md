@@ -104,8 +104,6 @@ Access to the means of experimentation for the investigative and applied science
 
 ## Deliverables
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
-
 Creatively depict, describe and visualize a ‘**Designed experiment**’ that encompasses class concepts, notes and explores the Scientific method and its processes of hypothesizing, developing and testing. The depiction could be in any form of a poster / diagram / info-graphic or any other media. It should creatively depict the impacts of a newly conceived ‘Genetically Modified Organism’ in the world.
 
 ## Grading Method

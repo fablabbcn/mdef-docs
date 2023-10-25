@@ -139,8 +139,6 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
 ![](/assets/images/2023-24/year-1/t-1/the-machine-paradox-deliverables.png)
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
-
 - Write a post out your weekly experience (personal MDEF webpage)
 - Deliver the forensic report completely filled
 - Reflect your learning goals and possible applications of the technology learned

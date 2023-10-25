@@ -152,9 +152,7 @@ Students are requested to deliver a final presentation (with a digital record) t
 
 Students will be asked to identify a creative community related to their matter of concern, research it, and frame an intervention towards this creative community.
 
-Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses. 
-
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
+Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses.
 
 ## Grading Method
 

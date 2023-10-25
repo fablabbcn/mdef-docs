@@ -77,8 +77,6 @@ For the first day (Tuesday) please bring materials for tinkering like paper, old
 - Video
 - Reflection
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub.
-
 ## Grading Method
 
 Class discussion and questions (formative), personal feedback (formative), attendance and participation (summative), deliverables including presentation and video (summative), personal reflections (summative).
