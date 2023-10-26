@@ -139,6 +139,10 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
 ![](/assets/images/2023-24/year-1/t-1/the-machine-paradox-deliverables.png)
 
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2023-24/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
+
+**In addition, videos and presentations must be submitted in the Submission folder within the seminar's Google Drive folder, which we share with you.**
+
 - Write a post out your weekly experience (personal MDEF webpage)
 - Deliver the forensic report completely filled
 - Reflect your learning goals and possible applications of the technology learned
@@ -179,7 +183,8 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 ## Course Resources
 - [Hackmd Documentation](https://hackmd.io/@fablabbcn/theparadoxmachine) - Collection of presentations, links and reources for the course.
 - [Miro Board](https://miro.com/app/board/uXjVNaaI5lo=/?share_link_id=211542821117)
-
+- [Main Presentation](https://docs.google.com/presentation/d/12z48dSxuSXtdz_SZrQg6c65z50ptIDCCSUzh9GiSNIw/edit?usp=sharing)
+- [TAUMS Showcase](https://docs.google.com/presentation/d/15KO0wCPPbD59EVw_6xRo_4ZkEceN0HR65-qRN1_MxBE/edit?usp=sharing)
 
 ## Additional Resources
 
