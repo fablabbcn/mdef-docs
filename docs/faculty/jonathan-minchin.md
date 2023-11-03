@@ -1,6 +1,6 @@
 ---
 name: Jonathan Minchin
-role: Civic Ecology Strategic Advisor
+role: Founder of Ecological Interaction Applied Research group and Civic Ecology Advisor at Fab Lab Barcelona
 feature_img: /assets/images/faculty/jonathan-minchin.png
 socials:
     email: jonathan@ecologicalinteraction.org
