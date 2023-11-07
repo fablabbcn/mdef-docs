@@ -151,14 +151,7 @@ The specific goals are the following:
 
 - **5 high resolution images** of the **highlights of your Design Studio work** during the term
 - **1 high resolution image** of your **personal and collective design space**
-- **The first 3 chapters of your Thesis Draft** which represent each one of the deliverables developed during the term
-
-***Thesis Draft chapters:***
-
-- **Chapter 0:** What is your purpose?. Vision and Identity. Personal development and Collaboration Plan.
-- **Chapter 1:** Research through Design Toolbox.
-- **Chapter 2:** Framing a collective Design Space based on AoWS, Multiscalar Design Space and State of the Art. Personally reflect on your area of interest and an area of intervention.
-- **Chapter 3:** First interventions (Experiments, Pilots and first collective intervention): Description and results.
+- **A written document** (TBD)
 
 **These are the points we are going to look at for Term 1:**
 
