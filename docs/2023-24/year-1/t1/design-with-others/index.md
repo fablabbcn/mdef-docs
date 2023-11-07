@@ -7,7 +7,7 @@ feature_img: /assets/images/2023-24/year-1/t-1/design-with-others.jpg
 img_caption: A member of Holon facilitating a creative session with cooperative housing community. Both “studio” and “field” concepts are reformulated in a design practice that happens within communities.
 faculty:
     - holon
-    - merce-rua
+    - adria-garcia
     - markel-cormenzana
     - milena-calvo
 ects: 2
@@ -91,7 +91,7 @@ This seminar offers students a comprehensive learning experience in the field of
 
     **SEMINAR/WORKSHOP: (3h) Tooling**
 
-    Lead: Mercè
+    Lead: Adrià
 
     - Creative communities
     - Mindset and ways of designing
@@ -103,7 +103,7 @@ This seminar offers students a comprehensive learning experience in the field of
 
     **WORKSHOP: (3h) Performing ecosystems and transitions**
 
-    Lead: Mercè
+    Lead: Adrià
 
     - Participatory ecosystems: Knowledge as a correlate and Body and bodies as epistemological instruments
     - Exercise 4D Map. Visualization and direct exemplification of the generation of truth.

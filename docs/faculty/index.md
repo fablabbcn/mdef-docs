@@ -23,6 +23,7 @@ faculty:
     - santiago-fuentemilla
     - ana-gallego
     - petra-garajova
+    - adria-garcia
     - nikol-kirova
     - mariano-gomez-luque
     - oscar-gonzalez
@@ -41,7 +42,7 @@ faculty:
     - cristian-rizzuti
     - pablo-ros
     - davide-rovera
-    - merce-rua
+    # - merce-rua
     # - pitro-rustici
     - ramon-sanguesa
     - nico-schouten
