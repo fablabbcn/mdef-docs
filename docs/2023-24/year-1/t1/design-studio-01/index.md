@@ -163,7 +163,7 @@ The specific goals are the following:
 
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
-| 50%         | Faculty (including first Thesis draft)          |
+| 50%         | Faculty (including written assignment)          |
 | 50%         | Self-Evaluation                                 |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
