@@ -60,7 +60,7 @@ Task 3: Circular Design for Agro Forestry
 
 ## Schedule
 
-=== "07/11"
+=== "14/11"
 
     **10:00h - 12:00h**
 
@@ -72,7 +72,7 @@ Task 3: Circular Design for Agro Forestry
 
     **Workshop** - Circular designs for agroforestry
 
-=== "08/11"
+=== "15/11"
     
     **10:00h - 12:00h**
 
@@ -89,7 +89,7 @@ Task 3: Circular Design for Agro Forestry
     
     **Practical:** Farming
 
-=== "09/11"
+=== "16/11"
 
     **10:00h - 12:00h**
 
@@ -102,16 +102,6 @@ Task 3: Circular Design for Agro Forestry
     **Practical**
     
     **Elaboration:** Soil sampling, Essential oils
-
-=== "10/11"
-
-    **10:00h - 12:00h**
-
-    **Final Presentations**
-
-    **12:15h - 14:15h**
-
-    **Film Viewing**
 
 
 ## Deliverables
