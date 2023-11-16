@@ -3,9 +3,6 @@ hide:
     - toc
     - navigation
 students:
-    Caglar Alkan:
-        photo: 
-        website: https://caglaralkan.github.io/MDEF/
     Manuja Agnohotri:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
@@ -29,7 +26,7 @@ students:
         website: https://33dudu.github.io/magicreator/
     Anthuanet Falcon Quispe:
         photo: /assets/images/students/6786.jpg
-        website:
+        website: https://anthuanetf.github.io/MDEF/
     Anna Fedele:
         photo: /assets/images/students/6915.jpeg
         website: https://annafedele.github.io/mdef/
@@ -44,10 +41,16 @@ students:
         website: https://oliver-lloyd-mdef.github.io/Oliver-MDEF-Portfolio/
     Ana Lozano:
         photo: /assets/images/students/6951.png
-        website: https://annnalozano.github.io/mdef_class/
+        website: https://annnalozano.github.io/PaginaWeb/ 
     Emmanuel Pangilinan:
         photo: /assets/images/students/6824.JPG
         website: https://minnie-at-iaac.github.io/
+    Sophie Marandon:
+        photo: /assets/images/students/7005.jpg
+        website: https://sophma.github.io/myMDEFportfolio/
+    Jorge Muñoz:
+        photo: /assets/images/students/7007.jpg
+        website: https://jmuozan.github.io/mdef-website/
     Mihnea Nicolae Patrascu:
         photo: /assets/images/students/6764.png
         website: https://grayson-iaac.github.io/MDEF/
@@ -60,6 +63,15 @@ students:
     Marius Schairer:
         photo: /assets/images/students/6837.jpg
         website: https://marius-schairer.github.io/MDEF_Documentation/
+    Núria Valsells: 
+        photo:
+        website: https://nuriavalsells.github.io/MDEF/
+    Albert Vila:
+        photo: /assets/images/students/6999.jpg
+        website: https://avilabon.github.io/MDEF_Albert/
+    Caglar Alkan (MDEF2):
+        photo: 
+        website: https://caglaralkan.github.io/MDEF/
 ---
 
 # Students
