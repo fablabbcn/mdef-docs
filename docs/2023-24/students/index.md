@@ -64,7 +64,7 @@ students:
         photo: /assets/images/students/6837.jpg
         website: https://marius-schairer.github.io/MDEF_Documentation/
     Núria Valsells: 
-        photo:
+        photo: /assets/images/students/7035.jpg
         website: https://nuriavalsells.github.io/MDEF/
     Albert Vila:
         photo: /assets/images/students/6999.jpg
