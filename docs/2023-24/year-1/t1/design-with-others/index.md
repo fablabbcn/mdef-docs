@@ -61,15 +61,15 @@ This seminar offers students a comprehensive learning experience in the field of
 
 ## Schedule - Theory
 
-=== "Sessions 1 & 4"
+=== "Sessions 1 to 4"
 
     **WORKSHOP: Design prefigurations around food**
     
-    Lead: Markel
+    Lead: Markel & Adrià
     
     Using food as a proxy for ecological relationships, students will explore how to engage with local creative communities to intervene into complex issues around food and their ramifications. The workshop should result in the identification of a creative community, a reflection around the politics of design in relation to human and non-human actants and the development of an experiment/prototype to intervene into the system in collaboration with “communities”.
     
-    **Session 1:**
+    **Session 1 (Markel):**
 
     - Working frameworks
     - Mapping and sensing food issues and it’s ramifications
@@ -79,34 +79,29 @@ This seminar offers students a comprehensive learning experience in the field of
 
     Homework between sessions: “Meeting” creative communities, field research and insight generation.
 
-    **Session 4:**
+    **Session 2 (Adrià):**
+
+    - Working frameworks
+    - Mapping and sensing land issues and it’s ramifications
+    - Inspo lightning talk (La Borda and Aquí at Coopolis)
+    - Approaching a creative community
+    - Approaching the homework: planing
+
+    Homework between sessions: “Meeting” creative communities, field research and insight generation.
+
+    **Session 3 (Markel):**
 
     - Debriefing encounters
-    - Insight generation
-    - Prototyping an intervention
-    - Rehearsal
-    - Action plan
+    - Insight generation and community’s approaching strategy
+    - First ideas on intervention
 
-=== "Session 2"
+    Homework between sessions: Refining insights and community’s approaching strategy
 
-    **SEMINAR/WORKSHOP: (3h) Tooling**
+    **Session 4 (Adrià):**
 
-    Lead: Adrià
+    - Debriefing insight and community’s approaching strategy
+    - Prototyping approaching strategy and intervention
 
-    - Creative communities
-    - Mindset and ways of designing
-    - Facilitation
-    - Social capital
-    - The limits of participation: Case studies from Holon’s experience
-
-=== "Session 3"
-
-    **WORKSHOP: (3h) Performing ecosystems and transitions**
-
-    Lead: Adrià
-
-    - Participatory ecosystems: Knowledge as a correlate and Body and bodies as epistemological instruments
-    - Exercise 4D Map. Visualization and direct exemplification of the generation of truth.
 
 ## Schedule - Practice
 
@@ -144,21 +139,19 @@ This seminar offers students a comprehensive learning experience in the field of
 
 ## Deliverables
 
-### Session 1 & 4 - WORKSHOP: Design prefigurations around food
+### Session 1 to 4 - Theory
 
 Students are requested to deliver a final presentation (with a digital record) that reflects around the process and learnings achieved. This presentation should present the final prototype/intervention proposal and evidence from its rehearsal. This might include: digital prototypes, videos, pictures, storytelling, etc.
 
-### Session 2 - (3h) Tooling
-
 Students will be asked to identify a creative community related to their matter of concern, research it, and frame an intervention towards this creative community.
 
-Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses.
+Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses. 
 
 ## Grading Method
 
 The course will be evaluated with a numeric grade that will average results from the 4 sessions.
 
-### Session 1 & 4 - WORKSHOP: Design prefigurations around food
+### Session 1 to 4 - Theory
 
 | Percentage  | Description                          |
 | ----------- | ------------------------------------ |
@@ -166,20 +159,6 @@ The course will be evaluated with a numeric grade that will average results from
 | 40%         | Prototype development and evidencing |
 | 40%         | Personal reflections                 |
 
-### Session 2 - (3h) Tooling
-
-| Percentage  | Description                          |
-| ----------- | ------------------------------------ |
-| 20%         | Participation                        |
-| 40%         | Homework                             |
-| 40%         | Personal reflections                 |
-
-### Session 3 - (3h) Performing ecosystems and transitions
-
-| Percentage  | Description                             |
-| ----------- | ------------------------------------    |
-| 70%         | Participation                           |
-| 30%         | Team work, collaboration and discussion |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
