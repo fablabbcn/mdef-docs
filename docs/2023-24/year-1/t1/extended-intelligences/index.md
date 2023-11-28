@@ -7,7 +7,6 @@ feature_img: /assets/images/2023-24/year-1/t-1/extended-intelligences.jpeg
 img_caption: Martian Species, Estampa, 2021
 faculty:
     - ramon-sanguesa
-    - lucas-pena
     - pau-artigas
 ects: 3
 ---
@@ -33,7 +32,7 @@ A speculative project will be developed by the students in small groups during t
 
 === "28/11"
 
-    **Lucas Peña / Ramon Ramon Sangüesa**
+    **Ramon Ramon Sangüesa**
 
     ***Afternoon***
 
@@ -44,13 +43,15 @@ A speculative project will be developed by the students in small groups during t
 
 === "29/11"
 
-    **Lucas Peña / Ramon Ramon Sangüesa**
+    **Estampa**
 
     ***Afternoon***
 
-    - AI and design methodologies: post-human design, Van Allen's shamanistic design
-    - Practical work on the students project ideas. Sharing and critique. 
-    - Pushing for speculation and Futures
+    - Situated IA introduction.
+    - Intro to the working environment.
+    - Student work/Support.
+    - Presentation of Estampa's projects
+
 
 === "30/11"
 
@@ -58,9 +59,11 @@ A speculative project will be developed by the students in small groups during t
 
     ***Afternoon***
 
-    - Reflection about AI and contemporary visual culture. 
-    - Intro to the working environment.
-    - Student work/Support
+    - Student presentation of exercise [Datasets].
+    - Theoretical and practical technological concepts. How do these technologies work? How to use them beyond the web interface?
+    - Using AI services through APIs and with libraries.
+    - Student work/Support.
+
 
 === "1/12"
 
@@ -68,9 +71,10 @@ A speculative project will be developed by the students in small groups during t
 
     ***Morning***
 
-    - Theoretical and practical technological concepts. How do these technologies work? How to use them beyond the web interface?
-    - Tinkering with examples.
-    - Student work/Support
+    - Student presentation of exercise [Services].
+    - Latent/Multidimensional/Embedding spaces.
+    - Student work/Support.
+
 
     ***Afternoon***
 
@@ -84,7 +88,7 @@ A speculative project will be developed by the students in small groups during t
 
     - Student work/Support
 
-    **Ramon Sangüesa / Lucas Peña / Estampa**
+    **Ramon Sangüesa / Estampa**
 
     ***Afternoon***
 
