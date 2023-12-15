@@ -1,5 +1,7 @@
 ---
 title: Contribute
+hide:
+    - navigation
 ---
 
 ## Overview
