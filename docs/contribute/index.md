@@ -53,7 +53,7 @@ Headings are created using the number sign (#) with the corresponding amount of 
 
     1. Note that above **there is always a space after the number signs**, if you don't include this space before the header title, your text **will not** appear as a header.
     2. There should only be one H1 on each page, this is considered a best practice and it is also logical for human readers. Importantly, using only one H1 also helps web crawlers to understand the structure of website content and can affect SEO ranking (negatively if more than one H1 is used on a page).
-    3. H1 titles of most pages on this website are included in the Front Matter of the Markdown files ([see below](#front-matter)).
+    3. H1 titles of most pages on this website are included in the Front Matter of the Markdown files ([see below](#front-matter-for-module-pages)).
 
 ### Paragraphs
 
@@ -434,7 +434,7 @@ If no table is provided, you can include an [admonition](https://squidfunk.githu
     :fontawesome-solid-circle-info:{ .icon-padding-right } **Grading criteria will be defined by faculty during the module.**
 ```
 
-Finally, the MDEF website has a custom [admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) that displays the ECTS of the module. The code should be written as follows:
+Finally, the MDEF website has a [custom admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions) that displays the ECTS of the module. The code should be written as follows:
 
 ```
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
