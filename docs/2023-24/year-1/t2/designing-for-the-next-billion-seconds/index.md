@@ -1,65 +1,112 @@
-# Designing for the Next Billion Seconds
+---
+title: Designing in a State of Climate Emergency
+page_type: course
+track: Reflection
+course_type: Short Course
+feature_img: docs/assets/images/2023-24/year-1/t-2/designing-in-a-state-of-climate-emergency.png
+img_caption: Credit | Planet Earth rendered by 3D artist Lorna Pittaway for the Billion Seconds Institute.
+faculty:
+    - andres-colmenares
+ects: 2
+---
 
-![](images/next_billion_seconds.png)
-
-## Track
-Application
-
-## Faculty
-Andres Colmenares
+{{ insert_banner() }}
 
 ## Syllabus
 
-Following a collective learning-by-doing approach, the students will explore, discuss, reflect, ideate and exchange perspectives, questions and thought experiments, while exercising their collective imaginations with long-term, critical and planetary mindsets to navigate the complexity, scale and speed of change of the multidimensional implications that the digital economy has in the environmental emergency.
+Following a collective learning-by-doing approach, the students will explore, discuss, reflect, ideate and exchange perspectives, questions and thought experiments, while exercising their collective imaginations with long-term, critical and planetary mindsets to navigate the complexity, scale and speed of change of the multidimensional implications that the digital economy has in the environmental emergency. 
 
-Using the Everything Manifesto as a meta-brief, participants will have the opportunity to learn how to use hypothetical questions to develop useful fiction stories about how everyday life can change in the next billion seconds, following methodologies where they can practice collective ideation, decision making and other collaborative approaches.
+**Keywords: Critical, degrowth, plurality**
 
+### Learning Objectives
 
-## When  
-Wednesday 11th to Friday 13th of January 23'
+- Develop skills to work effectively as a member of groups and networks of people with different levels of expertise, cultural and professional backgrounds.
+- Empower students to align their individual and collective learning experience with the cultural, ecological and societal transformations shaping this decade.
+- Develop a critical understanding of the socio-economic, socio-technical, and eco-sociological aspects of digital technologies, alongside the ethical, social, environmental and cultural implications emerging from their use at scale.
+
+### Methodological Strategies
+
+- Lectures
+- Group discussions
+- Collective decision-making and making
+- Field trip
 
 ## Schedule
 
-### Tuesday 04/10 14:30 to 18:00 CET
+The course will follow a week-long, in-person studio format, divided in 4 sessions. Students will organize as one collective around a creative challenge and organize in interdependent smaller teams.
 
-The course will follow a week-long, in-person studio format, divided in 4 sessions. Students will organize as one collective around a creative challenge and organize in interdependent smaller teams:
+=== "09/01"
 
-#### Session I: Introduction to the post-technological futures of Everything
-Group discussion + Creative challenge briefing
-
-#### Session II: Futures in Plural
-Workshop on Collective ideation/decision-making
+    **Session I: Introduction to the Designing in a State of Climate Emergency**
+    
+    Lecture + Group discussion + Positionality statement workshop
 
 
-#### Session III: Futures as Tools
-Workshop on visual storytelling and proto–videos
+=== "10/01"
 
+    **Session II: Discussing our relationship with time and growth**
+    
+    Debate on Degrowth + Guest lecturer: Gustavo Nogueira, Temporality Lab
 
-#### Session IV: Futures = Narratives
-Showcase + collective reflection
+=== "11/01"
 
-## Deliverables / Outputs
+    **Session III: Solar-centered designing**
+    
+    Field trip focused on sentipensar + alternative knowledge exploration in groups
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+=== "12/01"
 
-Digital posters and proto-videos
-Reflection essays
+    **Session IV: Remembering Futures**
+    
+    Workshop on visual storytelling + collective reflection
 
+## Deliverables
 
-## Link
+- Digital postcards/posters and proto-videos
+- Reflection essays
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8" style="width:100%; height:100%; border:0;"></iframe>
+## Grading Method
 
-[Open Drive folder](https://drive.google.com/drive/folders/1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8){ .md-button .md-button--primary }
+| Percentage  | Description                         |
+| ----------- | ------------------------------------|
+| 50%         | Self-assessment of individual engagement                         |
+| 50%         | Self-assessment of collective learning                         |
 
-## Andres Colmenares
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-![](../../../assets/images/faculty_photos/andres_colmenares.jpg)
+    {{ ects }} ECTS
 
-Andres Colmenares (CO/ES) is the co-founder of IAM, the creative research lab helping citizens and organisations to anticipate, understand and address the socioecological challenges and opportunities emerging from the coevolution of digital technologies and internet cultures. He is also co-director of The Billion Seconds Institute, director of a new Master in Design for Responsible Artificial Intelligence systems at ELISAVA,  and recently appointed as coordinator of Open Climate, a collective of leaders in the open movement dedicated to exploring the intersection between the open practices and the climate crisis.
+## Additional Resources
 
-As a strategist and creative foresight consultant he has developed projects and partnerships with organisations as Mobile World Capital Foundation, Tate, Red Bull, SPACE10, WeTransfer and BBC, using futures as tools to help organisations grow their cultural relevance by designing alternative learning experiences, tools and programs. In 2022 he joined Ars Electronica as a jury member for the STARTS Prize, an award created by the European Commission to honor Innovation in Technology, Industry and Society stimulated by the Arts. He also has contributed opinion articles and short fictions for publications as CRACK Magazine, The Site Magazine or LS:N Global and has been invited as guest lecturer at institutions such as University of Arts London, Merz Akademie and Berghs School of Communication
+Related articles and essays:
 
-Email Address andres@iam-internet.com
+- [The Everything Manifesto](https://www.iam-internet.com/everything)
+- [Solar-Centered Designing: an eccentric proposal for Branch Magazine](https://branch.climateaction.tech/issues/issue-4/solar-centered-designing/)
+- [‘Provisions - Observing & Archiving COVID-19’ by Site Magazine](https://www.thesitemagazine.com/covid19provisions)
+- [Imagining Intercitizenships](https://medium.com/iam-journal/imagining-intercitizenships-f3f4bdc80b68) 
+- [‘A question of tech’ by Gauthier Roussilhe](https://gauthierroussilhe.com/en/posts/une-erreur-de-tech)
+- [‘A question of tech’ by Gauthier Roussilhe](https://gauthierroussilhe.com/en/posts/une-erreur-de-tech)
+- [Emergency on Planet Earth by Extinction Rebellion](https://extinctionrebellion.uk/the-truth/the-emergency/+)
+  
+Recommended publications and books:
 
-Personal Website IAM-internet.com
+- [Logic Magazine](https://logicmag.io/) 
+- [Branch Magazine](https://branch.climateaction.tech/)
+- 'Down to Earth: Politics in the New Climatic Regime' by Bruno LaTour 
+- ‘Poetics of Relation’ by Édouard Glissant
+- ‘The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins’ by Anna Lowenhaupt Tsing
+- ‘Blockchain Chicken Farm’ by Xiaowei Wang
+- ‘Critical Hope’ by Dr. Kari Grain
+- ‘Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of - Plants’ by Robin Wall Kimmerer
+- ‘The Future Is Degrowth A Guide to a World beyond Capitalism’ by Matthias Schmelzer, Aaron Vansintjan, and Andrea Vetter
+- ‘Design Justice’ by Sasha Costanza-Chock
+- ‘Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds’ by Arturo Escobar
+- ‘Black Quantum Futurism Theory & Practice, Volume I’ by Rasheedah Phillips
+- ‘Beyond Nature and Culture’ by Philippe Descola
+- ‘Stories of your Life and Others’ by Ted Chiang
+- ‘The Shock of the Old: Technology and Global History Since 1900’ by David Edgerton
+
+## Faculty
+
+{{ insert_faculty() }}
+
