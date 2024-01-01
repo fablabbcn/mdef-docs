@@ -3,7 +3,7 @@ title: Designing with Extended Intelligence
 page_type: course
 track: Exploration
 course_type: Workshop
-feature_img:
+feature_img: docs/assets/images/2023-24/year-1/t-2/designing-with-extended-intelligences.png
 img_caption: Credit | 4x upscale of ‘a press photo of a bright maker lab full of students hacking programming and building physical prototypes --ar 3:2 --v 5.2’ (Copyright Midjourney, Christian Ernst)
 faculty: Christian Ernst, Pietro Rustici
     - 
