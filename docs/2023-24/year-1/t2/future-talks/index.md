@@ -35,19 +35,34 @@ In this series of talks, critical reflection will help you to map your strengths
 
 === "16/01"
 
-    Designing with values. Jessica Guy, Olga Trevisan.
+    Designing with values. 
+    Sally Bourdon, Olga Trevisan.
+    [Distributed Design](https://distributeddesign.eu/) 
 
 === "22/01"
 
-    L'Hospitalet Cultural District. Saul Baeza.
+    L'Hospitalet de Llobregat Cultural District. Visions By (People about Material Cultures)
+    Saul Baeza
+    [Visions By](https://visions-by.com/) 
+    Things We Could Design For More Than Human-Centered Worlds
+    Ron Wakkary
+    [Things We Could Design For More Than Human-Centered Worlds](https://mitpress.mit.edu/9780262542999/things-we-could-design/)
+    
 
 === "05/02"
 
-    Network of co-responsibility. Wet Lab, Hangar.
+    Hangar’s WetLab - Networks of Co-Responsibility
+    [Hangar WetLab](https://hangar.org/en/wetlab/)
 
 === "19/12"
 
-     Internet Tour. Mario Santamaria.
+     Radical Situatedness (Flows, Knowledge and  Infrastructures)
+     Bani Brusadin
+     [Bani Brusadin](https://www.cccb.org/en/participants/file/bani-brusadin/37757)
+     Internet Tour
+     Mario Santamaría
+     [Inernet Tour](https://internetour.com/)
+
 
 ## Deliverables
 
