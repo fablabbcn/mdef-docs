@@ -46,7 +46,9 @@ img {
     --md-typeset-a-color: var(--primary-color-light-mode);
     --md-primary-fg-color--light: var(--white);
     --md-primary-fg-color--dark: var(--black);
+    --md-primary-fg-color--opposite: var(--black);
     --md-primary-bg-color: var(--white);
+    --md-default-bg-color: var(--white);
     --md-primary-bg-color--light:#ffffffb3;
 }
 
@@ -56,6 +58,7 @@ img {
     --md-typeset-a-color: var(--primary-color);
     --md-primary-fg-color--light: var(--white);
     --md-primary-fg-color--dark: var(--black);
+    --md-primary-fg-color--opposite: var(--white);
     --md-default-bg-color: var(--black);
 }
 

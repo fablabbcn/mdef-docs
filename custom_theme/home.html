@@ -15,68 +15,133 @@
   .md-content {
     display: none;
   }
-
-  #parallax {
-  position: relative;
-  width: 100%;
-  height: calc(100vh - 48px);
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  .md-header {
+    position: static;
+    /* background-color: #ffffff2a; */
   }
-
-  #parallax img {
+  /* .md-tabs {
+    background-color: #ffffff2a;
+  } */
+  canvas {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+  #header {
+    width: 100%;
     height: calc(100vh - 48px);
-    object-fit: cover;
-    pointer-events: none;
-    width: 100%
+    display: flex;
+    align-items: center;
+    justify-items: center;
   }
 
   @media only screen and (min-width: 1220px){
-    #parallax {
-      position: relative;
-      width: 100%;
+    #header {
       height: calc(100vh - 112px);
-      overflow: hidden;
-      display: flex;
-      justify-content: center;
-      align-items: center;
     }
 
-    #parallax img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: calc(100vh - 112px);
-      object-fit: cover;
-      pointer-events: none;
+  }
+  #mdef-h1 {
+    text-align: center;
+    font-size: 7vw;
+    margin: 0px;
+    padding: 50px;
+    color: var(--md-primary-fg-color--opposite);
+    z-index: 2;
+    position: relative;
+    font-weight: 500;
+    text-shadow: 0 0 0.2em var(--md-default-bg-color);
+    transition: text-shadow 0.5s ease;
     }
+  #mdef-h1:hover {
+    text-shadow: 0px 0px 4px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
+    }
+  .gif {
+    max-width: 250px;
+    width: 50%;
+    position: absolute;
+  }
+  #fridge {
+    z-index: 1;
+    top: 150px;
+    left: 7%;
   }
 
-  #parallax img#image {
-    height: 100vh;
-    opacity: 0%;
+  #live-stream {
+    z-index: 1;
+    top: 170px;
+    right: 7%;
   }
-  #left {
-    z-index: 2;
+
+  #plant {
+    z-index: 1;
+    top: 200px;
+    right: calc(50vw - 75px);
   }
-  #right {
-    z-index: 2;
+  #plants {
+    z-index: 1;
+    top: calc(100vh - 300px);
+    left: calc(25vw - 75px);
   }
+  #model-breaking {
+    z-index: 1;
+    top: 40vh;
+    right: 25%;
+  }
+  #robot {
+    z-index: 1;
+    top: 75vh;
+    right: 10%;
+  }
+
+  #about {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    width: 75%;
+    padding: 50px;
+    background-color: white;
+    color: var(--black);
+    border: var(--md-accent-fg-color) 2px solid;
+    border-radius: 10px;
+    z-index: 1;
+  }
+
+  #home {
+    display: flex;
+    justify-content: center;
+  }
+
+
 </style>
-
-<section id="parallax">
-  <img src="/assets/images/landing/mdef-parallax-bg.jpg" id="bg">
-  <img src="/assets/images/landing/mdef-parallax-logo-letters.png" id="letters" class="logo">
-  <img src="/assets/images/landing/mdef-parallax-left.png" id="left" class="logo">
-  <img src="/assets/images/landing/mdef-parallax-right.png" id="right" class="logo">
-  <img src="/assets/images/landing/mdef-parallax-scroll.jpg" id="image" class="logo">
+<canvas></canvas>
+<section id="header">
+    <h1 id="mdef-h1">Master in Design for Emergent Futures</h1>
+  <!-- <img src="/assets/images/landing/mdef-parallax-bg.jpg" id="background-pixels"> -->
+  <img src="/assets/images/landing/gifs/fridge.gif" id="fridge" class="gif">
+  <img src="/assets/images/landing/gifs/live-stream.gif" id="live-stream" class="gif">
+  <img src="/assets/images/landing/gifs/model-breaking.gif" id="model-breaking" class="gif">
+  <img src="/assets/images/landing/gifs/plant.gif" id="plant" class="gif">
+  <img src="/assets/images/landing/gifs/plants.gif" id="plants" class="gif">
+  <img src="/assets/images/landing/gifs/robot.gif" id="robot" class="gif">
 </section>
+<div id="home">
+  <div id="about">
+    <section id="about-text">
+      <h2>The Design for Emergent Futures Approach</h2>
+      <p class="description"><strong>The Master in Design for Emergent Futures is both a theoretical and practical Master.</strong> It evolves the practice of design beyond objects, aesthetics, form finding and pure speculation through a unique hands-on-learning approach. <strong>Our method uses practical design processes to investigate complex systemic problems and proposes city-scale interventions to approach large-scale challenges.</strong></p>
+      <!-- <p id="inspire-quote">[Take design one step further and become an agent of change.]</p> -->
+    </section>
+  </div>
+</div>
+
+
+
+
 
 {% endblock %}
 <!-- Content -->
@@ -84,17 +149,18 @@
 
 <style>
 
+
   .md-main {
     display: grid;
     justify-content: center;
+    z-index: 1;
   }
 
   .md-content {
     display: initial;
   }
-
-  .md-typeset .main-home h2 {
-    font-size: 2em;
+  .md-footer {
+    z-index: 1;
   }
 
 
@@ -118,7 +184,7 @@
   .main-home {
     padding-bottom: 50px;
   }
-  .md-typeset .main-home h2 {
+  .md-typeset #home h2 {
     font-size: 32px;
     font-weight: 800;
     text-align: left;
@@ -134,14 +200,7 @@
   .main-home section {
     padding-top: 15px;
   }
-  /* #inspire-quote {
-    font-size: 75px;
-    font-weight: 800;
-    opacity: 75%;
-    text-align: center;
-    padding: 10px 100px;
-  }
-   */
+
 
    /* --------VIDEO SETTINGS-------- */
 
@@ -230,12 +289,7 @@
 </style>
 
 <div class="main-home">
-  <section id="about">
-    <h2>The Design for Emergent Futures Approach</h2>
-    <p class="description"><strong>The Master in Design for Emergent Futures is both a theoretical and practical Master.</strong> It evolves the practice of design beyond objects, aesthetics, form finding and pure speculation through a unique hands-on-learning approach. <strong>Our method uses practical design processes to investigate complex systemic problems and proposes city-scale interventions to approach large-scale challenges.</strong></p>
-    <!-- <p id="inspire-quote">[Take design one step further and become an agent of change.]</p> -->
 
-  </section>
   <section id="tracks">
     <h2>MDEF Course Tracks</h2>
     <p class="description">The <strong>four tracks</strong> of the MDEF program provide students with the strategic vision and tools to work at multiple scales in the real world. The <strong>theoretical and practical content</strong> in the program recognises and explores the possibilities of disruptive technologies: digital fabrication, blockchain, synthetic biology, Artificial Intelligence among others.</p>
@@ -278,7 +332,7 @@
         </div>
     </div>
 </section>
-<section>
+<!-- <section>
   <h2>Making Emergent Futures</h2>
   <p class="description">The MDEF Thesis Project offers a unique approach to develop student projects, contributing to their scalability, exploring distribution and sustainability strategies through innovative methods.</p>
 
@@ -299,16 +353,18 @@
     var firstScriptTag = document.getElementsByTagName('script')[0];
     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
   </script>
-</section>
+</section> -->
 </div>
 {% endblock %}
 
 <!-- Application footer -->
 {% block footer %}
 {{ super() }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 
-<script>
+
+
+<!-- <script>
 
   window.addEventListener('scroll', function(){
     if (document.querySelectorAll("#parallax").length == 1){
@@ -431,6 +487,52 @@
                 pauseClasses(window.$playerParent);
             }
           }
+  
+</script> -->
+<script>
+  let canvas = document.querySelector("canvas");
+  let context = canvas.getContext("2d");
+
+  let screenWidth, screenHeight, pageHeight;
+  
+  resizeWindow ();
+
+  window.onresize = resizeWindow ();
+  
+  function resizeWindow () {
+  screenWidth =  window.innerWidth;
+  screenHeight = window.innerHeight;
+  pageHeight = window.pageY;
+  };
+
+  context.fillStyle = '#001aff2c';
+  context.fillRect(0, 0, screenWidth, screenHeight);
+ 
+  console.log(getComputedStyle(document.body).getPropertyValue('--md-primary-fg-color'));
+  let primaryColor = getComputedStyle(document.body).getPropertyValue('--md-primary-fg-color');
+  context.strokeStyle = primaryColor;
+
+  context.lineWidth = 100;
+  context.save();
+  context.beginPath();
+  context.moveTo((100), 0);
+  context.lineTo((0), pageHeight);
+  context.stroke();
+  context.restore();
+
+  context.save();
+  context.beginPath();
+  context.moveTo(100, 0);
+  context.lineTo(100, pageHeight);
+  context.stroke();
+  context.restore();
+
+  context.save();
+  context.beginPath();
+  context.moveTo(screenWidth/2, 0);
+  context.lineTo(screenWidth/2, pageHeight);
+  context.stroke();
+  context.restore();
   
 </script>
 {% endblock %}
