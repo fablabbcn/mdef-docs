@@ -38,17 +38,7 @@ In this series of talks, critical reflection will help you to map your strengths
     Designing with values. 
     Sally Bourdon, Olga Trevisan.
     [Distributed Design](https://distributeddesign.eu/) 
-
-=== "22/01"
-
-    L'Hospitalet de Llobregat Cultural District. Visions By (People about Material Cultures)
-    Saul Baeza
-    [Visions By](https://visions-by.com/) 
-    Things We Could Design For More Than Human-Centered Worlds
-    Ron Wakkary
-    [Things We Could Design For More Than Human-Centered Worlds](https://mitpress.mit.edu/9780262542999/things-we-could-design/)
     
-
 === "05/02"
 
     Hangar’s WetLab - Networks of Co-Responsibility
@@ -62,6 +52,15 @@ In this series of talks, critical reflection will help you to map your strengths
      Internet Tour
      Mario Santamaría
      [Inernet Tour](https://internetour.com/)
+
+=== "04/03"
+
+    L'Hospitalet de Llobregat Cultural District. Visions By (People about Material Cultures)
+    Saul Baeza
+    [Visions By](https://visions-by.com/) 
+    Things We Could Design For More Than Human-Centered Worlds
+    Ron Wakkary
+    [Things We Could Design For More Than Human-Centered Worlds](https://mitpress.mit.edu/9780262542999/things-we-could-design/)
 
 
 ## Deliverables
