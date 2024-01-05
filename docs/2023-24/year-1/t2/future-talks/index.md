@@ -53,15 +53,6 @@ In this series of talks, critical reflection will help you to map your strengths
      Mario Santamaría
      [Inernet Tour](https://internetour.com/)
 
-=== "04/03"
-
-    L'Hospitalet de Llobregat Cultural District. Visions By (People about Material Cultures)
-    Saul Baeza
-    [Visions By](https://visions-by.com/) 
-    Things We Could Design For More Than Human-Centered Worlds
-    Ron Wakkary
-    [Things We Could Design For More Than Human-Centered Worlds](https://mitpress.mit.edu/9780262542999/things-we-could-design/)
-
 
 ## Deliverables
 
