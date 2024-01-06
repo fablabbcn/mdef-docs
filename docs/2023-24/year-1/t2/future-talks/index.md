@@ -3,7 +3,7 @@ title: Future Talks
 page_type: course
 track: Reflection
 course_type: Seminar
-feature_img:
+feature_img: feature_img: /assets/images/2023-24/year-1/t-2/future-talks.jpg
 img_caption:
 faculty:
     - guillem-camprodon
