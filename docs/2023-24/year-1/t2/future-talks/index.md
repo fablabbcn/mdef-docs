@@ -8,7 +8,7 @@ img_caption:
 faculty:
     - guillem-camprodon
     - laura-benitez
-    - alejandra-tothill
+    - jana-tothill
     - roger-guilemany
 ects: 2
 ---
