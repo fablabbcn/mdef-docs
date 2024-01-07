@@ -1,7 +1,5 @@
 # Digital Prototyping For Design
 
-![](images/digital_prototyping_for_design.jpg)
-
 ## Track
 Application
 
@@ -14,8 +12,6 @@ Victor Barberán Soler, Santiago Fuentemilla, Eduardo Chamorro, Josep Martí, Ó
 Advanced manufacturing, rapid prototyping and new design methodologies are not only changing how we work, live and play but reshaping the processes and interactions in the cities and sociecities. The introduction of those processes into the design and industry fields are changing the paradigm on how we conceive the actual society and its production methods. This new mediation between the old knowledge and new techniques is making the process as important as the end work, all becoming a whole.
 
 During this 2 term course (2&3), students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. The program provides advanced digital fabrication instruction for students through an unique, hands-on curriculum and access to technological tools and resources.
-
-![](images/digital_prototyping_for_design_1.jpg)
 
 ## Weekly Schedule
 
@@ -64,9 +60,6 @@ A core aim is to empower students with hands-on prototyping in the Fab Lab envir
 * 04/05/23		- Blender as Interface
 * 21/03/23		- **Final Challenge** (Intellectual property)
 
-![](images/digital_prototyping_for_design_2.jpg)
-
-
 ## Methodology
 
 The program apply Fab Academy mindset and set of skills, but applying new methodologies such as **"challenges"**, redistributing the impact of weekly hours and adding new assessment criteria.
@@ -79,7 +72,6 @@ The challenges combine four weekly cycles into one intense project-based fabrica
 
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
 
-![](images/digital_prototyping_for_design_3.jpg)
 
 ## Output
 
@@ -87,7 +79,6 @@ Each student builds a portfolio on their respective websites that documents thei
 
  **The DESIGN FOR PROTOTYPING COURSE is PASSED by growth progress rather than a global goal, for successful completion of each weekly assignment and challenge is a must.**
 
- ![](images/digital_prototyping_for_design_4.jpg)
 
 ## Grading Method
 

@@ -1,7 +1,5 @@
 # Measuring The World
 
-![](images/image_1.png)
-_Image Credit: Domestic Data Streamers_
 
 ## Track
 
