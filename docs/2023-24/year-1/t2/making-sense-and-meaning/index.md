@@ -1,7 +1,5 @@
 # Making Sense and Meaning
 
-![](images/making_sense_and_meaning_1.jpg)
-
 
 ## Track
 Reflection
@@ -114,9 +112,6 @@ Review chapters 1-3.
 
  </aside>
 
-
-
-![](images/making_sense_and_meaning.jpg)
 
 ## Course objective
 One of the main goals of MDEF is to align students’ purpose with their skills, interests, and capabilities, in order to provide all the necessary means to become agents of change. In times of transition, exposure to excessive noise and information lead to uncertainty and disconnection from the true self. Through questioning students’ decisions and choices during their project development, these sessions aim to rebuild the connection with the driving forces that operate within ourselves and to establish new dialogues with authors, researchers, thinkers, and makers that can contribute and enrich the Masters’ projects. The seminar aims to build a space for honest discussion, questioning, and challenging, in which we aim to incorporate philosophical practice into designing for emergent futures.
