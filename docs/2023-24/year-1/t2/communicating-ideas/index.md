@@ -1,50 +1,120 @@
-# Communicating Ideas
+---
+title: Communicating Ideas
+page_type: course
+track: Reflection
+course_type: Short Course
+feature_img: /assets/images/2023-24/year-1/t-2/communicating-ideas.png
+img_caption: Bing Image Create AI
+faculty:
+    - pablo-zuloaga
+ects: 1
+---
 
-![](images/communicating_ideas.jpg)
-
-## Track
-Application
-
-## Faculty
-Kate Armstrong
+{{ insert_banner() }}
 
 ## Syllabus
 
-This course will explore various approaches to communicating design concepts and ideas to a variety of stakeholders. By the end of the seminar students will be confident in identifying, prioritising and reaching key stakeholders with appropriate communication tools. They will also be able to seek and identify opportunities to communicate their ideas through efficient and effective strategies.
+This course aims to equip students with the essential skills to effectively communicate their design projects to a diverse audience. Through understanding communication models, storytelling techniques, branding strategies, transmedia narratives, and content creation, students will learn to craft compelling narratives and execute impactful communication strategies for their design interventions.
 
+**Keywords: Storytelling, Communication, Narrative**
 
-## When  
-24th January - 7th March 2023
+### Learning Objectives
+
+- Understanding Communication Models:
+ Introduction to communication theories and models applicable to design projects.
+- Storytelling Techniques:
+ Applying narrative techniques to effectively convey project ideas and narratives.
+- Project as a Brand/Persona:
+ Defining the mission, vision, tone, archetype, and style of a project.
+- Defining Audience:
+ Strategically selecting the stakeholders you want to communicate with, and the media channels to do so.
+- Transmedia Storytelling:
+ Exploring diverse media for storytelling and mapping audience engagement.
+- Content Strategy Development and Execution:
+ Developing and implementing a comprehensive communication strategy across multiple media, using different communication pillars.
+
+### Methodological Strategies
+
+- Case studies.
+- Workshops.
+- Project-based learning.
+- Peer learning.
 
 ## Schedule
 
-**Session 1**: Who What Why
+=== "Day 1"
 
-**Session 2**: When Where How
+    **Introduction to Communication Models**
 
-In Person.
+    - Fundamentals of communication theories.
+    - Models applicable to design projects.
 
+=== "Day 2"
 
-## Deliverables / Outputs
+    **Storytelling Techniques**
 
-- Text, device, image, poster, etc.
-- TBC
-- Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab.
+    - Narrative techniques for effective project communication.
+    - Crafting compelling narratives.
 
+=== "Day 3"
 
-## Link
+    **Project as a Brand/Persona**
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8" style="width:100%; height:100%; border:0;"></iframe>
+    - Defining the identity of a project, including mission, vision, tone, archetype, and style.
+    - Creating the project brand.
 
-[Open Drive folder](https://drive.google.com/drive/folders/1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8){ .md-button .md-button--primary }
+=== "Day 4"
 
+    **Defining Audience and Media Channels**
 
-## Kate Armstrong
+    - Strategically selecting target stakeholders.
+    - Identifying suitable media channels for communication.
 
-![](../../../assets/images/faculty_photos/kate_armstrong.jpg)
+=== "Day 5"
 
-A Master Arts and Society (University Utrecht) and Bachelor of Design (UNSW), Kate has vast experience in cultural programming, design and open tech fields in Australia and Europe. She has been the communication and dissemination manager for various European research projects at Fab Lab Barcelona concerned with circular economy, open design innovation ecosystems and future cultural heritage. She managed the Distributed Design Platform, a Creative Europe Platform co-funded by the European Commission and currently serves as its strategic advisor. Kate sits on the Executive Board of the Fab City Foundation, as the global initiative’s Strategic Director. She is Faculty of the Master in Design for Emergent Futures at IAAC/ELISAVA, Faculty of the Master in Distributed Design and Innovation and Head of Programming for Interspecies Internet - a global think tank to accelerate interspecies communications.
+    **Transmedia Storytelling**
 
-Email Address (kate@fab.city)
+    - Exploring various media for storytelling.
+    - Mapping audience engagement strategies across media.
 
-Personal Website (https://www.linkedin.com/in/kate-armstrong/)
+=== "Day 6"
+
+    **Content Strategy Development and Execution**
+
+    - Creating comprehensive communication strategies.
+    - Implementing strategies using different communication pillars.
+
+=== "Day 7"
+
+    **Case Studies and Practical Applications**
+
+    - Analyzing real-world examples of effective communication strategies.
+    - Group discussions and case study presentations.
+
+=== "Day 8"
+
+    **Final Project Presentation**
+
+    - Feedback and evaluation.
+
+## Deliverables
+
+- Communication strategy applied to different medias to communicate your project to your desired stakeholders.
+- Tandem content created with another student.
+
+## Grading Method
+
+| Percentage  | Description                         |
+| ----------- | ------------------------------------|
+| 50%         | Personal project communication                         |
+| 50%         | Tandem project development                         |
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
+
+## Additional Resources
+
+## Faculty
+
+{{ insert_faculty() }}

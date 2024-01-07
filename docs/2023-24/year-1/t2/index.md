@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Term 2
 
 ## Embodying Emergent Contexts
