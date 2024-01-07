@@ -64,20 +64,23 @@ The specific goals are the following:
 
 === "22/01"
 
-    **A 1PP Design intervention in context. Look for your peers and communities. Analyze and make sense of a 1PP Design Action**
+    **Exploring alternative presents in context. Look for your peers and communities and make sense of a 1PP Design Action. Expand the boundaries of your interventions.**
 
     *Roger Guilemany & Jana Tothill*
 
-    **Goals**: Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP.  
+    **Goals**: Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP. Explore your biographies and analyze your way of drifting in order to make sense of the alternative present you are creating. 
     
     **Activity 1**: Briefly present in class an updated version of the design space and a proposal for the 1st intervention of the second trimester.
     
-    **Activity 2**: Plan your first design intervention of the term and map the actors and infrastructure you want to involve. 
-    **Task**: Carry out your 1st design intervention from a 1PP (involving yourself in the context you want to work on).
+    **Activity 2**: Analyze the evolution of your design space to reflect on your way of drifting to envision your future biography by means of an alternative present.
+
+    **Activity 3**: Plan your first design intervention of the term and map the actors and infrastructure you want to involve. 
+    
+    **Task**: Carry out your 1st design intervention from a 1PP with your community of practice (involve yourself in the context you want to work on).
     
     **Deliverable 1**: Document the 1PP design intervention, analyze it and reflect on the findings. 
     
-    **Deliverable 2**: Update your design space with the relations you have built.
+    **Deliverable 2**: Map, visualize and analyze the evolution of your design space based on ways of drifting and reflect on the trajectories you might want to project. Create a narrative in relation to your alternative present. 
 
 
 === "29/01"
