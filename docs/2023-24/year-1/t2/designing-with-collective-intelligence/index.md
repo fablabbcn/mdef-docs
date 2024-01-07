@@ -1,18 +1,21 @@
 ---
-title: Fair Future(s) | Designing with Collective Intelligence 
+title: Designing with Collective Intelligence 
 page_type: course
 track: Exploration
 course_type: Workshop
-feature_img:
+feature_img: /assets/images/2023-24/grid.jpg
 img_caption:
-faculty: Jessica Guy, Olga Trevisan
-    - 
+faculty: 
+    - jessica-guy
+    - olga-trevisan
 ects: 2
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
+
+**Fair Future(s) | Designing with Collective Intelligence**
 
 Hybrid four-day international collaborative event featuring talks, workshops, and self-organized working sessions.
 
@@ -60,32 +63,30 @@ Studio Visit Exhibition:
 === "24/01"
 
     Morning Session
+
     - Introduction to the concepts of commons and DAOs in the creative industries.
-    - Workshop by expert AX Mina on "Fair Future(s)" covering wealth distribution,     
-      intellectual property rights, and inclusion in production.
-    - Workshop format to make digital commons and governance model-related concepts     
-      tangible and interactive, contributing to defining the student's future scenario 
-      for the new governance model.
+    - Workshop by expert AX Mina on "Fair Future(s)" covering wealth distribution, intellectual property rights, and inclusion in production.
+    - Workshop format to make digital commons and governance model-related concepts tangible and interactive, contributing to defining the student's future scenario for the new governance model.
+
     Afternoon Session
-    - The students from both locations, organized into international team groups, begin 
-      working on and developing a multimedia medium artifact as the final output of the 
-      creative jam.
+
+    - The students from both locations, organized into international team groups, begin working on and developing a multimedia medium artifact as the final output of the creative jam.
     - Presentation of future scenarios.
 
 === "25/01"
 
-    Morning Session 
-    - Dedicated to self-organized working sessions within interdisciplinary teams for 
-      further artifact development.
+    Morning Session
+
+    - Dedicated to self-organized working sessions within interdisciplinary teams for further artifact development.
+
     Afternoon Session
-    - Introduction and setup of Dafne+ EU, where the developed artifact will be 
-      uploaded.
+
+    - Introduction and setup of Dafne+ EU, where the developed artifact will be uploaded.
 
 === "26/01"
 
     - Creation of the project repository and final working session.
-    - Studio visit, where each student group will showcase their speculative future and 
-      artidact through a collective presentation.
+    - Studio visit, where each student group will showcase their speculative future and artidact through a collective presentation.
 
 ## Deliverables
 
@@ -101,14 +102,14 @@ The grading will be 0 or 10: 0 if the students do not come to class and 10 if th
 
 ## Additional Resources
 
-- [Blockchain tools for creators. Cryptofunding digital commons](https://www.youtube.com/watch?v=z1lMzdyOmf0) by Karim Esry from Espacio Open
-- [CC0 Studios](https://www.cc0studios.com/) exploring creative commons and open-source projects within the blockchain space.
-- [re:publica 2023: AX Mina - The Magic of Pluralistic Futures](https://www.youtube.com/watch?v=0_W8NzbfdlY) Ax Mina’s talkk at re:publica 2023 discussing the magic of pluralistic futures, possibly exploring diverse and decentralized perspectives.
-- [https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures) R&D Futures project by Henry Cooke and Libby Mille about envisioning possible futures
-- [https://hugopilate.com/CreativeCode](https://hugopilate.com/CreativeCode) Hugo Pilate is a designer and digital artist specialized in the creation of collaborative experiences with a fascination for the past, present and future of city-making
-- [https://www.researchgate.net/publication/351078681_Decentralized_Autonomous_Organization]](https://www.researchgate.net/publication/351078681_Decentralized_Autonomous_Organization) Academic Paper by Primavera De Filippi and Samer Hassan 
-- [https://creativecommons.org/](https://creativecommons.org/) Creative Commons
-- [https://www.youtube.com/watch?v=PN-JLKBiVGY](https://www.youtube.com/watch?v=PN-JLKBiVGY) Talk about Blockchain Technology Beyond Bitcoin at Lift16 by Primavera De Filippi
+- [Blockchain tools for creators. Cryptofunding digital commons](https://www.youtube.com/watch?v=z1lMzdyOmf0), by Karim Esry from Espacio Open
+- [CC0 Studios](https://www.cc0studios.com/), exploring creative commons and open-source projects within the blockchain space.
+- [re:publica 2023: AX Mina - The Magic of Pluralistic Futures](https://www.youtube.com/watch?v=0_W8NzbfdlY), Ax Mina’s talk at re:publica 2023 discussing the magic of pluralistic futures, possibly exploring diverse and decentralized perspectives.
+- [R&D Futures Project](https://www.bbc.co.uk/rd/blog/2022-07-introducing-r-and-d-futures), by Henry Cooke and Libby Mille about envisioning possible futures.
+- [Hugo Pilate - Creative Code](https://hugopilate.com/CreativeCode), a designer and digital artist specialized in the creation of collaborative experiences with a fascination for the past, present and future of city-making.
+- [Decentralized Autonomous Organization](https://www.researchgate.net/publication/351078681_Decentralized_Autonomous_Organization), academic paper by Primavera De Filippi and Samer Hassan.
+- [Creative Commons Licenses](https://creativecommons.org/)
+- [Blockchain Technology and the Future of Work](https://www.youtube.com/watch?v=PN-JLKBiVGY), talk about Blockchain Technology Beyond Bitcoin at Lift16 by Primavera De Filippi
 
 
 ## Faculty

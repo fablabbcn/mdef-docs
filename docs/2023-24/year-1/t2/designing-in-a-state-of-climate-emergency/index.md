@@ -3,8 +3,8 @@ title: Designing in a State of Climate Emergency
 page_type: course
 track: Reflection
 course_type: Short Course
-feature_img: docs/assets/images/2023-24/year-1/t-2/designing-in-a-state-of-climate-emergency.png
-img_caption: Credit | Planet Earth rendered by 3D artist Lorna Pittaway for the Billion Seconds Institute.
+feature_img: /assets/images/2023-24/year-1/t-2/designing-in-a-state-of-climate-emergency.png
+img_caption: Credit | Planet Earth rendered by 3D artist Lorna Pittaway for the Billion Seconds Institute
 faculty:
     - andres-colmenares
 ects: 2
@@ -67,9 +67,9 @@ The course will follow a week-long, in-person studio format, divided in 4 sessio
 
 ## Grading Method
 
-| Percentage  | Description                         |
-| ----------- | ------------------------------------|
-| 50%         | Self-assessment of individual engagement                         |
+| Percentage  | Description                                                    |
+| ----------- | ------------------------------------                           |
+| 50%         | Self-assessment of individual engagement                       |
 | 50%         | Self-assessment of collective learning                         |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
@@ -84,7 +84,6 @@ Related articles and essays:
 - [Solar-Centered Designing: an eccentric proposal for Branch Magazine](https://branch.climateaction.tech/issues/issue-4/solar-centered-designing/)
 - [‘Provisions - Observing & Archiving COVID-19’ by Site Magazine](https://www.thesitemagazine.com/covid19provisions)
 - [Imagining Intercitizenships](https://medium.com/iam-journal/imagining-intercitizenships-f3f4bdc80b68) 
-- [‘A question of tech’ by Gauthier Roussilhe](https://gauthierroussilhe.com/en/posts/une-erreur-de-tech)
 - [‘A question of tech’ by Gauthier Roussilhe](https://gauthierroussilhe.com/en/posts/une-erreur-de-tech)
 - [Emergency on Planet Earth by Extinction Rebellion](https://extinctionrebellion.uk/the-truth/the-emergency/+)
   
@@ -109,4 +108,3 @@ Recommended publications and books:
 ## Faculty
 
 {{ insert_faculty() }}
-

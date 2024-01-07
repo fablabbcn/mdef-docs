@@ -1,7 +1,7 @@
 ---
 name: Pietro Rustici
 role: AI Expert
-feature_img: /assets/images/faculty/first-last.jpeg
+feature_img: /assets/images/faculty/pietro-rustici.png
 socials:
     email: p.rustici93@gmail.com
     website:

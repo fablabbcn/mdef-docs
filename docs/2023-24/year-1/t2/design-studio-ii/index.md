@@ -3,7 +3,7 @@ title: Design Studio 02
 page_type: course
 track: Application
 course_type: Course
-feature_img: /assets/images/2023-24/year-1/t-2/design-studio-02.jpeg
+feature_img: /assets/images/2023-24/year-1/t-2/design-studio-02.png
 img_caption: MDEF Design Interventions, Barcelona
 faculty:
     - guillem-camprodon
@@ -46,8 +46,9 @@ The specific goals are the following:
 
 === "08/01"
 
-    **Collective design intervention: a collective design action with humans and/or non-humans**
-    Roger Guilemany & Jana Tothill
+     **Collective design intervention: a collective design action with humans and/or non-humans**
+    
+     *Roger Guilemany & Jana Tothill*
 
      **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.
      
@@ -64,7 +65,8 @@ The specific goals are the following:
 === "22/01"
 
     **A 1PP Design intervention in context. Look for your peers and communities. Analyze and make sense of a 1PP Design Action**
-    Roger Guilemany & Jana Tothill
+
+    *Roger Guilemany & Jana Tothill*
 
     **Goals**: Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP.  
     
@@ -84,8 +86,9 @@ The specific goals are the following:
 
 === "05/02"
 
-    **Network of co-responsibility. (Co-)designing for emergent futures in the present.**
-    Laura Benitez
+    **Network of co-responsibility. (Co-)designing for emergent futures in the present**
+
+    *Laura Benitez*
 
     **Goals**: Reflect on your network of co-responsibility.  Voicing others: A 1PP Design intervention in context giving the stage to your peers and communities (human and non-humans). Let the human and non-human actors be a driving force in your project. 
     
@@ -103,8 +106,9 @@ The specific goals are the following:
 
 === "19/02"
 
-    **Radical Situatedness: Considering the resilience, material flows, situated knowledges and existing infrastructures of your interventions.**
-    Laura Benitez
+    **Radical Situatedness: Considering the resilience, material flows, situated knowledges and existing infrastructures of your interventions**
+
+    *Laura Benitez*
 
     **Goals**: Understand how your intervention can become resilient, taking into consideration self-sufficiency, locality and situated knowledges. Understand the agency of the environment you are working in. 
     
@@ -125,7 +129,8 @@ The specific goals are the following:
 === "04/03"
 
     **Design Dialogues II Preparation**
-    Alejandra Tothill
+
+    *Alejandra Tothill*
 
     **Goals**: Create a collective and individual building up plan for the Design Dialogues exhibition.
     
@@ -134,10 +139,6 @@ The specific goals are the following:
     **Deliverable**: Planning of the exhibition, space allocation and special needs.
     
     **Task**: Work on the design dialogues deliverables.
-
-=== "19/12"
-
-    **Design Dialogues**
 
 
 ## Deliverables
@@ -161,8 +162,9 @@ The specific goals are the following:
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
 | 50%         | Faculty (including written assignment)          |
-| 50%         | Self-Evaluation 
-|Self-Evaluation Question: Look back at the interventions you did last term and analyze them by self-evaluating your development:
+| 50%         | Self-Evaluation                                 |
+
+Self-Evaluation Question: Look back at the interventions you did last term and analyze them by self-evaluating your development:
 
 - Involvement of the community through the design interventions. Did your process involve others in the design and implementation of the interventions? How meaningful do you think the interventions were for the external people that were involved?
 - In terms of situating your interventions, how successful were you in considering the resilience, material flows, situated knowledges and existing infrastructures in your design process?
