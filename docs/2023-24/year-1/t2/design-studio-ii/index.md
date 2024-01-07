@@ -153,7 +153,7 @@ The specific goals are the following:
 - **2 good resolution screenshots** of your **individual and/or collective Design Spaces**
 - **Website PDFs** (Seminar Reflections)
 
-**These are the points we are going to look at for Term 1:**
+**These are the points we are going to look at for Term II:**
 
 - Involvement of the community through the design interventions
 - Situating the design interventions in context
