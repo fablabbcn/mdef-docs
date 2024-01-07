@@ -3,10 +3,10 @@ title: Communicating Ideas
 page_type: course
 track: Reflection
 course_type: Short Course
-feature_img: docs/assets/images/2023-24/year-1/t-2/communicating-ideas.png
+feature_img: /assets/images/2023-24/year-1/t-2/communicating-ideas.png
 img_caption: Bing Image Create AI
 faculty:
-    - plablo-zuloaga
+    - pablo-zuloaga
 ects: 1
 ---
 
@@ -42,42 +42,58 @@ This course aims to equip students with the essential skills to effectively comm
 
 ## Schedule
 
-=== "Introduction to Communication Models"
+=== "Day 1"
+
+    **Introduction to Communication Models**
 
     - Fundamentals of communication theories.
     - Models applicable to design projects.
 
-=== "Storytelling Techniques"
+=== "Day 2"
+
+    **Storytelling Techniques**
 
     - Narrative techniques for effective project communication.
     - Crafting compelling narratives.
 
-=== "Project as a Brand/Persona"
+=== "Day 3"
+
+    **Project as a Brand/Persona**
 
     - Defining the identity of a project, including mission, vision, tone, archetype, and style.
     - Creating the project brand.
 
-=== "Defining Audience and Media Channels"
+=== "Day 4"
+
+    **Defining Audience and Media Channels**
 
     - Strategically selecting target stakeholders.
     - Identifying suitable media channels for communication.
 
-=== "Transmedia Storytelling"
+=== "Day 5"
+
+    **Transmedia Storytelling**
 
     - Exploring various media for storytelling.
     - Mapping audience engagement strategies across media.
 
-=== "Content Strategy Development and Execution"
+=== "Day 6"
+
+    **Content Strategy Development and Execution**
 
     - Creating comprehensive communication strategies.
     - Implementing strategies using different communication pillars.
 
-=== "Case Studies and Practical Applications"
+=== "Day 7"
+
+    **Case Studies and Practical Applications**
 
     - Analyzing real-world examples of effective communication strategies.
     - Group discussions and case study presentations.
 
-=== "Final Project Presentation"
+=== "Day 8"
+
+    **Final Project Presentation**
 
     - Feedback and evaluation.
 

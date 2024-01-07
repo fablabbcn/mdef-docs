@@ -3,10 +3,11 @@ title: Designing with Extended Intelligence
 page_type: course
 track: Exploration
 course_type: Workshop
-feature_img: docs/assets/images/2023-24/year-1/t-2/designing-with-extended-intelligences.png
+feature_img: /assets/images/2023-24/year-1/t-2/designing-with-extended-intelligences.png
 img_caption: Credit | 4x upscale of ‘a press photo of a bright maker lab full of students hacking programming and building physical prototypes --ar 3:2 --v 5.2’ (Copyright Midjourney, Christian Ernst)
-faculty: Christian Ernst, Pietro Rustici
-    - 
+faculty:
+    - christian-ernst
+    - pietro-rustici
 ects: 2
 ---
 
@@ -17,6 +18,7 @@ ects: 2
 The course offers designers and makers a comprehensive introduction to the field of generative artificial intelligence (AI). The program focuses on empowering participants with the knowledge and skills required to extract mainstream AIs (such as GPT or DALL-E) into external interfaces. 
 
 Course Contents:
+
 - Showcase of Salient Projects: The instructors will showcase their most salient and relevant projects that demonstrate the creative possibilities of generative AI for designers and makers.
 
 - Introduction to Generative AI: Participants will gain a clear understanding of the concept of generative AI, its principles, and its applications. They will learn about algorithms, models, and techniques used in generative AI.
@@ -79,10 +81,10 @@ A fully functional web demo, linking multimodal inputs and outputs with generati
 
 | Percentage  | Description                         |
 | ----------- | ------------------------------------|
-| 20%         | Participation                         |
-| 30%         | Prototype and Conceptual Quality                         |
-| 30%         | Presentation                         |
-| 20%         | Reflection                         |
+| 20%         | Participation                       |
+| 30%         | Prototype and Conceptual Quality    |
+| 30%         | Presentation                        |
+| 20%         | Reflection                          |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
@@ -90,15 +92,15 @@ A fully functional web demo, linking multimodal inputs and outputs with generati
 
 ## Additional Resources
 
-- [Dottod I: gallery of cybernetic interpretations](https://www.dottod.net/) Project
-- [Dottod II: Icon's replicants](https://furnitures.dottod.net/) Project
-- [Del Complex / Del Complex Incident Report September 2023](https://xiosky.com/delmedia/media/archival_media/Del_Complex_Incident_Report_7_September_2023.pdf) Project
+- [Dottod I: gallery of cybernetic interpretations](https://www.dottod.net/) | Project
+- [Dottod II: Icon's replicants](https://furnitures.dottod.net/) | Project
+- [Del Complex / Del Complex Incident Report September 2023](https://xiosky.com/delmedia/media/archival_media/Del_Complex_Incident_Report_7_September_2023.pdf) | Project
 - [Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924.pdf) Paper
-- [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288) Paper
-- [The Zizi Show](https://www.jakeelwes.com/project-zizi-show.html) Project
-- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) Paper
-- [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components) Article
-- [Infinite Images and the latent camera](https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY) Article
+- [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288) | Paper
+- [The Zizi Show](https://www.jakeelwes.com/project-zizi-show.html) | Project
+- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) | Paper
+- [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components) | Article
+- [Infinite Images and the latent camera](https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY) | Article
 
 ## Faculty
 
