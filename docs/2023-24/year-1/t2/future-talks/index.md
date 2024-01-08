@@ -27,7 +27,7 @@ In this series of talks, critical reflection will help you to map your strengths
 
 ## Schedule
 
-=== "15/01"
+=== "16/01"
 
     **Sally Bourdon and Olga Trevisan** - *Designing with values*
 
