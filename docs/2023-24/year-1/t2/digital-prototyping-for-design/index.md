@@ -11,7 +11,7 @@ faculty:
     - josep-marti
     - petra-garajova
     - adai-surinach
-ects: 4
+ects: 12
 ---
 
 {{ insert_banner() }}
@@ -79,15 +79,15 @@ Are Intensive weeks, where students will have to apply the knowledge and skills 
 === "Micro-challenge I"
 
     - **Days:** 13-14-15-16/02
-    - **Prototyping together:** DPD + Measuring the world
+    - **Content:** DPD + Measuring the world
 
 
 === "Module 3"
 
-    - **Days:** 21/01 , 22/02
+    - **Days:** 21/02 , 22/02
     - CNC manufacturing - Scaling manufacturing in distributed world 
     - Moulding and casting
-    - Sustainable practices: Growing materials
+    - Sustainable practices: Waste materials
 
 === "Micro-challenge II"
 
