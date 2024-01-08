@@ -29,6 +29,7 @@ During this 2 term course (2&3), students learn how to envision, prototype and d
 **The goal of DIGITAL PROTOTYPING FOR DESIGN** is to combine the concepts and practices of digital fabrication & prototyping electronices with the objectives of the MDEF course in a meaningful way to develop student research projects.
 
 A core aim is to empower students:
+
 - To unfold the foundation behind nowadays Big Tech (systems thinking, architectures, politics, IP models, programmed obsolescence).
 - To explore emergent (research and industry) and alternative (deprecated tech, not massively adopted, vernacular, analog) technologies, both from a narrative, application, and implementation point of view.
 - By providing tools and methods for the rapid prototyping of (technological) artifacts (embedding software and hardware working prototypes in the design process).
