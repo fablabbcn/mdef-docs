@@ -1,124 +1,113 @@
-# Measuring The World
+---
+title: Measuring the world
+page_type: course
+track: Exploration
+course_type: Short Course
+feature_img: /assets/images/2023-24/year-1/t-2/measuring-the-world.png
+img_caption:
+faculty:
+    - oscar-gonzalez
+    - guillem-camprodon
+ects: 1
+---
 
+{{ insert_banner() }}
 
-## Track
+## Syllabus
 
-Application
+This course will introduce students to the concept of _a world in data_ by designing artifacts to measure their daily analogue and digital activity. The fundamental aspect is to understand nowadays data-driven world from the sourcing, that could range from a temperature sensor to an Instagram like, processing, storage and consumption. It aims to work both as an introduction to some key concepts behind physical computing as well as an introduction to the idea of information and how it's created, modified and consumed.
 
-## Faculty
+**Keywords: data, platforms, measurement, data-awareness**
 
-Óscar González and Víctor Barberán
+### Learning Objectives
 
-## Syllabus and Learning Objectives
+This course aims to introduce briefly students to data concepts a
 
-Measuring the world introduces students to the concept of a world in data by designing artifacts to measure their daily analogue and digital activity. The fundamental aspect is to understand nowadays data-driven world from the sourcing, that could range from a temperature sensor to an Instagram like, post-processing, storage and consumption. It aims to work both as an introduction to some key concepts behind physical computing to support the Machines that Make but more importantly as an introduction to the idea of information which is critical to the Extended intelligence module.
+- Data vs. information concepts
+- Basic hypothesis formulation and research questions
+- Data awareness, criticism
 
-## When 
+### Methodological Strategies
 
-Wednesday 8th to Friday 10th of March 23'
+- Lectures
+- Group discussions
+- Practical work
 
-## Total Duration
+## Schedule
 
-Total hours of duration of the course **(class hours + student work hours)**
+The course will take place during 2.5 days, in-person format, divided in 4 sessions. Students will organize as one collective around a creative challenge and organize in interdependent smaller teams.
 
-- 10h class hours
-- 10h student work hours
+=== "07/02"
 
-## Structure and Phases
+    **Morning:** Theory Session I: Learning to ask. Introduction to the Data and information.
 
-!!! info ""
-  All morning sessions are in person. All afternoon sessions are autonomous work
+    **Afternoon:** Practical Tools I: Collecting our own data.
 
-### Wednesday 8th
+=== "08/02"
 
-**10h-14h:**
+    **Morning:** Theory Session II: Demons of data. Data-awareness raising and discussion.
 
-- Overview of the workshop
-- Introduction to data gathering techniques
+    **Afternoon:** Practical Tools II: Collecting data from others.
 
-**15h-19h:**
+=== "09/02"
 
-- Hand-on Data capture (first round)
+    **Morning:** Presentation
 
-### Thursday 9th
+## Deliverables
 
-**10h-14h:**
-
-- Data capture check
-
-- The demons of data collection
-
-- Open data and APIs
-
-**15h-19h:**
-
-- Hand-on Data capture (second round)
-
-### Friday 10th
-
-**10h-12h:**
-
-- Hands-on work
-
-**12h-14h:**
-
-- Presentation
-
-## Materials Needs
-
-**Students provide**
-
-- Arduino (Feather ESP32) + Sensors Kit + necessary extras
-- Cameras (smartphones are enough)
-- Personal laptops
-
-**Fab Lab provides**
-
-- Smart Citizen Kits, and other electronics
-- Office Materials (post-its, cardboard, markers, tape)
-
-## Deliverables / Outputs
-
-Presentation and submission of a typified data journal according to the requirements presented in class.
-
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+- Sense-Making Journal + Presentation
+- Free data-demonisation reflection essay
 
 ## Grading Method
 
-Grading System:
+| Percentage  | Description                         |
+| ----------- | ------------------------------------|
+| 30%         | Participation                       |
+| 20%         | Practical work quality              |
+| 25%         | Presentation                        |
+| 25%         | Reflection essay                    |
 
-- 0 - 4.9 Fail (submission of a supplementary work by May)
-- 5.0 -6.9 Pass
-- 7.0 - 8.9 Good
-- 9.0 - 10 Excellent/Distinction.
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-!!! warning ""
-  *Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.
-  
-  Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.
+    {{ ects }} ECTS
 
-## Bibliography and Background Research Material
+## Additional Resources
 
-**Books**
+**Privacy**
 
-- Infocracy: Digitization and the Crisis of Democracy, Byung-Chul Han.
-- The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Shoshana Zuboff.
-- The Filter Bubble: What the Internet is Hiding From You, Eli Pariser.
-- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil.
+- [_Book_ - The Filter Bubble: What the Internet is Hiding From You](https://www.goodreads.com/book/show/10596103-the-filter-bubble?from_search=true&from_srp=true&qid=Vz2TLUup2J&rank=1), Eli Pariser.
+- [_Book_ - Infocracy: Digitization and the Crisis of Democracy](https://www.goodreads.com/book/show/60659995-infocracy?from_search=true&from_srp=true&qid=2mIIViIz7M&rank=1), Byung-Chul Han.
+- [_Book_ - The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism), Shoshana Zuboff.
+- [Data brokers netflow](https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru)
+- [Private intelligence location](https://www.vice.com/en/article/qj454d/private-intelligence-location-data-xmode-hyas)
+- [Strava military case](https://www.wired.com/story/strava-heat-map-military-bases-fitness-trackers-privacy/) and [consequences](https://edition.cnn.com/2018/01/28/politics/strava-military-bases-location/index.html)
 
-**Publications**
+**Science and questioning**
 
-- air/aria/aire - Evidència Cartogràfica: http://air.300000.eu/#ca
-- Hardware X Publication: https://doi.org/10.1016/j.ohx.2019.e00070
+- [Rising up agains statistical significance](https://www.nature.com/articles/d41586-019-00857-9) also [here](https://pubmed.ncbi.nlm.nih.gov/30894741/)
 
-**Online Reads**
+**Tools and use cases**
 
-- Scientists rise up against statistical significance: https://www.nature.com/articles/d41586-019-00857-9
-- Amazon Mechanical Turk: https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/
+- [air/aria/aire - Evidència Cartogràfica](http://air.300000.eu/#ca)
+- [Smart Citizen Kit and Station: An open environmental monitoring system for citizen participation and scientific experimentation](https://www.hardware-x.com/article/S2468-0672(19)30020-3/fulltext)
 
-## Requirements for Students
+**Capitalism and data exploitation**
 
-- Arduino IDE
-- Orange Data Mining
-- Python 3 Installed and under control (knows how to run a predefined script and to install packages)
+- [Amazon Mechanical Turk](https://www.theatlantic.com/business/archive/2018/01/amazon-mechanical-turk/551192/)
+- [_Book_ - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction), Cathy O'Neil.
+
+**Courses**
+
+- [FastAI Ethics](https://ethics.fast.ai/syllabus/)
+
+**To install**
+
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [Orange Data Mining](https://orangedatamining.com/)
+- [Python 3 Installed](https://fablabbcn-projects.gitlab.io/learning/fabacademy-local-docs/clubs/codeclub/scripting/#installing-python) and under control (know how to run a predefined script and to install packages)
 - Some short of spreadsheet app
+
+## Faculty
+
+{{ insert_faculty() }}
+
