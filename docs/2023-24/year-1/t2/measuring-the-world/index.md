@@ -99,6 +99,7 @@ The course will take place during 2.5 days, in-person format, divided in 4 sessi
 **Courses**
 
 - [FastAI Ethics](https://ethics.fast.ai/syllabus/)
+- [Open data for beginners](https://ukdataservice.ac.uk/learning-hub/)
 
 **To install**
 
