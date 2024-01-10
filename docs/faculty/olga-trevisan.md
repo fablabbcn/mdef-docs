@@ -1,6 +1,6 @@
 ---
 name: Olga Trevisan
-role: Visual Artist
+role: EU Creative Action Researcher
 feature_img: /assets/images/faculty/olga-trevisan.jpg
 socials:
     email: olga.trevisan@iaac.net
