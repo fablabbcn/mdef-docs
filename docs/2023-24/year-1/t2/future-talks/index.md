@@ -29,7 +29,7 @@ In this series of talks, critical reflection will help you to map your strengths
 
 === "16/01"
 
-    **Sally Bourdon and Olga Trevisan** - *Designing with values*
+    **Jessica Guy and Olga Trevisan** - *Designing with values*
 
     [Distributed Design](https://distributeddesign.eu/) 
     
