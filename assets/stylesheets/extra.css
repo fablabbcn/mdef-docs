@@ -82,9 +82,9 @@ img {
 }
 
 .md-typeset h1 {
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
-    line-height: 40px;
+    line-height: 30px;
     text-align: left;
 }
 
@@ -247,7 +247,7 @@ button.fullscreen_button:hover{
 .md-typeset .module-title {
     position: absolute;
     bottom: 25px;
-    left:35px;
+    left: 25px;
     color: var(--md-primary-fg-color--light);
     margin: 0px;
     padding-right: 35px;
@@ -833,6 +833,7 @@ background-color: var(--md-accent-fg-color);
     }
     .md-typeset .module-title {
         padding-right: 275px;
+	left: 35px;
     }
 }
 
