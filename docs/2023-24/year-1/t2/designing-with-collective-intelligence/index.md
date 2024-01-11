@@ -3,7 +3,7 @@ title: Designing with Collective Intelligence
 page_type: course
 track: Exploration
 course_type: Workshop
-feature_img: /assets/images/2023-24/grid.jpg
+feature_img: /assets/images/2023-24/year-1/t-2/designing-with-collective-intelligence.png
 img_caption:
 faculty: 
     - jessica-guy
