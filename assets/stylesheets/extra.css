@@ -221,7 +221,7 @@ button.fullscreen_button:hover{
 .md-typeset .module-track {
     position: absolute;
     top: 25px;
-    right: 35px;
+    right: 25px;
     color: var(--md-primary-fg-color);
     margin: 0px;
     background-color: var(--md-primary-fg-color--light);
