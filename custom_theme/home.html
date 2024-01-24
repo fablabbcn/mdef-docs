@@ -212,7 +212,7 @@
     </div>
   </section>
   <section id="carousel">
-    <div>
+    <div class="carousel-image-wrapper">
       <img class="carousel-block slide-in" src="/assets/images/landing/fab-lab.jpg" alt="">
       <div class="carousel-text-wrapper">
         <div class="carousel-text">
@@ -226,7 +226,7 @@
         </div>
       </div>
     </div>
-    <div>
+    <div class="carousel-image-wrapper">
       <img class="carousel-block slide-in" src="/assets/images/landing/iaac.jpg" alt="">
       <div class="carousel-text-wrapper">
         <div class="carousel-text">
@@ -240,8 +240,8 @@
         </div>
       </div>
     </div>
-    <div>
-      <img class="carousel-block slide-in" src="/assets/images/landing/elisava.jpg" alt="">
+    <div class="carousel-image-wrapper">
+      <img class="carousel-block slide-in" src="/assets/images/landing/elisava.jpeg" alt="">
       <div class="carousel-text-wrapper">
         <div class="carousel-text">
           <h3>Elisava</h3>
@@ -610,17 +610,7 @@
     align-items: center;
     z-index: 2;
   }
-  .project-description-container::after {
-	content: ''; 
-	width: 100%; 
-	height: 100%; 
-	background-color: var(--md-default-bg-color); 
-	opacity: 0.7; 
-	position: absolute; 
-	top: 0; 
-	left: 0; 
-	z-index: 2;
-}
+
   .project-details-container {
     width: 100%;
     color: white;
@@ -723,39 +713,50 @@
       border-radius: 10px;
       display: none;
       box-shadow: 0px 0px 100px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
+      }
+      .project-description-container {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      display: none;
+      z-index: 2;
+      }
+      .close-project {
+      display: block;
+      position: absolute;
+      top: 0px;
+      right: 10px;
+      color: var(--md-accent-fg-color);
+      font-weight: 600;
+      padding: 10px;
     }
-    .project-description-container {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    display: none;
+    .project-description-container::after {
+    content: ''; 
+    width: 100%; 
+    height: 100%; 
+    background-color: var(--md-default-bg-color); 
+    opacity: 0.7; 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
     z-index: 2;
-    }
-    .close-project {
-    display: block;
-    position: absolute;
-    top: 0px;
-    right: 10px;
-    color: var(--md-accent-fg-color);
-    font-weight: 600;
-    padding: 10px;
   }
     }
 
 
-  #carousel img {
+  .carousel-image-wrapper img {
     width: 100%;
     padding: 0px;
-    /* object-fit: cover; */
+    object-fit: cover;
     object-position: 50% 50%;
     overflow: hidden;
     aspect-ratio: 16/9;
+    display: none;
 
   }
   #carousel .carousel-block {
     position: relative;
     display: none;
-    overflow: hidden;
   }
   #carousel .carousel-number {
     position: relative;
@@ -1050,6 +1051,7 @@
   
   let projectCounter = 0;
   const projects = document.querySelectorAll(".button");
+  const projectsBlock = document.querySelectorAll(".project-block");
   const projectsIntro = document.querySelectorAll(".three-grid-projects");
   const projectsDescription = document.querySelectorAll(".project-description");
   const projectsDescriptionContainer = document.querySelectorAll(".project-description-container");
@@ -1066,13 +1068,16 @@
       }
       }
     }
-    // for (let c = 0; c < projects.length; c++){
-    //   window.onclick = function(event) {
-    //   if (event.target == projectsDescription[c]) {
-    //     projectsDescription[c].style.display = "none";
-    //   }
-    // }
-    // }
+    projectsBlock[a].onclick = function() {
+    projectsDescription[a].style.display = "flex";
+    projectsDescriptionContainer[a].style.display = "flex";
+      for (let b = 0; b < projects.length; b++){
+      close[b].onclick = function() {
+      projectsDescription[b].style.display = "none";
+      projectsDescriptionContainer[b].style.display = "none";
+      }
+      }
+    }
   }
 
 
