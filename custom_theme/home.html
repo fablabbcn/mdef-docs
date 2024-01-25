@@ -6,7 +6,7 @@
   {{ super() }}
 <canvas></canvas>
 <section id="header">
-    
+
   <!-- <img src="/assets/images/landing/mdef-parallax-bg.jpg" id="background-pixels"> -->
   <img src="/assets/images/landing/gifs/fridge.gif" id="fridge" class="gif">
   <img src="/assets/images/landing/gifs/plants.gif" id="plants" class="gif">
@@ -247,7 +247,7 @@
           <h3>Elisava</h3>
           <h4>Training professionals who will challenge the future</h4>
           <p>ELISAVA Barcelona School of Design and Engineering is the pioneer academy in this field in Spain, with more than half a century of experience. Founded in 1961, it promotes education, knowledge, research, development and innovation on design.</p>
-          <p><a href="https://www.elisava.net/en/" target="_blank">https://www.elisava.net/</a></p>    
+          <p><a href="https://www.elisava.net/en/" target="_blank">https://www.elisava.net/</a></p>
         </div>
         <div class="carousel-number">
           <p class="imagenumber">3/3</p>
@@ -759,7 +759,7 @@
     width: 100%;
     aspect-ratio: 16/9;
   }
-  
+
     @media only screen and (min-width: 500px) {
       .project-details-container {
         aspect-ratio: auto;
@@ -813,14 +813,14 @@
       padding: 10px;
     }
     .project-description-container::after {
-    content: ''; 
-    width: 100%; 
-    height: 100%; 
-    background-color: var(--md-default-bg-color); 
-    opacity: 0.9; 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: var(--md-default-bg-color);
+    opacity: 0.9;
+    position: absolute;
+    top: 0;
+    left: 0;
     z-index: 2;
     transition: all 400ms ease-in-out;
     }
@@ -1133,14 +1133,14 @@
 -->
 <script>
 
-  
+
   let canvas = document.querySelector("canvas");
   let context = canvas.getContext("2d");
 
   let screenWidth, screenHeight;
   let slideIndex = 0;
   showSlides();
-    
+
   screenWidth =  window.innerWidth*5;
   screenHeight = document.body.scrollHeight*5;
 
@@ -1151,7 +1151,7 @@
   console.log(screenHeight);
 
   drawCanvas();
-  
+
   let projectCounter = 0;
   const projects = document.querySelectorAll(".button");
   const projectsBlock = document.querySelectorAll(".project-block");
@@ -1243,12 +1243,12 @@
       for (let a = 0; a < projectsDescription.length; a++){
         projectsDescription[a].style.display = "flex";
         projectsDescriptionContainer[a].style.display = "flex";
-      } 
+      }
     } else if (innerWidth > 960){
       for (let a = 0; a < projectsDescription.length; a++){
         projectsDescription[a].style.display = "none";
         projectsDescriptionContainer[a].style.display = "none";
-      } 
+      }
       }
   })
 
@@ -1309,8 +1309,8 @@
     numberSlide[i].style.display = "none";
   }
   slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  slides[slideIndex-1].style.display = "block";  
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
   descriptionSlide[slideIndex-1].style.display = "block";
   numberSlide[slideIndex-1].style.display = "block";
   setTimeout(showSlides, 6000); // Change image every 6 seconds
@@ -1335,6 +1335,6 @@ popupOverlay.addEventListener("click", () => {
   let videoLink = `https://www.youtube.com/embed/`;
   popup.src = videoLink;
 });
- 
+
 </script>
 {% endblock %}
