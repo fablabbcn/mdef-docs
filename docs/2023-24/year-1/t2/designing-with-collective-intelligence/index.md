@@ -1,11 +1,11 @@
 ---
-title: Designing with Collective Intelligence 
+title: Designing with Collective Intelligence
 page_type: course
 track: Exploration
 course_type: Workshop
 feature_img: /assets/images/2023-24/year-1/t-2/designing-with-collective-intelligence.png
 img_caption:
-faculty: 
+faculty:
     - jessica-guy
     - olga-trevisan
 ects: 2
@@ -30,7 +30,7 @@ The resulting projects will be presented on the online platform DAFNE+, an EU re
 
 Conceptual Understanding:
 - Students will explore the concepts of commons and DAOs within the creative industries context through inspirational and theoretical lectures and real-world examples.
-  
+
 Speculative Workshop Participation:
 - Students will engage in a speculative workshop hosted by external collaborators to gain deeper insights and guidance around the introduced concepts.
 - Teams split into international working groups will collaboratively choose a future scenario theme, to systematically develop future scenarios for their ideal DAO governance model.
@@ -56,8 +56,8 @@ Studio Visit Exhibition:
 
 === "23/01"
 
-    The event kicks off, taking place both online and in person at each location. 
-    Two inspirational talks by experts selected by Fab Lab Barcelona and SODA (School 
+    The event kicks off, taking place both online and in person at each location.
+    Two inspirational talks by experts selected by Fab Lab Barcelona and SODA (School
     of Digital Arts of Manchester) will introduce the main theme of 'Fair Future(s)'.
 
 === "24/01"

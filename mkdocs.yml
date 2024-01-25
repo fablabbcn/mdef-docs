@@ -285,7 +285,7 @@ extra:
       link: 'https://github.com/fablabbcn/mdef-docs'
   # project: ''
   fullscreen_button: false
-  
+
 plugins:
   - macros
   - search

@@ -15,6 +15,23 @@ ects: 12
 ---
 
 {{ insert_banner() }}
+---
+title: Design Studio 02
+page_type: course
+track: Application
+course_type: Course
+feature_img: /assets/images/2023-24/year-1/t-2/design-studio-02.png
+img_caption: MDEF Design Interventions, Barcelona
+faculty:
+    - guillem-camprodon
+    - laura-benitez
+    - tomas-diez
+    - jana-tothill
+    - roger-guilemany
+ects: 12
+---
+
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -24,84 +41,53 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 **TERM 2 Design**: Forming the present through interventions in the real world. Building the foundations of your design space, forming strategic partnerships. Applying knowledge into practice through iterative prototyping. Testing ideas and prototypes in the real world.
 
-**TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
+TERM 3 Development: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
 
-The second term Design Studio aims to refine the work developed by students during the first term of the Master program. After identifying areas of interest from weak signals in the first term, and creating their design space and first interventions, students will be encouraged to take a further step into their projects, focusing on finding and growing their communities of practice and developing interventions in the real world (digital or physical).
+**The Second Term Design Studio** aims to refine the work developed by students during the first term of the Master program. After identifying areas of interest from weak signals in the first term, and creating their design space and first interventions, students will be encouraged to take a further step into their projects, focusing on finding and growing their communities of practice and developing interventions in the real world (digital or physical).
 
-We suggest engaging in an average of three collective design interventions this term, but naturally it can change depending on the project, the evolution or the student’s personal circumstances. The number three is a guideline
 
-**Keywords: Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions**
-
-### Learning Objectives
-
-The specific goals are the following:
-
-1. To develop a critical position in the student’s design practice.
-2. Define possible areas of intervention, based on the Atlas of the Week Signals.
-3. Prototype an alpha version of the design space and iterate.
-4. To build personal and collective repositories of resources.
-
+## When
+Monday's
 
 ## Schedule
 
-=== "08/01"
+### 09/01 Kick off - Reframing by reflecting on your project so far
 
-     **Collective design intervention: a collective design action with humans and/or non-humans**
-    
-     *Roger Guilemany & Jana Tothill*
+**Goals:** Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.
 
-     **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.
-     
-     **Activity 1**: Briefly present in class 3 of the main learning points from the 1st trimester. 
-     
-     **Assignment**: Reflect on your and your project’s current stage of development allowing your project to talk back. Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project accordingly. 
-     
-     **Deliverable**: An updated version of your design space. A 500 word text with a summary of your journey so far, adding the repositioning of yourself and your project.  Make explicit new project goals and next steps including a proposal for the 1st intervention of the second trimester (a draft will be discussed during the design reviews the week after).
+**Activity:** Briefly present in class 3 of the main learning points from the 1st trimester.
 
-=== "15/01"
+**Assignment:** Reflect on your and your project’s current stage of development allowing your project to talk back. Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project accordingly.
 
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
+**Deliverable:** An updated version of your design space. A 500 word text with a summary of your journey so far, adding the repositioning of yourself and your project.  Make explicit new project goals and next steps including a proposal for the 1st intervention of the second trimester (a draft will be discussed during the design reviews the week after).
 
-=== "22/01"
+### 16/01 Design Studio Reviews (individual)
 
-    **Exploring alternative presents in context. Look for your peers and communities and make sense of a 1PP Design Action. Expand the boundaries of your interventions.**
+### 23/01 A 1PP Design intervention in context. Look for your peers and communities. Analyze and make sense of a 1PP Design Action.
 
-    *Roger Guilemany & Jana Tothill*
+**Goals:** Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP.
 
-    **Goals**: Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP. Explore your biographies and analyze your way of drifting in order to make sense of the alternative present you are creating. 
-    
-    **Activity 1**: Briefly present in class an updated version of the design space and a proposal for the 1st intervention of the second trimester.
-    
-    **Activity 2**: Analyze the evolution of your design space to reflect on your way of drifting to envision your future biography by means of an alternative present.
+**Activity 1:** Briefly present in class an updated version of the design space and a proposal for the 1st intervention of the second trimester.
 
-    **Activity 3**: Plan your first design intervention of the term and map the actors and infrastructure you want to involve. 
-    
-    **Task**: Carry out your 1st design intervention from a 1PP with your community of practice (involve yourself in the context you want to work on).
-    
-    **Deliverable 1**: Document the 1PP design intervention, analyze it and reflect on the findings. 
-    
-    **Deliverable 2**: Map, visualize and analyze the evolution of your design space based on ways of drifting and reflect on the trajectories you might want to project. Create a narrative in relation to your alternative present. 
+**Activity 2:** Plan your first design intervention of the term and map the actors and infrastructure you want to involve.
 
+**Task:** Carry out your 1st design intervention from a 1PP (involving yourself in the context you want to work on).
 
-=== "29/01"
+**Deliverable 1:** Document the 1PP design intervention, analyze it and reflect on the findings. Describe the alternative present scenario that this intervention is offering.
 
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
+**Deliverable 2:** Update your design with the relations you have built.
 
-=== "05/02"
+### 30/01 Network of co-responsibility. (Co-)designing for emergent futures in the present.
 
-    **Network of co-responsibility. (Co-)designing for emergent futures in the present**
+**Goals:** Reflect on your network of co-responsibility.  Voicing others: A 1PP Design intervention in context giving the stage to your peers and communities (human and non-humans). Let the human and non-human actors be a driving force in your project.
 
-    *Laura Benitez*
+**Activity:** Present your results from your 1PP design intervention. Reflect on how you can iterate this intervention, this time allowing others to take the lead.
 
-    **Goals**: Reflect on your network of co-responsibility.  Voicing others: A 1PP Design intervention in context giving the stage to your peers and communities (human and non-humans). Let the human and non-human actors be a driving force in your project. 
-    
-    **Activity**: Present your results from your 1PP design intervention. Reflect on how you can iterate this intervention, this time allowing others to take the lead.
-    
-    **Task**: Plan and execute a 2nd design intervention, a collective design intervention with this perspective. 
-    
-    **Deliverable 1**: Document the 2nd collective design intervention, analyze it and reflect on the findings. 
-    
-    **Deliverable 2**: Update your design space with the relations you have built.
+**Task:** Plan and execute a 2nd design intervention, a collective design intervention with this perspective.
+
+**Deliverable:** Document the 2nd collective design intervention, analyze it and reflect on the findings.
+
+**Deliverable 2:** Update your design space with the relations you have built.
 
 === "12/02"
 
@@ -113,17 +99,21 @@ The specific goals are the following:
 
     *Laura Benitez*
 
-    **Goals**: Understand how your intervention can become resilient, taking into consideration self-sufficiency, locality and situated knowledges. Understand the agency of the environment you are working in. 
-    
-    **Activity 1**: Present your results from your 2nd design intervention. 
-    
+    **Goals**: Understand how your intervention can become resilient, taking into consideration self-sufficiency, locality and situated knowledges. Understand the agency of the environment you are working in.
+
+    **Activity 1**: Present your results from your 2nd design intervention.
+
     **Activity 2**: Resilience Assessment. What is your project relying on?
-    
-    **Task**: Plan and execute a 3nd design intervention, a collective design intervention taking into account this perspective. 
-    
-    **Deliverable 1**: Document the final design intervention, analyze it and reflect on the findings. 
-    
+
+    **Task**: Plan and execute a 3nd design intervention, a collective design intervention taking into account this perspective.
+
+    **Deliverable 1**: Document the final design intervention, analyze it and reflect on the findings.
+
     **Deliverable 2**: Update your design space with the relations you have built.
+
+### 27/02 Design Studio Reviews
+
+### 06/03 Exploring alternative presents: Expanding the boundaries of your interventions.
 
 === "26/02"
 
@@ -136,11 +126,11 @@ The specific goals are the following:
     *Alejandra Tothill*
 
     **Goals**: Create a collective and individual building up plan for the Design Dialogues exhibition.
-    
+
     **Activity**: Group dynamic to create themes and groups of projects for the exhibition.
-    
+
     **Deliverable**: Planning of the exhibition, space allocation and special needs.
-    
+
     **Task**: Work on the design dialogues deliverables.
 
 

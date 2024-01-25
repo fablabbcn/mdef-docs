@@ -86,7 +86,7 @@ Are Intensive weeks, where students will have to apply the knowledge and skills 
 === "Module 3"
 
     - **Days:** 21/02 , 22/02
-    - CNC manufacturing - Scaling manufacturing in distributed world 
+    - CNC manufacturing - Scaling manufacturing in distributed world
     - Moulding and casting
     - Sustainable practices: Waste materials
 

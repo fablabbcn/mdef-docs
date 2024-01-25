@@ -31,8 +31,8 @@ In this series of talks, critical reflection will help you to map your strengths
 
     **Jessica Guy and Olga Trevisan** - *Designing with values*
 
-    [Distributed Design](https://distributeddesign.eu/) 
-    
+    [Distributed Design](https://distributeddesign.eu/)
+
 === "05/02"
 
     **Hangar’s WetLab** - *Networks of Co-Responsibility*
@@ -51,14 +51,14 @@ In this series of talks, critical reflection will help you to map your strengths
 
 ## Deliverables
 
-At the end of this trimester we ask you to update who you are and what makes you unique (identity) and your personal “vision” of your future as a professional. The Thesis Draft will include space to reflect on your Vision and Identity and how that evolved this term. 
-For this section we ask you all to reflect on how applicable and useful the knowledge presented by each of the guests is in your practice/project. Please do a self-reflective paragraph long post on each of the talks. 
+At the end of this trimester we ask you to update who you are and what makes you unique (identity) and your personal “vision” of your future as a professional. The Thesis Draft will include space to reflect on your Vision and Identity and how that evolved this term.
+For this section we ask you all to reflect on how applicable and useful the knowledge presented by each of the guests is in your practice/project. Please do a self-reflective paragraph long post on each of the talks.
 
 **These are the points we are going to look for the evaluation of Future talks:**
 
 - Attendance
 - Understanding of your design interventions in the context of the future talk.
-- Reflection and application (if relevant) of future talk on practice. 
+- Reflection and application (if relevant) of future talk on practice.
 - What opportunities might arise by taking these future talks into consideration.
 
 
