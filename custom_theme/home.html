@@ -257,6 +257,20 @@
   </section>
   <section id="network">
   </section>
+  <section id="know-more">
+    <div class="two-column-text">
+      <div class="two-column-text-block">
+        <h3>Don't miss out\</h3>
+        <h2>Want to know more?</h2>
+      </div>
+      <div class="two-column-text-block">
+        <p class="description"><strong>Check everything we have prepared for you.</strong></p>
+        <div class="links">
+          <p><a href="/2023-24">Get started</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="popup-overlay">
     <div class="video-popup">
       <iframe id="iframe" src="https://www.youtube.com/embed/K5TnDWdn3Fs?si=OX8jV5x2L1yEnhPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -384,6 +398,16 @@
     /* padding: 10px 0px; */
   }
 
+  #know-more {
+    width: 100%;
+    /* height: calc(100vh - 48px); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding: 10px 0px;
+    margin-top: 15px; */
+  }
+
   #tracks {
     width: 100%;
     /* height: calc(100vh - 48px); */
@@ -456,6 +480,12 @@
     border: var(--md-accent-fg-color) 2px solid;
     padding: 50px 30px 30px 30px;
   }
+  #know-more .two-column-text {
+    background-color: var(--md-default-bg-color);
+    /* border: var(--md-accent-fg-color) 2px solid; */
+    padding: 50px 30px 30px 30px;
+  }
+
   .tracks-container {
     background-color: var(--md-accent-fg-color);
     display: flex;
@@ -775,7 +805,14 @@
     }
     @media only screen and (min-width: 960px) {
       #about .two-column-text {
-      padding: 50px;
+        padding: 50px;
+      }
+      #know-more .two-column-text {
+        padding: 50px;
+      }
+      #know-more {
+        padding: 10px 0px;
+        margin-top: 15px;
       }
       /* .two-column-text {
         margin: 30px 0px;
@@ -980,6 +1017,11 @@
       width: 75%;
       border-radius: 10px;
     }
+    #know-more .two-column-text {
+      width: 75%;
+      border-radius: 10px;
+    }
+
     .tracks-container {
       width: 75%;
       border-radius: 10px;
@@ -1076,6 +1118,10 @@
       height: calc(100vh - 112px);
     } */
     #about .two-column-text {
+      display: flex;
+      flex-direction: row;
+    }
+    #know-more .two-column-text {
       display: flex;
       flex-direction: row;
     }
