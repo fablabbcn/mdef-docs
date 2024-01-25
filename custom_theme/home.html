@@ -9,10 +9,10 @@
     
   <!-- <img src="/assets/images/landing/mdef-parallax-bg.jpg" id="background-pixels"> -->
   <img src="/assets/images/landing/gifs/fridge.gif" id="fridge" class="gif">
+  <img src="/assets/images/landing/gifs/plants.gif" id="plants" class="gif">
+  <img src="/assets/images/landing/gifs/plant.gif" id="plant" class="gif">
   <img src="/assets/images/landing/gifs/live-stream.gif" id="live-stream" class="gif">
   <img src="/assets/images/landing/gifs/model-breaking.gif" id="model-breaking" class="gif">
-  <img src="/assets/images/landing/gifs/plant.gif" id="plant" class="gif">
-  <img src="/assets/images/landing/gifs/plants.gif" id="plants" class="gif">
   <img src="/assets/images/landing/gifs/robot.gif" id="robot" class="gif">
   <h1 id="mdef-h1">Master in Design for Emergent Futures</h1>
 </section>
@@ -87,7 +87,7 @@
           <p><strong>AQUÍ</strong> collaborates with local residents and associations to create an equitable sustainable and healthy city. For public space to be truly inclusive, it needs to be designed by the people. Through a series of workshops and community events, <strong>AQUÍ</strong> empowers neighbors to design their streets, grounding change in their lived experience.</p>
           <p><strong>AQUÍ</strong> is the fruit of a collaboration between designer Lea Karrasch and action researcher Clément Rames. It has grown to an international collective of practitioners united by the same purpose.</p>
           <div class="links">
-            <p>See the video</p>
+            <p class="video-button" data-link="K5TnDWdn3Fs">See the video</p>
             <p><a href="https://aqui.design/" target="_blank">Project website</a></p>
             <p><a href="https://www.instagram.com/aqui.bcn/" target="_blank">Instagram</a></p>
           </div>
@@ -118,7 +118,7 @@
           <p><strong>POWARSTEAM</strong> (originally <strong>FARMACADEMY</strong>) is a Planet-Centered Edu-Tech research studio based in Barcelona created in 2019, that designs workshops, methodologies and learning objects to empower people for a planet-centered future.</p>
           <p>They are seeking the way to empower rural communities with design skills and distributed manufacturing for them to be able to create technologies that make them more resilient to climate change.</p>
           <div class="links">
-            <p>See the video</p>
+            <p class="video-button" data-link="K5TnDWdn3Fs">See the video</p>
             <p><a href="http://www.powarsteam.com/" target="_blank">Project website</a></p>
             <p><a href="https://www.instagram.com/powarsteam/" target="_blank">Instagram</a></p>
           </div>
@@ -149,7 +149,7 @@
           <p><strong>AUTONOMOUS TREE</strong> is an art installation in which a tree — equipped with similar equipment and sensing technology as an autonomous vehicle — is transformed to hypothetically act and represent on the behalf of non-human living beings within established human systems of governance and discourse.</p>
           <p>The installation seeks to demonstrate a potential non-human authority that acts and represents on the behalf of non-human living beings within established human systems of governance and discourse.</p>
           <div class="links">
-            <p>See the video</p>
+            <p class="video-button" data-link="K5TnDWdn3Fs">See the video</p>
             <p><a href="https://in-silo.com/autonomous_trees " target="_blank">Project website</a></p>
           </div>
         </div>
@@ -257,7 +257,12 @@
   </section>
   <section id="network">
   </section>
-</div>
+  <div class="popup-overlay">
+    <div class="video-popup">
+      <iframe id="iframe" src="https://www.youtube.com/embed/K5TnDWdn3Fs?si=OX8jV5x2L1yEnhPR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
+
 
 
 {% endblock %}
@@ -268,7 +273,9 @@
     body {
     font-size: 1em;
   }
-
+  nav {
+    display: none;
+  }
   /* Remove spacing, as we cannot hide it completely */
   .md-main__inner {
     margin: 0;
@@ -280,11 +287,21 @@
   }
   .md-header {
     position: static;
-    /* background-color: #ffffff2a; */
+    display: none;
+    transition: ease-in-out all 0.3s;
   }
-  /* .md-tabs {
-    background-color: #ffffff2a;
-  } */
+  .md-tabs {
+    display: none;
+    transition: ease-in-out all 0.3s;
+  }
+  nav.md-grid {
+    display: none;
+    transition: ease-in-out all 0.3s;
+  }
+  nav .md-grid {
+    display: none;
+    transition: ease-in-out all 0.3s;
+  }
   canvas {
     position: absolute;
     top: 0px;
@@ -295,26 +312,26 @@
   }
   #header {
     width: 100%;
-    height: calc(100vh - 48px);
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-items: center;
+    margin-bottom: 20px;
+    position: relative;
   }
   #mdef-h1 {
     text-align: center;
-    font-size: 7.1vw;
+    font-size: 50px;
     margin: 0px;
     padding: 50px;
     color: var(--md-primary-fg-color--opposite);
     z-index: 1;
     position: relative;
     font-weight: 500;
-    text-shadow: 0 0 0.2em var(--md-default-bg-color);
+    text-shadow: 0px 0px 50px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
     transition: text-shadow 0.5s ease-in-out;
     }
-  #mdef-h1:hover {
-    text-shadow: 0px 0px 50px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
-    }
+
   .gif {
     max-width: 250px;
     width: 50%;
@@ -322,20 +339,24 @@
   }
   #fridge {
     z-index: 1;
-    top: 150px;
+    top: 50px;
     left: 7%;
+    transition: ease-in-out all 0.3s;
   }
 
   #live-stream {
     z-index: 1;
-    top: 170px;
+    top: 70px;
     right: 7%;
+    transition: ease-in-out all 0.3s;
   }
 
   #plant {
     z-index: 1;
-    top: 200px;
+    top: 250px;
     right: calc(50vw - 75px);
+    transition: ease-in-out all 0.3s;
+    scale: 1.5;
   }
   #plants {
     z-index: 1;
@@ -349,8 +370,9 @@
   }
   #robot {
     z-index: 1;
-    top: 75vh;
-    right: 10%;
+    bottom: 75px;
+    right: 15%;
+    scale: 1.5;
   }
 
   #about {
@@ -380,7 +402,7 @@
     justify-content: center;
     background-color: var(--md-default-bg-color);
     grid-gap: 15px;
-    padding: 80px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
     z-index: 1;
     border: var(--md-accent-fg-color) 2px solid;
     /* border-bottom: var(--md-accent-fg-color) 2px solid; */
@@ -400,11 +422,13 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding-top: 50px;
   }
   #graph img {
     width: 82%;
   }
   #graph h2 {
+    margin-top: 0px;
     width: 50%;
     text-align: right;
     color: var(--md-accent-fg-color);
@@ -429,7 +453,7 @@
   #about .two-column-text {
     background-color: var(--md-default-bg-color);
     border: var(--md-accent-fg-color) 2px solid;
-    padding: 50px;
+    padding: 50px 30px 30px 30px;
   }
   .tracks-container {
     background-color: var(--md-accent-fg-color);
@@ -439,7 +463,7 @@
     align-items: center;
     align-self: center;
     width: 100%;
-    padding: 50px;
+    padding: 50px 30px 30px 30px;
     z-index: 1;
     margin: 0px;
     grid-gap: 40px;
@@ -452,7 +476,6 @@
     align-self: center;
     width: 100%;
     z-index: 1;
-    margin: 30px 0px;
     grid-gap: 40px;
   }
   .two-column-text p.description {
@@ -579,7 +602,7 @@
     padding: 7px 10px;
     border-radius: 10px;
     font-weight: 600;
-    transition: ease-in-out;
+    transition: 400ms all ease-in-out;
   }
   .project-block .button:hover {
     background-color: rgba(255, 255, 255, 0);
@@ -604,6 +627,7 @@
     margin: 0%;
     display: flex;
     flex-direction: column;
+    transition: all 400ms ease-in-out;
   }
   .project-description-container {
     display: block;
@@ -621,10 +645,11 @@
     flex-direction: column;
     position: relative;
     border-top: var(--md-accent-fg-color) 2px solid;
+    aspect-ratio: 1/1;
   }
   .project-details{
     position: absolute;
-    padding: 20px;
+    padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -656,7 +681,7 @@
   .project-narrative {
     width: 100%;
     border-top: var(--md-accent-fg-color) 2px solid;
-    padding: 20px;
+    padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -689,7 +714,7 @@
   .links p {
     background-color: var(--md-accent-fg-color);
     color: var(--white);
-    transition: ease-in-out;
+    transition: all 400ms ease-in-out;
     border: var(--md-accent-fg-color) 2px solid;
   }
   .tags p {
@@ -701,18 +726,72 @@
     background-color: rgba(255, 255, 255, 0);
     color: var(--md-accent-fg-color);
   }
-
+  .video-button:hover {
+    cursor: pointer;
+  }
+  .popup-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.9);
+    opacity: 0;
+    pointer-events: none;
+    transition: all 400ms ease-in-out;
+  }
+  .popup-overlay.active {
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 5;
+  }
+  .video-popup {
+    position: fixed;
+    width: 90%;
+    left: 50%;
+    top: 50%;
+    opacity: 0;
+    transform: translate(-50%, -50%);
+    transition: all 400ms ease-in-out;
+  }
+  .popup-overlay.active .video-popup {
+    opacity: 1;
+  }
+  .video-popup iframe {
+    width: 100%;
+    aspect-ratio: 16/9;
+  }
+  
+    @media only screen and (min-width: 500px) {
+      .project-details-container {
+        aspect-ratio: auto;
+      }
+      #mdef-h1:hover {
+      text-shadow: 0px 0px 50px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
+      }
+      #mdef-h1 {
+      font-size: 7.1vw;
+      text-shadow: 0 0 0.2em var(--md-default-bg-color);
+      padding: 50px;
+      }
+    }
     @media only screen and (min-width: 960px) {
+      #about .two-column-text {
+      padding: 50px;
+      }
+      /* .two-column-text {
+        margin: 30px 0px;
+      } */
       .project-description {
       position: absolute;
       width: 90%;
       background-color: var(--md-default-bg-color);
       z-index: 3;
-      margin: 5%;
+      margin: 0%;
       border: var(--md-accent-fg-color) 2px solid;
       border-radius: 10px;
       display: none;
       box-shadow: 0px 0px 100px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
+      transition: all 400ms ease-in-out;
+      display: flex;
+      align-self: center;
       }
       .project-description-container {
       width: 100%;
@@ -720,6 +799,8 @@
       position: absolute;
       display: none;
       z-index: 2;
+      transition: all 400ms ease-in-out;
+      justify-content: center;
       }
       .close-project {
       display: block;
@@ -735,12 +816,16 @@
     width: 100%; 
     height: 100%; 
     background-color: var(--md-default-bg-color); 
-    opacity: 0.7; 
+    opacity: 0.9; 
     position: absolute; 
     top: 0; 
     left: 0; 
     z-index: 2;
-  }
+    transition: all 400ms ease-in-out;
+    }
+    .video-popup {
+      width: 80%;
+    }
     }
 
 
@@ -775,7 +860,7 @@
     left: 0;
     border-top: var(--md-accent-fg-color) 2px solid;
     background: var(--md-default-bg-color);
-    padding: 30px;
+    padding: 30px 30px 50px 30px;
   }
   .carousel-text a {
     color: var(--md-accent-fg-color);
@@ -825,11 +910,10 @@
     flex-direction: column;
   }
 
-  .md-main {
-    display: none;
+  /* .md-main {
     justify-content: center;
     z-index: 1;
-  }
+  } */
 
   .md-content {
     display: initial;
@@ -899,6 +983,7 @@
       width: 75%;
       border-radius: 10px;
       margin: 50px 0px;
+      padding: 50px;
     }
     .three-grid-projects {
       width: 85%;
@@ -919,7 +1004,9 @@
     bottom: 60px;
     border: var(--md-accent-fg-color) 2px solid;
     border-radius: 10px;
+    padding: 30px;
     }
+
     .two-column-text:hover, .tracks-container:hover, .project-block:hover, .carousel-text:hover {
       box-shadow: 0px 0px 100px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
       transition: box-shadow 0.5s ease-in-out;
@@ -969,31 +1056,46 @@
     padding: 7px 10px;
     margin: 10px 10px 0px 0px;
     }
-    /* #graph {
-      padding-top: 90px;
-    } */
+    #graph {
+      padding-top: 50px;
+    }
     .mobile-only-image {
       display: none;
     }
     .desktop-only-image {
       display: block;
     }
+    .gif {
+      scale: 1.1;
+      transition: all ease-in-out 0.5s;
+    }
   }
   @media only screen and (min-width: 1220px){
-    #header {
-      height: calc(100vh - 112px);
-    }
     /* #about {
       height: calc(100vh - 112px);
     } */
     #about .two-column-text {
       display: flex;
       flex-direction: row;
-
     }
     .two-column-text-block {
     width: 50%;
-  }
+    }
+    .gif {
+      scale: 1.25;
+      transition: all ease-in-out 0.5s;
+    }
+    #fridge {
+      left: 10%;
+      top: 70px;
+    }
+    #live-stream {
+      right: 10%;
+      top: 120px;
+    }
+    #plant {
+      top: 250px;
+    }
   }
 </style>
 
@@ -1066,6 +1168,10 @@
       projectsDescription[b].style.display = "none";
       projectsDescriptionContainer[b].style.display = "none";
       }
+      projectsDescriptionContainer[b].onclick = function() {
+      projectsDescription[b].style.display = "none";
+      projectsDescriptionContainer[b].style.display = "none";
+      }
       }
     }
     projectsBlock[a].onclick = function() {
@@ -1076,10 +1182,41 @@
       projectsDescription[b].style.display = "none";
       projectsDescriptionContainer[b].style.display = "none";
       }
+      projectsDescriptionContainer[b].onclick = function() {
+      projectsDescription[b].style.display = "none";
+      projectsDescriptionContainer[b].style.display = "none";
+      }
       }
     }
   }
 
+  window.onclick = headerVisible;
+
+  function headerVisible () {
+
+    if (innerWidth < 960){
+      document.querySelector("#fridge").style.top="60px";
+      document.querySelector("#live-stream").style.top="80px";
+      document.querySelector(".md-header").style.display="block";
+      document.querySelectorAll("nav .md-grid")[0].style.display="block";
+      document.querySelectorAll("nav.md-grid")[0].style.display="flex";
+    } else if (innerWidth < 1220){
+      document.querySelector("#fridge").style.top="80px";
+      document.querySelector("#live-stream").style.top="100px";
+      document.querySelector(".md-header").style.display="block";
+      document.querySelectorAll("nav .md-grid")[0].style.display="block";
+      document.querySelectorAll("nav.md-grid")[0].style.display="flex";
+      document.querySelector("#header").style.height="95vh";
+    } else {
+      document.querySelector("#fridge").style.top="80px";
+      document.querySelector("#live-stream").style.top="100px";
+      document.querySelector(".md-header").style.display="block";
+      document.querySelector(".md-tabs").style.display="block";
+      document.querySelectorAll("nav .md-grid")[0].style.display="block";
+      document.querySelectorAll("nav.md-grid")[0].style.display="flex";
+      document.querySelector("#header").style.height="95vh";
+    }
+  }
 
   window.addEventListener('resize', () => {
     screenWidth =  window.innerWidth*5;
@@ -1090,6 +1227,14 @@
 
     console.log(screenWidth);
     console.log(screenHeight);
+
+    document.querySelector(".md-header").style.display="none";
+    document.querySelector(".md-tabs").style.display="none";
+    document.querySelectorAll("nav .md-grid")[0].style.display="none";
+    document.querySelectorAll("nav.md-grid")[0].style.display="none";
+    document.querySelector("#fridge").style.top="";
+    document.querySelector("#live-stream").style.top="";
+    document.querySelector("#header").style.height="";
 
     drawCanvas();
 
@@ -1117,8 +1262,6 @@
   function clear(){
     context.clearRect(0, 0, screenWidth, screenHeight);
   }
-
-
 
   function drawCanvas () {
 
@@ -1154,8 +1297,6 @@
     context.restore();
   }
 
-
-
   function showSlides() {
   let i;
   let slides = document.getElementsByClassName("carousel-block");
@@ -1173,6 +1314,26 @@
   numberSlide[slideIndex-1].style.display = "block";
   setTimeout(showSlides, 6000); // Change image every 6 seconds
 }
+
+const popupOverlay = document.querySelector(".popup-overlay");
+const popup = document.querySelector(".video-popup iframe");
+
+const videoButton = document.querySelectorAll(".video-button");
+
+videoButton.forEach((link) => {
+  link.addEventListener("click", () => {
+    popupOverlay.classList.add("active");
+    let videoLink = `https://www.youtube.com/embed/${link.dataset.link}?controls=0&rel=0`;
+    popup.src = videoLink;
+    document.querySelector(".ytp-expand-pause-overlay .ytp-pause-overlay").style.display="none";
+  });
+});
+
+popupOverlay.addEventListener("click", () => {
+  popupOverlay.classList.remove("active");
+  let videoLink = `https://www.youtube.com/embed/`;
+  popup.src = videoLink;
+});
  
 </script>
 {% endblock %}
