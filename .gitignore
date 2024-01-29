@@ -7,6 +7,7 @@ __pycache__/
 
 custom_theme/includes/*.html
 
+.bak*
 docs/previous-years
 docs/2023-24/year-1/t3
 docs/2023-24/research-trip
