@@ -1,7 +1,7 @@
 ---
 title: Digital Prototyping For Design
 page_type: course
-track: Application
+track: Instrumentation
 course_type: Workshop
 feature_img: /assets/images/2023-24/year-1/t-2/digital_prototyping_for_design.jpg
 img_caption: MDEF Design Interventions (Josefina Nano), Barcelona
