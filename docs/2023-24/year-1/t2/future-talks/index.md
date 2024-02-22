@@ -10,6 +10,9 @@ faculty:
     - laura-benitez
     - jana-tothill
     - roger-guilemany
+    - bani-brusadin
+    - ce-quimera
+    - mario-santamaria
 ects: 2
 ---
 
