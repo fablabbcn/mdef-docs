@@ -292,7 +292,6 @@ plugins:
   - open-in-new-tab
   - exclude:
       glob:
-      - previous_years/*
       - 2023-24/year-1/t3/*
       - 2023-24/research-trip/*
 
