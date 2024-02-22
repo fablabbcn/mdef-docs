@@ -12,6 +12,7 @@ faculty:
     - pau-artigas
     - audrey-belliot
     - sally-bourdon
+    - bani-brusadin
     - milena-calvo
     - albert-canigueral
     - andres-colmenares
@@ -33,6 +34,7 @@ faculty:
     - gabriele-jureviciute
     - mikel-llobera
     - lucas-pena
+    - ce-quimera
     - angella-mackey
     - mathilde-marengo
     - josep-marti
@@ -45,6 +47,7 @@ faculty:
     # - merce-rua
     # - pitro-rustici
     - ramon-sanguesa
+    - mario-santamaria
     - nico-schouten
     - adai-surinach
     - oscar-tomico
