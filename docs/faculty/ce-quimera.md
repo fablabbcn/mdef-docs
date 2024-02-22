@@ -6,9 +6,9 @@ socials:
     email:
     website: 
     linkedin: https://www.linkedin.com/in/ce-quimera-038137217
-    twitter: quimerarosa
+    twitter: https://twitter.com/quimerarosa
     facebook:
-    instagram: quimerarosa
+    instagram: https://www.instagram.com/quimerarosa
     github:
 ---
 Artist and researcher, born in Argentina and resident in Europe since 2000, living between Barcelona and Bourges. She studied Social Anthropology in Buenos Aires, while doing internships in performing arts and in 2008, together with Kina Madno, she created the lab, Quimera Rosa. From this point on she focused her corporal and investigative work on post-identity gender policies and corporal, identity and technoscience experimentations from a trans*feminist perspective.
