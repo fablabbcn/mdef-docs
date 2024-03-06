@@ -1,23 +1,19 @@
-Structure of 2022-23
-========
-
-# Design Ethics
-### From Alternative Presents to Emerging Futures
-
-## Track
-Refelction
-
-## Faculty
-Ariel Guersensvaig
-
-Laura Benítez Valero - she_her_they_them
-
+---
+title: Design Ethics
+page_type: reflection
+track: Application
+course_type: Short Course
+feature_img: 
+img_caption: 
+faculty: 
+    - ariel-guersensvaig
+    - laura-benitez
+ects:
+---
 
 ## Syllabus
 
 In these three sessions, we will tackle an introduction to the philosophy of technology and the central theme of our relationship with technology will be explored: are we determined by technology or do we determine it? And if that is the case, how? And to what extent? Or is this perhaps a false dichotomy and should the issue be explored in a radically different way? We will deal with current topics in ethics related to technology and design.
-​​
-## Learning Objectives
 
 •	To understand the nature of technology and its relationship with humans.
 
@@ -29,65 +25,7 @@ In these three sessions, we will tackle an introduction to the philosophy of tec
 
 •	Get a sense of doing ethics beyond arm-chair ethics.
 
-
-## Total Duration
-6 class hours
-
-## Structure and Phases
-
-**Day 1:**
-·   	Technology and “us”
-
-·   	Technology and values
-
-·   	The normative power of artefacts
-
-·   	Perspectives on technological intentionality
-
-·   	Exercise: ethical-constructive technology assessment
-
-**Day 2:**
-·     Ethical frameworks and their integration into design
-
-·    	Design, justice and just design
-
-·     Professional ethics and design as a practice
-
-·   	Designers as professionals
-
-·   	Design as self-enactment
-
-·   	Wrap-up exercise: VSD cards.
-
-
-## Use of the Master Infrastructure
-Regular presential class
-
-
-## Materials Needs
-None
-
-## Deliverables / Outputs
-No special deliverables expected.
-
-## Grading Method
-
-**Participation**: 50%
-
-**Self-assessment**: 50%
-
-## IAAC Grading System:
-
-• 0 - 4.9 Fail (submission of a supplementary work by May)
-
-• 5.0 -6.9 Pass
-
-• 7.0 - 8.9 Good
-
-• 9.0 - 10 Excellent/Distinction.
-
-
-## Bibliography and Background Research Material
+## Additional Resources
 
 Barad, K (2013). What is the measure of nothingness? Infinity, Virtuality, Justice. Nº099. Documenta (13).
 https://deeptimechicago.org/wp-content/uploads/2016/10/barad-k-what-is-the-measure-of-nothingness.pdf
@@ -121,16 +59,6 @@ Vallor, Shannon. Technology and the Virtues: A Philosophical Guide to a Future W
 
 Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Morality of Things. Chicago: The University of Chicago Press, 2011.
 
+## Faculty
 
-
-## Ariel Guersensvaig
-
-![](../../../assets/images/faculty_photos/ariel_guersensvaig.jpg)
-
-Ariel Guersenzvaig is a lecturer at ELISAVA School of Design and Engineering of Barcelona (Spain). He combines his academic work with 20+ years of professional experience in the field of user experience and service design. He is the author of an upcoming book on design professional ethics (Rowman & Littlefield, April 2021). Besides professional ethics and design theory, another important locus of research is the ethical impact of machine intelligence on society, with a focus on autonomous weapons and algorithmic justice. He has published in academic journals such as ACM Interactions, SDN Touchpoints, AI & Society, Journal of Design Research, and IEEE Technology and Society Magazine. He holds a PhD in Design Theory from the University of Southampton (UK), an MA in Ethics from the University of Birmingham (UK).
-
-Email Address: ariel@interacciones
-
-Twitter @interacciones
-
-Linkedin https://www.linkedin.com/in/arielguers/
+{{ insert_faculty() }}

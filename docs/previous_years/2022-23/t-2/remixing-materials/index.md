@@ -1,16 +1,21 @@
-Structure of 2022-23
-======================
-# Remixing Materials
+---
+title: Remixing Materials
+page_type: reflection
+track: Application
+course_type: Short Course
+feature_img: /assets/images/2022-23/t-2/remixing_materials.jpg
+img_caption: 
+faculty: 
+    - lara-campos
+    - laura-freixas
+    - petra-garajova
+    - eduardo-chamorro
+ects:
+---
 
-![](images/remixing_materials.jpg)
+{{ insert_banner() }}
 
-## Track
-Application
-
-## Faculty
-Lara Campos, Laura Freixas, Petra Garajova and Eduardo Chamorro Martin
-
-## Syllabus
+## Syllabus 
 
 This course will introduce students to the world of bio-based materials and upcycling, with a focus on hands-on exploration and prototyping. Students will learn about the principles of biomaterials, including how to grow and manipulate them, and will have the opportunity to prototype their own projects using a range of techniques such as composites, modeling and casting, and 3D printing.
 
@@ -18,39 +23,7 @@ For many years designers thought of materials as something to choose from a cata
 
 The course will also include a section on remixing in context, where students will learn how to connect their material choices and upcycling projects with the local socio-economic context.
 
-## When  
-Wednesday 18th to Friday 17th of February 23'
-
-## Schedule
-
-![](images/remixing_materials.png)
-
-
-### CRAFRING MATERIALS
-
-**Jan 18th.** INTRO BIOMATERIALS, Lara Campos. Location: IAAC. Guided (10:00 to 13:00), Autonomous (13:00 to 14:00)
-
-**Jan 19th.** REMIX IN CONTEXT, Laura Freixes. Location: Elisava. Guided (10:00 to 13:00), Autonomous (13:00 to 14:00)
-
-**Jan 20th.** GROWING MATERIALS, Jessica Dias. Location: S-biotic. Guided (10:00 to 13:00), Autonomous (13:00 to 14:00)
-
-### SHAPING MATERIALS
-
-**Jan 25th.** PROTOTYPING (Composites) , Lara Campos. Location: IAAC. Guided (10:00 to 12:00)
-
-**Jan 25th.** PROTOTYPING (Modling and casting), Petra & Edu. Location: IAAC. Guided (12:00 to 14:00)
-
-**Jan 26th.** PROTOTYPING (3D printing) , Petra & Edu. Location: IAAC. Guided (10:00 to 13:00), Autonomous (13:00 to 14:00)
-
-**Jan 27th.** REMIX IN CONTEXT (Final presentations), Laura Freixes. Location: IAAC. Guided (12:00 to 14:00)
-
-### MIRCOCHALLENGES
-
-**Feb 14th.**  Lara Campos . Location: IAAC. Mentor session (13:00 to 14:00)
-
-**Feb 17th.**  Lara Campos . Location: IAAC. Final presentation (16:00 to 17:00)
-
-## Deliverables / Outputs
+## Deliverables
 
 - Develop an understanding of the principles of biomaterials and the potential for using waste materials in upcycling projects.
 
@@ -62,9 +35,12 @@ Wednesday 18th to Friday 17th of February 23'
 
 - Create and present a final project that demonstrates the use of bio-based materials and upcycling techniques.
 
-
-## Link
+## Additional Resources
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8" style="width:100%; height:100%; border:0;"></iframe>
 
 [Open Drive folder](https://drive.google.com/drive/folders/1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8){ .md-button .md-button--primary }
+
+## Faculty
+
+{{ insert_faculty() }}

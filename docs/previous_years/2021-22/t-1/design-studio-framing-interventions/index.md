@@ -1,16 +1,17 @@
 ---
-title: Design Studio
+title: Design Studio 
 page_type: reflection
 track: Application
 course_type: Short Course
-feature_img: 
+feature_img: /assets/images/2021-22/t-1/deisgn_studio_1.png
 img_caption: 
 faculty: 
-    - olga-trevisan
-    - sally-bourdon
-ects:
+    - oscar-tomico
+    - mariana-quintero
+    - tomas-diez
+    - jonathan-minchin
+    - tomas-vivanco
 ---
-
 
 ## Syllabus
 
@@ -22,33 +23,22 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 **TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
 
-The third term Design Studio aims to refine the work developed by the students during the first two terms of the Master program. After finding and engaging with communities of practice in the second term through a number of initial interventions, students will be encouraged to grow and consolidate those relationships and take a step further. They will design and deploy one last intervention that can serve as closure for their journey in the Master program. At the same time it will act as a launching pad for establishing the alternative presents where they will continue shaping their envisioned emergent futures after the end of the programme.
+The first term Design Studio aims to create a solid ground for the students to start developing their projects. Weekly activities will be set to interlink results from the courses like their mappings, cartographies, experiments, 1st person design activities, prototypes, with their personal development plan. In order to propose an area of intervention at the end of the trimester. The Design Studio activities will consist of presentations, group activities, short exercises and personal coaching. The specific goals are the following:
 
 ## Deliverables
 
-**_10 High-resolution photos of the journey of your project and final interventions_**
+To develop a critical position in the student’s design practice.
+Define possible areas of intervention, based on the Atlas of the Week Signals.
+Prototype an alpha version of the design space and iterate.
+To build personal and collective repositories of resources.
 
-**_Master Thesis - Chapters 0-11, adding this Term the following chapters:_**
 
-**Chapter 8**: Final Interventions: Descriptions and results
-
-**Chapter 9**: Final Alternative Present
-
-**Chapter 10**: Designing yourself out: Strategies for Continuity and Scalability
-
-**Chapter 11**: Final Reflection
-
-**Reference Sources / Bibliography**
-
-**_(2-5) min Video_**
-
-Selected physical exhibition material for **IAAC and Elisava**- Poster + physical prototypes to be displayed for a few days (TBC with Chiara)
-
-## Additional Resources
+## Addtional Resources
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e#list" style="width:100%; height:100%; border:0;"></iframe>
 
 [Open Drive folder](https://drive.google.com/drive/folders/1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e){ .md-button .md-button--primary }
+
 
 ## Faculty
 
