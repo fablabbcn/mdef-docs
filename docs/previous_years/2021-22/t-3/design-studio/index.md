@@ -1,12 +1,15 @@
-Structure of 2021-22
-======================
-
-# Design Studio
-
-
-
-## Faculty
-Tomas Diez, Oscar Tomico and Mariana Quintero      
+---
+title: Design Studio
+page_type: reflection
+track: Reflection
+course_type: Short Course
+feature_img: 
+img_caption: 
+faculty: 
+    - tomas-diez
+    - mariana-quintero
+    - oscar-tomico
+---
 
 ## Syllabus
 
@@ -26,101 +29,8 @@ The Design Studio time will be dedicated to supporting the students to adapt the
 
 At the end of this trimester we expect you to update who you are and what makes you unique (identity) and your personal “vision” of your future as a professional. Create a specific post on your website.  
 
+## Additional Resrouces
 
-## Total Duration
-
-Weekly studio days will be every Tuesday from 14:30hrs to 17:30hrs.
-
-## Structure and Phases
-
-### __Apr 16 - Kick off - My new me
-**Activities**: Reflect on how the new normal is shaping you personally. Explore and document a day in your life with notes, photos, videos, self-interviews…
-
-**Deliverable**: One post with some visuals (photo, video, graphics, moodboard,…). A short reflection in a 2-3 minute video, following the “youtuber” model..
-
-### __Apr 21 - Mapping my domestic experimental laboratory
-**Activities**: Accept and reflect on how the new normal is shaping you as a professional. Rethinking your new hyper-local and hyper-connected design space.
-
-**Goals**: Being resilient and resourceful as a professional.
-
-**Deliverable**: One post with a new design space including what infrastructure, people, things and materials became available either physical or virtual in this new normal.
-
-###__Apr 28 - Experimenting with my project in emergent contexts
-**Activities**: Looking for new meaningful actions, being resilient and resourceful.
-
-**Goals**: Piloting a new intervention with yourself or close connections.
-
-**Deliverable**: one post documenting your design actions with new normal design space and resources. Plan for your design intervention (after piloting yourself).
-
-###__May 5 - Collaborating with others for my project in new spaces
-**Activities**: Relating 1st, 2nd and 3rd person perspectives in a hyper-local and hyper-connected context.
-
-**Goals**: Create a new intervention in this new normal.
-
-**Deliverable**: one post with documenting your design intervention. A distributed, online collective design action.
-
-###__May 12 - Creating your own biography and constituency
-**Activities**: From a post-human design perspective explore your evolution (you and your context) from before and during the master.
-
-**Goals**: Understand who you are and what you are capable of.
-
-**Deliverable**: one post with visualizing own biography and constituency. Include a short reflection for each one.
-
-###__May 19 - Reflecting about new weak signals in your future scenario
-**Activities**: Any transformation needs to occur now already taking into account the future new normal scenario you want to achieve not the given one.
-
-**Goals**: Reflection on two previous experiments and analyze the opportunities for reframing the future new normal that you want to achieve.
-
-**Deliverable**: one post with new weak signals describing how the present opportunities for your project you haven’t explored before shape your future new normal. scenario
-
-###__May 26 - Emerging Narratives
-**Activities**: Outlining a clear vision for your project. Defining clear intentions and developing a clear identity.
-
-**Goals**: Distilling the mission and vision of your project.
-
-**Deliverable**: A communication strategy for your project.
-
-###__June 2 - Looking forward
-**Activities**: From Hyper-Local to Hyper-Global - Outlining strategies to reach interconnected global scales.
-
-**Goals**: Reflection on the scalability of the project to other contexts.
-
-**Deliverable**: A professional development plan for after this year of the master.
-
-###__June 9 - Closing the Loop
-**Activities**: Draft set up for the “exhibition/book/event”.
-
-**Goals**: Prepare and define the Design Dialogues final presentation.
-
-
-## Output
-
-**Deliverables**
-
-Document (2-4 pages per chapter, 7 chapters)
-
-Set of 5 photos to communicate the project (high / print quality)
-
-Video (2-3 mins max)
-
-Prototype / Platform / etc.
-
-Presentation
-
-## Grading Method
-Academic level of the final document (framing of the opportunity, state of the art, literature review, …) (20%)
-
-Level of clarity and detail of the communication material (photos, video, exhibition set-up, book) (20%)
-
-Quality and resourcefulness of the designed prototype/platform/ etc (20%
-  )
-Social value of the interventions based on the analysis of the results (20%)
-
-Depth in the personal reflection and main learning points (10%)
-
-Motivation level, proactive behaviors & attendance (10%)
-
-## Bibliography
 Speculative Everything - Anthony Dunne and Fiona Raby
 
 Adversarial Design - Carl DiSalvo
@@ -154,3 +64,8 @@ Free Innovation - Eric Von Hippel
 Limits to Growths - Donella H. Meadows
 
 The Human Face of Big Data - Rick Smolan
+
+
+## Faculty
+
+{{ insert_faculty() }}

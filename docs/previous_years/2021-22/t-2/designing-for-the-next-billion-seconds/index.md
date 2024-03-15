@@ -1,14 +1,13 @@
-Structure of 2021-22
-======================
-
-# Designing The Next Billion Seconds
-
-
-## Track
- Reflection
-
-## Faculty
-Andres Colmenares
+---
+title: Designing The Next Billion Seconds
+page_type: reflection
+track: Application
+course_type: Short Course
+feature_img: 
+img_caption: 
+faculty: 
+    - andreas-colmenares
+---
 
 ## Syllabus
 
@@ -16,44 +15,16 @@ Following a collective learning-by-doing approach, the students will explore, di
 
 Using [The Everything Manifesto](https://www.iam-internet.com/everything) as a meta-brief, participants will have the opportunity to learn how to use hypothetical questions to develop useful fiction stories about how everyday life can change in the next billion seconds, following methodologies where they can practice collective ideation, decision making, and other collaborative approaches.
 
-
-
-## When  
-From 11th to 14th of January
-
-## Schedule
-
-The course will follow a week-long studio format, divided into 4 sessions. Students will organize as one collective around a creative challenge and organize in interdependent smaller teams:
-
-**Session I**: Introduction to the post-technological futures of Everything
-Group discussion + Creative challenge briefing
-
-**Session II**: Futures in Plural
-Workshop on Collective ideation/decision-making
-
-**Session III**: Futures as Tools
-Workshop on visual storytelling and proto–videos
-
-**Session IV**: Futures = Narratives
-Showcase + collective reflection
-
-
-##Output
+## Deliverables
 Digital posters + Proto–videos.
 
-## Grading Method
-Participation in the Activities of the Week 50%
-Final Reflection + Multiscalar Design Space 50%
-
-## Link
+## Other Resources
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
 
 [Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
 
-
-
-## Bibliography and Background Research Material
+Bibliography and Background Research Material
 
 [The Everything Manifesto](https://www.iam-internet.com/everything)
 
@@ -83,11 +54,6 @@ Final Reflection + Multiscalar Design Space 50%
 
 [‘Goodbye Uncanny Valley’ ](https://alanwarburton.co.uk/goodbye-uncanny-valley)  by Alan Warburton
 
+## Faculty
 
-## Andrés Colmenares
-
-![](/assets/images/faculty_photos/andres_colmenares.jpg)
-
-Andres Colmenares is the co-founder of [IAM](https://www.iam-internet.com/), creative research lab that helps responsible citizens and organisations make better decisions by using futures as tools to anticipate challenges and opportunities, while exploring the socio-ecological impacts of digital technologies and the internet(s) through collective learning initiatives, partnerships and commissioned projects. He is also co-director of [IAM Weekend](https://www.iam-internet.com/weekend), the annual gathering to collectively rethink the futures of the internet(s) and [The Billion Seconds Institute](https://www.iam-internet.com/billion/).
-
-Andres has designed alternative learning experiences, tools and programs with organisations such as Mobile World Capital Foundation, Red Bull and BBC. He has been invited as guest lecturers at institutions such as University of Arts London, Institute for Advanced Architecture of Catalonia, Merz Akademie and ELISAVA School of Design & Engineering of Barcelona.
+{{ insert_faculty() }}

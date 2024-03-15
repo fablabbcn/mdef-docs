@@ -1,18 +1,19 @@
-Structure of 2021-22
-======================
-
-# Design Studio 2
-
-![](images/design_studio_2_1.jpg)
-![](images/design_studio_2_2.jpg)
-
-### Embodying Emergent Contexts
-
-## Track
-Application
-
-## Faculty
-Oscar Tomico, Mariana Quintero, Tomas Diez, Jonathan Minchin, Kate Armstrong, Tomas Vivanco, Guillem Camprodon
+---
+title: Communication, Branding and Purpose
+page_type: reflection
+track: Application
+course_type: Short Course
+feature_img: /assets/images/2021-22/t-2/design_studio_2_1.jpg 12-50-38-702.jpg
+img_caption: 
+faculty: 
+    - oscar-tomico
+    - mariana-quintero
+    - tomas-diez
+    - jonathan-minchin
+    - kate-armstrong
+    - tomas-vivanco
+    - guillem-camprodon
+---
 
 ## Syllabus
 
@@ -26,12 +27,7 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 The second term Design Studio aims to refine the work developed by students during the first term of the Master's program. After identifying areas of interest from weak signals in the first term, and creating their design space and first interventions, students will be encouraged to take a further step into their projects, focusing on finding and growing their communities of practice and developing interventions in the real world (digital or physical).
 
-## When  
-**Tuesdays** from 2 to 7 pm, every two weeks
-
-## Schedule
-
-### Tuesday 11/01 - 2:00 to 7 pm CET - Kick-off - Reframing by reflecting on your project so far
+## Deliverables
 
 **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals, and next steps.
 
@@ -86,7 +82,6 @@ The second term Design Studio aims to refine the work developed by students duri
 **Deliverable 2**: Update your design space with the relations you have built.
 
 
-
 ### Tuesday 08/03 - 2:00 to 7 pm CET - Biographies and constituencies. Ways of drifting in post-human design. (Ron Wakkary)
 
 **Goals**: Understand the agency of the context you are working in. Let the human and non-human actors be a driving force in your project.
@@ -127,3 +122,7 @@ Thesis Draft - Chapters 4-6 are made up of the weekly deliverables for this term
 **Chapter 5**: TERM II Interventions - a. Document here each of the interventions and experiments you deployed this term. b. Document the evolution of your Design Space throughout these interventions. c. Reflect on the Alternative Present that you are creating with your project.
 
 **Chapter 6**: Updated Vision and Identity (Future Talks Reflection) - Include here a revised version of your Vision and Identity chapter from Term I, commenting on the key inspirations and learnings you take from the guests we invited for the Future Talks
+
+## Faculty
+
+{{ insert_faculty() }}

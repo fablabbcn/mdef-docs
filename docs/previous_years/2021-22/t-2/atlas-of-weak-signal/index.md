@@ -1,14 +1,13 @@
-Structure of 2021-22
-======================
-
-# Term 2 Atlas of Weak Signals
-
-
-## Track
- Reflection
-
-## Faculty
-Jose Luis de Vicente
+---
+title: Atlas of Weak Signal
+page_type: reflection
+track: Application
+course_type: Short Course
+feature_img: 
+img_caption: 
+faculty: 
+    - jose-devicente
+---
 
 ## Syllabus
 
@@ -20,15 +19,9 @@ As a transversal and ongoing project of the Masters in Design for Emergent Futur
 
 From these vectors, this seminar presents stories, narratives, proposals and images that allow the construction of an Atlas of Weak Signs for the design of Futures.
 
+## Faculty
 
-
-## When  
- Thursday 24th & Monday 28th of February and Monday 7th & 14th of March, from 12 to 1:30pm
-
-
-## Link
-
-
+{{ insert_faculty() }}
 
 ## Jose Luis de Vicente
 

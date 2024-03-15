@@ -1,14 +1,13 @@
-Structure of 2021-22
-======================
-
-# Design Ethics
-
-
-## Track
-Reflection
-
-## Faculty
-Ariel Guersenszvaig
+---
+title: Design Ethics
+page_type: reflection
+track: Reflection
+course_type: Short Course
+feature_img: 
+img_caption: 
+faculty: 
+    - ariel-guersenszvaig
+---
 
 ## Syllabus
 
@@ -23,61 +22,11 @@ In these three sessions we will tackle an introduction to the philosophy of tech
 
 - To gain an awareness and understanding of ethics and its entailments for the design profession
 
-## When  
-April 21, 25 and 28, from 10 am to 1 pm
+## Deliverables
 
-## Schedule
-
-3 in-person classes
-
-### Day 1
-
-- Technology and “us”
-
-- Technology and values
-
-- The normative power of artefacts
-
-- Perspectives on technological intentionality
-
-- **Exercise**: ethical-constructive technology assessment
-
-### Day 2
-
-- Ethical frameworks and their integration into design
-
--  Beyond the trolley problem
-
- - Case: ethical issues in IA
-
- - Case: autonomous weapons
-
-- **Exercise**: value-sensitive design taster and Mepham’s matrix of one’s work
-
-### Day 3
-
-- Professional ethics
-
-- Design as a practice
-
-- Designers as professionals
-
-- Design as self-enactment
-
-- **Exercise**: Wrap-up
-
-##Output
 2-3 page report containing an ethical assessment of one’s own course project based on the exercises performed during class + readings + contents of the lectures. The assessment should be reflective (not merely descriptive) and it should contain a discussion of themes in the project or of aspects thereof that merit ethical reflection. While not mandatory, it is recommended that it also included next steps or courses of action that can be taken to remediate ethical issues creating risks and harms.
 
-Submission deadline: May 30 2022
-
-## Grading Method
-Assignment: 70%
-
-Participation: 30%
-
-
-## Bibliography and Background Research Material
+## Additional Resources
 
 Casacuberta, D., y Guersenzvaig, A. (2019). Using Dreyfus’ legacy to understand justice in algorithm-based processes. AI & Society, 34(2), 313-319.
 
@@ -97,14 +46,6 @@ Vallor, Shannon. Technology and the Virtues: A Philosophical Guide to a Future W
 
 Verbeek, Peter-Paul. Moralizing Technology: Understanding and Designing the Morality of Things. Chicago: The University of Chicago Press, 2011.
 
-## Ariel Guersensvaig
+## Faculty
 
-![](../../../../assets/images/faculty_photos/ariel_guersensvaig.jpg)
-
-Ariel Guersenzvaig is a lecturer at ELISAVA School of Design and Engineering of Barcelona (Spain). He combines his academic work with 20+ years of professional experience in the field of user experience and service design. He is the author of an upcoming book on design professional ethics (Rowman & Littlefield, April 2021). Besides professional ethics and design theory, another important locus of research is the ethical impact of machine intelligence on society, with a focus on autonomous weapons and algorithmic justice. He has published in academic journals such as ACM Interactions, SDN Touchpoints, AI & Society, Journal of Design Research, and IEEE Technology and Society Magazine. He holds a PhD in Design Theory from the University of Southampton (UK), an MA in Ethics from the University of Birmingham (UK).
-
-Email Address: ariel@interacciones
-
-Twitter @interacciones
-
-Linkedin https://www.linkedin.com/in/arielguers/
+{{ insert_faculty() }}

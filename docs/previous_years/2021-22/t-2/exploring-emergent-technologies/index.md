@@ -1,14 +1,18 @@
-Structure of 2021-22
-======================
-
-# Exploring Emergent Technologies
-
-
-## Track
-Exploration
-
-## Faculty
-Guillem Camprodon, Anastasia pistofidou, Lara Campos, Laura Freixas, Óscar González, Victor Barberán
+---
+title: Exploring Emergent Technologies
+page_type: reflection
+track: Exploration
+course_type: Short Course
+feature_img: /assets/images/2021-22/t-2/design_studio_2_1.jpg 12-50-38-702.jpg
+img_caption: 
+faculty: 
+    - guillem-camprodon
+    - anastasia-pistofidou
+    - lara-campos
+    - laura-freixas
+    - oscar-gonzalez
+    - victor-barberan
+---
 
 ## Syllabus
 
@@ -29,6 +33,9 @@ We will take a hands-on approach to materials, with a specific focus on upcyclin
 
 More than a space for collective exploration, the Internet became a magnified lens of existing systems of power. In the last term, in the Extended Intelligences seminar, we looked at the applications and implications of AI, this time we will unfold technologies and key concepts that could allow users to retake collective control of nowadays digital platforms.  
 
+## Faculty
+
+{{ insert_faculty() }}
 
 ## Lara Campos - Remixing Materials
 

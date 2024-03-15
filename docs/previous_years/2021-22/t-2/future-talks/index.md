@@ -1,14 +1,16 @@
-Structure of 2021-22
-======================
+---
+title: Tech Beyond the Myth
+page_type: reflection
+track: Reflections
+course_type: Short Course
+feature_img: /assets/images/2021-22/t-2/mdef_academy_1.JPG
+img_caption: 
+faculty: 
+    - guests
+---
 
-# Future Talks
+## Syllabus
 
-
-## Track
- Reflection
-
-## Faculty
-Guests
 
 ## Syllabus
 
@@ -20,11 +22,6 @@ In MDEF we believe that learning should be driven by your motivations and not by
 
 In this series of talks, the critical reflection will help you to map your strengths and weaknesses in relation to the approach to design that the master is proposing. A series of presentations and visits to key professionals will make you aware of how your thinking, making, interests, and values differ from others.
 
-
-## When  
- Mondays, time TBD.
-
-## Talks:
 
 **Monday 10/01** > Audrey Desjardines - Autobiographical Design - Approaching failure
 http://audreydesjardins.com/
@@ -39,6 +36,11 @@ https://es.linkedin.com/in/sergio-urue%C3%B1a-l%C3%B3pez-aa5a8944
 https://www.does-work.com
 Visit Hospitalet creative district.
 
+## Deliverables
 
-##Output
 At the end of this trimester we expect you to update who you are and what makes you unique (identity) and your personal “vision” of your future as a professional. Create a specific post on your website.
+
+
+## Faculty
+
+{{ insert_faculty() }}
