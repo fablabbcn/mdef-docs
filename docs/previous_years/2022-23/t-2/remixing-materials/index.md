@@ -1,6 +1,6 @@
 ---
 title: Remixing Materials
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2022-23/t-2/remixing_materials.jpg

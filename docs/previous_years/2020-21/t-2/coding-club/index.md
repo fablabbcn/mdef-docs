@@ -1,6 +1,6 @@
 ---
 title: Club - Code+Make+Grow
-page_type: reflection
+page_type: course
 track: Instrumentation
 course_type: Short Course
 feature_img: 

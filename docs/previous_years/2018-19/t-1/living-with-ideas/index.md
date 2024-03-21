@@ -1,6 +1,6 @@
 ---
 title:  Living with Ideas
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2018-19/t-1/image!.jpg

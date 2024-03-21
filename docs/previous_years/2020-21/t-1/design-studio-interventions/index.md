@@ -1,6 +1,6 @@
 ---
 title: Design Studio
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2020-21/t-1/bio&agri_2.png

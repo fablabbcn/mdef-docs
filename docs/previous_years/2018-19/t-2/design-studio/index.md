@@ -1,6 +1,6 @@
 ---
 title: Design Studio
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2018-19/t-2/design_studio_2_1.jpg

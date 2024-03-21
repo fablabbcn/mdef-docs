@@ -1,6 +1,6 @@
 ---
 title: Design for the Real Digital World
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: 

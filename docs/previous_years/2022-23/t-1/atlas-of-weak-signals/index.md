@@ -1,6 +1,6 @@
 ---
 title: Weak Signals in the Wild
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2022-23/t-1/atlas_of_weak_signal_2.png

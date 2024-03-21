@@ -1,6 +1,6 @@
 ---
 title: Design for the New
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2019-20/t-3/image_1.png

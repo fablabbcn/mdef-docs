@@ -1,6 +1,6 @@
 ---
 title: Extended Intelligences
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2020-21/t-1/extended_intelligences_4.png

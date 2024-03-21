@@ -1,6 +1,6 @@
 ---
 title: Exploring Emergent Technologies
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2021-22/t-2/design_studio_2_1.jpg 12-50-38-702.jpg

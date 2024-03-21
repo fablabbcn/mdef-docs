@@ -1,6 +1,6 @@
 ---
 title: Making Sense and Meaning
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2021-22/t-2/making_sense_and_meaning.jpg

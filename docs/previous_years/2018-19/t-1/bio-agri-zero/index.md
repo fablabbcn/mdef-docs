@@ -1,6 +1,6 @@
 ---
 title: Biology Zero
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2018-19/t-1/bio&agri_1.png

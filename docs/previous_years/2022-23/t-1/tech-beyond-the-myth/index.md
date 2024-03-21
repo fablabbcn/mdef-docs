@@ -1,6 +1,6 @@
 ---
 title: Tech Beyond the Myth
-page_type: reflection
+page_type: course
 track: Instrumentation
 course_type: Short Course
 feature_img: /assets/images/2022-23/t-1/tec_beyond_1.png

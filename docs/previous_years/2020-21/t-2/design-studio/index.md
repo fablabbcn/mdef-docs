@@ -1,6 +1,6 @@
 ---
 title: Club - Code+Make+Grow
-page_type: reflection
+page_type: course
 track: Instrumentation
 course_type: Short Course
 feature_img: /assets/images/2020-21/t-2/design_studio_2_1.jpg

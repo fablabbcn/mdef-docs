@@ -1,6 +1,6 @@
 ---
 title: The Post-Technological Futures of Everything
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: 

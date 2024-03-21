@@ -1,6 +1,6 @@
 ---
 title: Design Studio Embodying Emergent Contexts
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2022-23/t-2/design_studio_2.png

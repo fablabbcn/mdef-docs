@@ -1,6 +1,6 @@
 ---
 title: Extended Intelligence
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: assets/images/2022-23/t-1/bootcamp_1.png

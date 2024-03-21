@@ -1,6 +1,6 @@
 ---
 title: Exploring Hybrid Profiles in Design
-page_type: reflection
+page_type: course
 track: Reflection
 course_type: Short Course
 feature_img: 

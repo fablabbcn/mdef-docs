@@ -1,6 +1,6 @@
 ---
 title: Tech Beyond the Myth
-page_type: reflection
+page_type: course
 track: Reflections
 course_type: Short Course
 feature_img: /assets/images/2021-22/t-2/mdef_academy_1.JPG

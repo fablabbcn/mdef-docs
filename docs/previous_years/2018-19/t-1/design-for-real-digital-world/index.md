@@ -1,6 +1,6 @@
 ---
 title:  Design For Real Digital World
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2018-19/t-1/extended_intelligences_1.png

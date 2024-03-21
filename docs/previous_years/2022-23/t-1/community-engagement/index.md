@@ -1,6 +1,6 @@
 ---
 title: Community Engagement
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: /assets/images/2022-23/t-1/community_engagment_1.png

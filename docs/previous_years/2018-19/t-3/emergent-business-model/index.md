@@ -1,6 +1,6 @@
 ---
 title: Emergent Business Models
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2018-19/t-3/image_2.jfif

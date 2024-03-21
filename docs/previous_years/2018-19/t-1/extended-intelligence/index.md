@@ -1,6 +1,6 @@
 ---
 title:  Extended Inteligence
-page_type: reflection
+page_type: course
 track: Exploration
 course_type: Short Course
 feature_img: 

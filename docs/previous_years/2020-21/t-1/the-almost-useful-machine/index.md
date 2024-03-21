@@ -1,6 +1,6 @@
 ---
 title: Designing Post-Technological Futures for Everything
-page_type: reflection
+page_type: course
 track: Reflection
 course_type: Short Course
 feature_img: assets/images/2020-21/t-1/tec_beyond_1.png
