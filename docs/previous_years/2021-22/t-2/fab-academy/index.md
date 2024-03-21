@@ -1,6 +1,6 @@
 ---
 title: Tech Beyond the Myth
-page_type: reflection
+page_type: course
 track: Application
 course_type: Short Course
 feature_img: /assets/images/2021-22/t-2/mdef_academy_1.JPG
@@ -37,10 +37,4 @@ Eduardo holds a Master's Degree in Architecture from CEU San Pablo University (S
 
 Moreover, he has worked as Fab Lab Seoul director, researcher at several architecture studios, professor of computational design and fabrication at CEU University and advisor for various architecture collectives. He is also a regular collaborator at Fab Lab Madrid. He is always seeking innovative architecture that attempts to solve and adapt to social needs. He has also been a tutor for the Master of Science in Computational and Advanced Design (MSc CAD) at Design Morphine - UACEG (University of Architecture, Civil Engineering and Geodesy).
 
-
-## Víctor Barberán Soler
-
-![](/assets/images/faculty_photos/victor_barberan_soler.jpg)
-
-Víctor Barberán is an Industrial Designer with more than 20 years of experience developing custom technology for multidisciplinary art and science projects. Throughout his career, Victor Barberán has worked in electronics design, software development, data analysis, modelling and animation, and digital postproduction. Currently, Victor works as part of the Fab Lab Barcelona as a software and hardware developer in multiple research projects, such as the Smart Citizen project. He is also the Electronics lead for the Fabricademy, Fab Academy and the Masters of Design for Emergent Futures program.
 
