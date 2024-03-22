@@ -6,16 +6,11 @@ course_type: Short Course
 feature_img: 
 img_caption: 
 faculty: 
-    - taller-estampa
     - lucas-pena
     - ramon-sanguesa
 ---
 
- Taller Estampa, Lucas Lorenzo Pena, Ramon Sanguesa
-
 ## Syllabus
-
-https://docs.google.com/presentation/d/1QODc18kcKJHMR1JPomLnv8kLDw6A_v-fiLpebF2Ra9w/edit#slide=id.g125ad6570cd_0_0
 
 ### Extended Intelligences (Context workshop)
 Extended intelligences introduce the fundamental idea of intelligence further than the human brain. In this process, we will explore the autonomization of the object, the collective dimension of intelligent behavior, and the challenges that they pose in shaping today's world.

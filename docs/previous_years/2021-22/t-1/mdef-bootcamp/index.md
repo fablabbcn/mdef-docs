@@ -25,8 +25,6 @@ Do not panic: IAAC is not a correctional facility! And we will only use the best
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8){ .md-button .md-button--primary }
-
 ## Faculty
 
 {{ insert_faculty() }}

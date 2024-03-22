@@ -1,5 +1,5 @@
 ---
-title: Tech Beyond the Myth
+title: Fab Academy
 page_type: course
 track: Application
 course_type: Short Course

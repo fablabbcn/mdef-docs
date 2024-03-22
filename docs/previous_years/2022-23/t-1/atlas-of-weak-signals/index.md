@@ -28,8 +28,6 @@ High-resolution image of their first Multiscalar Design Space.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
-
  [Diez, T., Tomico, O., & Quintero, M. (2020). Exploring Weak Signals to Design and Prototype for Emergent Futures. Temes de Disseny, 36, 70–89.]( https://doi.org/10.46467/tdd36.2020.70-89)
 
 (https://www.elisava.net/en/publications/temes-de-disseny-36-design-futures-now-literacies-and-making)

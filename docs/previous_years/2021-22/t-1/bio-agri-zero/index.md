@@ -33,8 +33,6 @@ Agronomy
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1ybK18d1qinicX-tniOuJarT7J0ZYQh34" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1ybK18d1qinicX-tniOuJarT7J0ZYQh34){ .md-button .md-button--primary }
-
 Bibliography and Background Research Material
 
 (https://www.google.com/url?q=https://en.wikipedia.org/wiki/George_Church_(geneticist)&sa=D&source=editors&ust=1631873659860000&usg=AOvVaw008k0z0BmW9hnP6xicbWwh)

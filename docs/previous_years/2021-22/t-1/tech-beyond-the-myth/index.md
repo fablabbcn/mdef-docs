@@ -124,23 +124,3 @@ Designing Interactions [With CDROM], Moggridge, Bill. MIT Press (MA), 2006 (ISBN
 
 {{ insert_faculty() }}
 
-
-## Víctor Barberán Soler 
-![](../../../../assets/images/faculty_photos/victor_barberan_soler.jpg)
-
-Víctor Barberán is an Industrial Designer with more than 20 years of experience developing custom technology for multidisciplinary art and science projects. Throughout his career, Victor Barberán has worked in electronics design, software development, data analysis, modelling and animation, and digital postproduction. Currently, Victor works as part of the Fab Lab Barcelona as a software and hardware developer in multiple research projects, such as the Smart Citizen project. He is also the Electronics lead for the Fabricademy, Fab Academy and the Masters of Design for Emergent Futures program.
-
-## Eduardo Chamorro Martin
-
-![](../../../../assets/images/faculty_photos/eduardo_chamorro_martin.jpg)
-
-Eduardo Chamorro is an architectural technologist, additive manufacturing expert and researcher, focusing on digital fabrication, materials, robotics and emerging technologies.
-
-He is currently a PhD candidate at Swinburne University (Melbourne, Australia) in High performance composites additive manufacturing for architecture.
-
-Works as faculty and researcher at FabLab Barcelona & IAAC (Institute for Advanced Architecture of Catalonia) in Barcelona, Spain as faculty in the Master in Design for Emergent Futures (MDEF), Master for Advanced Architecture (MAA), Master in Advanced Ecological Buildings (MAEB), 3D Printing in Architecture (3DPA), FabAcademy at IAAC FabLab Barcelona. For him, working in a multi-scalar environment must be the priority of architects nowadays. His research focuses on the implementation of additive manufacturing technologies along different architectural scales imaging multiple processes and materialities.
-
-Eduardo holds a Master's Degree in Architecture from CEU San Pablo University (Spain), a Fab Academy diploma in Digital Fabrication offered by the Fab Lab Network and a Master's Degree in Advanced Architecture from IAAC (Spain), with a specialisation in digital fabrication, materiality novel design methodologies. He holds as well a Spanish architectural licence.
-
-Moreover, he has worked as Fab Lab Seoul director, researcher at several architecture studios, professor of computational design and fabrication at CEU University and advisor for various architecture collectives. He is also a regular collaborator at Fab Lab Madrid. He is always seeking innovative architecture that attempts to solve and adapt to social needs. He has also been a tutor for the Master of Science in Computational and Advanced Design (MSc CAD) at Design Morphine - UACEG (University of Architecture, Civil Engineering and Geodesy).
-
