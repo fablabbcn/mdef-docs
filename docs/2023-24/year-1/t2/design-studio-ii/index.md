@@ -138,7 +138,7 @@ Monday's
 
 **Deliverables for after the holidays (Submission deadline, April 1st)**
 
-- **2-5 min video-documentary** (video-journaling) of your **Term II design interventions** - the video can be presented during Design Dialogues (optional)
+- **Video-documentary (5 min max)** (video-journaling) of your **Term II design interventions** - the video can be presented during Design Dialogues (optional)
 - **5 good resolution images** of your **work during Term II** (experiments, prototypes, interventions, Design Dialogues space..)
 - **2 good resolution screenshots** of your **individual and/or collective Design Spaces**
 - **Website PDFs** (Seminar Reflections)
