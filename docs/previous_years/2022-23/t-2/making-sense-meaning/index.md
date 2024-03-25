@@ -59,8 +59,6 @@ One of the main goals of MDEF is to align students’ purpose with their skills,
 
 <iframe src="https://drive.google.com/drive/folders/14E84DXjy8oAKYZ5ZY1fYDzXV0fa0AzuY" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/14E84DXjy8oAKYZ5ZY1fYDzXV0fa0AzuY){ .md-button .md-button--primary }
-
 ## Deliverables
 
 - To read the provided articles and papers

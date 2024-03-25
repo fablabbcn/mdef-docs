@@ -31,8 +31,6 @@ At the end of this trimester we expect you to update who you are and what makes 
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e#list" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e){ .md-button .md-button--primary }
-
 
 ## Faculty
 
