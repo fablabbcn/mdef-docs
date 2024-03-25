@@ -139,7 +139,7 @@ The specific goals are the following:
 - **A 2-5 min video**
 - Complete the **[Spreadsheet with your project’s information](https://docs.google.com/spreadsheets/d/1rI9aX3fn4CTOLzUb4_Wp8pbTSM7Z0NR25g779Krv2A0/edit?usp=sharing)**
 - Selected physical exhibition material for **IAAC and Elisava exhibitions** TBC with Chiara
-- **Written document or Pictorial** for the final pubblication
+- **Written document or Pictorial** for the final publication
 
 
 ## Grading Method
