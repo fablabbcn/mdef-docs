@@ -1,13 +1,19 @@
-# Design Studio 3
-### From Alternative Presents to Emerging Futures
+---
+title: Design Studio 03
+page_type: course
+track: Application
+course_type: Course
+feature_img: /assets/images/2023-24/year-1/t-3/design-studio-03.jpeg
+img_caption: Design Dialogues, 2022, Barcelona
+faculty:
+    - guillem-camprodon
+    - laura-benitez
+    - jana-tothill
+    - roger-guilemany
+ects: 15
+---
 
-
-
-## Track
-Application
-
-## Faculty
-Olga Trevisan and Sally Bourdon
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -19,105 +25,135 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 **TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
 
-The third term Design Studio aims to refine the work developed by the students during the first two terms of the Master program. After finding and engaging with communities of practice in the second term through a number of initial interventions, students will be encouraged to grow and consolidate those relationships and take a step further. They will design and deploy one last intervention that can serve as closure for their journey in the Master program. At the same time it will act as a launching pad for establishing the alternative presents where they will continue shaping their envisioned emergent futures after the end of the programme.
+The third term Design Studio aims to refine the work developed by the students during the first two terms of the Master program. After finding and engaging with their  communities of practice in the second term through a number of initial interventions, students will be encouraged to grow and consolidate those relationships and take a step further. They will design and deploy one last intervention that can serve as closure for their journey in the Master program. At the same time it will act as a launching pad for establishing the alternative presents where they will continue shaping their envisioned emergent futures after the end of the programme.
+
+**Keywords: Design Interventions, Community of Practice, Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Alternative Presents, Emergent Futures**
+
+### Learning Objectives
+
+The specific goals are the following: 
+- Grow and consolidate the relationships with your communities of practice
+- Bring forth design activities with your communities of practice to further explore the area(s) of interest identified in Term I and II
+- Deploy one last intervention that can serve as closure for your journey in the Master program
+- Reflect on the becoming, outputs and outcomes of design activities
 
 ## Schedule
 
-### 11/04 Kick off - Framing your first Design Intervention for Term III
+=== "02/04"
 
-**Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a first design intervention for the term.
+    **Landing Kick off - Framing your first Design Intervention for Term III**
 
-**Activity**: Briefly present in class 3 of the main learning points from the 2nd trimester. Present your personal alternative present.
+     **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a first design intervention for the term.
+     
+      **Activity**: Briefly present in class 3 of the main learning points from the 2nd trimester. Present your personal alternative present. 
+      
+      **Deliverable**: A proposal for the first intervention of the term based on the alternative present created (a draft will be discussed during the design reviews the week after).
+      
+      **Task**: Start preparing and carrying out your first design intervention.
 
-**Deliverable**: A proposal for the first intervention of the term based on the alternative present created (a draft will be discussed during the design reviews the week after).
+=== "08/04"
 
-**Task**: Start preparing and carrying out your first design intervention.
+    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
+=== "17/04"
 
-### 17/04 Design Studio Reviews
+    **Positionality and More-Than-Human Design: Designing for More Than Human-Centered Worlds**
 
+     **Goals**: 
+     
+      **Activity**:  
+      
+      **Deliverable**: 
+      
+      **Task**: 
 
-### 24/4 Alternative presents to emergent futures- triggering tomorrow’s tomorrow:  MDEF Alumni Roundtable (TBC) Nicolas + Roberto + Magda + Mitalee
+=== "22/04"
 
-**Goals**: Learn from different case studies how a 1PP alternative present design research investigation can become diverse professional roles, collaborations and hybrid ongoing practices.
+    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
-**Activity**: Roundtable contrasting different perspectives and life-stories.
+=== "02/05"
 
-**Deliverable**: Update your alternative present including a description of the roles you would like to have in it.
+    **Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability**
 
-**Task**: Update your bio section in your website with an adaptation or your alternative present and your role. Continue developing your interventions.
+     **Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts.
+     
+      **Activity**: To reflect on the structural, narrative, documentation and outreach dimensions of your interventions. 
+      
+      **Deliverable**: Visualize the socio-technical system of your project (updated Design Space). Show possible paths of growth with new or existing actors.
+      
+      **Task**: Create a scalability roadmap for decentralization using the strategies presented in class.
 
-*Tip: if  you can gain access to GPT3/4, try conversing with the chat to come to an understanding of your potential alternative bio – see what arises.*
+=== "06/05"
 
+    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
+=== "13/05"
 
-### 02/05 Design Studio Reviews
+    **Alternative presents to emergent futures: Understanding your emerging profiles and roles.**
 
+     **Goals**: Learn from a guest alumni’s case study on how a 1PP alternative present design research investigation can become a hybrid professional role radically different from their previous professional practice.
+     
+      **Activity**: Presentation and Q&A, extrapolating ideas, identifying milestones, turning points, roles and strategies undertaken towards your alternative present.
+      
+      **Deliverable**: Update your alternative present including a description of the roles you would like to have in it.
+      
+      **Task**: Update your bio section in your website with an adaptation of your alternative present and your roles in it. Continue developing your interventions.
 
-### 08/05 Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability - MDEF Alumni Guest Presentations (TBC)
+=== "21/05"
 
-**Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts
+    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
 
-**Activity**: To reflect on the structural, narrative, documentation and outreach dimensions of your interventions.
+=== "10/06-14/06"
 
-**Deliverable**: Visualize the socio-technical system of your project (updated Design Space). Show possible paths of growth with new or existing actors.
+    **MDEFest**
 
-**Task**: Create a scalability roadmap for decentralization using the strategies presented in class.
+     **Goals**: MDEFest aims to celebrate the end of the Masters’ journey by offering a series of sessions hosted by the students on the topics and projects they worked on all year long.
+     
+      **Activity**: Sessions will last maximum half a day, can be digital or physical (with remote streaming), done individually or in groups (preferably) and can be in the format of a workshop, a debate, a visit, a meetup or any kind of format the students find suitable for this experience.
+      
+      **Deliverable**: One-week time-frame to hold the sessions planned for the Fest.
 
-*To Pablo: estaría bien que se prepare el activity: identifying milestones, turning points, roles and strategies undertaken towards your alternative present.*
+=== "17/06-21/06"
 
+    **Elisava-Beyond Grad Show**
+     
+      **Activity**: One-week exhibition showcasing prototypes, results and outcomes from Elisava’s Final Master Projects. The set up will be the 17th and the dismantling of the exhibition the 21st.
 
+=== "27/06"
 
+    ** Graduation Ceremony**
 
-###	15/05 Design Studio Reviews
+=== "28/06"
 
+    ** IAAC Master Exhibition Opening and Awards Ceremony**
+     
+     **Activity**: Exhibition showcasing prototypes, results and outcomes from IAAC’s Final Master Projects. The exhibition will be running until September. The opening will also hold the Award Ceremony for IAAC 2023-24 projects. The set up date will be confirmed.
+    
 
-### 22/05 Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability. Guest Alumni: Clement Rames & Lea Karrasch
+## Deliverables
 
-**Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts.
+**End of academic year deliverables - Due date: 14th of June.**
 
-**Activity**: To reflect on the structural, narrative, documentation and outreach dimensions of your interventions
-
-**Deliverable**: Visualize the socio-technical system of your project (updated Design Space). Show possible paths of growth with new or existing actors.
-
-**Task**:  Create a scalability roadmap for decentralization using the strategies presented in class.
-
-
-### 12/06 - 25/06 MDEFEST (DATES TBC)
-
-**Goals**: MDEFEST aims to celebrate the end of the Masters’ journey by offering a series of sessions hosted by the students on the topics and projects they worked all year long.
-
-**Activity**: Sessions will last maximum half a day, can be digital or physical (with remote streaming), done individually or in groups (preferably) and can be in the format of a workshop, a debate, a visit, a meetup or any kind of format the students find suitable for this experience.
-
-**Deliverable**: Two-week time-frame to hold the sessions planned for the Fest.
-
-### End of academic year deliverables - Due date: 16th of June.
-
-**_10 High-resolution photos of the journey of your project and final interventions_**
-
-**_Master Thesis - Chapters 0-11, adding this Term the following chapters:_**
-
-**Chapter 8**: Final Interventions: Descriptions and results
-
-**Chapter 9**: Final Alternative Present
-
-**Chapter 10**: Designing yourself out: Strategies for Continuity and Scalability
-
-**Chapter 11**: Final Reflection
-
-**Reference Sources / Bibliography**
-
-**_(2-5) min Video_**
-
-Selected physical exhibition material for **IAAC and Elisava**- Poster + physical prototypes to be displayed for a few days (TBC with Chiara)
+- **10 high resolution images** of the **results of your project**
+- **1 high resolution poster** or graphic document with more than 1 page of your **Design Space evolution, including your first Design Space and the last Design Space**
+- **A 2-5 min video**
+- Complete the **[Spreadsheet with your project’s information](https://docs.google.com/spreadsheets/d/1rI9aX3fn4CTOLzUb4_Wp8pbTSM7Z0NR25g779Krv2A0/edit?usp=sharing)**
+- Selected physical exhibition material for **IAAC and Elisava exhibitions** TBC with Chiara
+- **Written document or Pictorial** for the final pubblication
 
 
 ## Grading Method
 
-33% of the evaluation will be the Design Studio faculties’ combined grade, 33% will be the average grade your peers give you, and 33% will be the completion of your first Thesis draft.
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 50%         | Faculty (including text/pictorial assignment)          |
+| 50%         | Self-Evaluation                                 |
 
-## Link
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e#list" style="width:100%; height:100%; border:0;"></iframe>
+    {{ ects }} ECTS
 
-[Open Drive folder](https://drive.google.com/drive/folders/1X9GEbtSMw0ajRftxLY_06jMA4OKEhe5e){ .md-button .md-button--primary }
+
+## Faculty
+
+{{ insert_faculty() }}
