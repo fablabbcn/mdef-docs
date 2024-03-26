@@ -2,7 +2,7 @@
 title: Critical Transfeminist Design 
 page_type: course
 track: Reflection
-course_type: Seminar
+course_type: Short Course
 feature_img: /assets/images/2023-24/year-1/t-3/transfeminist-design.png
 img_caption: Credit | Mary Maagic
 faculty:
