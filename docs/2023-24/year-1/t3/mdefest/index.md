@@ -1,118 +1,108 @@
-# MDEFest 2023
+---
+title: Curating the MDEFestival 
+page_type: course
+track: Exploration
+course_type: Short Course
+feature_img: /assets/images/2023-24/year-1/t-3/curating-mdefestival.png
+img_caption: Credit | Vanessa Lorenzo. My many mouths 
+faculty:
+    - Laura Benitez
+    - Bani Brusadin
+ects: 2
+---
 
-## Syllabus and Learning Objectives
+{{ insert_banner() }}
 
-These sessions will help you prepare MDEFest as a group. MDFest is the occasion to present your research project to the outside world in participative format.
+## Syllabus
+
+This short course is a curatorial and organizational approach to creating the MDEF Students Festival. It will also include pre-planning the proceedings of the festival. Conceived as a pedagogical process that aims to use the approach of curatorial practices/projects and those institutions with whom the students would like to collaborate for the festival. Students will be invited to examine various structures of collectives, venues, events or festivals throughout the process. The focus of the course is to be an apparatus that produces a toolbox for curating the MDEF festival. 
+
+**Keywords:**
+
+### Learning Objectives
 
 - Explore different event formats, approaches, and audiences
-
 - Define the general theme, sub-themes of the festival and a Festival Title
-
-- Explore & Map places, communities, & stakeholders
-
+- Explore & Map places, communities
 - Work together to identify the working groups & events
-
 - Find connections between the different working groups and their events
-
 - Define the formats, audiences & collaborators of each event
-
 - Discuss the overall agenda and approaches to communication and outreach
 
-Each week, we will start with a group session with inspiration material and a new group exercise. You will be able to work on it during the week and we will meet a second time to put this together and help groups during one to one sessions.
+### Methodological Strategies
 
-At the end of the sessions, you should be ready to go to the next step and start communication & logistics planning of the festival.
+- Lectures
+- Discussion of cases
+- Practical exercises
 
-## Total Duration
-6 weeks, Total of 15 hours of sessions in class, 5 hours of student work
+## Schedule
 
-## Structure and Phases Class by class schedule of topics and activities.
+=== "08/04 - Laura"
 
-### Week 1
+    - Different approaches to curatorial practice 
+    - Applying design justice to festival proposals
+    - Preparing a proposal basic tool kit
 
-**Monday 17th April - 12:30pm - 2 pm** : (Audrey & Julia) What is the MDEF Fest? explore different event formats, approaches, and audiences based on your ideas for activities for the festival and interventions you have done during the master.
+=== "15/04 - Laura & Bani"
 
-**Thursday 20th April - 3 pm - 4:30 pm** : (Audrey & Julia) Through a group activity, explore possible themes, sub-themes of the festival in relation to your personal and collaborative activities.
+    - How do you carry out “curatorial” research?
+    - Sample topics to train “curatorial” research skills/habits
+    - Skills: how to think through brainstorming.
 
-### Week 2
+=== "22/04 - Laura & Bani"
 
-**Tuesday 25th April - 10:00 - 11:30 am** : (Audrey & Julia) Explore & Map places, communities, & stakeholders where your activities can take place. Discuss outreach methods and begin to contact stakeholders or possible collaborators.
+    - Building a project with a recognizable character or identity
+    - Conceptual proposition
+    - Format
+    - Relationship with contexts (maping collectives/projects/venues) 
+    - Audience and mediation
+    - From the proposal to the actual project
 
-**Thursday 27th April - 3 pm - 4:30 pm** : (Audrey & Julia) Student Presentations & Feedback on their event proposals. As a group, discuss challenges, strengths, weaknesses, and adaptations. Begin to make a production plan based on costs, material needs, things to prepare, & audience to involve.
+=== "29/04 - Laura & Bani"
 
-### Week 3
-
-**Wednesday 3rd May - 3:00 - 4:30 pm** : (Audrey & Julia) Through a group activity, define the general theme and find a festival title. Write a short description of the festival and establish different subworkgroups based on proposed collective and individual events and/or activities.
-
-### Week 4
-
-**Monday 8th May - 3:00 - 4:30 pm**: (Audrey & Julia) In working groups, further define the production plan based on costs, material needs, chosen formats, things to prepare, and audiences to involve.
-
-**Friday 12th May - 11:00 - 12:30 am**: (Audrey & Julia) Feedback session - present detailed individual and/or collective event and/or activities with a clear production plan. Focus on challenges, current weaknesses, main actions/tasks needed, & areas of improvement.
-
-### Week 5
-**Monday 15th May 12-14**: Communication & Design Brief (Sara & Manu)
-
-
-### Week 6
-
-**Tuesday 23rd May - 10:30-12:30**: (Sara & Manu) Communication and design Follow-up
-
-**Friday 26th May - 11 am-12:30 am**: (Audrey, Julia & Jana) Define Calendar, Material & Equipment needs for Production & Feedback sessions with individuals and/or collectives
+    - Feedback (Seeking / Whose feedback / When and what for / As an embedded methodology)
+    - Defining the scope, the limits, and the endpoint of the project.
 
 
-## Materials Needs
-Comprehensive list of materials and consumables.
+## Deliverables
 
-## Deliverables / Outputs
-Text, device, image, poster, etc.
-
-Coherent structure of collective event
-
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF repository on GitLab https://mdef.iaac.net/ within a maximum of 1 week after the students’ submission deadline.
+Coherent structure of collective event.
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on the MDEF website within a maximum of 1 week after the students’ submission deadline.
 
 ## Grading Method
-20% - Completion of Assignments & Class preparation
 
-40% - Class participation & ability to collaborate / engage with group work in the classroom
+| Percentage  | Description                         |
+| ----------- | ------------------------------------|
+| 20%         | Personal work presentation                       |
+| 30%         | Exercise(s) development    |
+| 50%         | Collaborative work                        |
 
-40% - Ability to engage and collaborate with others outside of MDEF
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-### IAAC Grading System
-• 0 - 4.9 Fail (submission of a supplementary work by May)
-• 5.0 -6.9 Pass
-• 7.0 - 8.9 Good
-• 9.0 - 10 Excellent/Distinction.
+    {{ ects }} ECTS
 
-**Attendance and completion of submissions are mandatory, students failing to submit or not being present to at least 75% of the classes, without justification included in IAAC Terms & Conditions, will fail.**
+## Additional Resources
 
-**Students who submit after the deadlines defined by the faculty and coordination will be subject to penalty and the grade will be automatically lowered. Incomplete submission is considered a missing submission.**
+- Bratton, B. H., Boyadjiev, N., & Axel, N. (2021). The new normal. Park Publishing (WI).
+- Brusadin, B. (2021). The fog of systems: Art as Reorientation and Resistance in a Planetary-Scale System Disposed Towards Invisibility.
+- Grosse, J., & Baden, S. (2023). John Akomfrah - a space of empathy.
+- Hendrikx, B. (2023). Queer exhibition histories.
+- Murchú, N. Ó., & Janša, J. F. (2023b). A Short Incomplete History of Technologies that Scale.
+- Steyerl, H., & Hito Steyerl is a filmmaker and writer. She teaches New Media Art at University of Arts Berlin and has recently participated in Documenta 12. (n.d.). In free fall: A thought experiment on Vertical Perspective. Journal #24. https://www.e-flux.com/journal/24/67860/in-free-fall-a-thought-experiment-on-vertical-perspective/ 
+- Sandhya Daemgen, Ismail Fayed, Alex Hennig, Raphael Moussa Hillebrand, Martha Hincapié Charry, Matthias Mohr (ed.). (2024). Encounters – Embodied Practices. 
+- Vujanović, A., & Cvejic, B. (2022). Toward a transindividual self: A Study in Social Dramaturgy.
+- [https://newmodels.io/](https://newmodels.io/)
+- [https://foodscapes.es/](https://foodscapes.es/)
+- [https://artlaboratory-berlin.org/]([https://newmodels.io/](https://artlaboratory-berlin.org/))
+- [https://donotresearch.substack.com/](https://donotresearch.substack.com/)
+- [https://theinfluencers.org/ ](https://theinfluencers.org/)
+- [http://gutterfest.org/](http://gutterfest.org/)
+- [https://hlt.calafou.org/en/](https://hlt.calafou.org/en/)
+- [https://designjustice.org/read-the-principles ](https://designjustice.org/read-the-principles)
+- [https://biofriction.org/](https://biofriction.org/)
 
+## Faculty
 
-## Audrey Belliot
-
-
-Audrey is a designer and maker. She explores alternative ways to live towards a slower paced lifestyle more respectful of the environment with a critical approach to technology. She worked in the area of social innovation with a service design approach.
-After studying a Master in Design for Emergent Futures at IAAC x Fab Lab Barcelona x Elisava in Barcelona, she co-created the association Slow lab. Based in Akasha Hub, Slow lab is a collective which wants to bring awareness and promote a resilient lifestyle by questioning and redesigning the tools we use in our daily life to become less dependent on high-technology. She is currently collaborating with Fab Lab Barcelona on the European research project Centrinno.
-
-Email Address - audrey.belliot@students.iaac.net
-
-Links - Slow lab IG and website linktr.ee/slowlab
-
-
-Linkedin - linkedin.com/in/audreybelliot/
-
-
-## Julia Steketee
-
-
-Julia is a designer, a maker, and an artist of craft. During her BFA in Furniture Design at Rhode Island School of Design, she developed skills in woodworking, metalworking, and textile and leather techniques. Since, she has worked in furniture design studios in London and Rio de Janeiro and as a fabrication assistant for a sculpture artist in Brooklyn, New York. She is now based in Barcelona where she completed the Master's program Design for Emergent Futures at the Institute of Advanced Architecture of Catalonia and ELISAVA School of Design and Engineering. Currently, she continues her studies through a postgraduate research program in biomaterial research at ELISAVA. In addition, she is a Research Resident at Fab Lab Barcelona where she works on projects that support the circular economy and access to local production in Barcelona.
-
-Email Address -julia.steketee@students.iaac.net
-
-Design Archive - https://www.juliasteketee.com/
+{{ insert_faculty() }}
 
 
-Linkedin -  https://www.linkedin.com/in/julia-steketee-88074369/
-
-
-Research Project S- https://www.instagram.com/the__bagaceira__project/
