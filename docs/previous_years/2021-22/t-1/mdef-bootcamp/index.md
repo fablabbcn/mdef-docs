@@ -21,9 +21,6 @@ From Wikipedia: “Boot camps can be governmental being part of the correctional
 
 Do not panic: IAAC is not a correctional facility! And we will only use the best of the boot camp format to facilitate the learning process and the adaptation of the students to the program and the available facilities.
 
-## Additional Resources
-
-<iframe src="https://drive.google.com/embeddedfolderview?id=1ChV9K7ZzacBq-3z7ZDxCqPcpuaFwOoG8" style="width:100%; height:100%; border:0;"></iframe>
 
 ## Faculty
 

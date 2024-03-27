@@ -1,5 +1,5 @@
 ---
-title: Tech Beyond the Myth
+title: Future Talks
 page_type: course
 track: Reflections
 course_type: Short Course
@@ -8,9 +8,6 @@ img_caption:
 faculty: 
     - guests
 ---
-
-## Syllabus
-
 
 ## Syllabus
 

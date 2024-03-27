@@ -36,9 +36,3 @@ More than a space for collective exploration, the Internet became a magnified le
 ## Faculty
 
 {{ insert_faculty() }}
-
-## Lara Campos - Remixing Materials
-
-Material driven designer, researcher and textile artist. Her practice blurs the boundaries between materials, technology and biology, proposing new perspectives on biocentric design. Lara believes that design can open a space for dialogue between human beings and other living beings. Her work is based in nature as cognified matter. Her research focuses on emotional response, merging biomaterials with digital fabrication. Through textiles, she proposes the exploration of new habitable spaces, as sensorial and interactive experiences in order to ideate on better solutions of coexistence. To support and expand her exploratory nature, she is also researching on re-designing and upcycling organic food ‘waste’ turning it into objects, and facilitates talks and biomaterials workshops where she proposes the exploration of the organic matter as a contemporary artistic practice.
-
-Inspired by textile storytelling, she has got a degree in textile design and combined it with different courses of craft techniques. Later on during Fabricademy course at Fab Lab Barcelona, she learned about bio- design, digital manufacturing and wearable technology to develop smart and sustainable textiles. Currently she delves into biomaterials & biodesign, and is part of S-Biotica collective, with whom she is working to set up a co-creation space in Barcelona for bio-based research and design.

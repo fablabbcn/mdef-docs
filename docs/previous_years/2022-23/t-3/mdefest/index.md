@@ -49,7 +49,6 @@ Email Address -julia.steketee@students.iaac.net
 
 Design Archive - https://www.juliasteketee.com/
 
-
 Linkedin -  https://www.linkedin.com/in/julia-steketee-88074369/
 
 

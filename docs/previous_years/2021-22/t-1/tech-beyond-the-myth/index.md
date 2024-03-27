@@ -40,16 +40,6 @@ Students are requested to submit all the material requested by the faculty + the
 
 - Add link to the exploration tools and files you produced and used in your repo
 
-**All the students have to document their work for the course:**
-
-- **Personal reflexions and learning outcome post** (personal MDEF webpage)
-
-- **Video and Slides of the machine** (Google drive)
-
-The deadline for the students to submit their work for your seminar is Sunday the **18th of November**.
-
-Presentation Requirements
-
 ### Video
 
 - Video at minimum 1080p stabilized (not hand held recordings, use a tripod if you don´t know how to stabilize by software)

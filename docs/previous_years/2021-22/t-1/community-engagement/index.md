@@ -45,8 +45,6 @@ https://thesystemsthinker.com/guidelines-for-designing-systemic-interventions/
 
 https://medium.com/fieldnotes-by-sam-rye/towards-targeted-systems-change-7f4db6febb51
 
-https://drive.google.com/file/d/1UrOxrth4SomIGY0u7qf0lCVwdHS5_BTK/view?usp=sharing
-
 https://medium.com/weareholon/performing-transitions-within-emergent-paradigms-452a63949b20
 
 http://jonkolko.com/writingSensemaking.php

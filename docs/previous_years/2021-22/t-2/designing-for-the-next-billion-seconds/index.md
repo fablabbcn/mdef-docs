@@ -22,8 +22,6 @@ Digital posters + Proto–videos.
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
-
 Bibliography and Background Research Material
 
 [The Everything Manifesto](https://www.iam-internet.com/everything)

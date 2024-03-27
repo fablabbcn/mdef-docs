@@ -20,8 +20,6 @@ The goal of this first Weak Signals in the Wild Week is to give the students a g
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq" style="width:100%; height:100%; border:0;"></iframe>
 
-[Open Drive folder](https://drive.google.com/drive/folders/1RL4WDPXhX5GkJznliL9oo3eDxiK8fEcq){ .md-button .md-button--primary }
-
 Bibliography and Background Research Material
 
  [Diez, T., Tomico, O., & Quintero, M. (2020). Exploring Weak Signals to Design and Prototype for Emergent Futures. Temes de Disseny, 36, 70–89.]( https://doi.org/10.46467/tdd36.2020.70-89)
