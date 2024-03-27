@@ -16,3 +16,5 @@ docs/assets/images/zz
 *.bak
 
 .vscode
+
+COMMANDS.md
