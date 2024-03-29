@@ -28,7 +28,7 @@ nav:
       - Extended Intelligences: 2023-24/year-1/t1/extended-intelligences/index.md
     - Term 2:
       - 2023-24/year-1/t2/index.md
-      - Design Studio II: 2023-24/year-1/t2/design-studio-ii/index.md
+      - Design Studio 02: 2023-24/year-1/t2/design-studio-02/index.md
       - Future Talks: 2023-24/year-1/t2/future-talks/index.md
       - Designing in a State of Climate Emergency: 2023-24/year-1/t2/designing-in-a-state-of-climate-emergency/index.md
       - Communicating Ideas: 2023-24/year-1/t2/communicating-ideas/index.md
@@ -36,20 +36,17 @@ nav:
       - Designing with Extended Intelligences: 2023-24/year-1/t2/designing-with-extended-intelligences/index.md
       - Digital Prototyping for Design: 2023-24/year-1/t2/digital-prototyping-for-design/index.md
       - Measuring The World: 2023-24/year-1/t2/measuring-the-world/index.md
-
-    #   - Design Dialogues: 2023-24/year-1/t2/design-dialogues/index.md
-    #   - Making Sense and Meaning: 2023-24/year-1/t2/making-sense-and-meaning/index.md
-    # - Term 3:
-    #   - 2023-24/year-1/t3/index.md
-    #   - Design Studio III: 2023-24/year-1/t3/design-studio-iii/index.md
-    #   - Future Talks: 2023-24/year-1/t3/future-talks/index.md
-    #   - Design Ethics: 2023-24/year-1/t3/design-ethics/index.md
-    #   - Critical Transfeminist Design: 2023-24/year-1/t3/critical-transfeminist-design/index.md
-    #   - Communicating Ideas: 2023-24/year-1/t3/communicating-ideas/index.md
-    #   - Atlas of Weak Signals: 2023-24/year-1/t3/atlas-of-weak-signals/index.md
-    #   - Emergent Economies: 2023-24/year-1/t3/emergent-economies/index.md
-    #   - MDEFest 2023: 2023-24/year-1/t3/mdefest/index.md
-    #   - Digital Prototyping for Design: 2023-24/year-1/t3/digital-prototyping-for-design/index.md
+    - Term 3:
+      - 2023-24/year-1/t3/index.md
+      - Design Studio 03: 2023-24/year-1/t3/design-studio-03/index.md
+      - Future Talks: 2023-24/year-1/t3/future-talks/index.md
+      - Design Ethics: 2023-24/year-1/t3/design-ethics/index.md
+      - Critical Transfeminist Design: 2023-24/year-1/t3/critical-transfeminist-design/index.md
+      - Communicating Ideas: 2023-24/year-1/t3/communicating-ideas/index.md
+      - The Atlas of Weak Signals: 2023-24/year-1/t3/the-atlas-of-weak-signals/index.md
+      # - Emergent Economies: 2023-24/year-1/t3/emergent-economies/index.md
+      - MDEFest 2023: 2023-24/year-1/t3/mdefest/index.md
+      # - Digital Prototyping for Design: 2023-24/year-1/t3/digital-prototyping-for-design/index.md
   - Year 2:
     - 2023-24/year-2/index.md
     - Calendar: 2023-24/year-2/calendar/index.md
@@ -293,7 +290,6 @@ plugins:
   - exclude:
       glob:
       - previous_years/*
-      - 2023-24/year-1/t3/*
       - 2023-24/research-trip/*
 
 markdown_extensions:

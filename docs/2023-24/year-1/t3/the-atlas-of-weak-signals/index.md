@@ -1,9 +1,9 @@
 ---
-title: The Atlas of Weak Signals - A collective inquiry and embodied research of emerging signals
+title: The Atlas of Weak Signals 
 page_type: course
 track: Exploration
 course_type: Workshop
-feature_img: /assets/images/2023-24/year-1/t-3/weak-signals-2.png
+feature_img: /assets/images/2023-24/year-1/t-3/weak-signals-2.jpg
 faculty:
     - jessica-guy
     - olga-trevisan
@@ -13,6 +13,8 @@ ects: 2
 {{ insert_banner() }}
 
 ## Syllabus
+
+**The Atlas of Weak Signals - A collective inquiry and embodied research of emerging signals**
 
 This workshop focuses on developing and testing co-design methodologies for the creation of new cards for the Atlas of Weak Signals card deck. Students will engage in embodied research activities aimed at exploring alternative and pluralistic futures to identify and visualize weak signals — emerging trends or phenomena that may have significant impacts in the future. Through collaborative design exercises, the students will actively participate and shape the AOWS co-design methodology. Students will gain insights into embodied research methodologies –  while contributing to the expansion of the Atlas of Weak Signals card deck.
 ​​
@@ -43,7 +45,8 @@ Example:
 
 === "Day 1"
 
-      Workshop sessions will be divided into five on each other building moments.
+    Workshop sessions will be divided into five on each other building moments.
+    
     - Revisiting the AOWS - Collective sharing round and reflection 
     - Horizon scanning exercise - Materializing trends in the polycrisis 
     - CIPHER methodology application for identified themes - Utilizing existing methods to frame signals and test it for their validity 

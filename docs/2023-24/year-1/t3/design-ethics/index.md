@@ -3,9 +3,9 @@ title: Design Ethics
 page_type: course
 track: Reflection
 course_type: Short course
-feature_img: /assets/images/2023-24/year-1/t-3/design-ethics.png
+feature_img: /assets/images/2023-24/grid.jpg
 faculty:
-    - ariel-guersensvaig
+    - ariel-guersenzvaig
 ects: 2
 ---
 

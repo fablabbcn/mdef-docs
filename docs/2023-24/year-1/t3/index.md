@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Term 3
 
 ## From Alternative Presents to Emerging Futures

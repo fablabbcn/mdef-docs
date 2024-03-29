@@ -6,8 +6,10 @@ course_type: Short Course
 feature_img: /assets/images/2023-24/year-1/t-3/curating-mdefestival.png
 img_caption: Credit | Vanessa Lorenzo. My many mouths 
 faculty:
-    - Laura Benitez
-    - Bani Brusadin
+    - laura-benitez
+    - bani-brusadin
+    - manuela-reyes
+    - jana-tothill
 ects: 2
 ---
 

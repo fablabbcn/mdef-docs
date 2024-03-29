@@ -40,6 +40,7 @@ This course progresses from the foundational communication skills developed in t
 === "Day 1 - Pablo"
 
     Development of Messages and Selection of Communication Channels
+
     - Identification of project key messages.
     - Selection and optimization of digital communication channels.
     - Message development workshop.
@@ -50,6 +51,7 @@ This course progresses from the foundational communication skills developed in t
 === "Day 2 - Pablo"
 
     Creation of Multimedia Content
+
     - Theory of creating teaser videos.
     - Structure and production of visual communication material.
     - Practical video production workshop.
@@ -58,6 +60,7 @@ This course progresses from the foundational communication skills developed in t
 === "Day 3 - Pablo"
 
     Preparation and Execution of Effective Presentations
+
     - Elevator pitch structure and techniques.
     - Initial one-minute project pitch by each student without visual aids.
     - Elevator pitch workshop with detailed structure.
@@ -65,13 +68,15 @@ This course progresses from the foundational communication skills developed in t
 
 === "Day 4 - Laura"
 
-    Personal Narrative 
+    Personal Narrative
+
     - Narrative/ Storytelling of my project 
     - Understanding project’s narratives
 
 === "Day 5 - Laura"
 
-    Publication 
+    Publication
+
     - Writing Triangle 
     - The problem, the issue to be addressed
     - Position
@@ -109,7 +114,6 @@ This course progresses from the foundational communication skills developed in t
 
 Borg, E. (2012) 'Writing differently in Art and Design: Innovative approaches to writing tasks' in Writing in the Disciplines Building Supportive Cultures for Student Writing in UK Higher Education. ed. Christine Hardy and Lisa Clughen. Bingly, UK:Emerald Group Publishing Limited 
 
-  ## Faculty
+## Faculty
 
 {{ insert_faculty() }}
-

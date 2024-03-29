@@ -10,10 +10,6 @@ faculty:
     - laura-benitez
     - jana-tothill
     - roger-guilemany
-    - saul-baeza
-    - helen-torres
-    - clément-rames
-    - krzysztof-wronski
 ects: 2
 ---
 

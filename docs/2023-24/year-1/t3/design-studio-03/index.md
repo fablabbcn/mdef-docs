@@ -3,7 +3,7 @@ title: Design Studio 03
 page_type: course
 track: Application
 course_type: Course
-feature_img: /assets/images/2023-24/year-1/t-3/design-studio-03.jpeg
+feature_img: /assets/images/2023-24/year-1/t-3/design-studio-03.jpg
 img_caption: Design Dialogues, 2022, Barcelona
 faculty:
     - guillem-camprodon
@@ -59,13 +59,13 @@ The specific goals are the following:
 
     **Positionality and More-Than-Human Design: Designing for More Than Human-Centered Worlds**
 
-     **Goals**: 
+     <!-- **Goals**:  -->
      
-      **Activity**:  
+      <!-- **Activity**:   -->
       
-      **Deliverable**: 
+      <!-- **Deliverable**:  -->
       
-      **Task**: 
+      <!-- **Task**:  -->
 
 === "22/04"
 
@@ -121,11 +121,11 @@ The specific goals are the following:
 
 === "27/06"
 
-    ** Graduation Ceremony**
+    **Graduation Ceremony**
 
 === "28/06"
 
-    ** IAAC Master Exhibition Opening and Awards Ceremony**
+    **IAAC Master Exhibition Opening and Awards Ceremony**
      
      **Activity**: Exhibition showcasing prototypes, results and outcomes from IAAC’s Final Master Projects. The exhibition will be running until September. The opening will also hold the Award Ceremony for IAAC 2023-24 projects. The set up date will be confirmed.
     
