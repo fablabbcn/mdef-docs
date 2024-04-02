@@ -19,7 +19,7 @@ ects: 12
 
 **Prototyping for Interaction Design (PID)**
 
-During this 3 term course, students explores the possibilities of interaction design within the context of wearable computing and creative data. Students will be guided  in designing, developing, and fabricating wearable devices capable of collecting behavioral and biometric patterns from the body. The program provides tools and methodologies to translate bodily behaviors into various forms of creative representations of data.
+Throughout this three-term course, students delve into the realm of interaction design within the framework of wearable computing and innovative data. Under guided instruction, students undertake the design, development, and fabrication of wearable devices adept at gathering behavioral and biometric data from the human body. The curriculum equips students with tools and methodologies necessary for transforming bodily behaviors into diverse and imaginative data representations.
 
 The seminar is structured with practical sessions aimed at gaining a comprehensive understanding of the interaction design process, ranging from electronics design and data collection to the interpretation of digital signals. Through practical sessions, the seminar aims to open discussions regarding the implications of interaction design, the quantified self and society.
 
