@@ -8,6 +8,7 @@ img_caption: Fabacademy final project (Citlali Hernández), Barcelona
 faculty:
     - citlali-hernandez
     - lina-pautista
+    - gerard-valls
     - santiago-fuentemilla
 ects: 12
 ---
