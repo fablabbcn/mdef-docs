@@ -1,5 +1,5 @@
 ---
-title: Digital Prototyping For Design
+title: Prototyping for Interaction Design
 page_type: course
 track: Instrumentation
 course_type: Workshop
@@ -65,7 +65,7 @@ Are Intensive weeks, where students will have to apply the knowledge and skills 
 === "Module 4"
 
     - **Days:** 23/04, 24/04
-    - **Content:Sensing the body for meaningful interactions
+    - **Content:** Sensing the body for meaningful interactions
         - From micro to macro. Biometrics and bodily gestures
         - Microcontrollers and electronics for wearable projects
         - Fabricating Sensors for the body
@@ -81,7 +81,6 @@ Are Intensive weeks, where students will have to apply the knowledge and skills 
     - **Content:** Extended bodies with expressive Data - Lina Bautista
         - Introduction for expressive and connected data with programming languages.
         - Meaningful mappings: ranges, values and data signal transformations.
-        - Data as light and other devices using DMX protocol.
         - Data as sound, activating and modifying samples. Synthesizers and parameters.
         - Data as video, activating and modifying video signals.
         - Data as Movement, mapping data to mechanisms.
@@ -89,7 +88,8 @@ Are Intensive weeks, where students will have to apply the knowledge and skills 
 === "Micro-challenge III"
 
     - **Days:** 07-08-09-10/05
-    - **Content: Propose an interactive system that explores the possibilities of interpretation of human behavior and the quantified self. The system should create a dynamic and meaningful connection between individual body interaction and a social-wide engagement. The prototypes should serve as catalysts for opening conversations  between technology, personal data, and society.
+    - **Content:** Compose a meaningful interaction that uses data collected from the body and transforms it into another digital signal. Develop a prototype that reflects on personal or collective identity. 
+
 
 
 
