@@ -26,7 +26,7 @@ students:
         website: https://33dudu.github.io/magicreator/
     Anthuanet Falcon Quispe:
         photo: /assets/images/students/6786.jpg
-        website: https://anthuanetf.github.io/MDEF/
+        website: https://anthuanetf.github.io/MDEF-PORTFOLIO/index.html
     Anna Fedele:
         photo: /assets/images/students/6915.jpeg
         website: https://annafedele.github.io/mdef/
