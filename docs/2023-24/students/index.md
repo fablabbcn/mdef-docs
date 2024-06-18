@@ -32,7 +32,7 @@ students:
         website: https://annafedele.github.io/mdef/
     Francisca Herrera:
         photo: /assets/images/students/6696.jpg
-        website: https://panchipunchi.github.io/mdef1/
+        website: https://panchipunchi.github.io/MDEF-Francisca/
     Carlotta Alberta Hylkema:
         photo: /assets/images/students/6680.jpg
         website: https://chylkemamdef.github.io/MyPortfolio/index.html
