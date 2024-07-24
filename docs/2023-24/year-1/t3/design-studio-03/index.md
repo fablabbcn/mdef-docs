@@ -4,7 +4,7 @@ page_type: course
 track: Application
 course_type: Course
 feature_img: /assets/images/2023-24/year-1/t-3/design-studio-03.jpg
-img_caption: Design Dialogues, 2022, Barcelona
+img_caption: Design Dialogues, 2023, Barcelona
 faculty:
     - guillem-camprodon
     - laura-benitez
