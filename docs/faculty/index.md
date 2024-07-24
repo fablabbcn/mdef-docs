@@ -54,8 +54,8 @@ faculty:
     - jana-tothill
     - olga-trevisan
     - pablo-zuloaga
-
-
+    - ron-wakkary
+    - saul-baeza
 
 ---
 

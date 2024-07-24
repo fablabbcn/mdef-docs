@@ -1,7 +1,7 @@
 ---
 name: Ron Wakkary
 role: Design Research Methodologies, Posthuman Sustainability
-feature_img: /assets/images/faculty/ron-wakkary.jpeg
+feature_img: /assets/images/faculty/ron-wakkary.jpg
 socials:
     email: r.l.wakkary@tue.nl
     website: http://iat-eds.dcr.sfu.ca/?eds_person=prof-ron-wakkary
