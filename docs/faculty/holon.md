@@ -1,7 +1,7 @@
 ---
 name: Holon
 role: Non-profit Cooperative
-feature_img: http://www.holon.cat/wp-content/uploads/2018/08/eye-crater.png
+feature_img: /assets/images/faculty/holon.png
 socials:
     email:
     website: www.holon.cat

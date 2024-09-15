@@ -5,7 +5,7 @@ feature_img: /assets/images/faculty/santiago-fuentemilla.jpeg
 socials:
     email: santi@fablabbcn.org
     website:
-    linkedin: https://es.linkedin.com/in/santi-fuentemilla-garriga-7877892b
+    linkedin: https://es.linkedin.com/in/santiago-fuentemilla-garriga-7877892b
     twitter: https://twitter.com/santifu
     facebook:
     instagram:
