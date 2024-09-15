@@ -5,6 +5,8 @@ hide:
     - navigation
 ---
 
+[Academic Year 2023-24](/student-websites/2023-24/){ .shadow-block }
+
 [Academic Year 2022-23](/student-websites/2022-23/){ .shadow-block }
 
 [Academic Year 2021-22](/student-websites/2021-22/){ .shadow-block }

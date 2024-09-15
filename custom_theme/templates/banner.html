@@ -1,18 +1,24 @@
 {% if feature_img is defined %}
 <div class="banner-modules">
-    <img class="banner-image" src="{{ feature_img }}" alt="{{ title }}">
+    {% if feature_img is not none %}
+        <img class="banner-image" src="{{ feature_img }}" alt="{{ title }}">
+    {% else %}
+        <img class="banner-image" src="{{ fallback_img }}" alt="{{ title }}">
+    {% endif %}
     <h1 class="module-title">{{ title }}</h1>
-    {% if page_type == 'course' %}
-        <h2 class="module-track"><span class="track-category">
-            {{ banner_icon }}
-            {{ track }}
-            </span>
-            {% if course_type is defined %}
-                {{ course_type }}
-            {% else %}
-                
-            {% endif %}            
-        </h2>
+    {% if track is not none %}
+        {% if page_type == 'course' %}
+            <h2 class="module-track"><span class="track-category">
+                {{ banner_icon }}
+                {{ track }}
+                </span>
+                {% if course_type is defined %}
+                    {{ course_type }}
+                {% else %}
+                    
+                {% endif %}            
+            </h2>
+        {% endif %}
     {% endif %}
 </div>
 {% if img_caption is not none %}

@@ -1,7 +1,7 @@
 ---
 name: Citlali Hernández
 role: 
-feature_img: /assets/images/faculty/citlali-hernandez.png
+feature_img: /assets/images/faculty/citlali-hernandez.jpg
 socials:
     email:
     website: https://www.turbulente.net/
