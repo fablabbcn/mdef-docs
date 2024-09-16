@@ -1,12 +1,13 @@
 ---
-title: The Design for Emergent Futures Approach
-feature_img: /assets/images/2023-24/welcome-image.jpg
+title: Welcome to the Year 2023-24
+feature_img: /assets/images/2023-24/2023-24.jpg
 hide:
-    - navigation
+    - toc
 ---
 
 {{ insert_banner() }}
 
+## The Design for Emergent Futures Approach
 
 Welcome to the MDEF Library where you will find all the detailed information for MDEF program. You can check back as new course information becomes available.
 

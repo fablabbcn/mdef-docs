@@ -3,6 +3,10 @@
     <div class="faculty-image">
         <img class="faculty-photo" src="{{ feature_img }}" alt="{{ name }}">
     </div>
+    {% else %}
+    <div class="faculty-image">
+        <img class="faculty-photo" src="{{ fallback_img }}" alt="{{ name }}">
+    </div>
     {% endif %}
     <div class="faculty-content">
         <div class="faculty-content-top">
