@@ -25,10 +25,6 @@ Our active learning methodology is based on the practice and spiral development,
 
 We will offer an impact experience, seeking to inspire and motivate the participants to use the possibilities of digital manufacturing and technologies to prototype, design, fabricate and program an “honest” mechanical artifact.
 
-![](assets/images/2022-23/t-1/tec_beyond_5.pngimages/tec_beyond_5.png)
-![](assets/images/2022-23/t-1/tec_beyond_5.pngimages/tec_beyond_5.1.png)
-![](assets/images/2022-23/t-1/tec_beyond_5.pngimages/tec_beyond_6.png)
-
 ### Forensics of the obsolescense (Context workshop)
 
 Forensics of obsolescence confronts students with the results of today's consumers' electronics industry model. By tearing apart broken everyday objects we uncover key topics such as systems thinking, suppli chains, intellectual models, or programmed obsolescence. On top of it, by using a hands-on approach we introduce the use of fundamental technology prototyping concepts: datasheets, multimeter, power supplies, electronic tools. Students will document their findings by writing a "forensic report" of each artifact.

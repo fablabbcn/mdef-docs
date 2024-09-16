@@ -9,7 +9,6 @@ faculty:
     - santiago-fuentemilla
     - xavi-dominguez
     - eduardo-chamorro
-    # - esteban-gimenez
 ---
 
 {{ insert_banner() }}

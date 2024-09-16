@@ -1,7 +1,7 @@
 ---
 name: Ariel Guersenzvaig
 role: Lecturer at ELISAVA School of Design and Engineering
-feature_img: /assets/images/faculty/ariel-guersensvaig.jpeg
+feature_img: /assets/images/faculty/ariel-guersenzvaig.jpeg
 socials:
     email: ariel@interacciones.org
     website:

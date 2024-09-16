@@ -6,7 +6,7 @@ course_type:
 feature_img: 
 img_caption: 
 faculty: 
-    - ariel-guersensvaig
+    - ariel-guersenzvaig
     - laura-benitez
 ects:
 ---

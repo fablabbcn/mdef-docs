@@ -7,8 +7,6 @@ hide:
 
 ### Understanding
 
-![](../../assets/images/people-working.jpg)
-
 During the first term, you will be exposed to different topics including Biology and Agri to AI systems, this exposure will help with your understanding on how to design for emergent futures.
 
 **The program has four conceptual pillars:**
