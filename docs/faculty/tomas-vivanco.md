@@ -1,7 +1,7 @@
 ---
 name: Tomas Vivanco
 role: Assistant Professor / Director Fab Lab
-feature_img: /assets/images/tomas-vivanco.jpeg
+feature_img: /assets/images/faculty/tomas-vivanco.jpeg
 socials:
     email: 
     website:

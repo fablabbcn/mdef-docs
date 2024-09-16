@@ -8,7 +8,7 @@ img_caption:
 faculty: 
     - lucas-pena
     - ramon-sanguesa
-    - carlos-steinblock
+    - carlos-barbiero
     - oliver-juggins
 ---
 

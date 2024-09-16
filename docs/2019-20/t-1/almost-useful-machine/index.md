@@ -8,7 +8,7 @@ img_caption:
 faculty: 
     - santiago-fuentemilla
     - xavi-dominguez
-    - eduarado-chamorro
+    - eduardo-chamorro
     - mikel-llobera
     - oscar-gonzalez
     # - julie-mallet

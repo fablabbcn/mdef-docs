@@ -7,7 +7,7 @@ feature_img: /assets/images/2022-23/t-2/future_talks.jpg
 img_caption: 
 faculty: 
     - oscar-tomico
-    - mariana quintero
+    - mariana-quintero
 ---
 
 {{ insert_banner() }}

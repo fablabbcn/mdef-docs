@@ -8,7 +8,7 @@ img_caption:
 faculty: 
     - merce-rua
     - milena-calvo
-    - merkel-cormenzana
+    - markel-cormenzana
     - holon
 ---
 

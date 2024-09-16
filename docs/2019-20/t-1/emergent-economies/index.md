@@ -6,7 +6,7 @@ course_type:
 feature_img: /assets/images/2019-20/t-1/emergent-economies.jpg
 img_caption: 
 faculty: 
-    - carlos-steinblock
+    - carlos-barbiero
     - jordi-riulas
 ---
 

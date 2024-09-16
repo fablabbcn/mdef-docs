@@ -25,10 +25,6 @@ Is a practical and intensive two-weeks experimental program into fabrication, ph
 Our active learning methodology is based on the practice and spiral development, designed to encourage the creativity and imagination of the participants, as well as stimulate the search for tools and solutions for their correct definition.
 
 We will offer an impact experience, seeking to inspire and motivate the participants to use the possibilities of digital manufacturing and technologies to prototype, design, fabricate and program an “honest” mechanical artifact.
-
-![](assets/images/2021-22/t-1/tec_beyond_5.png)
-![](assets/images/2021-22/t-1/tec_beyond_5.1.png)
-![](assets/images/2021-22/t-1/tec_beyond_6.png)
     
 ## Deliverables
 

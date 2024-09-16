@@ -8,7 +8,7 @@ img_caption:
 faculty: 
     - oscar-tomico
     - kristina-andersen
-    - anfgella-mackey
+    - angella-mackey
 ---
 
 {{ insert_banner() }}

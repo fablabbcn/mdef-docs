@@ -6,7 +6,7 @@ course_type:
 feature_img: 
 img_caption: 
 faculty: 
-    - andreas-colmenares
+    - andres-colmenares
 ---
 
 {{ insert_banner() }}
