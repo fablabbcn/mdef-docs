@@ -84,5 +84,3 @@ students:
 ## Year 2
 
 {{ insert_students(year=2) }}
-
-{{ insert_students() }}
