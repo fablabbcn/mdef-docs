@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Year 2019-20
-feature_img: /assets/images/2019-20/2019-20.png
+feature_img: /assets/images/2019-20/2019-20.jpg
 hide:
     - toc
 ---

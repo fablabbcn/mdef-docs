@@ -3,7 +3,7 @@ title:  Engaging Narratives
 page_type: course
 track: 
 course_type:
-feature_img: /assets/images/2018-19/t-1/engaging-narratives.png
+feature_img: /assets/images/2018-19/t-1/engaging-narratives.jpg
 img_caption: 
 faculty: 
     - heather-corcoran

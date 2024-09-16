@@ -3,7 +3,7 @@ title: Weak Signals in the Wild
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2021-22/t-1/atlas-of-weak-signals.png
+feature_img: /assets/images/2021-22/t-1/atlas-of-weak-signals.jpg
 img_caption: 
 faculty: 
     - mariana-quintero

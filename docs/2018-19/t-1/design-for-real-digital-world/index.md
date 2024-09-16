@@ -3,7 +3,7 @@ title:  Design For The Real Digital World
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2018-19/t-1/design-for-real-digital-world.png
+feature_img: /assets/images/2018-19/t-1/design-for-real-digital-world.jpg
 img_caption: 
 faculty: 
     - lucas-pena

@@ -3,7 +3,7 @@ title: The Almost Useful Machine
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2020-21/t-1/almost-useful-machine.png
+feature_img: /assets/images/2020-21/t-1/almost-useful-machine.jpg
 img_caption: 
 faculty: 
     - santiago-fuentemilla

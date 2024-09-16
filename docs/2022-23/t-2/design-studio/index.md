@@ -3,7 +3,7 @@ title: Design Studio Embodying Emergent Contexts
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2022-23/t-2/design-studio.png
+feature_img: /assets/images/2022-23/t-2/design-studio.jpg
 img_caption: 
 faculty: 
     - oscar-tomico

@@ -3,7 +3,7 @@ title: Design Studio
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2021-22/t-1/design-studio-framing-interventions.png
+feature_img: /assets/images/2021-22/t-1/design-studio-framing-interventions.jpg
 img_caption: 
 faculty: 
     - oscar-tomico

@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Year 2022-23
-feature_img: /assets/images/2022-23/2022-23.png
+feature_img: /assets/images/2022-23/2022-23.jpg
 hide:
     - toc
 ---

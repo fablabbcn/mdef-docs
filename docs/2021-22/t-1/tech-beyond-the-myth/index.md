@@ -3,7 +3,7 @@ title: Tech Beyond the Myth
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2021-22/t-1/tech-beyond-the-myth.png
+feature_img: /assets/images/2021-22/t-1/tech-beyond-the-myth.jpg
 img_caption: 
 faculty: 
     - santiago-fuentemilla

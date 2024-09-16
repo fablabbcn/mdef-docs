@@ -3,7 +3,7 @@ title: Living with Your Own Ideas
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2020-21/t-1/living-with-your-own-ideas.png
+feature_img: /assets/images/2020-21/t-1/living-with-your-own-ideas.jpg
 img_caption: 
 faculty: 
     - oscar-tomico

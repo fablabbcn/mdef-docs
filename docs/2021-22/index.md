@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Year 2021-22
-feature_img: /assets/images/2021-22/2021-22.png
+feature_img: /assets/images/2021-22/2021-22.jpg
 hide:
     - toc
 ---

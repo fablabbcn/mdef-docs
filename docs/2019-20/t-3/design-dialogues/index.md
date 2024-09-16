@@ -3,7 +3,7 @@ title: Design Dialogues
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2019-20/t-3/design-dialogues.png
+feature_img: /assets/images/2019-20/t-3/design-dialogues.jpg
 img_caption: 
 faculty: 
     - tomas-diez
