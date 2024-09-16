@@ -3,7 +3,7 @@ title: Designing for the Next Billion Seconds
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2022-23/t-2/next_billion_seconds.png
+feature_img: /assets/images/2022-23/t-2/next_billion_seconds.jpg
 img_caption: 
 faculty: 
     - andres-colmenares

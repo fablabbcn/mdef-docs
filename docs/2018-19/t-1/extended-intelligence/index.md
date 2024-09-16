@@ -3,7 +3,7 @@ title:  Designing with Extended Intelligence
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2018-19/t-1/extended-intelligence.png
+feature_img: /assets/images/2018-19/t-1/extended-intelligence.jpg
 img_caption: 
 faculty: 
     - ramon-sanguesa

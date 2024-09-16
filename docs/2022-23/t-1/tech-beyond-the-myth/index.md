@@ -3,7 +3,7 @@ title: Tech Beyond the Myth
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2022-23/t-1/tech-beyond-the-myth.png
+feature_img: /assets/images/2022-23/t-1/tech-beyond-the-myth.jpg
 faculty: 
     - santiago-fuentemilla
     - eduardo-chamorro

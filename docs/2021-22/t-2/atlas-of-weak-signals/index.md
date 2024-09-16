@@ -3,7 +3,7 @@ title: Atlas of Weak Signals
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2021-22/t-2/atlas-of-weak-signals.png
+feature_img: /assets/images/2021-22/t-2/atlas-of-weak-signals.jpg
 img_caption: 
 faculty: 
     - jose-devicente

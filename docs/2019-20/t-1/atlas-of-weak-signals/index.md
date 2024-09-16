@@ -3,7 +3,7 @@ title: Atlas of Weak Signals
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2019-20/t-1/atlas-of-weak-signals.png
+feature_img: /assets/images/2019-20/t-1/atlas-of-weak-signals.jpg
 img_caption: 
 faculty: 
     - mariana-quintero

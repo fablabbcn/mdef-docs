@@ -3,7 +3,7 @@ title: Extended Intelligences
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2020-21/t-1/extended-intelligences.png
+feature_img: /assets/images/2020-21/t-1/extended-intelligences.jpg
 faculty: 
     - lucas-pena
     - ramon-sanguesa

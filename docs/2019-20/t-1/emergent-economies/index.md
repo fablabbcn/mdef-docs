@@ -3,7 +3,7 @@ title: Emergent Economies
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2019-20/t-1/emergent-economies.png
+feature_img: /assets/images/2019-20/t-1/emergent-economies.jpg
 img_caption: 
 faculty: 
     - carlos-steinblock

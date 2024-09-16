@@ -100,7 +100,7 @@ nav:
           - Digital Prototyping for Design: 2023-24/year-1/t-3/digital-prototyping-for-design/index.md
       - Year 2:
         - 2023-24/year-2/index.md
-        - Calendar: 2023-24/year-2/calendar/index.md
+        # - Calendar: 2023-24/year-2/calendar/index.md
         - Thesis Project: 2023-24/year-2/modules/thesis-project/index.md
         - Research & Methods: 2023-24/year-2/modules/research-methods/index.md
         - Circular Matter: 2023-24/year-2/modules/circular-matter/index.md
@@ -120,7 +120,7 @@ nav:
         - Design Studio: 2022-23/t-1/design-studio-framing-design-interventions/index.md
         - Extended Intelligence: 2022-23/t-1/extended-intelligences/index.md
         - Living with Your Own Ideas: 2022-23/t-1/living-with-your-own-ideas/index.md
-        - Bootcamp: 2022-23/t-1/mdef-bootcamp/index.md
+        - Bootcamp: 2022-23/t-1/bootcamp/index.md
         - Tech Beyond the Myth: 2022-23/t-1/tech-beyond-the-myth/index.md
       - Term 2:
         - 2022-23/t-2/index.md
@@ -150,7 +150,7 @@ nav:
         - Design Studio: 2021-22/t-1/design-studio-framing-interventions/index.md
         - Extended Intelligences: 2021-22/t-1/extended-intelligences/index.md
         - Living With Your Own Ideas: 2021-22/t-1/living_with-your-own-ideas/index.md
-        - MDEF Bootcamp: 2021-22/t-1/mdef-bootcamp/index.md
+        - Bootcamp: 2021-22/t-1/bootcamp/index.md
         - Tech Beyond the Myth: 2021-22/t-1/tech-beyond-the-myth/index.md
       - Term 2:
         - 2021-22/t-2/index.md
@@ -204,7 +204,7 @@ nav:
         - The Almost Useful Machines: 2019-20/t-1/almost-useful-machine/index.md
         - Atlas of Weak Signals: 2019-20/t-1/atlas-of-weak-signals/index.md
         - Bio Agri Zero: 2019-20/t-1/bio-agri-zero/index.md
-        - MDEF Bootcamp: 2019-20/t-1/bootcamp/index.md
+        - Bootcamp: 2019-20/t-1/bootcamp/index.md
         - Design for the Real Digital World: 2019-20/t-1/design-collective-intelligence/index.md
         #- 2019-20/t-1/design-dialougues/index.md
         - Emergent Economies: 2019-20/t-1/emergent-economies/index.md

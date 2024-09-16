@@ -3,7 +3,7 @@ title: Design for the New
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2018-19/t-3/design-for-the-new.png
+feature_img: /assets/images/2018-19/t-3/design-for-the-new.jpg
 img_caption: 
 faculty: 
     - markel-cormenzana

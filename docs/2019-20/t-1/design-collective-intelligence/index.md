@@ -3,7 +3,7 @@ title: Design for the Real Digital World
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2019-20/t-1/design-collective-intelligence.png
+feature_img: /assets/images/2019-20/t-1/design-collective-intelligence.jpg
 img_caption: 
 faculty: 
     - ingi-guojonsson

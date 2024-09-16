@@ -3,7 +3,7 @@ title: Design Studio
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2019-20/t-3/design-studio.png
+feature_img: /assets/images/2019-20/t-3/design-studio.jpg
 img_caption: 
 faculty: 
     - tomas-diez

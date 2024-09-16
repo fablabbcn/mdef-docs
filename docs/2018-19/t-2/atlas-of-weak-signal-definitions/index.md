@@ -3,7 +3,7 @@ title: Atlas of Weak Signals - Definitions
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2018-19/t-2/atlas-of-weak-signals-definitions.png
+feature_img: /assets/images/2018-19/t-2/atlas-of-weak-signals-definitions.jpg
 img_caption: 
 faculty: 
     - jose-luis

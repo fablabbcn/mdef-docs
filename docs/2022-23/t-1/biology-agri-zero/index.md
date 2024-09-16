@@ -3,7 +3,7 @@ title: Biology & Agri
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2022-23/t-1/biology-agri-zero.png
+feature_img: /assets/images/2022-23/t-1/biology-agri-zero.jpg
 img_caption: 
 faculty: 
     - nuria-conde

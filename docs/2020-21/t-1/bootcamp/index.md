@@ -3,7 +3,7 @@ title: Bootcamp
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2020-21/t-1/bootcamp.png
+feature_img: /assets/images/2020-21/t-1/bootcamp.jpg
 img_caption: 
 faculty: 
     - oscar-tomico

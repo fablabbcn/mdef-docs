@@ -3,7 +3,7 @@ title: Biology & Agri Zero
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2020-21/t-1/bio-agri-zero.png
+feature_img: /assets/images/2020-21/t-1/bio-agri-zero.jpg
 img_caption: 
 faculty: 
     - nuria-conde

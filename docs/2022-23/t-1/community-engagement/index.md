@@ -3,7 +3,7 @@ title: Community Engagement
 page_type: course
 track:
 course_type:
-feature_img: /assets/images/2022-23/t-1/community-engagement.png
+feature_img: /assets/images/2022-23/t-1/community-engagement.jpg
 img_caption: 
 faculty: 
     - merce-rua
