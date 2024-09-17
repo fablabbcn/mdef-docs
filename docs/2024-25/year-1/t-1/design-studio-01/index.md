@@ -37,7 +37,7 @@ The first term Design Studio aims to create a solid ground for the students to s
 
 The specific goals are the following:
 
-1. To develop a critical position in the student’s design practice.
+1. Develop a critical position in the student’s design practice.
 2. Define possible areas of intervention, based on the Atlas of the Week Signals.
 3. Prototype an alpha version of the design space and iterate.
 4. To build personal and collective repositories of resources.
