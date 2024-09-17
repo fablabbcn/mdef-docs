@@ -7,7 +7,6 @@ feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
 img_caption: Design Dialogues, 2022, Barcelona
 faculty:
     - guillem-camprodon
-    - tomas-diez
     - jana-tothill
     - roger-guilemany
 ects: 12
