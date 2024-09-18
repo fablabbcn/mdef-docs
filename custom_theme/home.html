@@ -4,7 +4,8 @@
 
 {% block tabs %}
   {{ super() }}
-<canvas></canvas>
+<!-- <canvas></canvas> -->
+<div id="background-box"></div>
 <section id="header">
 
   <!-- <img src="/assets/images/landing/mdef-parallax-bg.jpg" id="background-pixels"> -->
@@ -214,43 +215,43 @@
   </section>
   <section id="carousel">
     <div class="carousel-image-wrapper">
-      <img class="carousel-block slide-in" src="/assets/images/landing/fab-lab.jpg" alt="">
+      <img class="carousel-block slide-in" src="/assets/images/landing/fab-lab.jpg" alt="" style="display: block;">
       <div class="carousel-text-wrapper">
-        <div class="carousel-text">
+        <div class="carousel-text" style="display: block;">
           <h3>Fab Lab Barcelona</h3>
           <h4>A world leader of programs for the future of education</h4>
             <p>Fab Lab Barcelona was established in 2007 by IAAC as the first Fab Lab in the European Union. Today, it is a benchmark in a network of over 2000 Fab Labs, blending emergent technologies with community-driven innovation. It is home to the Distributed Design platform, the exchange and networking hub for the European maker movement.</p>
             <p><a href="https://fablabbcn.org/" target="_blank">https://fablabbcn.org/</a></p>
         </div>
-        <div class="carousel-number">
+        <div class="carousel-number" style="display: block;">
           <p class="imagenumber">1/3</p>
         </div>
       </div>
     </div>
     <div class="carousel-image-wrapper">
-      <img class="carousel-block slide-in" src="/assets/images/landing/iaac.jpg" alt="">
+      <img class="carousel-block slide-in" src="/assets/images/landing/iaac.jpg" alt="" style="display: none;">
       <div class="carousel-text-wrapper">
-        <div class="carousel-text">
+        <div class="carousel-text" style="display: none;">
           <h3>The Institute for Advanced Architecture of Catalonia</h3>
           <h4>An international centre for research, education, production and outreach</h4>
           <p>The Institute for Advanced Architecture of Catalonia (IAAC) is an international centre for research, education, production and outreach, with the mission of envisioning the future habitat of our society and building it in the present.</p>
           <p><a href="https://iaac.net/" target="_blank">https://iaac.net/</a></p>
         </div>
-        <div class="carousel-number">
+        <div class="carousel-number" style="display: none;">
           <p class="imagenumber">2/3</p>
         </div>
       </div>
     </div>
     <div class="carousel-image-wrapper">
-      <img class="carousel-block slide-in" src="/assets/images/landing/elisava.jpeg" alt="">
+      <img class="carousel-block slide-in" src="/assets/images/landing/elisava.jpeg" alt="" style="display: none;">
       <div class="carousel-text-wrapper">
-        <div class="carousel-text">
+        <div class="carousel-text" style="display: none;">
           <h3>Elisava</h3>
           <h4>Training professionals who will challenge the future</h4>
           <p>ELISAVA Barcelona School of Design and Engineering is the pioneer academy in this field in Spain, with more than half a century of experience. Founded in 1961, it promotes education, knowledge, research, development and innovation on design.</p>
           <p><a href="https://www.elisava.net/en/" target="_blank">https://www.elisava.net/</a></p>
         </div>
-        <div class="carousel-number">
+        <div class="carousel-number" style="display: none;">
           <p class="imagenumber">3/3</p>
         </div>
       </div>
@@ -272,40 +273,13 @@
 
 <style>
   
-    body {
+  body {
     font-size: 1em;
-    /* background-image: #001aff23; */
-  }
-  /* nav {
-    display: none;
-  } */
-  /* Remove spacing, as we cannot hide it completely */
-  /* .md-main__inner {
-    margin: 0;
-  } */
-
-  /* Hide main content for now */
-  /* .md-content {
-    display: none;
-  }
-  .md-header {
-    position: static;
-    display: none;
-    transition: ease-in-out all 0.3s;
   }
   .md-tabs {
-    display: none;
-    transition: ease-in-out all 0.3s;
+    font-size: 10px;
   }
-  nav.md-grid {
-    display: none;
-    transition: ease-in-out all 0.3s;
-  }
-  nav .md-grid {
-    display: none;
-    transition: ease-in-out all 0.3s;
-  } */
-  canvas {
+  #background-box {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -323,6 +297,7 @@
     margin-bottom: 20px;
     position: relative;
   }
+
   #mdef-h1 {
     text-align: center;
     font-size: 50px;
@@ -626,10 +601,6 @@
     color: var(--md-default-bg-color);
     cursor: pointer;
   }
-  /* .apply-button:hover {
-    cursor: pointer;
-    box-shadow: 0px 0px 50px var(--md-accent-fg-color), 0 0 1em var(--md-accent-fg-color), 0 0 0.2em var(--md-accent-fg-color);
-  } */
   .project-block img {
     width: 100%;
     padding: 0px;
@@ -930,15 +901,6 @@
     justify-content: center;
     flex-direction: column;
   }
-
-  /* .md-main {
-    justify-content: center;
-    z-index: 1;
-  } */
-
-  /* .md-content {
-    display: initial;
-  } */
   .md-footer {
     z-index: 1;
   }
@@ -956,28 +918,11 @@
     font-size: 18px;
     margin: 0px;
   }
-  /* iframe {
-    width: 100%;
-    aspect-ratio: 16/9;
-  } */
   .main-home section {
     padding-top: 15px;
   }
 
   @media only screen and (min-width: 960px) {
-
-    /* .main-home .md-sidebar.md-sidebar--primary {
-      width: 0px;
-    }
-    .main-home .md-sidebar.md-sidebar--secondary {
-      width: 0px;
-    }
-    .main-home .md-content {
-      width: 100%;
-    }
-    .md-main {
-    display: grid;
-    } */
     #highlighted-projects {
       padding: 50px 0px;
     }
@@ -1092,9 +1037,6 @@
     }
   }
   @media only screen and (min-width: 1220px){
-    /* #about {
-      height: calc(100vh - 112px);
-    } */
     #about .two-column-text {
       display: flex;
       flex-direction: row;
@@ -1125,237 +1067,92 @@
 <!-- Application footer -->
 {% block footer %}
 {{ super() }}
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 
-
-
-<!-- <script>
-
-  window.addEventListener('scroll', function(){
-    if (document.querySelectorAll("#parallax").length == 1){
-      let bg = document.getElementById("bg");
-      let letters = document.getElementById("letters");
-      let leftBracket = document.getElementById("left");
-      let rightBracket = document.getElementById("right");
-      let image = document.getElementById("image");
-      var value = window.scrollY;
-      leftBracket.style.top = value * 0.5 + "px";
-      leftBracket.style.left = -value * 0.5 + "px";
-      rightBracket.style.left = value * 0.5 + "px";
-      rightBracket.style.top = -value * 0.5 + "px";
-      letters.style.opacity = 100 - (value * 0.5) + "%";
-      image.style.opacity = value * 0.3 + "%";
-      leftBracket.style.opacity = 100 - (value * 0.15) + "%";
-      rightBracket.style.opacity = 100 - (value * 0.15) + "%";
-    }
-  })
-</script>
--->
 <script>
+  window.addEventListener('load', function() {
+    let slideIndex = 1;
+    setInterval(function () {
+      try {
+        showSlides();
+      } catch (e) {}
+    }, 6000)
 
+    let projectCounter = 0;
+    const projects = document.querySelectorAll(".button");
+    const projectsBlock = document.querySelectorAll(".project-block");
+    const projectsIntro = document.querySelectorAll(".three-grid-projects");
+    const projectsDescription = document.querySelectorAll(".project-description");
+    const projectsDescriptionContainer = document.querySelectorAll(".project-description-container");
+    const close = document.querySelectorAll(".close-project");
 
-  let canvas = document.querySelector("canvas");
-  let context = canvas.getContext("2d");
-
-  let screenWidth, screenHeight;
-  let slideIndex = 0;
-  showSlides();
-
-  screenWidth =  window.innerWidth*5;
-  screenHeight = document.body.scrollHeight*5;
-
-  canvas.width = screenWidth;
-  canvas.height = screenHeight;
-
-  console.log(screenWidth);
-  console.log(screenHeight);
-
-  // drawCanvas();
-
-  let projectCounter = 0;
-  const projects = document.querySelectorAll(".button");
-  const projectsBlock = document.querySelectorAll(".project-block");
-  const projectsIntro = document.querySelectorAll(".three-grid-projects");
-  const projectsDescription = document.querySelectorAll(".project-description");
-  const projectsDescriptionContainer = document.querySelectorAll(".project-description-container");
-  const close = document.querySelectorAll(".close-project");
-
-  for (let a = 0; a < projects.length; a++){
-    projects[a].onclick = function() {
-    projectsDescription[a].style.display = "flex";
-    projectsDescriptionContainer[a].style.display = "flex";
-      for (let b = 0; b < projects.length; b++){
-      close[b].onclick = function() {
-      projectsDescription[b].style.display = "none";
-      projectsDescriptionContainer[b].style.display = "none";
+    for (let a = 0; a < projects.length; a++){
+      projects[a].onclick = function() {
+      projectsDescription[a].style.display = "flex";
+      projectsDescriptionContainer[a].style.display = "flex";
+        for (let b = 0; b < projects.length; b++){
+        close[b].onclick = function() {
+        projectsDescription[b].style.display = "none";
+        projectsDescriptionContainer[b].style.display = "none";
+        }
+        projectsDescriptionContainer[b].onclick = function() {
+        projectsDescription[b].style.display = "none";
+        projectsDescriptionContainer[b].style.display = "none";
+        }
+        }
       }
-      projectsDescriptionContainer[b].onclick = function() {
-      projectsDescription[b].style.display = "none";
-      projectsDescriptionContainer[b].style.display = "none";
-      }
-      }
-    }
-    projectsBlock[a].onclick = function() {
-    projectsDescription[a].style.display = "flex";
-    projectsDescriptionContainer[a].style.display = "flex";
-      for (let b = 0; b < projects.length; b++){
-      close[b].onclick = function() {
-      projectsDescription[b].style.display = "none";
-      projectsDescriptionContainer[b].style.display = "none";
-      }
-      projectsDescriptionContainer[b].onclick = function() {
-      projectsDescription[b].style.display = "none";
-      projectsDescriptionContainer[b].style.display = "none";
-      }
+      projectsBlock[a].onclick = function() {
+      projectsDescription[a].style.display = "flex";
+      projectsDescriptionContainer[a].style.display = "flex";
+        for (let b = 0; b < projects.length; b++){
+        close[b].onclick = function() {
+        projectsDescription[b].style.display = "none";
+        projectsDescriptionContainer[b].style.display = "none";
+        }
+        projectsDescriptionContainer[b].onclick = function() {
+        projectsDescription[b].style.display = "none";
+        projectsDescriptionContainer[b].style.display = "none";
+        }
+        }
       }
     }
-  }
-
-  // window.onclick = headerVisible;
-  // window.onload = headerVisible;
-
-  // function headerVisible () {
-
-  //   if (innerWidth < 960){
-  //     document.querySelector("#fridge").style.top="60px";
-  //     document.querySelector("#live-stream").style.top="80px";
-  //     document.querySelector(".md-header").style.display="block";
-  //     document.querySelectorAll("nav .md-grid")[0].style.display="block";
-  //     document.querySelectorAll("nav.md-grid")[0].style.display="flex";
-  //   } else if (innerWidth < 1220){
-  //     document.querySelector("#fridge").style.top="80px";
-  //     document.querySelector("#live-stream").style.top="100px";
-  //     document.querySelector(".md-header").style.display="block";
-  //     document.querySelectorAll("nav .md-grid")[0].style.display="block";
-  //     document.querySelectorAll("nav.md-grid")[0].style.display="flex";
-  //     document.querySelector("#header").style.height="95vh";
-  //   } else {
-  //     document.querySelector("#fridge").style.top="80px";
-  //     document.querySelector("#live-stream").style.top="100px";
-  //     document.querySelector(".md-header").style.display="block";
-  //     document.querySelector(".md-tabs").style.display="block";
-  //     document.querySelectorAll("nav .md-grid")[0].style.display="block";
-  //     document.querySelectorAll("nav.md-grid")[0].style.display="flex";
-  //     document.querySelector("#header").style.height="95vh";
-  //   }
-  // }
-
-  // window.addEventListener('resize', () => {
-  //   screenWidth =  window.innerWidth*5;
-  //   screenHeight = document.body.scrollHeight*5;
-
-  //   canvas.width = screenWidth;
-  //   canvas.height = screenHeight;
-
-  //   console.log(screenWidth);
-  //   console.log(screenHeight);
-
-  //   document.querySelector(".md-header").style.display="none";
-  //   document.querySelector(".md-tabs").style.display="none";
-  //   document.querySelectorAll("nav .md-grid")[0].style.display="none";
-  //   document.querySelectorAll("nav.md-grid")[0].style.display="none";
-  //   document.querySelector("#fridge").style.top="";
-  //   document.querySelector("#live-stream").style.top="";
-  //   document.querySelector("#header").style.height="";
-
-  //   drawCanvas();
-
-  //   if (innerWidth < 960){
-  //     for (let a = 0; a < projectsDescription.length; a++){
-  //       projectsDescription[a].style.display = "flex";
-  //       projectsDescriptionContainer[a].style.display = "flex";
-  //     }
-  //   } else if (innerWidth > 960){
-  //     for (let a = 0; a < projectsDescription.length; a++){
-  //       projectsDescription[a].style.display = "none";
-  //       projectsDescriptionContainer[a].style.display = "none";
-  //     }
-  //     }
-  // })
-
-
-  // document.addEventListener("change", changeMode);
-
-  // function changeMode() {
-  // document.querySelector("body").getAttribute('data-md-color-scheme');
-  // drawCanvas ();
-  // }
-
-  // function clear(){
-  //   context.clearRect(0, 0, screenWidth, screenHeight);
-  // }
-
-  // function drawCanvas () {
-
-  //   clear ();
-
-  //   console.log(getComputedStyle(document.body).getPropertyValue('--md-primary-fg-color'));
-  //   let primaryColor = getComputedStyle(document.body).getPropertyValue('--md-primary-fg-color');
-  //   context.strokeStyle = primaryColor;
-
-  //   context.fillStyle = '#001aff23';
-  //   context.fillRect(0, 0, screenWidth, screenHeight);
-
-  //   context.lineWidth = 10;
-  //   context.save();
-  //   context.beginPath();
-  //   context.moveTo(screenWidth/25, 0);
-  //   context.lineTo(screenWidth/25, screenHeight);
-  //   context.stroke();
-  //   context.restore();
-
-  //   context.save();
-  //   context.beginPath();
-  //   context.moveTo((screenWidth-(screenWidth/25)), 0);
-  //   context.lineTo((screenWidth-(screenWidth/25)), screenHeight);
-  //   context.stroke();
-  //   context.restore();
-
-  //   context.save();
-  //   context.beginPath();
-  //   context.moveTo(screenWidth/2, 0);
-  //   context.lineTo(screenWidth/2, screenHeight);
-  //   context.stroke();
-  //   context.restore();
-  // }
 
   function showSlides() {
-  let i;
-  let slides = document.getElementsByClassName("carousel-block");
-  let descriptionSlide = document.getElementsByClassName("carousel-text");
-  let numberSlide = document.getElementsByClassName("carousel-number");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-    descriptionSlide[i].style.display = "none";
-    numberSlide[i].style.display = "none";
+    let i;
+    let slides = document.getElementsByClassName("carousel-block");
+    let descriptionSlide = document.getElementsByClassName("carousel-text");
+    let numberSlide = document.getElementsByClassName("carousel-number");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      descriptionSlide[i].style.display = "none";
+      numberSlide[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
+    slides[slideIndex-1].style.display = "block";
+    descriptionSlide[slideIndex-1].style.display = "block";
+    numberSlide[slideIndex-1].style.display = "block";
   }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}
-  slides[slideIndex-1].style.display = "block";
-  descriptionSlide[slideIndex-1].style.display = "block";
-  numberSlide[slideIndex-1].style.display = "block";
-  setTimeout(showSlides, 6000); // Change image every 6 seconds
-}
 
-const popupOverlay = document.querySelector(".popup-overlay");
-const popup = document.querySelector(".video-popup iframe");
+  const popupOverlay = document.querySelector(".popup-overlay");
+  const popup = document.querySelector(".video-popup iframe");
 
-const videoButton = document.querySelectorAll(".video-button");
+  const videoButton = document.querySelectorAll(".video-button");
 
-videoButton.forEach((link) => {
-  link.addEventListener("click", () => {
-    popupOverlay.classList.add("active");
-    let videoLink = `https://www.youtube.com/embed/${link.dataset.link}?controls=0&rel=0`;
-    popup.src = videoLink;
-    document.querySelector(".ytp-expand-pause-overlay .ytp-pause-overlay").style.display="none";
+  videoButton.forEach((link) => {
+    link.addEventListener("click", () => {
+      popupOverlay.classList.add("active");
+      let videoLink = `https://www.youtube.com/embed/${link.dataset.link}?controls=0&rel=0`;
+      popup.src = videoLink;
+      document.querySelector(".ytp-expand-pause-overlay .ytp-pause-overlay").style.display="none";
+    });
   });
-});
 
-popupOverlay.addEventListener("click", () => {
-  popupOverlay.classList.remove("active");
-  let videoLink = `https://www.youtube.com/embed/`;
-  popup.src = videoLink;
-});
+  popupOverlay.addEventListener("click", () => {
+    popupOverlay.classList.remove("active");
+    let videoLink = `https://www.youtube.com/embed/`;
+    popup.src = videoLink;
+  });
 
+})
 </script>
 {% endblock %}
