@@ -1060,13 +1060,11 @@
       top: 250px;
     }
   }
+  /* Hack for the issue on the git info */
+  ul.md-source__facts:nth-child(2) {
+    display: none;
+  }
 </style>
-
-{% endblock %}
-
-<!-- Application footer -->
-{% block footer %}
-{{ super() }}
 
 <script>
   // window.addEventListener('load', function() {
