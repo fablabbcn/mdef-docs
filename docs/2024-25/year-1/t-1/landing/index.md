@@ -7,8 +7,8 @@ feature_img: /assets/images/2024-25/year-1/t-1/landing.jpeg
 # img_caption:
 faculty:
     - guillem-camprodon
-    - tomas-diez
-    - laura-benitez
+    - alejandra-tothill
+    - roger-guilemany
     - milena-calvo
     - josep-marti
     - pablo-zuloaga
@@ -28,7 +28,7 @@ Knowing the importance to understand where and with whom we will be sharing this
 The Landing Week of MDEF aims to offer students the opportunity to connect with the ecosystem around the program, including students, faculty, staff, spaces and organizations that make it possible to create an ever evolving learning space around it.
 
 - Connect with fellow students and learn about the diversity of culture and professional profiles of the class.
-- Understand and learn from the research interests of each one of the directors, Tomas Diez, Laura Benitez and Guillem Camprodon. 
+- Understand and learn from the research interests of each one of the directors and the organizing Institutions.
 - Learn about the opportunities offered by each of the campuses involved in the program, Elisava, IAAC and Fab Lab Barcelona. 
 - Explore and connect with spaces and organizations in the Poblenou and the City of Barcelona, which students will potentially collaborate with. 
 - Share the first ideas for students to align their purpose as designers and make the first steps to define their new designer profile.
@@ -39,55 +39,49 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
 ## Schedule
 
-=== "02/10"
+=== "01/10"
 
     **15:00** - Opening of IAAC’s Academic Year at Pujades 102
 
-=== "03/10"
+=== "02/10"
 
-    **10:30-11:30** - Welcome speech by MDEF’s Directors
+    **9:30-10:30** - Welcome by MDEF staff and Introduction to the Master program by Guillem Camprodon
 
-    **11:30-12:00** - Introduction to the Master program by Tomas Diez and Guillem Camprodon
-
-    **12:00-12:20** - Connection with faculty
+    **10:30-11:00** - Connection with faculty
 
     **Break**
 
-    **12:30-14:00** - Students Intro - What's your purpose by Laura Benitez
+    **11:30-13:30** - Students Intro - Pick your purpose
+
+    **Lunch break**
+
+    **16:00-17:00** - Directors' research agenda - Guillem Camprodon, Emergent Tech
+
+    **17:00-18:00** - Inspirational talk - Nadya Peak
 
 
-=== "04/10"
+=== "03/10"
 
-    **11:00-12:30** - Directors' research agenda - Guillem Camprodon, Emergent Tech
-
-    **12:30-12:45** - Break
-
-    **13:00-14:15** - Directors’ research agenda - Tomas Diez, Meaningful Design
-
-    **15:00-18:00** - Exploring the Poblenou ecosystem - Chiara Dall’Olio, Milena Juarez
+    **9:30-13:30** - Exploring the Poblenou ecosystem - Chiara Dall’Olio, Milena Juarez
 
     **Planned visits**: 22@ introduction, Poblenou Urban District, TansfoLAB BCN, Biciclot, Bioma
 
-=== "05/10"
+        **Lunch break**
 
-    **10:00-11:30** - Communicating the MDEF journey - Pablo Zuloaga
+    **14:30-16:00** - Communicating the MDEF journey - Pablo Zuloaga
 
-    **12:00-14:00** - Building an online bitacora and portfolio, the MDEF digital garden - Santi Fuentemilla
+        **Break**
 
-    **Resources:**
-
-    - [How to set up your documentation - Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/git-mkdocs/)
+    **16:30-18:30** - Building an online bitacora and portfolio, the MDEF digital garden - Josep Martì
 
 
-=== "06/10"
+=== "04/10"
 
     **9:30-10:00** - Welcome to Elisava MDEF campus
 
     **10:00-11:45** - Visit & training for the Prototype Workshop, Motion Capture room and Graphic Workshop
 
-    **11:45-12:15** - Elisava facilities visit + break
-
-    **12:15-13:30** - Directors research agenda - Laura Benitez
+    **11:45-12:30** - Elisava facilities visit 
 
 
 ## Deliverables
