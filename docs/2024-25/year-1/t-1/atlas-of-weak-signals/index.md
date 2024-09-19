@@ -1,68 +1,84 @@
 ---
-title: Atlas of Weak Signals
+title: Design Studio Intro Week
 page_type: course
-track: Reflection
+track: Application
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-1/atlas-of-weak-signal.jpeg
+feature_img: /assets/images/2024-25/year-1/t-1/design-studio-intro-week.jpeg
 img_caption: Image Credits | AoWS Workshop @ Space10 / Fab Lab Barcelona
 faculty:
     - jana-tothill
-ects: 1
+    - roger-guilemany
+ects: 
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-In designing for emergent futures, an Atlas of Weak Signals serves as a visible methodology and structure to situate students, designers and a wide range of professionals from different fields, enabling them to start identifying potential intervention opportunities. It offers immediate keywords for research and experimentation and provides a starter *design space* to gain confidence and direction on where to begin, allowing for students and faculty to find design and intervention contexts and opportunities.
+This three-day design course is focused on equipping students with the skills and knowledge to tackle the complexities of emergent challenges through alternative presents. The course is structured to provide a comprehensive base for students as they embark on their projects. We will explore present weak signals in order to identify strategies to anticipate emergent futures. Activities will include introduction to the tool Atlas of Weak Signals, mapping ecosystems and first-person design experiments, all of which will be interconnected with each student's personal design space. The course will be dynamic, featuring presentations, group activities, short exercises, and one-to-one support.
 
-A design space is: A navigational tool in the design practice to ground reflection. Visual databases to collect references, projects, materials, prototypes, etc.
+**Keywords: Alternative Presents, Design Space, Multi-Scale Mapping, Atlas of Weak Signals, First Person Perspective, Community of Practice**
 
-The goal of this first Atlas of Weak Signals week is to give the students a general overview of the signals and toolkit that constitute the ongoing Atlas, a showcase of the research projects developed by former students and research faculty, and finally, a glimpse into a specific context which offers a hyper-local and situated view of some of the possible vectors that the Atlas presents.
+## Learning Objectives
+
+1. Comprehend Social and Critical Ecologies: Understand how design practices integrate into and influence social and critical ecologies, enabling the creation of alternative narratives that challenge existing paradigms.
+2. Utilize Design Spaces: Familiarize with Design Spaces as a dynamic tool to guide research and design processes, visually representing the contextual social and critical factors that shape ongoing design inquiries.
+3. Identify and Analyze Weak Signals: Get to know the methodology of the Atlas of Weak Signals to identify early indicators of change, using these signals to explore potential intervention opportunities and construct plausible future scenarios.
+4. Explore and Map Socio-Technical Systems: Explore, develop, and document the relationships within socio-technical systems, fostering a holistic understanding of the interplay between designed systems and their contexts.
+
 
 ## Schedule
 
-**Total Duration:** 6h hours
+Oct **8th, 9th & 10th**, 2024
 
-Oct **10th & 11th**, 2023
+=== "08/10"
 
-=== "10/10"
+    **Goals**: The primary objective is to enable students to comprehend how their practices become integrated into social and critical ecologies, allowing them to present alternative presents that disrupt existing continuities. The aim is to familiarize students with Design Spaces, a dynamic tool designed to serve as a guide for actively immersing researchers and practitioners  in their design processes. It provides a visual representation of the contextual social and critical ecologies for ongoing design enquiries. Design Spaces are versatile, allowing students to continuously employ, assess, and question its effectiveness as they navigate the intricacies of the course. This ongoing interaction with the tool ensures a hands-on and reflective engagement with the complexities of design, fostering a deeper understanding of the ever-evolving social and critical dimensions that influence the design process.
 
-    Tuesday - **Introduction to the Course and the Toolkit** 
+    **Activity**: Create your design space. This exercise is geared towards establishing a pivotal Design Space, a crucial tool integral to the overarching First Person Perspective (1PP) research process.
 
-    **10:00-13:00h**
 
-    **Modality**: *In-Person. Location (TBC)*
+=== "09/11"
 
-    An exercise will be given to complete in the afternoon as individual work.
+    **Goals**: Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
 
-    Assignment
-
+    **Activity**: Play a round of AOWS together + make it your own.
+    
 
 === "10/11"
 
-    Wednesday - **Weak Signals application / Work on the Multiscalar Design Space**
+    **Goals**: To effectively interact with social and critical ecologies through a First Person Perspective (1PP), it is essential to cultivate an understanding of the tools, material elements, infrastructures, communities of practice, and social networks integral to the socio-technical system under design. The exercises in this session present both a methodology and a structured system designed to facilitate the exploration, development, and documentation of these crucial references and relationships. These activities aim to provide students with a comprehensive and insightful understanding of the intricate interplay between the designed system and its contextual elements, fostering a holistic perspective on socio-technical landscapes.
 
-    **10:00-13:00h**
-    
-    **Modality**: *In person, Iaac Classroom*
+    **Activity**: My community of practice exercise + Multiscalar mapping exercise.
+
+## Methodological Strategies
+
+Methodological strategies that will allow the development of the learning skills and results.
+- Lectures
+- Desk-Crits
+- Workshops
+- Presentations and feedback
+
+Learning strategies associated with the program experience.
+
+- Peer learning
+- Team-based learning
+- Gamification
+- Visual thinking
+
 
 ## Deliverables
 
-One post on the personal student website with a reflection regarding their Atlas of weak signal design space. This reflection should include an introspective view concerning the benefits (or not) of the tool provided. High resolution image of their first Multiscalar Design Space.
+Develop your final design space as an evolving tool to accompany you through your journey in MDEF. Prepare a small presentation to share in class encompassing your reflections, process and results. 
+**Delivery date October 21st**
 
-## Additional Resources
-
-[Diez, T., Tomico, O., & Quintero, M. (2020). Exploring Weak Signals to Design and Prototype for Emergent Futures. Temes de Disseny, 36, 70–89.](https://doi.org/10.46467/tdd36.2020.70-89
-https://www.elisava.net/en/publications/temes-de-disseny-36-design-futures-now-literacies-and-making) 
-
-[O. T., M. Q., & G. E. (2021, June 11). Design Futures Scouting. A First Person Perspective (1PP) approach to futures scouting through making.](http://www.fuel4design.org/index.php/design-futures-scouting/)
 
 ## Grading Method
 
-!!! info ""
-
-    :fontawesome-solid-circle-info:{ .icon-padding-right } **Grading criteria will be defined by faculty during the module.**
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 50%         | Participation in the Activities of the Week          |
+| 50%         | Final Reflection + Multiscalar Design Space                                 |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
