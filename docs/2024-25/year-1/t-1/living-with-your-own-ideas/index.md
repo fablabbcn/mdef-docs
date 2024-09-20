@@ -2,7 +2,7 @@
 title: Living with Your Own Ideas
 page_type: course
 track: Reflection
-course_type: Short Course
+course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.png
 img_caption: New Faces, New Identities, 2020. DOES
 faculty:
