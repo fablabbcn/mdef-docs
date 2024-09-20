@@ -32,7 +32,7 @@ Access to the means of experimentation for the investigative and applied science
 
 ## Schedule
 
-=== "25/11"
+=== "26/11"
 
     **9:30 - 11:30**
 
@@ -46,7 +46,7 @@ Access to the means of experimentation for the investigative and applied science
     
     **Practical** - Making Petris
 
-=== "26/11"
+=== "27/11"
 
     **9:30 - 11:30**
 
@@ -56,7 +56,7 @@ Access to the means of experimentation for the investigative and applied science
 
     **Practical** - Microscopy
 
-=== "27/11"
+=== "28/11"
 
     **9:30 - 11:30**
 
