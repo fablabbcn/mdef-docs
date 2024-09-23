@@ -39,50 +39,79 @@ Students after completion of the course should be able to:
 
     ***9:30-13:30***
     
-    **Class with Marta Delatte on Design Justice**
+    **Class with *Marta Delatte* on *Design Justice* **
     
-    Class with Marta Delatte on Design Justice
-Rethinking traditional design processes and frameworks to prioritize social equity, inclusion, and justice. It would explore how design—whether in technology, architecture, urban planning, or other fields—can perpetuate or disrupt existing systems of oppression. The session would emphasize the importance of centering “marginalized” communities in the design process, ensuring their needs, experiences, and knowledge guide the outcomes. The class would be encouraged to critically analyze our work not as neutral but as an influential force for either maintaining or challenging social-political inequities.
+    Rethinking traditional design processes and frameworks to prioritize social equity, inclusion, and justice. It would explore how design—whether in technology, architecture, urban planning, or other fields—can perpetuate or disrupt existing systems of oppression. The session would emphasize the importance of centering “marginalized” communities in the design process, ensuring their needs, experiences, and knowledge guide the outcomes. The class would be encouraged to critically analyze our work not as neutral but as an influential force for either maintaining or challenging social-political inequities.
 [www.designjustice.org](https://designjustice.org/)
     
 === "20/11"
 
     ***9:30-11:30***
 
-    **Session with Laura Benítez on Other(ness)**
+    **Session with *Laura Benítez* on *Other(ness)* **
     
     In the first part of the session, we will explore the concept of "the Other" and its central role in shaping contemporary philosophical, social, and ethical thinking. The session will also introduce how contemporary debates approach the notion, experience, and construction of the "Other." (Ethics of alterity/otherness).
 
     ***11:30-13:30***
 
-    **Visit to Salamina - eemeemee** 
+    **Visit to *Salamina* - *eemeemee* ** 
 
     In the second part of the session, we will visit Salamina, a shared workspace in an industrial building in L'Hospitalet. We will visit one of the resident collectives, eemeemee [Enclave Micopirata Mutante], whose purpose is to maintain a community network to share processes and knowledge generated around DIWO mycology. Each of the participants in the network carries out on their own and collectively in the field of mycology and mushroom cultivation, both for food sovereignty purposes and for the development of tools for bioremediation of the territory or the discussion of ecological and interspecific relationships and hierarchies.
 [www.eemeemeee.org](https://eemeemeee.org/doku.php?id=inicio)
- 
 
+=== "21/11"
+
+    ***9:30-11:30***
+
+    **Session with *Laura Benítez* on *Agency and situated epistemologies* **
+    
+    This session explores critical concepts from contemporary philosophy, social theory, and feminist science studies to examine how human and non-human entities influence and relate to each other in dynamic systems. It is focused on shifting away from traditional views of agency as an individual trait toward more relational, interconnected models of action. Rethinking agency beyond individual autonomy emphasises a network of relationships and intra-actions that create possibilities and onto-ethical-epistemological challenges in contemporary life.
+
+    ***11:30-13:30***
+
+    **Visit to *Mutan Monkey* ** 
+
+    In the second part of the session, we will visit the Mutan Monkey project. MUTAN- LAB sound research was born in Barcelona, in the beautiful neighborhood of Horta, in 2018. The space was built collectively, DIY/DIT between Mutan Monkey Instruments and the musical collective Ojalä este mi Bici is established as a cultural association of sound research focused on electronics and electroacoustics. The space works in a collective self-management way and wants to promote the exchange of knowledge and the creation of new forms to enable other ways of generating music and experimental sound. 
+[www.mutanmonkeyinstruments.com/es](https://www.mutanmonkeyinstruments.com/es)
+ 
+=== "22/11"
+
+    ***9:30-11:30***
+
+    **Session with *Laura Benítez* - *Beyond local territories* **
+    
+    This session focuses on territoriality and third spaces. The proposal addresses notions of territory and community beyond the simple local-global scale. The generation of communities and collaboration does not occur only in encounters within the same territory. We will explore different notions and projects to help us think about a design with others beyond local territories. 
+
+
+    ***11:30-13:30***
+
+    **Visit to *BeAnotherLab* (TBC)** 
+
+    We will visit the collective/project Be another lab in the second part of the session. 
+BeAnotherLab works at the intersection of art, science and technology. We question the hierarchies between these different ways of knowing and approach them as complementary, overlapping bodies of knowledge. BeAnotherLab is a not-for-profit cultural association registered in Barcelona. Their innovations are licensed under the Creative Commons Share-Alike License. They are driven by an action-research approach, and the laboratory has developed a range of methodologies for interfacing with differences, always aiming to translate and connect in a context-specific and situated manner.
+[www.beanotherlab.org](https://beanotherlab.org/)
+ 
+### Methodological Strategies
+
+- Lectures
+- Case studies
+- Visits
+
+- Project-based learning
+- Team-based learning
+- Visual thinking
 
 
 ## Deliverables
 
-### Session 1 to 4 - Theory
-
-Students are requested to deliver a final presentation (with a digital record) that reflects around the process and learnings achieved. This presentation should present the final prototype/intervention proposal and evidence from its rehearsal. This might include: digital prototypes, videos, pictures, storytelling, etc.
-
-Students will be asked to identify a creative community related to their matter of concern, research it, and frame an intervention towards this creative community.
-
-Students will be asked to reflect through their blog on their personal disposition towards facilitation, identify their personal style, strength and weaknesses. 
+One of the deliverables will consist of designing an intervention with a community/collective, considering the lessons learned in the seminar. They will be able to add a critical reflection on how their design practices/experimental practices understand and tackle complex issues through design practices.
 
 ## Grading Method
-
-The course will be evaluated with a numeric grade that will average results from the 4 sessions.
-
-### Session 1 to 4 - Theory
 
 | Percentage  | Description                          |
 | ----------- | ------------------------------------ |
 | 20%         | Participation                        |
-| 40%         | Prototype development and evidencing |
+| 40%         | Prototype development |
 | 40%         | Personal reflections                 |
 
 
@@ -94,50 +123,20 @@ The course will be evaluated with a numeric grade that will average results from
 
 ### Bibliography
 
-- *Thinking in Systems* - Donella Meadows
-- *Dark Matter and Trojan Horses* - Dan Hill
-- *Exposing the magic of Design* - John Kolko
-- *Frame Innovation* - Kees Dorst
-- *A more beautiful question* - Warren Berger
-- *Design, When everybody Designs* - Ezio Manzini
-- *Design for the Real World* - Victor Papanek
-- *Critical Zones* - Bruno Latour & Peter Weibel
-- *Leading from the Emerging Future* - Otto Scharmer and Katrin Kaufer
+Barad, Karen. *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*
 
-### Netography
+Care Collective. Care Manifesto. *The politics of interdependence*
 
-[Dancing With Systems](http://donellameadows.org/dancing-with-systems/)
+Collins, Nickolas. *Hand-made electronic music. The art of hardware hacking* 
 
-[Guidelines for Designing Systemic Interventions](https://thesystemsthinker.com/guidelines-for-designing-systemic-interventions/)
+Constanza-Chock, Sasha. *Design Justice. Community-Led Practices to Build the Worlds We Need*
 
-[Towards ‘Targeted Systems Change’](https://medium.com/fieldnotes-by-sam-rye/towards-targeted-systems-change-7f4db6febb51)
+Latour, Bruno; Weibel, Peter. *Critical zones*
 
-[Recipes for Systemic Change](https://drive.google.com/file/d/1UrOxrth4SomIGY0u7qf0lCVwdHS5_BTK/view?usp=sharing)
+Pappanek, Victor. *Design for the real world*
 
-[Performing transitions within emergent paradigms](https://medium.com/weareholon/performing-transitions-within-emergent-paradigms-452a63949b20)
+Tsing, Anna. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*
 
-[Sensemaking and Framing: A Theoretical Reflection on Perspective in Design Synthesis](http://jonkolko.com/writingSensemaking.php)
-
-[Effective Framing in Design](https://drive.google.com/file/d/1vDA4K1-ceE0aNtWD5hP1IOOJJoQ2jj_4/view?usp=sharing)
-
-[Conviviality in a cooperative housing — La Borda de Can Batlló](https://medium.com/weareholon/the-everyday-of-cooperative-housing-la-borda-de-can-batll%C3%B3-1d123955ae35)
-
-[Medium: Cameron Tonkinwise](https://medium.com/@camerontw)
-
-[Transition Design 2015](https://design.cmu.edu/sites/default/files/Transition_Design_Monograph_final.pdf)
-
-### Open access tools for community engagement
-
-- Community lovers guide
-- Creative Community planning
-- Centering equity in collective impact 
-- The center for convivial research
-- Community Sense
-- Community Tool Box
-- Community Canvas
-- https://www.spacesandcities-toolkit.com/
-- How to Lead Collective Impact Working Groups: A Comprehensive Toolkit
-- Tools for working groups
 
 ## Faculty
 
