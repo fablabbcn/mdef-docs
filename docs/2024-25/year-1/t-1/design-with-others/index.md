@@ -2,140 +2,66 @@
 title: Design With Others
 page_type: course
 track: Reflection
-course_type: Workshop | Seminar | Visits
+course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/design-with-others.jpg
-img_caption: A member of Holon facilitating a creative session with cooperative housing community. Both “studio” and “field” concepts are reformulated in a design practice that happens within communities.
+img_caption: Ailie Rutherford
+
 faculty:
-    - holon
-    - adria-garcia
-    - markel-cormenzana
-    - milena-calvo
+    - Laura Benitez
 ects: 2
 ---
 
 {{ insert_banner() }}
 
-## Syllabus - Theory
+## Syllabus
 
-*A full week of three hour sessions to kickstart designing with creative communities and engaging with the social body.*
+*A four-day seminar of four-hour sessions to kickstart designing with creative communities and engaging with the social body.*
 
-Design practice and the role of the designer has been evolving over time. Evolving from an utilitarian perspective at the service of industry (design over) to the integration of the perspective of the human user and it’s needs (design for) and, later on, it’s integration as an active agent in the design process (design with) the agency and expertise of the designer has been critically put into question generation after generation. Presencing the burst of the user-centered bubble and in the face of various existential risks, along these sessions, we will inquire over our role as designers and experience what it means to design within creative communities with the goal of putting our personal projects and capacities at the service of deep transitions.
+Design practice and the role of the designer have been continuously evolving. What began as a practical discipline at the service of industry ("design over") expanded to include the perspective of the human user and their needs ("design for") and later evolved into more participatory approaches where the user becomes an active agent in the design process ("design with"). In the context of growing existential risks and challenges, it is now critical to push these questions further by incorporating principles of otherness, design justice, alterity, communities, situated epistemologies and intra-action into design practices.
 
 ### Learning Objectives
 
 Students after completion of the course should be able to:
 
-- Detect, understand and tackle complex issues through design practices
-- Engage with “creative communities” related to the matters of concern
-- Situate their practice in the field
-- Engage in strategic intervention through prototyping
-- Get familiar and confident facilitating groups of people and processes
-- Widen their perspective of what community engagement means and learn a technique to work and learn from non human entities
+- Detect, understand and tackle complex issues through design practices.
+- Engage with “creative communities” related to the matters of concern.
+- Situate their practice in the field.
+- Engage in strategic intervention.
+- Get familiar and confident facilitating groups of people and processes.
+- Widen their community engagement perspective and learn to work(in) non-human agents.
 
-**Keywords: Creative communities, strategic intervention, tooling**
+**Keywords: Other(ness), Communities, Collaboration**
 
-## Syllabus - Practice
 
-*Learning from Fab Lab Barcelona’s projects.*
+## Schedule
 
-Those promoting participatory action-research believe that ‘*people have a universal right to participate in the production of knowledge which is a disciplined process of personal and social transformation. In this process, people rupture their existing attitudes of silence, accommodation and passivity, and gain confidence and abilities to alter unjust conditions and structures*'. (Paulo Freire, in Smith et al, 1997:xi)
+=== "19/11"
 
-Fab Lab Barcelona has been involved in many European and local action-research projects with the goal of developing, testing, and implementing alternative and circular strategies towards a (more) locally productive and globally connected city.
-
-In the practical sections of the Community Engagement seminar, MDEF students will be invited to explore principles, methodologies and tools used by Fab Lab Barcelona team and their impacts in community-based projects. The selected local pilot projects will primarily draw inspiration from two recent European projects, Distributed Design and CENTRINNO, with a keen focus on leveraging Fab Lab Barcelona's extensive expertise in social innovation and community engagement in practice.
-
-While differing in specific objectives and goals, the selected projects have been aligned with the Fab City principles and share a common objective: both expand the purpose of creativity to transform communities, societies and ecosystems, supporting the development of new approaches to innovation, learning and impacting at the local level, while articulating global efforts.
-
-Within this context, during the two sessions, students will practice with methods to support social change whilst focussing down on the purpose of engagement. The practical course will be further enriched with thematic topics addressing circular and collaborative manufacturing, co-creation mechanisms, practice-based capacity building and peer-learning. During the two days of activities, students will also have the opportunity to visit and engage with local community-driven initiatives around Barcelona.
-
-### Learning Objectives
-
-This seminar offers students a comprehensive learning experience in the field of community engagement, social innovation, and collaborative practices. Following a practical approach based on that can be applied to their future projects, by:
-
-- Understanding alternative and circular strategies aimed at fostering local productivity while maintaining global connectivity.
-- Exploring effective principles to engage with new or existing communities.
-- Having access to tailored tools, methodologies, and other resources discussed in real-world scenarios.
-- Meeting local actors and inspiring initiatives. Students will have the opportunity to visit and engage with local community-driven projects in Poblenou. 
-
-**Keywords: Participatory processes, co-creation, community engagement, local production**
-
-## Schedule - Theory
-
-=== "Sessions 1 to 4"
-
-    **WORKSHOP: Design prefigurations around food**
+    ***9:30-13:30***
     
-    Lead: Markel & Adrià
+    **Class with Marta Delatte on Design Justice**
     
-    Using food as a proxy for ecological relationships, students will explore how to engage with local creative communities to intervene into complex issues around food and their ramifications. The workshop should result in the identification of a creative community, a reflection around the politics of design in relation to human and non-human actants and the development of an experiment/prototype to intervene into the system in collaboration with “communities”.
+    Class with Marta Delatte on Design Justice
+Rethinking traditional design processes and frameworks to prioritize social equity, inclusion, and justice. It would explore how design—whether in technology, architecture, urban planning, or other fields—can perpetuate or disrupt existing systems of oppression. The session would emphasize the importance of centering “marginalized” communities in the design process, ensuring their needs, experiences, and knowledge guide the outcomes. The class would be encouraged to critically analyze our work not as neutral but as an influential force for either maintaining or challenging social-political inequities.
+[www.designjustice.org](https://designjustice.org/)
     
-    **Session 1 (Markel):**
+=== "20/11"
 
-    - Working frameworks
-    - Mapping and sensing food issues and it’s ramifications
-    - Inspo lightning talk (to be defined)
-    - Approaching a creative community
-    - Approaching the homework: planing
+    ***9:30-11:30***
 
-    Homework between sessions: “Meeting” creative communities, field research and insight generation.
+    **Session with Laura Benítez on Other(ness)**
+    
+    In the first part of the session, we will explore the concept of "the Other" and its central role in shaping contemporary philosophical, social, and ethical thinking. The session will also introduce how contemporary debates approach the notion, experience, and construction of the "Other." (Ethics of alterity/otherness).
 
-    **Session 2 (Adrià):**
+    ***11:30-13:30***
 
-    - Working frameworks
-    - Mapping and sensing land issues and it’s ramifications
-    - Inspo lightning talk (La Borda and Aquí at Coopolis)
-    - Approaching a creative community
-    - Approaching the homework: planing
+    **Visit to Salamina - eemeemee** 
 
-    Homework between sessions: “Meeting” creative communities, field research and insight generation.
-
-    **Session 3 (Markel):**
-
-    - Debriefing encounters
-    - Insight generation and community’s approaching strategy
-    - First ideas on intervention
-
-    Homework between sessions: Refining insights and community’s approaching strategy
-
-    **Session 4 (Adrià):**
-
-    - Debriefing insight and community’s approaching strategy
-    - Prototyping approaching strategy and intervention
+    In the second part of the session, we will visit Salamina, a shared workspace in an industrial building in L'Hospitalet. We will visit one of the resident collectives, eemeemee [Enclave Micopirata Mutante], whose purpose is to maintain a community network to share processes and knowledge generated around DIWO mycology. Each of the participants in the network carries out on their own and collectively in the field of mycology and mushroom cultivation, both for food sovereignty purposes and for the development of tools for bioremediation of the territory or the discussion of ecological and interspecific relationships and hierarchies.
+[www.eemeemeee.org](https://eemeemeee.org/doku.php?id=inicio)
+ 
 
 
-## Schedule - Practice
-
-=== "Session 1"
-
-    **Setting the ground for distributed impact**
-
-    From 3pm to 5pm:
-
-    - Introduction to Fab Lab Barcelona’s approach to communities 
-        - FLB’s Community engagement principles 
-        - Overall process and strategies
-    - Distributed Design - Building new pathways for sustainability in diversity and social justice, engaging civic leaders, makers, (digital) social innovators on societal change and transformation.
-        - Lessons learned 
-        - Legacy, tools and resources
-
-    From 5pm to 7pm: Visiting communities
-
-    - Visit to community-driven organizations
-
-=== "Session 2"
-
-    **Local value creation through collaboration**
-
-    From 3pm to 5pm: 
-
-    - Power versus interest: understanding local contexts
-    - CENTRINNO EU project - Exploring industrial historical sites to become new and inclusive hubs of entrepreneurship and creativity while fostering sustainability.
-        - Lessons learned
-        - Legacy, tools and resources
-
-    From 5pm to 7pm: Visiting communities
-
-    - Visit to community-driven organizations
 
 ## Deliverables
 
