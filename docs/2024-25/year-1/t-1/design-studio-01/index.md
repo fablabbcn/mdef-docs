@@ -8,7 +8,7 @@ img_caption: Design Dialogues, 2022, Barcelona
 faculty:
     - jana-tothill
     - roger-guilemany
-ects: 12
+ects: 10
 ---
 
 {{ insert_banner() }}
