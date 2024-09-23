@@ -8,7 +8,7 @@ img_caption: Image Credits | AoWS Workshop @ Space10 / Fab Lab Barcelona
 faculty:
     - jana-tothill
     - roger-guilemany
-ects: 
+ects: 2
 ---
 
 {{ insert_banner() }}
