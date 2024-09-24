@@ -356,6 +356,6 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
   - 'https://buttons.github.io/buttons.js'
   - 'https://cdn.jsdelivr.net/npm/fullcalendar@6.1.9/index.global.min.js'
-  - 'assets/javascripts/extra.js'
-  - 'assets/javascripts/calendar.js'
+  # - 'assets/javascripts/extra.js'
+  # - 'assets/javascripts/calendar.js'
   - 'assets/javascripts/google-drive.js'
