@@ -6,18 +6,5 @@
 {% endblock %}
 
 {% block content %}
-
-{% if page.meta.url_to_pdf %}
-    <a href="{{ page.meta.url_to_pdf }}" title="Get PDF" class="md-content__button md-icon">
-        {% include ".icons/material/file-pdf-box.svg" %}
-    </a>
-{% endif %}
-
-{% if config.extra.fullscreen_button %}
-    <button onclick="toggleFullScreen()" title="Fullscreen mode" class="md-content__button md-icon fullscreen_button">
-         {% include ".icons/octicons/screen-full-16.svg" %}
-    </button>
-{% endif %}
-
 {{ super() }}
 {% endblock content %}
