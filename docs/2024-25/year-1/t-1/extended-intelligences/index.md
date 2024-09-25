@@ -55,8 +55,7 @@ A speculative experiment will be developed by the students in small groups durin
 
     ***14:30-18:30***
 
-    - Guest lecture: Temporality of AI by Gustavo Nogueira de Menezes
-(together with MaCT)
+    - Guest lecture: Temporality of AI by Gustavo Nogueira de Menezes (together with MaCT)
 
 
 === "7/11"

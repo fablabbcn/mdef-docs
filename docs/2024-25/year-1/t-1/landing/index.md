@@ -7,7 +7,7 @@ feature_img: /assets/images/2024-25/year-1/t-1/landing.jpeg
 # img_caption:
 faculty:
     - guillem-camprodon
-    - alejandra-tothill
+    - jana-tothill
     - roger-guilemany
     - milena-calvo
     - josep-marti
@@ -66,11 +66,11 @@ MDEF Landing Week will use basic methodologies to engage students in knowing bet
 
     **Planned visits**: 22@ introduction, Poblenou Urban District, TansfoLAB BCN, Biciclot, Bioma
 
-        **Lunch break**
+    **Lunch break**
 
     **14:30-16:00** - Communicating the MDEF journey - Pablo Zuloaga
 
-        **Break**
+    **Break**
 
     **16:30-18:30** - Building an online bitacora and portfolio, the MDEF digital garden - Josep Martì
 

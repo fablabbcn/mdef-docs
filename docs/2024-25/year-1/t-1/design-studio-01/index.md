@@ -1,5 +1,5 @@
 ---
-title: Design Studio 01 - Framing Collective Design Interventions
+title: Design Studio 01
 page_type: course
 track: Application
 course_type: Course
@@ -14,6 +14,8 @@ ects: 10
 {{ insert_banner() }}
 
 ## Syllabus
+
+**Design Studio 01 - Framing Collective Design Interventions**
 
 MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
 
@@ -73,7 +75,7 @@ The specific goals are the following:
 
 === "21/10"
 
-    ** Individual Design Iintervention and Roles of Prototyping in 1PP Research through Design**
+    **Individual Design Iintervention and Roles of Prototyping in 1PP Research through Design**
 
     **Goals**: To learn about the different roles of prototyping in design research. Being resilient and resourceful as a professional. Learn about 1PP iterative design interventions methodology. 
 

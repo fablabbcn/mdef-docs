@@ -3,7 +3,7 @@ title: Living with Your Own Ideas
 page_type: course
 track: Reflection
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.png
+feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.jpg
 img_caption: New Faces, New Identities, 2020. DOES
 faculty:
     - saul-baeza
@@ -32,36 +32,52 @@ Students will be introduced to practical first-person design methodologies by li
 
     **12:00 to 14:00**
 
-    **Activities**: Course Introduction + dynamics + objectives
-Living with your own ideas, designing Identity Prostheses
-1st Prosthesis briefing – After Marshal McLuhan and Haila Koskela
+    **Activities**:
+    Course Introduction + dynamics + objectives
+    
+    Living with your own ideas, designing Identity Prostheses
+    
+    1st Prosthesis briefing – After Marshal McLuhan and Haila Koskela
 
 === "29/10"
 
     **9:30 to 13:30** 
 
-    **Activities**: (9:30 – 11:00) 1st Prosthesis short presentations (individual) 
-(11:00 – 13:00) Thomas Twaittes (Author of GoatMan) Online Lecture + Q&A 
-(13:00 – 14:30) 2nd Prosthesis briefing – After Sandy Stone and Donna Haraway 
+    **Activities**:
+    
+    (9:30 – 11:00) 1st Prosthesis short presentations (individual) 
 
-    === "30/10"
+    (11:00 – 13:00) Thomas Twaittes (Author of GoatMan) Online Lecture + Q&A 
+
+    (13:00 – 14:30) 2nd Prosthesis briefing – After Sandy Stone and Donna Haraway 
+
+=== "30/10"
 
     **9:30 to 13:30** 
 
-    **Activities**: (9:30 – 11:00) 2nd   Prosthesis short presentations (individual)
-(11:00 – 12:00) 3rd Prosthesis briefing – After Sophie Cale and Jill Magid 
-(12:00 – 13:30) 3rd Prosthesis development
+    **Activities**:
+    
+    (9:30 – 11:00) 2nd   Prosthesis short presentations (individual)
+    
+    (11:00 – 12:00) 3rd Prosthesis briefing – After Sophie Cale and Jill Magid 
+    
+    (12:00 – 13:30) 3rd Prosthesis development
 
     **14:30 to 16:30** 
 
-    **Activities**: (14:30 to 16:30) The Detective – Surveillance documentation exercise 
+    **Activities**:
+    
+    (14:30 to 16:30) The Detective – Surveillance documentation exercise 
 
 === "31/10"
 
     **11:30 to 13:30**
 
-    **Activities**: (11:30 – 13:00) 3rd Prosthesis + Documentary/Article short presentations 
-(13:00 – 13:30) Closing
+    **Activities**:
+    
+    (11:30 – 13:00) 3rd Prosthesis + Documentary/Article short presentations
+    
+    (13:00 – 13:30) Closing
 
 ## Methodological Strategies
 
