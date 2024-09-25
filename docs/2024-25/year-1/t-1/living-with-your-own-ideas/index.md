@@ -2,80 +2,102 @@
 title: Living with Your Own Ideas
 page_type: course
 track: Reflection
-course_type: Seminar
-feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.png
-img_caption: Solar Ears workshop by Angella Mackey at the Solar Biennale, Eindhoven
+course_type: Workshop
+feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.jpg
+img_caption: New Faces, New Identities, 2020. DOES
 faculty:
-    - oscar-tomico
-    - kristina-andersen
-    - angella-mackey
-ects: 1
+    - saul-baeza
+ects: 2
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-Students will participate in a series of workshop activities that address challenges for quickly embodying concepts, and addressing them through lived experiences.
+Students will be introduced to practical first-person design methodologies by living with their own ideas. Following a series of introductory texts by a diverse group of researchers, thinkers, artists and makers such as Marshal McLuhan, Haila Koskela, Sandy Stone, Donna Haraway, Sophie Cale and Jill Magid, students will be encouraged to develop and embody a series of prostheses iterations under their own agency and rationale. The final delivery comprises a short documentary or article, besides all the developed prototypes and prostheses. The course includes lectures and Q&A’s by **Saúl Baeza** and **Thomas Twaites**.
 
-Throughout the week, students will engage in early and easy making processes. They will address the experiences of these things through the body.
-
-Each student will move through:
-
-- Lo-fi version of their project/concept
-- Different time scales
-- Move from speculation to have a component of reality for their concept.
-
-On the final day, students will present their experiences by means of videos.
-
-**Keywords: Making with Magic Machines, 1st Person Research**
+**Keywords: Self, Agency, Surveillance, Identity, Prototyping, Discipline, Desire**
 
 ### Learning Objectives
 
-In the course, students will experience the design process from a 1st person perspective by means of a series of interventions in their own life, with their own community.
-
-They will learn how to:
-
-- Do quick lo-fi prototyping sessions
-- Ideate through making with
-- Apply 1st Person Research to their projects
-- Document and communicate 1st Person Research through videos
-- Reflect on the personal implications their projects imply
-
-### Materials
-
-For the first day (Tuesday) please bring materials for tinkering like paper, old stuff, cardboard, textiles, scissors, tape, etc...
+- 1st Person Perspective design and research methodologies
+- Self agency 
+- Critical prototyping
+- The work of being watched
+- Staying with the trouble
 
 ## Schedule
 
+=== "28/10"
+
+    **12:00 to 14:00**
+
+    **Activities**:
+    Course Introduction + dynamics + objectives
+    
+    Living with your own ideas, designing Identity Prostheses
+    
+    1st Prosthesis briefing – After Marshal McLuhan and Haila Koskela
+
+=== "29/10"
+
+    **9:30 to 13:30** 
+
+    **Activities**:
+    
+    (9:30 – 11:00) 1st Prosthesis short presentations (individual) 
+
+    (11:00 – 13:00) Thomas Twaittes (Author of GoatMan) Online Lecture + Q&A 
+
+    (13:00 – 14:30) 2nd Prosthesis briefing – After Sandy Stone and Donna Haraway 
+
+=== "30/10"
+
+    **9:30 to 13:30** 
+
+    **Activities**:
+    
+    (9:30 – 11:00) 2nd   Prosthesis short presentations (individual)
+    
+    (11:00 – 12:00) 3rd Prosthesis briefing – After Sophie Cale and Jill Magid 
+    
+    (12:00 – 13:30) 3rd Prosthesis development
+
+    **14:30 to 16:30** 
+
+    **Activities**:
+    
+    (14:30 to 16:30) The Detective – Surveillance documentation exercise 
+
 === "31/10"
 
-    **10:00 to 14:00** *In-person*
+    **11:30 to 13:30**
 
-    **Activities**: 30 min intro, 2,5 hours workshop, make a companion, 30 min debate, 10 min challenge for Thursday (living with your companion, explore documentation process).
+    **Activities**:
+    
+    (11:30 – 13:00) 3rd Prosthesis + Documentary/Article short presentations
+    
+    (13:00 – 13:30) Closing
 
-=== "02/11"
+## Methodological Strategies
 
-    **10:00 to 13:00** *In-person*
-
-    **Activities**: 1 hour “Presentations” living with your companion and discussion about what they learned. 1 hour presentation from  Angella (Green Screen and Solar Ears) and discussion. 1 hour planning a 1PP design intervention in relation to your area of interest.
-
-    **17:00 to 19:00** *On-line and/or in-person*
-
-    **Activities**: feedback session (checkpoint).
-
-=== "03/11"
-
-    **15:00 to 19:00** *In-person*
-
-    **Activities**: Final video presentations and debate.
+- Case studies
+- Workshops  
+- Lectures  
+- Group discussions  
+- Prototyping 
+- Project-based learning  
+- Team-based learning  
+- Gamification  
+- Role-playing 
 
 
 ## Deliverables
 
-- Presentation
-- Video
-- Reflection
+- Prototipes
+- Short film
+- Publication
+
 
 ## Grading Method
 
@@ -85,8 +107,9 @@ Class discussion and questions (formative), personal feedback (formative), atten
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
 | 20%         | Participation                                   |
-| 40%         | Deliverables                                    |
-| 40%         | Personal reflections                            |
+| 30%         | Prototype development                                   |
+| 30%         |  Short film/publication                           |
+| 20%         |  Personal reflections                         |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
@@ -94,41 +117,35 @@ Class discussion and questions (formative), personal feedback (formative), atten
 
 ## Additional Resources
 
-[Desjardins, A., Tomico, O., Lucero, A., Cecchinato, M. E., & Neustaedter, C. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1-12.](https://dl.acm.org/doi/10.1145/3492342)
+Documentaries: 
+Emad Burnat and Guy Davidi. 2011. 5 broken cameras. 
 
-[Mackey, A., de la Guarda, M. V., Tomico, O., Wakkary, R., Nachtigall, T., & de Waal, M. (2023). Becoming Solar: Towards More-Than-Human Understandings of Solar Energy. Temes de Disseny, 2023(39), 248-268.](https://doi.org/10.46467/TdD39.2023.248-269)
+Books:
+Thomas Thwaites. 2016. GoatMan. How U took a holiday from being human. Princeton Architectural Press.
+Mark Andrejevic 2004. Reality TV. The Work Of Being Watched. Critical Media Studies: Institutions, Politics and Culture. Series Editor Andrew Calabrese. University of Colorado.
+Elise Morrison. 2016. Discipline and Desire. Surveillance Technologies in Performance. University of Michigan Press.
+Allucquére Rosanne "Sandy" Stone. 1996. The War of Desire and Technology at the Close of the Mechanical Age. MIT Press.
+Donna J. Haraway. 2016. Staying with the Trouble. Making Kin in the Chthulucene. Duke University Press.
+Erving Goffman. 1956. The Presentation Of Self Everyday Life. Random House.
+Sasha Costanza-Chock. 2020. Design Justice: Community-Led Practices to Build the Worlds We Need. MIT Press.
+McKenzie Wark. 1994. A hacker Manifesto. Harvard University Press 
+Alfonso Matos (ed). 2023.Who Can Afford To Be Critical?  An inquiry into what we can’t do alone, as designers, and into what we might be able to do together, as people. Set Margins.
+Andreas Malm. 2021. How to Blow Up a Pipeline: Learning to Fight in a World on Fire. Verso Books.
+Benjamin H Bratton. 2015.The Stack: On Software and Sovereignty. MIT Press
+Paul B. Preciado. Testo Yonqui. 2020. Anagrama.
 
-[Mackey, A., Wakkary, R., Wensveen, S., Hupfeld, A., & Tomico, O. (2020). Alternative Presents for Dynamic Fabric. In ACM conference on Designing Interactive Systems '20: DIS'20 (pp. 351-364)](https://doi.org/10.1145/3357236.3395447)
+Articles:
+Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2021. Exploring the Potential of Apple Face ID as a Drag, Queer and Trans Technology Design Tool. Design- ing Interactive Systems Conference 2021. Association for Computing Machinery, New York, NY, USA, 1654–1667. DOI:https://doi.org/10.1145/3461778.3461999  
+Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2023. About being an “influencer” or how to exploit the tool of the oppressor for our own expression. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 934–945. https://doi.org/10.1145/3563657.3596091  
+Saúl Baeza, Kristina Andersen and Oscar Tomico. 2022. Designing hair. DRS2022: Bilbao, 25 June - 3 July, Bilbao, Spain. https://doi.org/10.21606/ drs.2022.649  
 
-[Mackey, A. M., Wakkary, R. L., Wensveen, S. A. G., & Tomico Plasencia, O. (2017). “Can I wear this?” : blending clothing and digital expression by wearing dynamic fabric. International Journal of Design, 11(3), 51-65.](https://research.tue.nl/en/publications/can-i-wear-this-blending-clothing-and-digital-expression-by-weari)
+## Additional Resources
 
-[Mackey, A. M., Wakkary, R. L., Wensveen, S. A. G., Tomico Plasencia, O., & Hengeveld, B. J. (2017). Day-to-day speculation: designing and wearing dynamic fabric . In RTD2017 : proceedings of the 3rd Biennial Research through Design Conference,22-24 March 2017, Edinburgh, UK  (pp. 439-454)](https://figshare.com/articles/Day-_to-_Day_Speculation_Designing_and_Wearing_Dynamic_Fabric/4747018)
+- Notebook / Pen / Pencil  
+- Phone with Camera (or photography/video camera)  
+- Computer (if you have one)  
+- Extra materials will be needed during the development of the course (TBD by each student)
 
-Revell, T., & Andersen, H. K. G. K. (2021). The Telling of Things: Imagining Through, With and About Machines. In M. C. Rozendaal, B. Marenko, & W. Odom (editors), Designing Smart Objects in Everyday Life: Intelligences, Agencies, Ecologies (blz. 57-72). Bloomsbury Visual Arts.
-
-[Andersen, H. K. G. K., Wakkary, R. L., Devendorf, L., & McLean, A. (2020). Digital Crafts-machine-ship: creative collaborations with machines. Interactions, 27(1), 30-35.](https://doi.org/10.1145/3373644)
-
-[Goveia Da Rocha, B., & Andersen, K. (2020). Becoming travelers: Enabling the material drift. In DIS 2020 Companion - Companion Publication of the 2020 ACM Designing Interactive Systems Conference (pp. 215-219). Association for Computing Machinery, Inc.](https://doi.org/10.1145/3393914.3395881)
-
-[Devendorf, L., Andersen, K., & Kelliher, A. (2020). Making Design Memoirs: Understanding and Honoring Difficult Experiences. In CHI 2020 - Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems [3376345] Association for Computing Machinery, Inc.](https://doi.org/10.1145/3313831.3376345)
-
-Andrés Lucero, Audrey Desjardins, and Carman Neustaedter. 2021. Longitudinal first-person HCI research methods. In Proceedings of the Advances in Longitudinal HCI Research, Evangelos Karapanos, Jens Gerken, Jesper Kjeldskov and Mikael B. Skov (Eds.), Springer International Publishing, Cham, 79–99.
-
-Madeline Balaam, Rob Comber, Rachel E. Clarke, Charles Windlin, Anna Ståhl, Kristina Höök, and Geraldine Fitzpatrick. 2019. Emotion Work in Experience-Centered Design. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 602, 1–12.
-
-Audrey Desjardins and Aubree Ball. 2018. Revealing Tensions in Autobiographical Design in HCI. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 753–764.
-
-Thecla Schiphorst. 2011. Self-evidence: applying somatic connoisseurship to experience design. In CHI '11 Extended Abstracts on Human Factors in Computing Systems (CHI EA '11). Association for Computing Machinery, New York, NY, USA, 145–160.
-
-Eva Hornecker, Paul Marshall, and Jörn Hurtienne. 2017. Locating theories of embodiment along three axes: 1st - 3d person, body-context, practice-cognition. In Workshop position paper for ACM CHI 2017 workshop on Soma-Based Design Theory. 4 pages
-
-Andrés Lucero. 2018. Living Without a Mobile Phone: An Autoethnography. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). Association for Computing Machinery, New York, NY, USA, 765–776.
-
-Audrey Desjardins and Ron Wakkary. 2016. Living In A Prototype: A Reconfigured Space. In Proceedings of the Conference on Human Factors in Computing Systems (CHI '16). ACM, New York, NY, USA, 5274–5285.
-
-Carman Neustaedter and Phoebe Sengers. 2012. Autobiographical design: what you can learn from designing for yourself. interactions 19, 6 (November + December 2012), 28–33.
-
-Oscar Tomico, Vera Winthagen, and Marcel van Heist. 2012. Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction (NordiCHI '12). ACM, New York, NY, USA, 180–188.
 
 ## Faculty
 

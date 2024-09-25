@@ -2,7 +2,7 @@
 title: Biology Zero
 page_type: course
 track: Exploration
-course_type: Short Course
+course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/biology-zero.jpg
 img_caption: All Photo Credits | Jonathan Minchin, Nuria Conde and graduate MDEF students
 faculty:
@@ -32,37 +32,37 @@ Access to the means of experimentation for the investigative and applied science
 
 ## Schedule
 
-=== "07/11"
+=== "26/11"
 
-    **10:00 - 12:00**
+    **9:30 - 11:30**
 
     **Theory** - Synthetic Biology
     
     **Theory** - Planetary Wellbeing
 
-    **12.15 - 14.15**
+    **11.45 - 13.45**
 
     **Practical** - Sampling
     
     **Practical** - Making Petris
 
-=== "08/11"
+=== "27/11"
 
-    **10:00 - 12:00**
+    **9:30 - 11:30**
 
     **Theory** - Microbiology + Microbiome
 
-    **12.15 - 14.15**
+    **11.45 - 13.45**
 
     **Practical** - Microscopy
 
-=== "09/11"
+=== "28/11"
 
-    **10:00 - 12:00**
+    **9:30 - 11:30**
 
     **Theory** - Cell Building + Genetics
 
-    **12.15 - 14.15**
+    **11.45 - 13.45**
 
     **Practical** - Designing a GMO
 

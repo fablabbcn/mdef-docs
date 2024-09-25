@@ -2,7 +2,7 @@
 title: Agriculture Zero
 page_type: course
 track: Exploration
-course_type: Short Course
+course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/agriculture-zero.jpg
 img_caption: Image credit | Jonathan Minchin + Beehives image by ‘Makery license’
 faculty:
@@ -60,21 +60,21 @@ Task 3: Circular Design for Agro Forestry
 
 ## Schedule
 
-=== "14/11"
+=== "3/12"
 
-    **10:00h - 12:00h**
+    **9:30h - 11:30h**
 
     **Theory** - Agricultural Systems and Tools
 
     **Practical** - Germination and Propagation
 
-    **12:15h - 14:15h**
+    **11:45h - 13:45h**
 
     **Workshop** - Circular designs for agroforestry
 
-=== "15/11"
+=== "4/12"
     
-    **10:00h - 12:00h**
+    **9:30h - 11:30h**
 
     **Valldaura Field Trip**
     
@@ -83,21 +83,21 @@ Task 3: Circular Design for Agro Forestry
     - Foraging Data logging
     - Soil Sampling
 
-    **12:15h - 14:15h**
+    **11:45h - 13:45h**
 
     **Valldaura Field Trip**
     
     **Practical:** Farming
 
-=== "16/11"
+=== "5/12"
 
-    **10:00h - 12:00h**
+    **9:30h - 11:30h**
 
     **Theory** - Soils
 
     **Practical** - Soil Analysis
 
-    **12:15h - 14:15h**
+    **11:45h - 13:45h**
 
     **Practical**
     

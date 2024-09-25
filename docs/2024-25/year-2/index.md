@@ -31,7 +31,3 @@ Development of a business structure around a product or service.
 ***Collective Orientation***
 
 Implementation of an accessible technological development for open source communities.
-
-## Modules by Track
-
-{{ insert_tracks() }}

@@ -13,18 +13,20 @@ nav:
   - Year 1:
     - 2024-25/year-1/index.md
     - Calendar: 2024-25/year-1/calendar/index.md
+    - Beyond Sessions: 2024-25/year-1/beyond-sessions/index.md
     - Term 1:
       - 2024-25/year-1/t-1/index.md
       - Design Studio 01: 2024-25/year-1/t-1/design-studio-01/index.md
       - Documenting Design: 2024-25/year-1/t-1/documenting-design/index.md
       - Landing: 2024-25/year-1/t-1/landing/index.md
-      - Atlas of Weak Signals: 2024-25/year-1/t-1/atlas-of-weak-signals/index.md
+      - Design Studio Intro Week: 2024-25/year-1/t-1/design-studio-intro-week/index.md
       - The Machine Paradox: 2024-25/year-1/t-1/the-machine-paradox/index.md
       - Living With Your Own Ideas: 2024-25/year-1/t-1/living-with-your-own-ideas/index.md
       - Biology Zero: 2024-25/year-1/t-1/biology-zero/index.md
       - Agriculture Zero: 2024-25/year-1/t-1/agriculture-zero/index.md
       - Design With Others: 2024-25/year-1/t-1/design-with-others/index.md
       - Extended Intelligences: 2024-25/year-1/t-1/extended-intelligences/index.md
+      - Fundamentals of Digital Fabrication: 2024-25/year-1/t-1/fundamentals-digital-fabrication/index.md
     # - Term 2:
     #   - 2024-25/year-1/t-2/index.md
     #   - Design Studio 02: 2024-25/year-1/t-2/design-studio-02/index.md
@@ -48,14 +50,36 @@ nav:
   - Year 2:
     - 2024-25/year-2/index.md
     - Calendar: 2024-25/year-2/calendar/index.md
-    - Thesis Project: 2024-25/year-2/modules/thesis-project/index.md
-    - Research & Methods: 2024-25/year-2/modules/research-methods/index.md
-    - Circular Matter: 2024-25/year-2/modules/circular-matter/index.md
-    - Business Innovation: 2024-25/year-2/modules/business-innovation/index.md
-    - Theories of the Urban: 2024-25/year-2/modules/theories-of-the-urban/index.md
-    - Interaction and Prototyping: 2024-25/year-2/modules/interaction-and-prototyping/index.md
-    - Ecological Interactions: 2024-25/year-2/modules/ecological-interactions/index.md
-    - Urban Shift: 2024-25/year-2/modules/urban-shift/index.md
+    - Mandatory Courses:
+      - 2024-25/year-2/mandatory-courses/index.md
+      - Thesis Project: 2024-25/year-2/mandatory-courses/thesis-project/index.md
+      - Research & Methods: 2024-25/year-2/mandatory-courses/research-methods/index.md
+      - Emergent Economies: 2024-25/year-2/mandatory-courses/emergent-economies/index.md
+      - Emergent Technolgies: 2024-25/year-2/mandatory-courses/emergent-technologies/index.md
+    - Elective Courses:
+      - 2024-25/year-2/elective-courses/index.md
+      - Applied Research Seminars:
+        - 2024-25/year-2/elective-courses/applied-research-seminars/index.md
+        - Interaction and Prototyping: 2024-25/year-2/elective-courses/applied-research-seminars/interaction-and-prototyping/index.md
+        - ReCITYing: 2024-25/year-2/elective-courses/applied-research-seminars/recitying/index.md
+      - Applied Theory Workshops:
+        - 2024-25/year-2/elective-courses/applied-theory-workshops/index.md
+        - Circular Matter: 2024-25/year-2/elective-courses/applied-theory-workshops/circular-matter/index.md
+        - Business Innovation: 2024-25/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
+        - Theories of the Urban: 2024-25/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
+        - Ecological Interactions: 2024-25/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
+        - Co-Creating Public Space: 2024-25/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
+        - Designing for More than Humans: 2024-25/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
+        - Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/additive-manufacturing/index.md
+        - Substractive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/substractive-manufacturing/index.md
+        - Serious Games: 2024-25/year-2/elective-courses/applied-theory-workshops/serious-games/index.md
+        - Transitional Landscapes: 2024-25/year-2/elective-courses/applied-theory-workshops/transitional-landscapes/index.md
+        - Sensing: 2024-25/year-2/elective-courses/applied-theory-workshops/sensing/index.md
+        - Policies for Urban Futures in the Global South: 2024-25/year-2/elective-courses/applied-theory-workshops/policies-urban-futures/index.md
+        - Robot-Human Interaction: 2024-25/year-2/elective-courses/applied-theory-workshops/robot-human-interaction/index.md
+        - Sustainable Forest Management: 2024-25/year-2/elective-courses/applied-theory-workshops/sustainable-forest-management/index.md
+        - Metabolic Systems | Water: 2024-25/year-2/elective-courses/applied-theory-workshops/metabolic-systems-water/index.md
+        - Metabolic Systems | Energy: 2024-25/year-2/elective-courses/applied-theory-workshops/metabolic-systems-energy/index.md
   - Glossary:
     - glossary/index.md
   - Previous Years:

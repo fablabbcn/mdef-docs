@@ -6,16 +6,16 @@ course_type: Course
 feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
 img_caption: Design Dialogues, 2022, Barcelona
 faculty:
-    - guillem-camprodon
-    - tomas-diez
     - jana-tothill
     - roger-guilemany
-ects: 12
+ects: 10
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
+
+**Design Studio 01 - Framing Collective Design Interventions**
 
 MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
 
@@ -31,97 +31,85 @@ MDEF Research, Design and Development studios aim to take research areas of inte
 
 The first term Design Studio aims to create a solid ground for the students to start developing their projects. Weekly activities will be set to interlink results from the courses like their mappings, cartographies, experiments, 1st person design activities, prototypes, with their personal development plan. In order to propose an area of intervention at the end of the trimester. The Design Studio activities will consist of presentations, group activities, short exercises and personal coaching.
 
-**Keywords: Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions**
+**Keywords: 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions**
 
 ### Learning Objectives
 
 The specific goals are the following:
 
-1. To develop a critical position in the student’s design practice.
+1. Develop a critical position in the student’s design practice.
 2. Define possible areas of intervention, based on the Atlas of the Week Signals.
-3. Prototype an alpha version of the design space and iterate.
+3. Generate design spaces which allows to prototype with context, direction  and understanding.
 4. To build personal and collective repositories of resources.
 
 
 ## Schedule
 
-=== "03/10"
+ **Schedule**: Each session will start with a 60-minute check-in and a collective reflection space to share experiences and identify collaborative goals.
 
-    **Landing Kick off - What's your purpose**
+=== "02/10"
 
-     **Goals**: This session will be part of the landing week activities. A reflection of where each of us is now and where we would like to be by the end of the program, "The old me and my new me".
+    **Landing Kick off - Pick your purpose**
 
-=== "09/10"
+     **Goals**: Integrate personal and professional interests.
+     
+     **Activity 1**: Pick your purpose(s). Make a poster of your interests.
 
-    **Roles of Prototyping in 1PP Research through Design**
+     **Activity 2**: Create your vision (pushing your purpose further) and Identity (skills, knowledge, attitude), collaboration plan.
 
-    **Goals**: To learn about the different roles of prototyping in design research. Being resilient and resourceful as a professional. Learn about 1PP RTD iterative design interventions methodology.
+    **Deliverable**: Post the poster on your website.
+
+    **Deliverable**: Document your vision, identity, collaboration plan and reflect on your personal development.
+
+=== "07/10"
+
+    **Understanding design from a 1PP. Staying true with one's values.**
+
+    **Goals**: In ongoing efforts to realign design processes with principles of responsibility, accountability, transparency, empathy, and positionality, it becomes crucial for designers to reexamine and reshape their methodologies and ways of approaching design projects. The emphasis is on instilling these fundamental values right from the outset of a student's path to becoming a design practitioner. Learn about 1PP iterative design interventions methodology.
+
+    **Activity 1**: Accept and reflect on how the new normal is shaping you as a professional. Rethinking your new hyper-local and hyper-connected workspace. 
+
+    **Deliverable**: Bring some visuals about your areas of interests (photo, video, graphics, moodboard,...)
+
+    **Deliverable**: Two posts with a new workspace including what infrastructure, people, things and materials became available either physical or virtual in this new normal
+
+=== "21/10"
+
+    **Individual Design Iintervention and Roles of Prototyping in 1PP Research through Design**
+
+    **Goals**: To learn about the different roles of prototyping in design research. Being resilient and resourceful as a professional. Learn about 1PP iterative design interventions methodology. 
 
     **Activity 1**: From the different roles that prototypes play in design research, reflect which ones you have used in the past and which ones you could include in your practice.
 
-    **Activity 2**: Bring a random scrap material from home. Use the material to sketch a prototype of another colleague's inquiry.
+    **Activity 2**: Bring scrap materials from home. Use the material to sketch a prototype of another colleague's inquiry.
 
-    **Deliverable**: Write a post on your website describing your own RtD toolbox based on your vision and identity. Select the main roles of prototyping and other design activities that you want to use based on the context you are in.
+    **Deliverable**: Perform and document a 1pp design intervention. Reflect on how you’ve used different roles of prototyping in your intervention.
 
-    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+=== "04/11"
 
-=== "16/10"
-
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
-
-=== "23/10"
-
-    **Areas of interventions in a Multiscalar Design Space. Collaborative design spaces and interventions.**
+    **Collaborative design spaces and interventions**
 
     **Goals**: To explore and develop forms of aggregative documentation, building collective design spaces.
 
     **Activity**: Develop a collective framework to document explorations using the existing digital platforms, build digital maps of resources and opportunities in the design studio.
 
-    **Deliverable 1**: A collaborative map of projects, resources, news, and opportunities for interventions that can populate your physical working space and a plan on how to share relevant information between all of you on-line.
+    **Deliverable 1**:  A collaborative map of projects, resources, news, and opportunities for interventions that can populate your physical working space and a plan on how to share relevant information between all of you in class.
 
-    **Deliverable 2**: Carry out different pilot design interventions to understand in an embodied and situated way your design space.
+    **Deliverable 2**:  Carry out different pilot design interventions to understand in an embodied and situated way your design space.
 
-    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
+=== "18/11"
 
-=== "30/10"
+    **Collaborative design intervention: a collective design action with humans and/or non-humans.**
 
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
-
-=== "06/11"
-
-    **Personal narratives, collective storytelling. Forms of 1PP Documentation and Communication.**
-
-    **Goals**: Learn new ways of documenting and communicating. Integrate documentation and communication as part of your daily activities.
-
-    **Activity**: Reflect on how you are documenting and communicating your process within the courses and the project.
-
-    **Deliverable 1**: Choose 1 or more roles and formats from the list that was collectively created in class and put them into practice. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.
-
-    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
-
-=== "13/11"
-
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
-
-=== "20/11"
-
-    **Collective design intervention: a collective design action with humans and/or non-humans.**
-
-    **Goals**: Situate your collective explorations in context to frame to update your collective design space.
+    **Goals**: Understand what is and what is not a design intervention. Focusing on Interventions **with others**. Situate your collective explorations in context to frame to update your collective design space.
 
     **Activity**: Plan your collective design intervention and map the actors and infrastructure you want to involve.
 
-    **Task**: Execute your first collective design intervention for the next design studio.
+    **Task**: Execute your first collective design intervention for the next Design Studio.
 
     **Deliverable**: Document the collective design intervention, analyze it and reflect on the findings.
 
-    **Schedule**: Each session will start with a 15-minute check-in round and end with a 45-minute collective reflection space to share experiences and identify collaborative goals.
-
-=== "27/11"
-
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews (group)**
-
-=== "04/12"
+=== "02/12"
 
     **Design Dialogues Preparation**
 
@@ -131,13 +119,10 @@ The specific goals are the following:
 
     **Deliverable 1**: Planning of the exhibition, space allocation and special needs.
 
-    **Deliverable 2**: Work on the design dialogues deliverables.
+    **Deliverable 2**: Work on the Design Dialogues deliverables.
 
-=== "11/12"
 
-    :fontawesome-solid-bolt-lightning: **Design Studio Reviews**
-
-=== "19/12"
+=== "17/12"
 
     **Design Dialogues**
 
@@ -151,11 +136,11 @@ The specific goals are the following:
 
 - **5 high resolution images** of the **highlights of your Design Studio work** during the term
 - **1 high resolution image** of your **personal and collective design space**
-- **A written document** (TBD)
+- **A pictorial (written document)** (TBD)
 
-**These are the points we are going to look at for Term 1:**
+## Evaluation Strategies
 
-- Relevance of the project in relation to the weak signals
+- Relevance of the project in relation to the Weak Signals
 - Framing of the opportunity through the Collective Design Space
 - Involvement of the community through the collective interventions
 
@@ -173,6 +158,32 @@ The specific goals are the following:
 ## Additional Resources
 
 [Desjardins, A., Tomico, O., Lucero, A., Cecchinato, M. E., & Neustaedter, C. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1-12.](https://dl.acm.org/doi/10.1145/3492342)
+
+Auger, J. (2010). ‘Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages’. Negotiating futures – Design Fiction. 42–57.
+
+Candy, S., & Dunagan, J. (2017). ‘Designing an experiential scenario: The People Who Vanished.’ Futures, 86, 136–153.
+
+Diez, T., & Tomico, O. (2020). ‘The Master in Design for emergent futures.’ IAAC.
+Hiltunen, E. (2010). Weak signals in organizational futures learning. Doctoral thesis. Helsinki: Aaalto University.
+
+Krogh, P., Markussen, T., & Bang, A. (2015). ‘Ways of drifting – 5 methods of experimentation in research through design’. In Proceedings of ICoRD’15 – Research into Design Across Boundaries Volume 1. New Delhi. Springer. 39–50.
+
+Lucero, A., Desjardins, A., Neustaedter, C., Höök, K., Hassenzahl, M., & Cecchinato, M. (2019). ‘A sample of one: First-person research methods in HCI’. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS ‘19 Companion). ACM: New York. 385–388.
+
+Neustaedter, C., & Sengers, P. (2012). Autobiographical design: what you can learn from designing for yourself. Interactions, 19(6), 28–33.
+
+Rosenberg, D. (2015). Transformational Design: A mindful practice for experience-driven design. PhD Thesis. Cambridge: Massachusetts Institute of Technology.
+
+Tomico, O., Winthagen, V. O., & van Heist, M. M. G. (2012). Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (NordiCHI '12). Association for Computing Machinery, New York, NY, USA, 180–188.
+
+Varela, F. J., & Shear, J. (1999). First-person Methodologies: What, Why, How? Journal of Consciousness Studies, 6(2-3), 1-14.
+
+Wakkary, R. (2021). Things We Could Design: For more than human-centered worlds. Cambridge: The MIT Press.
+
+Wensveen, S. A. G., & Matthews, B. (2015). Prototypes and prototyping in design research. In P. Rodgers & J. Yee (Eds.), Routledge companion to design research (pp. 262–276). London: Routledge.
+
+More to be provided along the course
+
 
 ## Faculty
 
