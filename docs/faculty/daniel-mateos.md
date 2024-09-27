@@ -1,7 +1,7 @@
 ---
 name: Daniel Mateos
 role: Digital Fabrication Expert
-feature_img: /assets/images/faculty/daniel-mateos.jpeg
+feature_img: /assets/images/faculty/daniel-mateos.png
 socials:
     email:
     website:
