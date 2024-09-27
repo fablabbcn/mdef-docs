@@ -2,9 +2,9 @@
 title: Documenting Design
 page_type: course
 track: Reflection
-course_type: Short Course
-feature_img: /assets/images/2024-25/year-1/t-1/documenting-design.jpg
-img_caption: Leonardo Da Vinci, Codex Atlanticus. Milan | Biblioteca Ambrosiana
+course_type: Seminar
+feature_img: /assets/images/2024-25/year-1/t-1/documenting-design.png
+img_caption: Illustration generated with artificial intelligence using DALL·E and ChatGPT, inspired by Leonardo da Vinci's codices, incorporating emerging technologies.
 faculty:
     - pablo-zuloaga
 ects: 1
@@ -23,22 +23,17 @@ This course explores the use of documentation as a powerful tool to craft cohere
 By embracing this perspective, students will gain a deeper understanding of how design projects evolve, fostering the ability to reflect on their work and effectively convey it to others. Utilizing documentation as a narrative logbook, students will appreciate its value as an instrument that captures the creative voyage and provides a context-rich narrative for sharing with fellow designers, colleagues, and audiences interested in the design process.
 
 1. Understand the concept of Documentation in design practice.
-2. Apply narrative storytelling techniques to communicate the creative process and design decisions effectively.
-3. Develop coherent and engaging narratives in the form of a design logbook.
-4. Reflect on design work through documentation and narrative analysis.
+2. Documentation tools and resources.
+3. Website taxonomy.
+4. Website development.
+5. AI as a tool for documentation.
 
-### Methodological Strategies
-
-- Invert evaluation
-- Case studies
-- Project-based learning
-- Peer learning
 
 ## Schedule
 
 === "Session 1"
 
-    **Class on Documentation and Website Reflections (2 hours)**
+    **Class on Documentation (2 hours)**
 
     - Introduction to Narrative Documentation in Design Practice
     - Importance of documentation for creative projects
@@ -48,31 +43,49 @@ By embracing this perspective, students will gain a deeper understanding of how 
 
 === "Session 2"
 
-    **Follow-up and Tips Class (2 hours)**
+    **Documentation Tips and Tools (1.5 hours)**
 
-    - Review and feedback on the student's initial website documentation
     - Addressing common challenges and questions related to website upkeep
     - Tips for compelling storytelling through multimedia elements
-    - Encouraging students to explore innovative ways of enhancing their narratives
+    - GitBook and Mobirise as a tool for documentation
     - Techniques for showcasing design decisions and iterative progress
     - Encouraging active engagement and communication with peers on documentation
 
 === "Session 3"
 
-    **Website Review (1 hour)**
+    **Website Review  + AI Tools for documentation (1.5 hour)**
 
+    - Encouraging students to explore innovative ways of enhancing their narratives through AI.
+    - Rules for AI use and documentation.
     - Individual website reviews and assessments by the instructor
-    - Analysis of each student's narrative documentation and reflections
+    - Analysis of each student's narrative documentation
     - Feedback on narrative coherence, clarity, and visual presentation
     - Identifying strengths and areas for improvement in the storytelling process
     
 === "Session 4"
 
-    **Website Review (1 hour)**
+    **Website Review (1.5 hour)**
 
-    - Continued individual website reviews and feedback
+    - Collaborative website reviews and feedback from other classmates
     - Addressing specific concerns and doubts related to documentation
     - Final tips and suggestions for long-term sustainability and ongoing website maintenance
+
+=== "Session 5"
+
+    **Design Dialogues Preparation  (1.5 hour)**
+
+    - Crafting narratives for their first Design Dialogues
+    - Communicating scientific ideas to others
+    - Tips for the design dialogue communication and presentation
+
+
+
+### Methodological Strategies
+
+- Invert evaluation
+- Case studies
+- Project-based learning
+- Peer learning
 
 ## Deliverables
 
@@ -82,10 +95,9 @@ Updated website using the suggested taxonomy structure and the considerations gi
 
 | Percentage             | Description                                                                                      |
 | -----------------------| ------------------------------------                                                             |
-| 30% | **Website Taxonomy**: Using the correct Taxonomy in your website to organize the information.                       |
-| 30% | **Website Completeness**: Having the website updated with the required content at the reviews.                      |
+| 40% | **Website Taxonomy**: Using the correct Taxonomy in your website to organize the information.                       |
+| 40% | **Website Completeness**: Having the website updated with the required content at the reviews.                      |
 | 20% | **Classmates Assessment**: 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.       |
-| 20% | **Personal Reflections**: Reflecting in class about the learnings and having the final reflection on the website.   |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
