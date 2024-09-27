@@ -1,7 +1,7 @@
 ---
 name: Dídac Torrent
 role: Fabrication Laboratory Assistant
-feature_img: /assets/images/faculty/didac-torrent.jpeg
+feature_img: /assets/images/faculty/didac-torrent.jpg
 socials:
     email: didac.torrent@iaac.net
     website:

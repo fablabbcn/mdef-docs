@@ -3,12 +3,12 @@ title: Fundamentals of Digital Fabrication
 page_type: course
 track: Instrumentation
 course_type: Seminar
-feature_img: /assets/images/2024-25/year-1/t-1/fundamentals-df.png
+feature_img: /assets/images/2024-25/year-1/t-1/fundamentals-df.jpg
 img_caption:
 faculty:
-    - santiago-fuentemilla
     - didac-torrent
     - josep-marti
+    - santiago-fuentemilla
     - adai-surinach
     - daniel-mateos
 ects: 2
@@ -45,54 +45,73 @@ Bring in your laptop and any prototyping tools you have around such as a cutter,
 Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboards...) at home you would like to take apart? Bring them, too! (For safety reasons, avoid choosing appliances with a lot of power or that are easily heated).
 
 ## Schedule
+
 **Session 1: **
+
 09/10/2024 from 14:30h to 17h | MDEF class + LAB
+
 * Introduction to the course and calendar
 * Presentation on fabrication, prototyping, tools and materials
 * Lab visit and power tools demonstration
 
 **Session 2:**
+
 16/10/2024 from 14:30h to 17h | MDEF class
+
 * Introduction to Arduino IDE and Barduino
 * How to make a flow diagram 
 * INPUTS and OUTPUTS
 
 **Session 3:**
+
 23/10/2024 from 14:30h to 17h | MDEF class + LAB
+
 * Introduction 2D design with Fusion 360 or Rhinoceros
 * Laser theory
 * 2D fabrication with Laser machines + Vinyl cutter
 
 **Session 4:**
+
 30/10/2024 from 14:30h to 17h | MDEF class + LAB (?)
+
 * Introduction 3D design with Fusion 360
 * 3D printing theory
 * 3D fabrication with 3D printers
 
 **Session 5:**
+
 06/11/2024 from 14:30h to 17h | MDEF class
+
 * Casting and mould design theory
 * Practical demonstration of casting material
 * Mould development in class
 
 **Session 6:**
+
 13/11/2024 from 14:30h to 17h | MDEF class + LAB
+
 * Networking with microcontrollers
 * Intro to Processing/P5.js
 * Activity on networking
 
 **Session 7:**
+
 20/11/2024 from 14:30h to 17h | MDEF class + LAB
+
 * CNC milling
 * Activity on CNC milling joinery
 
 **Session 8:**
+
 27/11/2024 from 14:30h to 17h | MDEF class + LAB
+
 * Modular Design 
 * Activity on modular design for Design Dialogues stands and furniture
 
 **Session 9:**
+
 04/12/2024 from 14:30h to 17h | MDEF class + LAB
+
 * Design Dialogues preparation
 
 
