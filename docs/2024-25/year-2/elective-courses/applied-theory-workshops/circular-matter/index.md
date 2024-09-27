@@ -1,5 +1,5 @@
 ---
-title: Circular Matter
+title: Carbon Based Design
 page_type: course
 track: Exploration
 course_type: Elective
