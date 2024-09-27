@@ -8,7 +8,7 @@ img_caption: Unpacking intelligent machines 19/20
 faculty:
     - santiago-fuentemilla
     - guillem-camprodon
-    - oscar-gonzalez
+    - daniel-mateos
     - josep-marti
     - petra-garajova
     - adai-surinach
@@ -52,14 +52,6 @@ Our active learning methodology is based on the practice and spiral development,
 - Maker skills
 - Hack systems
 
-### Methodological Strategies
-
-- Attendance
-- Team participation
-- Knowledge exchange
-- Learning goals
-- Self evaluation
-- Critical reflection
 
 ### Materials Needs
 
@@ -75,61 +67,48 @@ The course duration is a total of 32 hours of guided workshop time, spanned alon
 
 The guided workshop time will happen Tuesday to Friday and the students are committed to work during the afternoon in the projects on a self-guided methodology.
 
-**Classes:** from 10:00 to 14:00
+**Classes:** 09:30 to 13:30 (16 per week)
 
 - Hands-on sessions guided by instructors
+
+**Autonomous work:** from 14:30 to 18:00 (16 per week)
+
+- Non guided sessions where students work on a task independently or in groups
+
 
 **Group work:**
 
 - Non-guided sessions where students work on a task independently or in groups
 
-=== "17/10"
+=== "15/10"
 
     **Tuesday**: Presentation & Unpacking (I know what's inside)
 
-    **Class:** from 10:00 to 14:00
-
-=== "18/10"
+=== "16/10"
 
     **Wednesday**: Disassemble (I’m not afraid of exploring)
 
-    **Class:** from 10:00 to 14:00
-
-=== "19/10"
+=== "17/10"
 
     **Thursday**: Forensic (I know what I have)
 
-    **Class:** from 10:00 to 14:00
-
-=== "20/10"
+=== "18/10"
 
     **Friday**: In-Control (I built something I trust)
 
-    **Class:** from 10:00 to 14:00
-
-=== "24/10"
+=== "22/10"
 
     **Tuesday**: What to do with these parts (Beta devices)
 
-    **Class:** from 10:00 to 14:00
-
-=== "25/10"
+=== "23/10"
 
     **Wednesday**: Integration of artifacts (I build something that works)
 
-    **Class:** from 10:00 to 14:00
-
-    **Group work:** from 15:00 to 18:00
-
-=== "26/10"
+=== "24/10"
 
     **Thursday**: Field visit & recordings during the afternoon
 
-    **Group work:** from 10:00 to 14:00
-
-    **Group work:** from 15:00 to 18:00
-
-=== "27/10"
+=== "25/10"
 
     **Friday**: Final Presentations(I have a final machine)
 
@@ -145,7 +124,6 @@ Students are requested to submit all the material requested by the faculty + the
 
 - Write a post out your weekly experience (personal MDEF webpage)
 - Deliver the forensic report completely filled
-- Reflect your learning goals and possible applications of the technology learned
 - Add link to the exploration tools and files you produced and used in your repo
     - Video and Slide
     - Forensic report
