@@ -1,5 +1,5 @@
 ---
-title: Additive Manufacturing
+title: Non-Planar Bio-Additive Manufacturing
 page_type: course
 track: Exploration
 course_type: Elective
