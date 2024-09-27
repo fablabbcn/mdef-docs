@@ -10,6 +10,7 @@ faculty:
     - didac-torrent
     - josep-marti
     - adai-surinach
+    - daniel-mateos
 ects: 2
 ---
 
