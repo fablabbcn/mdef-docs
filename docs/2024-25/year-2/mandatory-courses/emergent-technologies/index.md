@@ -2,9 +2,9 @@
 title: Emergent Technologies
 page_type: course
 track: Instrumentation
-course_type: Workshop / Seminar
-feature_img:
-img_caption:
+course_type: Workshop/Seminar
+feature_img: /assets/images/2024-25/year-2/modules/emergent-tech.png
+img_caption: 
 faculty:
     - santiago-fuentemilla
     - daniel-mateos
