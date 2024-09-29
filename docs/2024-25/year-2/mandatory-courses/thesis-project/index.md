@@ -6,7 +6,7 @@ course_type: Workshop
 feature_img: /assets/images/2024-25/year-2/modules/thesis-project.jpg
 img_caption: 
 faculty:
-    - alejandra-tothill
+    - jana-tothill
     - roger-guilemany
 ects: 17
 ---
@@ -67,7 +67,6 @@ The specific goals are the following:
 These are the points we are going to look at:
 
 - Relevance of the project in relation to students’ positionality, situated contexts, and emerging challenges.
-- 
 - Framing and documenting the design opportunity of the thesis
 Development and involvement of a community of practice
 

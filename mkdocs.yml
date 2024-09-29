@@ -7,7 +7,7 @@ repo_url: https://github.com/fablabbcn/mdef-docs
 edit_uri: edit/main/docs/
 
 nav:
-  - Welcome!: 2024-25/index.md
+  - About: 2024-25/index.md
   - Faculty: faculty/index.md
   - Students: 2024-25/students/index.md
   - Year 1:
@@ -54,7 +54,7 @@ nav:
       - 2024-25/year-2/mandatory-courses/index.md
       - Thesis Project: 2024-25/year-2/mandatory-courses/thesis-project/index.md
       - Research & Methods: 2024-25/year-2/mandatory-courses/research-methods/index.md
-      - Emergent Economies: 2024-25/year-2/mandatory-courses/emergent-economies/index.md
+      - Emerging Economies: 2024-25/year-2/mandatory-courses/emerging-economies/index.md
       - Emergent Technolgies: 2024-25/year-2/mandatory-courses/emergent-technologies/index.md
     - Elective Courses:
       - 2024-25/year-2/elective-courses/index.md
@@ -64,14 +64,14 @@ nav:
         - ReCITYing: 2024-25/year-2/elective-courses/applied-research-seminars/recitying/index.md
       - Applied Theory Workshops:
         - 2024-25/year-2/elective-courses/applied-theory-workshops/index.md
-        - Circular Matter: 2024-25/year-2/elective-courses/applied-theory-workshops/circular-matter/index.md
+        - Carbon Based Design: 2024-25/year-2/elective-courses/applied-theory-workshops/carbon-based-design/index.md
         - Business Innovation: 2024-25/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
         - Theories of the Urban: 2024-25/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
         - Ecological Interactions: 2024-25/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
         - Co-Creating Public Space: 2024-25/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
         - Designing for More than Humans: 2024-25/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
-        - Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/additive-manufacturing/index.md
-        - Substractive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/substractive-manufacturing/index.md
+        - Non-Planar Bio-Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
+        - Weaving Natural Materials: 2024-25/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
         - Serious Games: 2024-25/year-2/elective-courses/applied-theory-workshops/serious-games/index.md
         - Transitional Landscapes: 2024-25/year-2/elective-courses/applied-theory-workshops/transitional-landscapes/index.md
         - Sensing: 2024-25/year-2/elective-courses/applied-theory-workshops/sensing/index.md

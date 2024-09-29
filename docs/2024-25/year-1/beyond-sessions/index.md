@@ -44,9 +44,4 @@ By the end of the Beyond Masterclass Series, students are expected to achieve th
 - Interactive Q&A Sessions
 - Cross-Disciplinary Group Discussions
 - Reflective Learning and Feedback
-- Networking Opportunities 
-
-
-## Faculty
-
-{{ insert_faculty() }}
+- Networking Opportunities
