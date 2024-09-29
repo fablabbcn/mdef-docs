@@ -3,11 +3,11 @@ title: Thesis Project
 page_type: course
 track: Application
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-2/modules/thesis-project.jpeg
+feature_img: /assets/images/2024-25/year-2/modules/thesis-project.jpg
 img_caption: 
 faculty:
-    - tomas-diez
-    - santiago-fuentemilla
+    - jana-tothill
+    - roger-guilemany
 ects: 17
 ---
 
@@ -15,169 +15,106 @@ ects: 17
 
 ## Syllabus
 
-**Second Year Design Studio - Master in Design for Emergent Futures**
+The Thesis Project course is designed to support and guide students through the process of developing their final design projects during the second year of the Master in Design for Emergent Futures. Throughout the academic year, students will engage in three key phases: Implementation, Validation, and Dissemination—each building on the prior to ensure that the project is well-researched, contextually grounded, and capable of being scaled for real-world impact. The course emphasizes interdisciplinary research, design methodologies, field engagement, and the creation of sustainable business models.
 
-The second year of the Design Studio in the Master in Design for Emergent Futures program is dedicated to the in-depth development of students' projects, supported by complementary seminars. The structure of the second year is as follows:
+By the end of the course, students will have created a fully developed, scalable, and contextually situated project that reflects their ability to address complex societal challenges with innovative, emergent design solutions.
 
-**Term 1: Research and Scientific Background**
+**Keywords: Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions, Alternative Presents**
 
-In the first term, students will focus on conducting research and establishing the scientific background of their projects. They will delve into relevant theories, methodologies, and frameworks to inform their design process. Through literature reviews, data collection, and analysis, students will gain a solid understanding of the context and theoretical foundations of their projects.
-
-**Term 2: Community and Context Situating**
-
-During the second term, students will shift their focus to situating their projects within a specific community and context. They will explore the social, cultural, and environmental aspects that influence the development and implementation of their designs. Through field research, interviews, and participatory methods, students will gain insights into the needs, aspirations, and challenges of the community they aim to serve.
-
-**Term 3: Scalability and Business Model**
-
-In the final term, students will work on the scalability and business model of their projects. They will explore strategies for scaling up their designs to reach a wider audience and have a greater impact. Additionally, students will develop a business model to ensure the sustainability and viability of their projects. They will consider factors such as funding, partnerships, marketing, and distribution to create a comprehensive plan for implementing their designs.
-
-By following this structure, students in the second year of the Design Studio will have the opportunity to deepen their understanding of design for emergent futures and develop projects that address complex challenges in innovative and sustainable ways.
-
-### Deep Explanation of Term 1: Research and Scientific Background
-
-In the first term, students will embark on a comprehensive exploration of research and scientific background to lay a strong foundation for their design projects. The primary focus will be on conducting rigorous research and establishing a solid understanding of the context and theoretical underpinnings that inform their design process. This term will consist of various activities aimed at equipping students with the necessary skills and knowledge to conduct effective research and establish a scientific basis for their projects.
-
-### Literature Reviews
-
-Students will engage in extensive literature reviews to identify and analyze existing research, theories, and best practices relevant to their design projects. By reviewing scholarly articles, books, and other relevant publications, students will gain insights into the current state of knowledge in their respective fields and identify gaps that their projects can address.
-
-### Theoretical Frameworks and Methodologies
-
-To inform their design process, students will explore and apply various theoretical frameworks and methodologies. They will critically evaluate different approaches and select the ones most suitable for their projects. By integrating theoretical frameworks into their work, students will be able to ground their designs in established principles and concepts while pushing the boundaries of innovation.
-
-### Data Collection and Analysis
-
-Students will learn methods and techniques for collecting and analyzing relevant data to support their design projects. This may involve conducting surveys, interviews, observations, or experiments, depending on the nature of their research. Through data collection and analysis, students will gain valuable insights and evidence to inform their design decisions.
-
-### Contextual Understanding
-
-In addition to conducting research, students will develop a deep understanding of the contextual factors that shape their design projects. This may include investigating social, cultural, economic, and environmental aspects that influence the problem space. By considering the broader context, students will be able to design solutions that are sensitive to the needs and aspirations of the target audience.
-
-**Keywords: Emergent technologies, community engagement, business models, action research**
-
-### Methodological Strategies
-
-1. Research-Based Approach
-2. Theoretical Frameworks and Methodologies
-3. Community and Context Situating
-4. Scalability and Business Model Development
-5. Ethical and Sustainable Integration of Emerging Technologies
 
 ### Learning Objectives
 
-1. Deepen understanding of technologies such as digital fabrication, AI, blockchain, and other emerging technologies, and explore their potential applications in addressing complex challenges in emergent futures.
+The specific goals are the following: 
 
-2. Develop advanced research skills to investigate and establish the scientific background of design projects, specifically focusing on the integration of emerging technologies and their impact on societal, cultural, and environmental contexts.
+- Develop advanced research skills to investigate and establish the scientific background of design projects, specifically focusing on the integration of emerging technologies and their impact on societal, cultural, and environmental contexts in order to develop their projects and practices as Alternative Presents to current challenges.
+  
+- Apply theoretical frameworks and methodologies to inform the design process and address complex challenges in emergent futures, with a particular emphasis on the ethical and sustainable integration of emerging technologies, situating their practices from a first-person perspective critically assessing scalable socio-technical systems.
+  
+- Gain an understanding of the social, cultural, and environmental aspects that influence design implementation within specific communities and contexts, considering the potential implications and effects of emerging technologies on these factors.
+  
+- Promote design interventions encompassing field research and participatory methods to gain insights into the needs, aspirations, and challenges in the context exploring how these can be leveraged to create positive social impact
 
-3. Apply theoretical frameworks and methodologies to inform the design process and address complex challenges in emergent futures, with a particular emphasis on the ethical and sustainable integration of emerging technologies.
-
-4. Gain an understanding of the social, cultural, and environmental aspects that influence design implementation within specific communities and contexts, considering the potential implications and effects of emerging technologies on these factors.
-
-5. Utilize field research, interviews, and participatory methods to gain insights into the needs, aspirations, and challenges of target communities in the context of emerging technologies, exploring how these technologies can be leveraged to create positive social impact.
-
-By achieving these learning objectives, students will be equipped with the necessary skills and knowledge to create innovative and sustainable designs that address emergent challenges, while effectively integrating and leveraging emerging technologies in a responsible and impactful manner.
 
 ## Schedule
 
-**Calendar for Term 1: Research and Scientific Background**
 
-Based on a 10-session framework, the following calendar outlines the key activities and milestones for Term 1:
+=== "Term 1: Implementation"
 
-=== "S1"
+    In the first term, students will focus on conducting research and establishing the scientific background of their projects. They will delve into relevant theories,    methodologies, and frameworks to inform their design process. Students will gain a solid understanding of the context and theoretical foundations of their projects.
 
-    **Session 1: Introduction to Research and Scientific Background**
+=== "Term 2: Validation"
 
-    - Overview of the term's objectives and expectations
-    - Introduction to research methodologies and literature review techniques
-
-=== "S2"
-
-    **Session 2: Defining Research Questions and Objectives**
-
-    - Guided exercises to help students articulate clear research questions and objectives
-    - Discussion on the importance of research focus and scope
-
-=== "S3"
-
-    **Session 3: Literature Review**
-    
-    - Techniques and strategies for conducting a comprehensive literature review
-    - Identifying key sources and synthesizing relevant information
-
-=== "S4"
-
-    **Session 4: Theoretical Frameworks and Methodologies**
-
-    - Exploration of different theoretical frameworks and methodologies relevant to design research
-    - Selection and application of appropriate frameworks for individual projects
-
-=== "S5"
-
-    **Session 5: Data Collection Methods**
-
-    - Introduction to various data collection methods, such as surveys, interviews, and observations
-    - Ethical considerations and best practices for data collection
-
-=== "S6"
-
-    **Session 6: Data Analysis Techniques**
-
-    - Overview of qualitative and quantitative data analysis techniques
-    - Hands-on exercises to analyze and interpret collected data
-
-=== "S7"
-
-    **Session 7: Contextual Understanding**
-
-    - Investigating the social, cultural, economic, and environmental aspects relevant to individual projects
-    - Identifying contextual factors that may influence design decisions
-
-=== "S8"
-
-    **Session 8: Synthesis and Insights**
-
-    - Synthesizing research findings and insights gained from literature review and data analysis
-    - Identifying patterns, trends, and themes that inform the design process
-
-=== "S9"
-
-    **Session 9: Refining Research Questions and Objectives**
-
-    - Reviewing and refining research questions and objectives based on insights gained
-    - Ensuring alignment between research and design goals
-
-=== "S10"
-
-    **Session 10: Research Proposal and Project Plan**
-
-    - Developing a research proposal and project plan for the next stages of the design process
-    - Presenting and discussing research plans with peers and instructors
-
-*Please note that this calendar is a general outline and may be subject to adjustments based on the specific requirements of the program and individual projects.*
+    During the second term, students will shift their focus to situating their projects within a specific community and context. They will explore the social, cultural, and environmental aspects that influence the development and implementation of their designs. Students will gain insights into the needs, aspirations, and challenges of the community they aim to serve.
 
 
+=== "Term 3: Dissemination. Scaling and Contributing"
 
-## Deliverables
+    In the final term, students will work on the scalability model of their projects. They will explore strategies for scaling up their designs to reach a wider audience and have a greater impact. Additionally, students will develop sustainability and viability strategies for their projects. They will consider factors such as funding, partnerships, and distribution to create a comprehensive plan for implementing their designs.
 
-- Research proposal and project plan for the next stages of the design process.
-- Documented process in MDEF repository.
+## Methodological Strategies
+
+- *Lectures & Seminars*: Weekly sessions on advanced research methods, design theories, community engagement techniques, and business modeling.
+  
+- *Advisory Sessions*: Meetings with academic advisors to provide personalized feedback and guidance on project development.
+  
+- *Peer Reviews & Presentations*: Group critiques and feedback sessions to foster collaborative learning and refine project ideas.
+
+- *Fieldwork*: Practical fieldwork to engage with communities and gather insights for project validation.
+
 
 ## Grading Method
 
-- Attendance at meetings with tutors and classes
-- Delivery of assignments
+These are the points we are going to look at:
+
+- Relevance of the project in relation to students’ positionality, situated contexts, and emerging challenges.
+- Framing and documenting the design opportunity of the thesis
+Development and involvement of a community of practice
+
+
+
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 50%         | Faculty - Including first Thesis draft                                   
+| 50%         | Self-Evaluation                                   |
+
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS over three terms:
 
-    - Term 1: **Implementation** (*8 ECTS*)
-    - Term 2: **Validation** (*8 ECTS*)
-    - Term 3: **Dissemination (Scale and Distribute)** (*12 ECTS*)
+    - Term 1: **Implementation** (*5 ECTS*)
+    - Term 2: **Validation** (*5 ECTS*)
+    - Term 3: **Dissemination (Scale and Distribute)** (*7 ECTS*)
 
 ## Additional Resources
 
-The bibliography will be tailored to each student's research focus.
+[Desjardins, A., Tomico, O., Lucero, A., Cecchinato, M. E., & Neustaedter, C. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1-12.](https://dl.acm.org/doi/10.1145/3492342)
+
+Auger, J. (2010). ‘Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages’. Negotiating futures – Design Fiction. 42–57.
+
+Candy, S., & Dunagan, J. (2017). ‘Designing an experiential scenario: The People Who Vanished.’ Futures, 86, 136–153.
+
+Diez, T., & Tomico, O. (2020). ‘The Master in Design for emergent futures.’ IAAC.
+Hiltunen, E. (2010). Weak signals in organizational futures learning. Doctoral thesis. Helsinki: Aaalto University.
+
+Krogh, P., Markussen, T., & Bang, A. (2015). ‘Ways of drifting – 5 methods of experimentation in research through design’. In Proceedings of ICoRD’15 – Research into Design Across Boundaries Volume 1. New Delhi. Springer. 39–50.
+
+Lucero, A., Desjardins, A., Neustaedter, C., Höök, K., Hassenzahl, M., & Cecchinato, M. (2019). ‘A sample of one: First-person research methods in HCI’. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS ‘19 Companion). ACM: New York. 385–388.
+
+Neustaedter, C., & Sengers, P. (2012). Autobiographical design: what you can learn from designing for yourself. Interactions, 19(6), 28–33.
+
+Rosenberg, D. (2015). Transformational Design: A mindful practice for experience-driven design. PhD Thesis. Cambridge: Massachusetts Institute of Technology.
+
+Tomico, O., Winthagen, V. O., & van Heist, M. M. G. (2012). Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (NordiCHI '12). Association for Computing Machinery, New York, NY, USA, 180–188.
+
+Varela, F. J., & Shear, J. (1999). First-person Methodologies: What, Why, How? Journal of Consciousness Studies, 6(2-3), 1-14.
+
+Wakkary, R. (2021). Things We Could Design: For more than human-centered worlds. Cambridge: The MIT Press.
+
+Wensveen, S. A. G., & Matthews, B. (2015). Prototypes and prototyping in design research. In P. Rodgers & J. Yee (Eds.), Routledge companion to design research (pp. 262–276). London: Routledge.
+
+More to be provided along the course
+
 
 ## Faculty
 

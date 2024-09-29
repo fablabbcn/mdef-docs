@@ -1,5 +1,5 @@
 ---
-title: Substractive Manufacturing
+title: Weaving Natural Materials
 page_type: course
 track: Exploration
 course_type: Elective
