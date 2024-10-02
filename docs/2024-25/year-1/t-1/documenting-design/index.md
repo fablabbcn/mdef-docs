@@ -103,6 +103,12 @@ Updated website using the suggested taxonomy structure and the considerations gi
 
     {{ ects }} ECTS
 
+
+## Course Resources
+
+- [Fablab BCN - Git Doc](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/git-setup/) 
+
+
 ## Faculty
 
 {{ insert_faculty() }}
