@@ -4,62 +4,59 @@ hide:
     - navigation
 students:
     Flavio Grimaldi:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7067.jpg
+        website: https://flavio-grimaldi-students-iaac.gitbook.io/flavio_grimaldi
     David Granizo Calero:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7066.jpg
+        website: https://davmdef.github.io/MDEFWEB/
     Hanna Biarozka:
-        photo:
+        photo: /assets/images/students/2024-25/MDEF01/7168.jpg
         website:
     Javier Serra Alonso:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7065.jpg
+        website: https://javierserraa.gitbook.io/home
     Lucretia Katarzyna Field:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7069.png
+        website: https://lkfield.github.io/mdef/
     Kevin Giovanni Enriquez Ambrocio:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7174.jpg
+        website: https://mdef02-kevin-enriquez.gitbook.io/mdef02-kevin-enriquez
     Carlos Alberto Da Silveira Junior:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7161.jpg
+        website: https://carloss-organization-24.gitbook.io/carlos-silveira
     Erik Reimberg Gutschow:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7330.jpg
+        website: https://mdef-1.gitbook.io/mdef
     Andrea Santi:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7133.jpeg
+        website: https://andrea-santis-organization.gitbook.io/andrea-santi-mdef-course
     Auxence Jules Daillen:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7138.jpg
+        website: https://auxence-daillen-organisation.gitbook.io/auxence-daillen/
     Ziming Shang:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7132.jpg
+        website: https://smuzs-organization.gitbook.io/smuz-mdef
     Maximilian Becht:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7150.png
+        website: https://maxicozy.github.io/mdef-documentation/
     Maithili Manoj Sathe:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7169.jpg
+        website: https://maithilis.gitbook.io/mdef-archive
     Paula Rydel:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7311.jpg
+        website: https://pr0.gitbook.io/paula-mdef-website
     Mohit Chopra:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7177.jpg
+        website: https://mohitchopra.notion.site/Home-11cf63009b748004a336e4cc92903c61?pvs=4
     Ramon Prat Gibert:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7009.jpg
+        website: https://ramon-prat-gibert.gitbook.io/ramon-prat-mdef-website/final-project
     Maria Vittoria Colombo:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF01/7271.jpg
+        website: https://colombomariavittorias-organizati.gitbook.io/maria-vittoria-colombo-mdef/
     Belen Comotto:
-        photo:
-        website:
-    Sandra Davis Coleman:
-        photo:
-        website:
+        photo: /assets/images/students/2024-25/MDEF02/7273.jpg
+        website: https://belencomotto.gitbook.io/belencomotto
     Manuja Agnohotri:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
