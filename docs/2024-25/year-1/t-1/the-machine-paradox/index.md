@@ -160,8 +160,8 @@ Students are requested to submit all the material requested by the faculty + the
 
 ## Course Resources
 - [Hackmd Documentation](https://hackmd.io/@fablabbcn/theparadoxmachine) - Collection of presentations, links and reources for the course.
-- [Miro Board](https://miro.com/app/board/uXjVNaaI5lo=/?share_link_id=211542821117)
-- [Main Presentation](https://docs.google.com/presentation/d/1RpulespmfM56jrsVVu-wSrBUAQkj-bsYd4ItujQDpUI/edit#slide=id.gfc4bed69d2_0_516)
+- [Miro Board](https://miro.com/app/board/uXjVLVe_s0Y=/?share_link_id=215960435547)
+- [Main Presentation](https://docs.google.com/presentation/d/1RpulespmfM56jrsVVu-wSrBUAQkj-bsYd4ItujQDpUI/edit?usp=sharing)
 - [TAUMS Showcase](https://docs.google.com/presentation/d/15KO0wCPPbD59EVw_6xRo_4ZkEceN0HR65-qRN1_MxBE/edit?usp=sharing)
 
 ## Additional Resources
