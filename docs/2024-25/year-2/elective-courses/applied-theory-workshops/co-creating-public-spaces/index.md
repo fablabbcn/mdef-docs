@@ -4,7 +4,7 @@ page_type: course
 track: Exploration
 course_type: Elective
 feature_img: /assets/images/2024-25/year-2/modules/co-creating-public-space.jpg
-img_caption:
+img_caption: Empowering Vulnerable People with Adaptive Infrastructure, by  MaCT01 23/24 students
 faculty:
     - 
 ects: 2
