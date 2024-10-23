@@ -3,8 +3,8 @@ title: ReCITYing
 page_type: course
 track: Exploration
 course_type: Elective
-feature_img:
-img_caption:
+feature_img: /assets/images/2024-25/year-2/modules/recitying.png
+img_caption: Industries of Nature by Alejandro Haiek Coll
 faculty:
     - 
 ects: 4
