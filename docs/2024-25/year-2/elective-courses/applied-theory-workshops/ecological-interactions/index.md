@@ -21,6 +21,6 @@ Traceability in nutrient flows, energy and labor costs will be mapped and record
 
 Over the centuries, the agricultural industrial sector has grown to become a force for ecological and climate change. Methods of landscape development for the production of food and material resources is now one of the most contested debates of our time. The ecological interactions seminar line, although mainly practical also examines what emerging techniques and infrastructure can be designed to be appropriate for climate resilient societies, productive enough for global markets whilst being ecologically regenerative rather than reductive. The Valldaura landscape and gardens offer a unique opportunity for innovation where tacit knowledge of plant and ecosystem development combined with new computational and digital tools to enhance knowledge and practice towards an ecological optimum for agricultural systems. The objective is for students and researchers to gain practical, hands-on experience of farm life. Part of the Valldaura living lab.
 
-**The classes will be held at the Valldaura Labs campus.**
+**The classes will be held in Benifallet, Tarragona.**
 
 See full course details [here](https://blog.iaac.net/course/maebb01-23-24-ecological-interactions-agriculture-zero/).
