@@ -14,7 +14,7 @@ hide:
 
 {{ insert_banner() }}
 
-## Context for Co-Creating Public Space 
+## Syllabus
 
 This design seminar on data-driven analysis-design process to understand and address local needs on different dimensions: social, physical/urban, environmental. In order to facilitate this process, the seminar will be developed in 2 separate, but complimentary parts:
 
