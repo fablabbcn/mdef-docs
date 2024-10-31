@@ -3,7 +3,7 @@ title: Designing for More than Humans
 page_type: course
 track: Exploration
 course_type: Elective
-feature_img: /assets/images/2024-25/year-2/modules/designing-for-more-than-humans.png
+feature_img: /assets/images/2024-25/year-2/modules/designing-for-more-than-humans.gif
 img_caption: The Wild Deal, a project by MaCT01 2022-23 students
 faculty:
     - 
