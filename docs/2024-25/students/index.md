@@ -23,7 +23,7 @@ students:
         website: https://mdef02-kevin-enriquez.gitbook.io/mdef02-kevin-enriquez
     Carlos Alberto Da Silveira Junior:
         photo: /assets/images/students/2024-25/MDEF02/7161.jpg
-        website: https://carloss-organization-24.gitbook.io/carlos-silveira
+        website: https://carlossilveiradesign.gitbook.io/mdef-diary
     Erik Reimberg Gutschow:
         photo: /assets/images/students/2024-25/MDEF01/7330.jpg
         website: https://mdef-1.gitbook.io/mdef
@@ -56,7 +56,7 @@ students:
         website: https://colombomariavittorias-organizati.gitbook.io/maria-vittoria-colombo-mdef/
     Belen Comotto:
         photo: /assets/images/students/2024-25/MDEF02/7273.jpg
-        website: https://belencomotto.gitbook.io/belencomotto
+        website: https://belcomotto.xyz/
     Manuja Agnohotri:
         photo: /assets/images/students/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
