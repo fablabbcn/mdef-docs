@@ -1,6 +1,6 @@
 ---
 name: Laura Benitez
-role: MDEF Co-Director
+role: Researcher and lecturer
 feature_img: /assets/images/faculty/laura-benitez.jpg
 socials:
     email: laura.benitez.valero@gmail.com

@@ -5,9 +5,10 @@ hide:
     - navigation
 faculty:
     - guillem-camprodon
-    - laura-benitez
+    - saul-baeza
     - chiara-dallolio
     - pau-artigas
+    - laura-benitez
     - milena-calvo
     - albert-canigueral
     - andres-colmenares
@@ -28,7 +29,6 @@ faculty:
     - olga-trevisan
     - pablo-zuloaga
     - ron-wakkary
-    - saul-baeza
 
 ---
 
