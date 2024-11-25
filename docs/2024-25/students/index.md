@@ -44,7 +44,7 @@ students:
         website: https://maithilis.gitbook.io/mdef-archive
     Paula Rydel:
         photo: /assets/images/students/2024-25/MDEF01/7311.jpg
-        website: https://pr0.gitbook.io/paula-mdef-website
+        website: https://futuresdrafts.wixsite.com/paularydel
     Mohit Chopra:
         photo: /assets/images/students/2024-25/MDEF02/7177.jpg
         website: https://mohitchopra.notion.site/Home-11cf63009b748004a336e4cc92903c61?pvs=4
