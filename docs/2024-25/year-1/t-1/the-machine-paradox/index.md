@@ -12,7 +12,6 @@ faculty:
     - josep-marti
     - petra-garajova
     - adai-surinach
-    - mikel-llobera
 ects: 5
 ---
 
