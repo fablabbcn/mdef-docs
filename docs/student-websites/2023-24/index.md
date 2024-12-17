@@ -47,7 +47,7 @@ students:
         website: https://minnie-at-iaac.github.io/
     Sophie Marandon:
         photo: /assets/images/students/7005.jpg
-        website: https://sophma.github.io/myMDEFportfolio/
+        website: https://sowphie.github.io/myMDEFportfolio/
     Jorge Muñoz:
         photo: /assets/images/students/7007.jpg
         website: https://jmuozan.github.io/mdef-website/
