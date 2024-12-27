@@ -3,143 +3,115 @@ title: Situated Design Practices
 page_type: course
 track: Reflection
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-1/design-with-others.jpg
-img_caption: Ailie Rutherford
+feature_img: /assets/images/2024-25/year-1/t-2/situated-design-practices.jpg
+img_caption: Misremembered George Orwell quote by Sumon Basar
 faculty:
-    - laura-benitez
-ects: 2
+    - saul-baeza
+ects: 3
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-*A four-day seminar of four-hour sessions to kickstart designing with creative communities and engaging with the social body.*
-
-Design practice and the role of the designer have been continuously evolving. What began as a practical discipline at the service of industry ("design over") expanded to include the perspective of the human user and their needs ("design for") and later evolved into more participatory approaches where the user becomes an active agent in the design process ("design with"). In the context of growing existential risks and challenges, it is now critical to push these questions further by incorporating principles of otherness, design justice, alterity, communities, situated epistemologies and intra-action into design practices.
+Students will explore four distinct situated design practices. The course offers two complementary levels of exploration: one focused on geographical contexts and the other driven by community engagement. While these approaches can be examined separately, their materiality and meaning often intersect. The course invites students to discover, visit, and contextualize various metropolitan areas of Barcelona. Through this journey, we will delve into their unique identities, historical narratives, and contemporary realities. Students will engage with local communities involved in diverse professional and personal practices. We will also foster connections with lawyers, journalists, and niche internet personalities to better understand how communities emerge or are shaped—whether recognized or hidden, institutionalized or marginalized, celebrated or stigmatized. 
 
 ### Learning Objectives
 
-Students after completion of the course should be able to:
+- Community driven design
+- Research trough design
+- Ciritcal positioning
+- Commitment development 
+- Community engagement
+- Situated design practices
+- The politics of design
 
-- Detect, understand and tackle complex issues through design practices.
-- Engage with “creative communities” related to the matters of concern.
-- Situate their practice in the field.
-- Engage in strategic intervention.
-- Get familiar and confident facilitating groups of people and processes.
-- Widen their community engagement perspective and learn to work(in) non-human agents.
 
-**Keywords: Other(ness), Communities, Collaboration**
+**Keywords: Community, Commitment, Context, Expanded Realities**
 
 
 ## Schedule
 
-=== "19/11"
+=== "13/01"
 
-    ***9:30-13:30***
+    ***9:30-16:00***
     
-    **Class with *Marta Delatte* on** ***Design Justice***
+    **Bike trip along the *Llobregat River* to** ***Cal Negre***
     
-    Rethinking traditional design processes and frameworks to prioritize social equity, inclusion, and justice. It would explore how design—whether in technology, architecture, urban planning, or other fields—can perpetuate or disrupt existing systems of oppression. The session would emphasize the importance of centering “marginalized” communities in the design process, ensuring their needs, experiences, and knowledge guide the outcomes. The class would be encouraged to critically analyze our work not as neutral but as an influential force for either maintaining or challenging social-political inequities.
+    Bike trip
+Start: 9:30
+Meeting Point: Carrer Cobalt 38, 08907 L’Hospitalet de Llobregat
+L’Hospitalet to El Prat de Llobregat following the Llobregat River
+11:30 – Arrive to El Prat de Llobregat Beach: Situated Design Practices Course Introduction
+12:00 – El Prat de Llobregat Beach to Cal Negre
+12:30 – Cal Negre introduction 
+13:00 – Lunch
+14:00 – Cal Negre activities
+
+    Cal Negre is a community, a house, and an experimental space located just 200 meters from the Barcelona Airport. Its residents explore communal ways of living and working, deeply engaging with the surrounding territory and context.
+
     
-    [www.designjustice.org](https://designjustice.org/)
-    
-=== "20/11"
+=== "21/01"
 
     ***9:30-11:30***
 
-    **Session with *Laura Benítez* on** ***Other(ness)***
+    **Session with *Hibai Harbidez* about** ***Borders and Forced Communities***
     
-    In the first part of the session, we will explore the concept of "the Other" and its central role in shaping contemporary philosophical, social, and ethical thinking. The session will also introduce how contemporary debates approach the notion, experience, and construction of the "Other." (Ethics of alterity/otherness).
+    9:30 – Online talk by Hibai Harbide
+11:00 – Q&A 
 
-    ***11:30-13:30***
+Hibai Arbide Aza is a lawyer by training but works as a journalist. Since 2014, he has been living in Greece, where he has worked as a television correspondent and has published in print media for various international outlets. He has been a member of Muzungu Producciones since 2015. For nearly two decades, he has been involved in issues related to borders and freedom of movement; first as an activist, then as a lawyer, and now as a journalist, covering the so-called “refugee crisis” of recent years in Greece, the Balkans, the Middle East, and Germany. Other common topics in his work include social issues, civil rights, and LGBTQ+ matters. 
 
-    **Visit to** ***Salamina*** - ***eemeemee*** 
 
-    In the second part of the session, we will visit Salamina, a shared workspace in an industrial building in L'Hospitalet. We will visit one of the resident collectives, eemeemee [Enclave Micopirata Mutante], whose purpose is to maintain a community network to share processes and knowledge generated around DIWO mycology. Each of the participants in the network carries out on their own and collectively in the field of mycology and mushroom cultivation, both for food sovereignty purposes and for the development of tools for bioremediation of the territory or the discussion of ecological and interspecific relationships and hierarchies.
-    
-    [www.eemeemeee.org](https://eemeemeee.org/doku.php?id=inicio)
-
-=== "21/11"
+=== "11/02"
 
     ***9:30-11:30***
 
-    **Session with *Laura Benítez* on** ***Agency and situated epistemologies***
+    **Visit to *Alencop* and** ***Andròmines***
     
-    This session explores critical concepts from contemporary philosophy, social theory, and feminist science studies to examine how human and non-human entities influence and relate to each other in dynamic systems. It is focused on shifting away from traditional views of agency as an individual trait toward more relational, interconnected models of action. Rethinking agency beyond individual autonomy emphasises a network of relationships and intra-actions that create possibilities and onto-ethical-epistemological challenges in contemporary life.
-
-    ***11:30-13:30***
-
-    **Visit to** ***Mutan Monkey*** 
-
-    In the second part of the session, we will visit the Mutan Monkey project. MUTAN- LAB sound research was born in Barcelona, in the beautiful neighborhood of Horta, in 2018. The space was built collectively, DIY/DIT between Mutan Monkey Instruments and the musical collective Ojalä este mi Bici is established as a cultural association of sound research focused on electronics and electroacoustics. The space works in a collective self-management way and wants to promote the exchange of knowledge and the creation of new forms to enable other ways of generating music and experimental sound. 
+    9:30 – Visit to Alencop 
     
-    [www.mutanmonkeyinstruments.com/es](https://www.mutanmonkeyinstruments.com/es)
+Alencop is a social cooperative in Barcelona, founded in 2015 to support vulnerable migrant populations, particularly informal scrap metal collectors. Backed by the Barcelona City Council, it provides dignified employment, promotes sustainable waste management, and facilitates social inclusion. In 2020, Alencop merged with Andròmines to strengthen its focus on the circular economy and continue empowering individuals at risk of social exclusion.
+
  
-=== "22/11"
+=== "18/02"
 
     ***9:30-11:30***
 
-    **Session with *Laura Benítez* -** ***Beyond local territories***
+    **Session with *Ben Ditto* about** ***Internet Subcultures***
     
-    This session focuses on territoriality and third spaces. The proposal addresses notions of territory and community beyond the simple local-global scale. The generation of communities and collaboration does not occur only in encounters within the same territory. We will explore different notions and projects to help us think about a design with others beyond local territories. 
+    9:30 – Online talk by Ben Ditto
+11:00 – Q&A 
+
+Ben Ditto is a creative director living and working in London. Ditto’s projects span a broad spectrum of disciplines including moving image, CGI, creative coding, branding, AI, print and live experience to name just a few. Ben’s utilisation of Instagram as a tool for reportage on topics ranging from military hardware to surgical procedures – and everything in between – has gained him a cult online following and propelled him to the realm of “niche micro-internet celebrity”. This led to the cultivation of an online community, Ditto Nation, on Telegram and Discord, as well as a documentary series under the same name. Ben is also the art director of his eponymous publishing company Ditto, and founded Dazed Beauty alongside Isamaya Ffrench. Ditto was recently appointed as the creative director of Desdemona, a robot created in a collaboration between Hanson Robotics and Singularity Net, with the aim of creating the future of AI celebrity. 
 
 
-    ***11:30-13:30***
-
-    **Visit to *BeAnotherLab* (TBC)** 
-
-    We will visit the collective/project Be another lab in the second part of the session. 
-    
-    BeAnotherLab works at the intersection of art, science and technology. We question the hierarchies between these different ways of knowing and approach them as complementary, overlapping bodies of knowledge. BeAnotherLab is a not-for-profit cultural association registered in Barcelona. Their innovations are licensed under the Creative Commons Share-Alike License. They are driven by an action-research approach, and the laboratory has developed a range of methodologies for interfacing with differences, always aiming to translate and connect in a context-specific and situated manner.
-
-    [www.beanotherlab.org](https://beanotherlab.org/)
- 
 ### Methodological Strategies
 
-- Lectures
 - Case studies
-- Visits
-
-- Project-based learning
-- Team-based learning
-- Visual thinking
+- Tours / Itineraries
+- Workshops  
+- Lectures  
+- Group discussions  
+- Team-based learning  
 
 
 ## Deliverables
 
-One of the deliverables will consist of designing an intervention with a community/collective, considering the lessons learned in the seminar. They will be able to add a critical reflection on how their design practices/experimental practices understand and tackle complex issues through design practices.
+Situated design practice positioning + Community of impact framing (Text/pictorial)
 
 ## Grading Method
 
 | Percentage  | Description                          |
 | ----------- | ------------------------------------ |
 | 20%         | Participation                        |
-| 40%         | Prototype development |
-| 40%         | Personal reflections                 |
+| 30%         | Text |
+| 50%         | Personal reflections                 |
 
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
-
-## Additional Resources
-
-### Bibliography
-
-Barad, Karen. *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*
-
-Care Collective. Care Manifesto. *The politics of interdependence*
-
-Collins, Nickolas. *Hand-made electronic music. The art of hardware hacking* 
-
-Constanza-Chock, Sasha. *Design Justice. Community-Led Practices to Build the Worlds We Need*
-
-Latour, Bruno; Weibel, Peter. *Critical zones*
-
-Pappanek, Victor. *Design for the real world*
-
-Tsing, Anna. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*
 
 
 ## Faculty
