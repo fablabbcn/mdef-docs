@@ -3,7 +3,7 @@ title: Situated Design Practices
 page_type: course
 track: Reflection
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-2/situated-design-practices.jpg
+feature_img: /assets/images/2024-25/year-1/t-2/situated-design-practices.png
 img_caption: Misremembered George Orwell quote by Sumon Basar
 faculty:
     - saul-baeza
