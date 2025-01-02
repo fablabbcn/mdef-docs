@@ -87,6 +87,7 @@ In the final term, students will work on the scalability model of their projects
 # Milestones
 
 - Sustainability Plan: A comprehensive plan detailing the steps required to ensure the long-term viability of the project, including technical iterations, resource allocation, and community engagement, integrating an academic, communitarian, or economic framework (or a hybrid model).
+- Ways of Drifting: A written document identifying and analyzing frictions encountered during the dissemination phase. It will report on how external critiques, regulatory challenges, unforeseen adaptations by new audiences, emergence of new opportunities, etcetera have impacted on the development of their journey in MDEF02. Ways of Drifting can be used as a framework to reflect on the student’s evolution.
 - Thesis Project
 
 # Specific Evaluation Methods
