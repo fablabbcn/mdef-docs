@@ -3,7 +3,7 @@ title: Living Materials
 page_type: course
 track: Exploration
 course_type: Wrokshop
-feature_img:
+feature_img: /assets/images/2024-25/year-1/t-2/living.jpg
 img_caption:
 faculty:
     - petra-garajova
@@ -23,6 +23,7 @@ This immersive short course introduces students to the intersection of biology, 
 - Understand non-academic research methodologies in bio-design through interactive sessions with experts.
 - Develop an awareness of biohacking and its potential for sustainable innovation.
 - Investigate the philosophical and ethical dimensions of "beyond human design" by exploring symbiotic systems and living materials.
+
 
 
 **Keywords: Bio-design, Biofabrication, Sustainable Materials, Beyond Human Design, Biohacking, Symbiosis**
