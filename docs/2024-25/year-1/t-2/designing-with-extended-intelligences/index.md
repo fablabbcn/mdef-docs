@@ -1,5 +1,5 @@
 ---
-title: Designing with Extended Intelligence 
+title: Extended Intelligence II
 page_type: course
 track: Exploration
 course_type: Workshop
