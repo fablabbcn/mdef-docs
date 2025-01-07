@@ -51,9 +51,12 @@ Developing and implementing a comprehensive communication strategy across multip
     - Models applicable to design projects.
     - Narrative techniques for effective project communication.
     - Crafting compelling narratives.
-
     Assignment - Defining our Stakeholders:
     - Strategically selecting target stakeholders that we want to approach to with our project interventions.
+
+    Divergent narratives with Saúl Baeza 1/2 (11:00 to 12:00):
+    - Unpacking existing projects with interesting and groundbreaking narratives
+    - Collective discussion 
 
 
 === "Day 2"
@@ -77,6 +80,11 @@ Developing and implementing a comprehensive communication strategy across multip
     Assignment - Communication Strategy:
     - Mapping stakeholders and communities’ engagement strategies and messages across different media.
     - Initial communication strategy presentation.
+
+    Divergent narratives with Saúl Baeza 2/2 (16:00 to 17:00):
+    - Unpacking existing projects with interesting and groundbreaking narratives
+    - Collective discussion 
+
 
 
 === "Day 4"
