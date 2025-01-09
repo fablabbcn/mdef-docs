@@ -21,7 +21,6 @@ By the end of the course, students will have created a fully developed, scalable
 
 **Keywords: Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions, Alternative Presents**
 
-
 ### Learning Objectives
 
 The specific goals are the following: 
@@ -37,64 +36,65 @@ The specific goals are the following:
 
 ## Schedule
 
+=== "T1: Implementation"
 
-=== "Term 1: Implementation"
+    In the first term, students will focus on conducting research and establishing the scientific background of their projects. They will delve into relevant theories, methodologies, and frameworks to inform their design process. Students will gain a solid understanding of the context and theoretical foundations of their projects.
 
-In the first term, students will focus on conducting research and establishing the scientific background of their projects. They will delve into relevant theories, methodologies, and frameworks to inform their design process. Students will gain a solid understanding of the context and theoretical foundations of their projects.
+    **Specific Learning Objectives**
 
-# Specific Learning Objectives
-- Develop advanced research skills to investigate and establish the scientific background of design projects, specifically focusing on the integration of emerging technologies and their impact on societal, cultural, and environmental contexts in order to develop their projects and practices as Alternative Presents to current challenges.
-- Apply theoretical frameworks and methodologies to inform the design process and address complex challenges in emergent futures, with a particular emphasis on the ethical and sustainable integration of emerging technologies, situating their practices from a first-person perspective critically assessing scalable socio-technical systems.
+    - Develop advanced research skills to investigate and establish the scientific background of design projects, specifically focusing on the integration of emerging technologies and their impact on societal, cultural, and environmental contexts in order to develop their projects and practices as Alternative Presents to current challenges.
+    - Apply theoretical frameworks and methodologies to inform the design process and address complex challenges in emergent futures, with a particular emphasis on the ethical and sustainable integration of emerging technologies, situating their practices from a first-person perspective critically assessing scalable socio-technical systems.
 
-# Milestones
-- Research Proposal: A document outlining the theoretical framework, research questions, and methodologies that will guide their project.
-- Annotated Bibliography: A detailed analysis of at least 10 academic and field-relevant resources related to their topic.
+    **Milestones**
+
+    - Research Proposal: A document outlining the theoretical framework, research questions, and methodologies that will guide their project.
+    - Annotated Bibliography: A detailed analysis of at least 10 academic and field-relevant resources related to their topic.
   
-# Specific Evaluation Methods
-- Framework assessment: Evaluate proposals based on clarity, depth of research, and alignment with course objectives.
-- Design Dialogues I: Demonstrate comprehension and application of research to inform the design process in the format of Design Dialogues.
+    **Specific Evaluation Methods**
 
-=== "Term 2: Validation"
+    - Framework assessment: Evaluate proposals based on clarity, depth of research, and alignment with course objectives.
+    - Design Dialogues I: Demonstrate comprehension and application of research to inform the design process in the format of Design Dialogues.
+
+=== "2: Validation"
 
     During the second term, students will shift their focus to situating their projects within a specific community and context. They will explore the social, cultural, environmental, political, and economical aspects that influence the development and implementation of their designs. Students will gain insights into the needs, aspirations, and challenges of the community they aim to serve.
 
-# Specific Learning Objectives
+    **Specific Learning Objectives**
 
-- Gain an understanding of the social, cultural, environmental, political, and economical aspects that influence design implementation within specific communities and contexts, considering the potential implications and effects of emerging technologies on these factors.
-- Build a solid foundation for engagement by critically analyzing the feasibility and relevance of planned interventions and subsequent analyses within a specific context.
-- Promote design interventions encompassing field research and participatory methods to gain insights into the needs, aspirations, and challenges in the context exploring how these can be leveraged to create positive social impact.
+    - Gain an understanding of the social, cultural, environmental, political, and economical aspects that influence design implementation within specific communities and contexts, considering the potential implications and effects of emerging technologies on these factors.
+    - Build a solid foundation for engagement by critically analyzing the feasibility and relevance of planned interventions and subsequent analyses within a specific context.
+    - Promote design interventions encompassing field research and participatory methods to gain insights into the needs, aspirations, and challenges in the context exploring how these can be leveraged to create positive social impact.
 
-# Milestones
+    **Milestones**
 
-- My Community of Practice: Motivation, Commitment and Context: A reflective report detailing the motivations, commitment, and engagement with the student’s contextualised and territorialised community of practice. It should address situated qualities and criteria to developing their community, including what is shared and not shared with them, and the potential contributions to be made.
-- Field Research Report: An account of the interventions and methods performed to engage a community of practice. Documented insights gained from the interventions and community engagement activities.
-- Prototype Testing and Feedback Analysis: A report on the feedback and iterations of a prototype (or prototypes) tested with the community of practice.
+    - My Community of Practice: Motivation, Commitment and Context: A reflective report detailing the motivations, commitment, and engagement with the student’s contextualised and territorialised community of practice. It should address situated qualities and criteria to developing their community, including what is shared and not shared with them, and the potential contributions to be made.
+    - Field Research Report: An account of the interventions and methods performed to engage a community of practice. Documented insights gained from the interventions and community engagement activities.
+    - Prototype Testing and Feedback Analysis: A report on the feedback and iterations of a prototype (or prototypes) tested with the community of practice.
 
-# Specific Evaluation Methods
+    **Specific Evaluation Methods**
 
-- Feedback sessions: Assessment based on the depth of community involvement, effectiveness, and diversity.
-- Design Dialogues II: Showcase design validation and iteration processes, evaluated on alignment with contextual challenges and needs.
+    - Feedback sessions: Assessment based on the depth of community involvement, effectiveness, and diversity.
+    - Design Dialogues II: Showcase design validation and iteration processes, evaluated on alignment with contextual challenges and needs.
 
-=== "Term 3: Dissemination. Scaling, Contributing and Sharing"
+=== "T3: Dissemination. Scaling, Contributing and Sharing"
 
-In the final term, students will work on the scalability model of their projects. They will explore strategies for scaling up their designs to reach a wider audience and have a greater impact. Additionally, students will develop sustainability and viability strategies for their projects. They will consider factors such as funding, partnerships, and distribution to create a comprehensive plan for implementing their designs.
+    In the final term, students will work on the scalability model of their projects. They will explore strategies for scaling up their designs to reach a wider audience and have a greater impact. Additionally, students will develop sustainability and viability strategies for their projects. They will consider factors such as funding, partnerships, and distribution to create a comprehensive plan for implementing their designs.
 
-# Specific Learning Objectives
+    **Specific Learning Objectives**
 
-- Enable students to create actionable plans for scaling their projects, considering contextual, technical, and community factors to develop a scalable implementation strategy.
-- Guide students in designing a sustainable model integrating funding strategies, partnerships, and distribution mechanisms into their projects, ensuring long-term viability and resilience of their solutions.
+    - Enable students to create actionable plans for scaling their projects, considering contextual, technical, and community factors to develop a scalable implementation strategy.
+    - Guide students in designing a sustainable model integrating funding strategies, partnerships, and distribution mechanisms into their projects, ensuring long-term viability and resilience of their solutions.
 
-# Milestones
+    **Milestones**
 
-- Sustainability Plan: A comprehensive plan detailing the steps required to ensure the long-term viability of the project, including technical iterations, resource allocation, and community engagement, integrating an academic, communitarian, or economic framework (or a hybrid model).
-- Ways of Drifting: A written document identifying and analyzing frictions encountered during the dissemination phase. It will report on how external critiques, regulatory challenges, unforeseen adaptations by new audiences, emergence of new opportunities, etcetera have impacted on the development of their journey in MDEF02. Ways of Drifting can be used as a framework to reflect on the student’s evolution.
-- Thesis Project
+    - Sustainability Plan: A comprehensive plan detailing the steps required to ensure the long-term viability of the project, including technical iterations, resource allocation, and community engagement, integrating an academic, communitarian, or economic framework (or a hybrid model).
+    - Ways of Drifting: A written document identifying and analyzing frictions encountered during the dissemination phase. It will report on how external critiques, regulatory challenges, unforeseen adaptations by new audiences, emergence of new opportunities, etcetera have impacted on the development of their journey in MDEF02. Ways of Drifting can be used as a framework to reflect on the student’s evolution.
+    - Thesis Project
 
-# Specific Evaluation Methods
+    **Specific Evaluation Methods**
 
-- Feedback sessions: Sustainability strategies presented in the form of Design Crits to peers, faculties, mentors and the community of practice.
-- MDEFest: Presentation in the form of an event to external actors (from academia, industry, and/or community stakeholders) demonstrating the project’s potential, sustainability, and the ability to present Alternative Presents.
-
+    - Feedback sessions: Sustainability strategies presented in the form of Design Crits to peers, faculties, mentors and the community of practice.
+    - MDEFest: Presentation in the form of an event to external actors (from academia, industry, and/or community stakeholders) demonstrating the project’s potential, sustainability, and the ability to present Alternative Presents.
 
 ## Methodological Strategies
 
@@ -106,7 +106,6 @@ In the final term, students will work on the scalability model of their projects
 
 - *Fieldwork*: Practical fieldwork to engage with communities and gather insights for project validation.
 
-
 ## Grading Method
 
 These are the points we are going to look at:
@@ -115,13 +114,10 @@ These are the points we are going to look at:
 - Framing and documenting the design opportunity of the thesis
 - Development and involvement of a community of practice
 
-
-
-| Percentage  | Description                                     |
-| ----------- | ------------------------------------            |
-| 50%         | Faculty - Including first Thesis draft                                   
-| 50%         | Self-Evaluation                                   |
-
+| Percentage  | Description                             |
+| ----------- | ------------------------------------    |
+| 50%         | Faculty - Including first Thesis draft  |
+| 50%         | Self-Evaluation                         |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
@@ -159,7 +155,6 @@ Wakkary, R. (2021). Things We Could Design: For more than human-centered worlds.
 Wensveen, S. A. G., & Matthews, B. (2015). Prototypes and prototyping in design research. In P. Rodgers & J. Yee (Eds.), Routledge companion to design research (pp. 262–276). London: Routledge.
 
 More to be provided along the course
-
 
 ## Faculty
 

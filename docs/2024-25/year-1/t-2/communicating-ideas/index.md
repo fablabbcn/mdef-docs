@@ -58,7 +58,6 @@ Developing and implementing a comprehensive communication strategy across multip
     - Unpacking existing projects with interesting and groundbreaking narratives
     - Collective discussion 
 
-
 === "Day 2"
 
     **Shaping Our Project Narrative**
@@ -68,7 +67,6 @@ Developing and implementing a comprehensive communication strategy across multip
     - Defining the tone and message of our project.
     Assignment - Communicating our project to others:
     - Cross interviewing peers about their projects as an exercise for self-reflection about our project understanding.
-
 
 === "Day 3"
 
@@ -85,8 +83,6 @@ Developing and implementing a comprehensive communication strategy across multip
     - Unpacking existing projects with interesting and groundbreaking narratives
     - Collective discussion 
 
-
-
 === "Day 4"
 
     **Review and Reflection**
@@ -94,14 +90,11 @@ Developing and implementing a comprehensive communication strategy across multip
     - Presentation of the initial communication strategy.
     - Peer reflection and comments
 
-
-
 ## Deliverables
 
 - A Stakeholders radar defining who we want to approach with our project.
 - Initial project mission, vision, purpose and message definition.
 - Communication strategy applied to different medias to communicate your project to your desired stakeholders.
-
 
 ## Grading Method
 
@@ -114,8 +107,6 @@ Developing and implementing a comprehensive communication strategy across multip
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
-
-## Additional Resources
 
 ## Faculty
 

@@ -33,7 +33,7 @@ The specific goals are the following:
 - Bring forth design interventions with their communities of practice to explore an area of interest.
 - Reflect on the becoming, outputs and outcomes of design activities
 
-## Keywords: Design Interventions, Community of Practice, Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication
+**Keywords: Design Interventions, Community of Practice, Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication**
 
 
 ## Schedule
@@ -74,64 +74,65 @@ We suggest engaging in an average of four collective design interventions this t
 
     **03/02 Being thorough with your Research  - Toni Llàcer**
 
-    **Goals:** 
+    **Goals:**
+
     - Emphasize the importance of rigor and depth in design research to inform interventions.
     - Introduce methods for collecting, analyzing, and organizing data to strengthen research outcomes.
     - Highlight strategies for linking insights to actions, ensuring research is actionable and grounded in real-world contexts.
     - Foster critical reflection on the research process, encouraging students to question assumptions and biases.
 
     **Activity:**
+
     TBD
 
     **Task:** 
+
     - Plan and execute a design intervention using the opportunity given with the micro challenge, to use research insights to inform the approach.
     - Document and analyze the intervention, focusing on how research guided the decisions and outcomes.
 
-    **Deliverable 1:** 
+    **Deliverable 1:**
+
     *One step further than the video: Intervention Report*
+
     A detailed document that includes:
+
     - Research methods used.
     - Key findings and insights.
     - Analysis of how findings influenced the design intervention.
     - Reflection on what worked, what didn’t, and areas for improvement.
 
+    **Deliverable 2:**
 
-    **Deliverable 2:** 
-*Updated Design Space*: Visual or conceptual updates based on new findings and relationships built during the intervention.
-
+    *Updated Design Space*: Visual or conceptual updates based on new findings and relationships built during the intervention.
 
 === "17/02"
 
     **The Ethics of Making: Accountability in Design Practices - Toni Navarro y Alejandra Lopez Gabrieliris**
 
-    **Goals**: 
+    **Goals**:
+
     - Explore the ethical dimensions of design and its impact on emergent futures.
     - Develop a critical perspective as a foundational skill for analyzing and questioning assumptions, frameworks, and contexts.
     - Emphasize the importance of commitment and thoroughness in the design process, highlighting accountability and sustained effort.
     - Equip students with tools to integrate ethics into their interventions, ensuring designs advocate for equity, sustainability, and resilience.
 
-
     **Activity**: TBD
 
     **Task**:
+
     - Develop a short manifesto or set of principles outlining your ethical commitments as a designer.
     - Reflect on your current project, identifying areas where ethical considerations can be strengthened or reframed.
 
-
     **Deliverable 1**: Visual or conceptual map showing the relationship between your design values, ethical commitments, and project goals.
 
-    **Deliverable 2**:  Carry out your design intervention. Analyse it, reflect on the findings.
-
-
-
-### 06/03 Exploring alternative presents: Expanding the boundaries of your interventions.
-
+    **Deliverable 2**: Carry out your design intervention. Analyse it, reflect on the findings.
 
 === "03/03"
 
     **Designing Transitions: Navigating Wicked Problems for Sustainable Future - Holon, Markel Cormenzana/Adrià Garcia**
 
-    **Goals**: 
+    **Goals**:
+
     - Introduce students to Transition Design, a transdisciplinary approach for addressing wicked problems and catalyzing transitions to more sustainable, equitable and desirable long-term futures. 
     - Understand the agency of your interventions and the theory of change you are bringing forth.
 
@@ -147,6 +148,10 @@ We suggest engaging in an average of four collective design interventions this t
 
     **Deliverable 3**: Update your design space with the relations you have built. 
 
+=== "06/03"
+
+    Exploring alternative presents: Expanding the boundaries of your interventions.
+
 === "17/03"
 
     **Design Dialogues II Preparation**
@@ -158,7 +163,6 @@ We suggest engaging in an average of four collective design interventions this t
     **Task**: Planning of the exhibition, space allocation and special needs.
 
     **Deliverable 1**: Work on the design dialogues deliverables.
-    
 
 ## Deliverables
 
