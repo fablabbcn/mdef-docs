@@ -84,6 +84,23 @@ We suggest engaging in an average of four collective design interventions this t
 
     {{ ects }} ECTS
 
+## Additional Resources
+
+[Desjardins, A., Tomico, O., Lucero, A., Cecchinato, M. E., & Neustaedter, C. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1-12.](https://dl.acm.org/doi/10.1145/3492342)
+
+
+[Blockchain tools for creators. Cryptofunding digital commons](https://www.youtube.com/watch?v=z1lMzdyOmf0) by Karim Esry from Espacio Open
+
+[CC0 Studios](https://www.cc0studios.com/) exploring creative commons and open-source projects within the blockchain space.
+
+[re:publica 2023: AX Mina - The Magic of Pluralistic Futures](https://www.youtube.com/watch?v=0_W8NzbfdlY) Ax Mina’s talkk at re:publica 2023 discussing the magic of pluralistic futures, possibly exploring diverse and decentralized perspectives.
+
+[https://www.researchgate.net/publication/351078681_Decentralized_Autonomous_Organization](https://www.researchgate.net/publication/351078681_Decentralized_Autonomous_Organization) Academic Paper by Primavera De Filippi and Samer Hassan 
+
+[https://creativecommons.org/](Creative Commons)
+
+[Design for the Pluriverse](https://www.dukeupress.edu/designs-for-the-pluriverse) by Arturo Escobar 
+
 
 ## Faculty
 
