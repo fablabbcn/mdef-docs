@@ -44,11 +44,13 @@ The course unfolds across three intensive 3-hour sessions.
 ## Methodological Strategies
 
 Teaching Methods:
+
 - Guided workshops
 - Technical demonstrations
 - Simple hands-on exercises
 
 Learning Approaches:
+
 - Practical experimentation
 - Following example implementations
 - Group discussion
