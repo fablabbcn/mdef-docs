@@ -57,6 +57,7 @@ All materials needed for the course will be provided by the faculty. The student
 **deadline: February 2, 2025**
 
 In a video format / gif and upload it to your website :
+
 - Document one crafted material of your choice
 - Document one living material of your choice
 
