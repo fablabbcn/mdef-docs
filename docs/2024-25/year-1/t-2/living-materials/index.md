@@ -37,19 +37,33 @@ This immersive short course introduces students to the intersection of biology, 
 - Introduction to bio-design and crafting materials.
 - Hands-on workshops creating bioplastics using hot (gelatine, agar agar, starch, bioresin) and cold (sodium alginate) recipes.
 
-### Day 2: Growing Materials & Non-Academic Research
-- Exploration of living materials: mycelium fungi, slime mold, and bacterial cellulose (kombucha).
-- Insights into non-academic research approaches in bio-design.
-
-### Day 3: Beyond Human Design
+### Day 2: Beyond Human Design (Wetlab)
 - Advanced exploration of living systems, including slime mold and bioluminescent bacteria.
 - Inspirational talks and masterclasses with invited experts (online or in person).
 - Optional activity: 3D printing with biomaterials.
+
+### Day 3: Growing Materials & Non-Academic Research (S-biotica)
+- Exploration of living materials: mycelium fungi, and bacterial cellulose (kombucha).
+- Insights into non-academic research approaches in bio-design.
 
 
 ## Materials
 
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
+
+
+## Deliverables
+
+**deadline: February 2, 2025**
+
+In a video format / gif and upload it to your website :
+- Document one crafted material of your choice
+- Document one living material of your choice
+
+
+## Resources
+
+- DAY 1: [Presentaion](https://docs.google.com/presentation/d/1Uetr4nhaZkb0PpHgzv4C7NH9TX2qYkPeYc6qKs_JLGg/edit?usp=sharing)
 
 
 ## Faculty
