@@ -28,7 +28,7 @@ This alignment requires methodologies that balance the demands of a multidiscipl
 **The Microchallenge is an intensive week where students will apply the knowledge, concepts, and skills acquired in previous weeks through group projects aligned with their research interventions.**
 
 
-### Key Elements of the Microchallenge:
+### Key Elements
 
 Duration: 30 hours in total.
 - 12 hours of autonomous work (o.w.).
