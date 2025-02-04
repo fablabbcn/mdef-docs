@@ -58,7 +58,7 @@ The intensive week is designed to enhance students' ability to develop and docum
 
 ## Schedule
 
-![schedule](./assets/images/2024-25/year-1/t-2/challenge_schedule.png)
+![schedule](/assets/images/2024-25/year-1/t-2/challenge_schedule.png)
 
 
 ## Deliverables / Outputs
