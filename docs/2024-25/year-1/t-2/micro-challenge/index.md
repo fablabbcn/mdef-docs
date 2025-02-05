@@ -7,9 +7,10 @@ feature_img: /assets/images/2024-25/year-1/t-2/challenge.png
 img_caption:
 faculty:
     - santiago-fuentemilla
+    - ella-suzanne
+    - pablo-zuloaga
+    - mikel-llobera
     - didac-torrent
-    - josep-marti
-    - petra-garajova
     - adai-surinach
 
 ects: 2
