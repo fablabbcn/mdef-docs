@@ -28,7 +28,7 @@ The human body is both the source and the expression of emotions. In today’s d
 
 During this week, students will explore the possibilities of gathering data from the body to create a record/register by visualizing and sonifying the results. The sessions will progress using Arduino and sensors to detect actions, p5.js to use the camera, sound and the creation of geometries, and ml.js to be able to use machine learning to gather data. At the end of the week students will have the task to develop a prototype based on the given exercises.
 
-**Tue 11/02 - 15:00 to 19:00 Hrs. Citlali Hernández**
+**Tue 11/02 - 16:00 to 19:00 Hrs. Citlali Hernández**
 *Embodied Interaction*
 
 - The body as an interface in design and artistic practices.
