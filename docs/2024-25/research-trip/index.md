@@ -1,5 +1,5 @@
 ---
-title: El Hierro Research Trip
+title: Research Trip 2025 - Italian Alps
 page_type: course
 track:
 course_type:
@@ -10,100 +10,51 @@ faculty:
 
 {{ insert_banner() }}
 
-***El Hierro . UNESCO Biosphere Reserve . Canary Islands
-March 27 - 31 2023***
+***Valle Camonica - Italy
+April 6 - 12 2025***
 
 ![](/assets/images/2022-23/research-trip/map.jpg)
 
-## Why el Hierro?
+## MDEF Research Trips
+
+The MDEF program views the Research Trip format as a research residency in an unconventional setting. This allows us to step away from typical urban environments, where for example, seeing the direct impacts of climate change firsthand can be challenging. Over a week, we engage in research practices deeply rooted in the local context, collaborating with the people, the landscape, and the unique knowledge they offer.
+
+Over the past three years, we have explored locations like Mallorca, El Hierro, and the Pyrenees in the French Cerdanya. Our focus has always been on unique ecosystems, fostering community-based workspaces, and selecting relatively nearby locations to minimize our CO2 emissions.
+
+This year, we will travel to the **Italian Alps**, at an elevation of over 2,000 meters. This setting will allow us to design with a focus on climate awareness while working alongside local communities.
+
+## Why the Alps?
 
 ***Inclusive and regenerative innovation for distributed, resilient futures.***
 
-Come join us for a week of research activities in a unique location that will offer us a diversity of opportunities to **experiment**, **learn** and **reflect** about ecosystemic regeneration and striving for resilience through **interdependent practices of knowing, intuition, material-driven experimentation, situational awareness and embodied research.**
+Valle Camonica represents an extraordinary testimony of interaction between the human and the non-human, a place where history and nature intertwine uniquely. This valley offers thematic and creative insights ranging from prehistory to the contemporary era, encompassing artisanal traditions and technological innovation.
+
+Students will participate in a week of research activities in a unique location that offers a diversity of opportunities to experiment, learn and reflect about ecosystemic regeneration and striving for resilience.
 
 ### ****Goals and Methodology****
 
-After taking the first steps in the MDEF methodology, we open a parenthesis in the masters’ program to connect to a very unique landscape and ecosystem in the Island of El Hierro to reflect and put into practice some of the ideas, topics and techniques we have shared during our first year of the course.
+After taking the first steps in the MDEF methodology, we open a parenthesis in the masters’ program to connect to a very unique landscape and ecosystem in the Italian Alps to reflect and put into practice some of the ideas, topics and techniques we have shared during our first year of the course.
 
-Through **exploratory visits**, **material experiments** and **reflection sessions**, participants will get the chance to learn profound techniques of working in-between living ecosystems in a unique island context where striving for resilience and respect for the environment has become paramount in the last couple of decades.
+Through **exploratory visits**, **material experiments** and **reflection sessions**, participants will get the chance to learn profound techniques of working in-between living ecosystems in a unique mountain context.
 
-### ****Sneak peek into the program****
 
-We will explore ecosystemic thinking, increasing personal presence, conscience and consciousness and how to nurture these connections with nature as co-client.
+### Some insights from Valle Camonica
 
-We will understand a slow and ancient wisdom alongside technological advancements.  We will delve into how to bring happiness to communities, building of sustainable co-operatives, empowerment, water, mobility, data, tourism, organic farming, carbon sequestration and housing. We will learn examples of creating a more resilient economy centred on happiness and resilience.
-
-This workshop will offer a diversity of opportunities to Experiment, Learn and Reflect about yourself alongside ecosystemic regeneration and striving for resilience through interdependent practices of knowing, intuition, material-driven experimentation, situational awareness and embodied research.
-
-In parallel to the discovery of the island, we will have dedicated time and space for some reflective sessions to give shape to our collective learnings and intelligence.
-
-Through visits around the topics of energy production, sustainable agriculture, food production, ecological co-habitation and local architecture we will be discovering how el Hierro maintains and is developing new models of sustainability.
-
-![](/assets/images/2022-23/research-trip/image_1.jpg)
-
-![](/assets/images/2022-23/research-trip/image_2.jpg)
-
-![](/assets/images/2022-23/research-trip/image_3.jpg)
-
-![](/assets/images/2022-23/research-trip/image_4.jpg)
-
-![](/assets/images/2022-23/research-trip/image_5.jpg)
-
-![](/assets/images/2022-23/research-trip/image_6.png)
-
-![](/assets/images/2022-23/research-trip/image_7.jpg)
-
-### Special Guest Faculty MDEF Research Trip 2023
-
-#### Thomas Duggan - UK
-
-*Biotechnology / craft / material science / material-driven research / architecture / design / advanced robotic fabrication / sculpture*
-
+*Prehistory: Arte Rupestre and Italy’s First UNESCO Site*
 ![](/assets/images/2022-23/research-trip/image_8.jpg)
 
-![](/assets/images/2022-23/research-trip/image_9.jpg)
+*Hydroelectric Energy: The Power of Water from the Glacier to the Iseo Lake*
+![](/assets/images/2022-23/research-trip/image_8.jpg)
 
-[www.thomasdugganstudio.com](http://www.thomasdugganstudio.com)
+*Textile: Weaving as a Story of Community*
+![](/assets/images/2022-23/research-trip/image_8.jpg)
 
-Thomas Duggan is an artist and also the director of Thomas Duggan Studio, a collaborative and multidisciplinary research studio.
-
-Forwards-looking and future-assembling, Thomas’ work seeks to find new ways of 'languaging' and ‘presencing', to give voice to the more-than-human world. His practice is informed by a theoretical interest in bridging and hybridity between the human hand and the self-organising powers of nonhuman processes, creating works made from materials that are at the same time both ancient, advanced and have an intention to positively impact on things that matter.
-
-Thomas has published work within leading scientific journals including Nature Nanotechnology, the Proceedings of the National Academy of Sciences of the United States of America as well as exhibiting at the V&A, Tate and MoMA. Thomas is guest lecturer and workshop facilitator at the Institute for Advanced Architecture of Catalonia (IAAC) and Lecturer in Craft and Material Practices at AUP.
-
-Thomas co-created and co-facilitated the 2022 MDEF workshop in Mallorca.
-✉ [thomasdugganstudio@gmail.com](mailto:thomasdugganstudio@gmail.com)
-
-
-#### Audrey Belliot - Slow lab
-
-*Low-Tech / Slow Movement / Rural Futures / Resilient Lifestyles / Self-Sufficiency / Food Futures*
-
-![](/assets/images/2022-23/research-trip/image_10.png)
-
-Ex-MDEFer, Audrey co-created Slow lab in January 2022. At the intersection between the slow movement and low-tech, Slow lab is a collective which wants to bring awareness and promote a resilient lifestyle. They organize social events and create artifacts to open conversations around how to integrate ancient techniques into our present context. Their practice questions and redesigns the tools we use in our daily life to become less dependent on high-technology.
-
-![](/assets/images/2022-23/research-trip/image_11.jpg)
-
-#### Javier Morales - Island Host
-
-*Environment / Sustainability / Agriculture / Energy / Self-Sufficiency*
-
-![](/assets/images/2022-23/research-trip/image_12.jpg)
-
-Part of the local and regional government in the areas of Agriculture, Environment, Primary Sector and Economic, Business Planning, and Sustainability.
-
-
+*Nature as Artistic Inspiration*
+![](/assets/images/2022-23/research-trip/image_8.jpg)
 
 ## References
 
-####  **Articles**
+####  **Projects**
 [Heroes of El Hierro, Part I. A Regenerative Economy in Action.](https://medium.com/age-of-awareness/heroes-of-el-hierro-part-i-e6e45fa6ee85)
 
-[Heroes of El Hierro, Part II. A Regenerative Economy in Action.](https://medium.com/age-of-awareness/heroes-of-el-hierro-part-ii-f5a25937a21b)
 
-[Islands as case studies for bioregional regeneration](https://medium.com/age-of-awareness/islands-as-case-studies-for-bioregional-regeneration-72be46bb0734)
-
-####  **Movies**
-
-- [Fire of Love](https://www.youtube.com/watch?v=-_7XADmKVL0)
