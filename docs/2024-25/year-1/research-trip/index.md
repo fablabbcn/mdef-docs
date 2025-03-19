@@ -10,18 +10,18 @@ faculty:
 
 {{ insert_banner() }}
 
-***Valle Camonica - Italy
-April 6 - 12 2025***
-
-![](/assets/images/2024-25/year-1/research-trip/water.jpg)
-
 ## MDEF Research Trips
+
+***Valle Camonica - Italy*** </br>
+***April 6th - 12th, 2025***
 
 The MDEF program views the Research Trip format as a research residency in an unconventional setting. This allows us to step away from typical urban environments, where for example, seeing the direct impacts of climate change firsthand can be challenging. Over a week, we engage in research practices deeply rooted in the local context, collaborating with the people, the landscape, and the unique knowledge they offer.
 
 Over the past three years, we have explored locations like Mallorca, El Hierro, and the Pyrenees in the French Cerdanya. Our focus has always been on unique ecosystems, fostering community-based workspaces, and selecting relatively nearby locations to minimize our CO2 emissions.
 
 This year, we will travel to the **Italian Alps**, at an elevation of over 2,000 meters. This setting will allow us to design with a focus on climate awareness while working alongside local communities.
+
+![](/assets/images/2024-25/year-1/research-trip/water.jpg)
 
 ## Why the Alps?
 
@@ -67,7 +67,7 @@ Valle Camonica is not only a cultural hub but also a natural space of immense be
 ## References
 
 ####  **Projects**
+
 [Un Suono in Estinzione](https://www.unsuonoinestinzione.eu/en)
+
 [Neunau](https://www.neunau.org/)
-
-
