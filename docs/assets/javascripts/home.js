@@ -2,62 +2,62 @@ window.document$  = document$          /* Document observable */
 
 document$.subscribe(function() {
 
-  const projects = document.querySelectorAll(".button");
-  const projectsBlock = document.querySelectorAll(".project-block");
-  const projectsDescription = document.querySelectorAll(".project-description");
-  const projectsDescriptionContainer = document.querySelectorAll(".project-description-container");
-  const close = document.querySelectorAll(".close-project");
+//   const projects = document.querySelectorAll(".button");
+//   const projectsBlock = document.querySelectorAll(".project-block");
+//   const projectsDescription = document.querySelectorAll(".project-description");
+//   const projectsDescriptionContainer = document.querySelectorAll(".project-description-container");
+//   const close = document.querySelectorAll(".close-project");
 
-  for (let a = 0; a < projects.length; a++){
-    projects[a].onclick = function() {
-        projectsDescription[a].style.display = "flex";
-        projectsDescriptionContainer[a].style.display = "flex";
-        for (let b = 0; b < projects.length; b++){
-            close[b].onclick = function() {
-            projectsDescription[b].style.display = "none";
-            projectsDescriptionContainer[b].style.display = "none";
-            }
-            projectsDescriptionContainer[b].onclick = function() {
-            projectsDescription[b].style.display = "none";
-            projectsDescriptionContainer[b].style.display = "none";
-            }
-        }
-    }
+//   for (let a = 0; a < projects.length; a++){
+//     projects[a].onclick = function() {
+//         projectsDescription[a].style.display = "flex";
+//         projectsDescriptionContainer[a].style.display = "flex";
+//         for (let b = 0; b < projects.length; b++){
+//             close[b].onclick = function() {
+//             projectsDescription[b].style.display = "none";
+//             projectsDescriptionContainer[b].style.display = "none";
+//             }
+//             projectsDescriptionContainer[b].onclick = function() {
+//             projectsDescription[b].style.display = "none";
+//             projectsDescriptionContainer[b].style.display = "none";
+//             }
+//         }
+//     }
 
-    projectsBlock[a].onclick = function() {
-        projectsDescription[a].style.display = "flex";
-        projectsDescriptionContainer[a].style.display = "flex";
-        for (let b = 0; b < projects.length; b++){
-            close[b].onclick = function() {
-            projectsDescription[b].style.display = "none";
-            projectsDescriptionContainer[b].style.display = "none";
-            }
-            projectsDescriptionContainer[b].onclick = function() {
-            projectsDescription[b].style.display = "none";
-            projectsDescriptionContainer[b].style.display = "none";
-            }
-        }
-    }
-  }
+//     projectsBlock[a].onclick = function() {
+//         projectsDescription[a].style.display = "flex";
+//         projectsDescriptionContainer[a].style.display = "flex";
+//         for (let b = 0; b < projects.length; b++){
+//             close[b].onclick = function() {
+//             projectsDescription[b].style.display = "none";
+//             projectsDescriptionContainer[b].style.display = "none";
+//             }
+//             projectsDescriptionContainer[b].onclick = function() {
+//             projectsDescription[b].style.display = "none";
+//             projectsDescriptionContainer[b].style.display = "none";
+//             }
+//         }
+//     }
+//   }
 
-  const popupOverlay = document.querySelector(".popup-overlay");
-  const popup = document.querySelector(".video-popup iframe");
-  const videoButton = document.querySelectorAll(".video-button");
+//   const popupOverlay = document.querySelector(".popup-overlay");
+//   const popup = document.querySelector(".video-popup iframe");
+//   const videoButton = document.querySelectorAll(".video-button");
 
-  videoButton.forEach((link) => {
-      link.addEventListener("click", () => {
-      popupOverlay.classList.add("active");
-      let videoLink = `https://www.youtube.com/embed/${link.dataset.link}?controls=0&rel=0`;
-      popup.src = videoLink;
-      document.querySelector(".ytp-expand-pause-overlay .ytp-pause-overlay").style.display="none";
-      });
-  });
+//   videoButton.forEach((link) => {
+//       link.addEventListener("click", () => {
+//       popupOverlay.classList.add("active");
+//       let videoLink = `https://www.youtube.com/embed/${link.dataset.link}?controls=0&rel=0`;
+//       popup.src = videoLink;
+//       document.querySelector(".ytp-expand-pause-overlay .ytp-pause-overlay").style.display="none";
+//       });
+//   });
 
-  popupOverlay.addEventListener("click", () => {
-      popupOverlay.classList.remove("active");
-      let videoLink = `https://www.youtube.com/embed/`;
-      popup.src = videoLink;
-  });
+//   popupOverlay.addEventListener("click", () => {
+//       popupOverlay.classList.remove("active");
+//       let videoLink = `https://www.youtube.com/embed/`;
+//       popup.src = videoLink;
+//   });
 
   var slideIndex = 1;
   function showSlides() {
