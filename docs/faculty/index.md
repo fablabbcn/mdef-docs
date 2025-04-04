@@ -17,7 +17,6 @@ faculty:
     - santiago-fuentemilla
     - petra-garajova
     - oscar-gonzalez
-    - ariel-guersenzvaig
     - roger-guilemany
     - jessica-guy
     - mikel-llobera
