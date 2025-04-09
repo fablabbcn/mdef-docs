@@ -107,7 +107,7 @@ The specific goals are the following:
 
 - **10 high resolution images** of the **results of your project**
 - **1 high resolution poster** or graphic document with more than 1 page of your **Design Space evolution, including your first Design Space and the last Design Space**
-- **A 1 min video**
+- **A 90" video**
 - Complete the **Spreadsheet with your project’s information**
 - Selected physical exhibition material for **IAAC and Elisava exhibitions** TBC with Chiara
 
