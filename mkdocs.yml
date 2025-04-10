@@ -39,16 +39,13 @@ nav:
       - Living Materials: 2024-25/year-1/t-2/living-materials/index.md
       - Micro-Challenge: 2024-25/year-1/t-2/micro-challenge/index.md
       - Situated Design Practices: 2024-25/year-1/t-2/situated-design-practices/index.md
-    # - Term 3:
-    #   - 2024-25/year-1/t-3/index.md
-    #   - Design Studio 03: 2024-25/year-1/t-3/design-studio-03/index.md
-    #   - Future Talks: 2024-25/year-1/t-3/future-talks/index.md
-    #   - Design Ethics: 2024-25/year-1/t-3/design-ethics/index.md
-    #   - Critical Transfeminist Design: 2024-25/year-1/t-3/critical-transfeminist-design/index.md
-    #   - Communicating Ideas: 2024-25/year-1/t-3/communicating-ideas/index.md
-    #   - The Atlas of Weak Signals: 2024-25/year-1/t-3/the-atlas-of-weak-signals/index.md
-    #   - MDEFest 2023: 2024-25/year-1/t-3/mdefest/index.md
-    #   - Digital Prototyping for Design: 2024-25/year-1/t-3/digital-prototyping-for-design/index.md
+    - Term 3:
+      - 2024-25/year-1/t-3/index.md
+      - Design Studio 03: 2024-25/year-1/t-3/design-studio-03/index.md
+      - Communicating Ideas: 2024-25/year-1/t-3/communicating-ideas/index.md
+      - The Atlas of Weak Signals: 2024-25/year-1/t-3/the-atlas-of-weak-signals/index.md
+      # - MDEFest 2023: 2024-25/year-1/t-3/mdefest/index.md
+      # - Digital Prototyping for Design: 2024-25/year-1/t-3/digital-prototyping-for-design/index.md
   - Year 2:
     - 2024-25/year-2/index.md
     - Calendar: 2024-25/year-2/calendar/index.md

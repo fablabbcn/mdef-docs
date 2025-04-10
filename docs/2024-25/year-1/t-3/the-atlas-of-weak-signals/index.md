@@ -1,12 +1,12 @@
 ---
 title: The Atlas of Weak Signals 
 page_type: course
-track: Exploration
+track: Reflection
 course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-3/weak-signals-2.jpg
 faculty:
     - jessica-guy
-    - olga-trevisan
+    - julia-bertolaso
 ects: 2
 ---
 
@@ -18,7 +18,7 @@ ects: 2
 
 This workshop focuses on developing and testing co-design methodologies for the creation of new cards for the Atlas of Weak Signals card deck. Students will engage in embodied research activities aimed at exploring alternative and pluralistic futures to identify and visualize weak signals — emerging trends or phenomena that may have significant impacts in the future. Through collaborative design exercises, the students will actively participate and shape the AOWS co-design methodology. Students will gain insights into embodied research methodologies –  while contributing to the expansion of the Atlas of Weak Signals card deck.
 ​​
-**Keywords: Pluriverse, Atlas of Weak Signals, Ontological Design, Transition Design**
+**Keywords: Pluriverse, Atlas of Weak Signals, Ontological Design, Transition Design** 
 
 ### Learning Objectives
 
@@ -34,7 +34,7 @@ Example:
 - Horizon Scanning 
 - CIPHER workshop sheet and methodology
  
-Also mention other types of learning strategies associated with the program experience.
+Other types of learning strategies associated with the program experience.
 Example:
 - Peer learning.
 - Team-based learning.
@@ -43,10 +43,12 @@ Example:
 
 ## Schedule
 
-=== "Day 1"
+=== "Wednesday 03.04.2024"
 
-    Workshop sessions will be divided into five on each other building moments.
-    
+    #### ***Wednesday 03.04.2024, 10:00 - 14:00 and 15:00 - 17:30***
+
+    Workshop sessions will be divided into five on each other building moments. 
+
     - Revisiting the AOWS - Collective sharing round and reflection 
     - Horizon scanning exercise - Materializing trends in the polycrisis 
     - CIPHER methodology application for identified themes - Utilizing existing methods to frame signals and test it for their validity 
@@ -71,15 +73,15 @@ Each team will be tasked with prototyping a new area of the Atlas of Weak Signal
     {{ ects }} ECTS
 
 ## Additional Resources
-Design for the Pluriverse - Arturo Escobar, [youtube seminar here](https://www.youtube.com/watch?v=8Ouy7aN6XPs&t=1327s)
-Ontological Design - Anne Marie Willis, [article here] (https://www.tandfonline.com/doi/abs/10.2752/144871306X13966268131514)
-Design Otherwise - Danah Abdulla
-[Indigenous Futures Thinking](https://swed.bio/news/indigenous-futures-thinking-changing-the-narrative-and-re-building-based-on-re-rooting-a-process-of-joint-exploration-with-communities/)   
-[On teaching and being tought - PARSE, Lindiwe Dovey](https://parsejournal.com/article/on-teaching-and-being-taught/)
-[Regenerative Practice as Transformative Design Framework - Yari Or](https://dl.designresearchsociety.org/pluriversaldesign/pivot2021/researchpapers/23/)
-[https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events](https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events)
-[https://superrr.net/feministtech/deck/](https://superrr.net/feministtech/deck/)
 
+- Design for the Pluriverse - Arturo Escobar, [youtube seminar here](https://www.youtube.com/watch?v=8Ouy7aN6XPs&t=1327s)
+- Ontological Design - Anne Marie Willis, [article here](https://www.tandfonline.com/doi/abs/10.2752/144871306X13966268131514)
+- Design Otherwise - Danah Abdulla
+- [Indigenous Futures Thinking](https://swed.bio/news/indigenous-futures-thinking-changing-the-narrative-and-re-building-based-on-re-rooting-a-process-of-joint-exploration-with-communities/)   
+- [On teaching and being tought - PARSE, Lindiwe Dovey](https://parsejournal.com/article/on-teaching-and-being-taught/)
+- [Regenerative Practice as Transformative Design Framework - Yari Or](https://dl.designresearchsociety.org/pluriversaldesign/pivot2021/researchpapers/23/)
+- [https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events](https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events)
+- [https://superrr.net/feministtech/deck/](https://superrr.net/feministtech/deck/)
 
 ## Faculty
 
