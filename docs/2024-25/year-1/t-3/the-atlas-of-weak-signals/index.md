@@ -43,10 +43,12 @@ Example:
 
 ## Schedule
 
-=== "Wednesday 03.04.2024, 10:00 - 14:00 and 15:00 - 17:30"
+=== "Wednesday 03.04.2024"
+
+    #### ***Wednesday 03.04.2024, 10:00 - 14:00 and 15:00 - 17:30***
 
     Workshop sessions will be divided into five on each other building moments. 
-    
+
     - Revisiting the AOWS - Collective sharing round and reflection 
     - Horizon scanning exercise - Materializing trends in the polycrisis 
     - CIPHER methodology application for identified themes - Utilizing existing methods to frame signals and test it for their validity 
@@ -71,15 +73,15 @@ Each team will be tasked with prototyping a new area of the Atlas of Weak Signal
     {{ ects }} ECTS
 
 ## Additional Resources
-Design for the Pluriverse - Arturo Escobar, [youtube seminar here](https://www.youtube.com/watch?v=8Ouy7aN6XPs&t=1327s)
-Ontological Design - Anne Marie Willis, [article here] (https://www.tandfonline.com/doi/abs/10.2752/144871306X13966268131514)
-Design Otherwise - Danah Abdulla
-[Indigenous Futures Thinking](https://swed.bio/news/indigenous-futures-thinking-changing-the-narrative-and-re-building-based-on-re-rooting-a-process-of-joint-exploration-with-communities/)   
-[On teaching and being tought - PARSE, Lindiwe Dovey](https://parsejournal.com/article/on-teaching-and-being-taught/)
-[Regenerative Practice as Transformative Design Framework - Yari Or](https://dl.designresearchsociety.org/pluriversaldesign/pivot2021/researchpapers/23/)
-[https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events](https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events)
-[https://superrr.net/feministtech/deck/](https://superrr.net/feministtech/deck/)
 
+- Design for the Pluriverse - Arturo Escobar, [youtube seminar here](https://www.youtube.com/watch?v=8Ouy7aN6XPs&t=1327s)
+- Ontological Design - Anne Marie Willis, [article here](https://www.tandfonline.com/doi/abs/10.2752/144871306X13966268131514)
+- Design Otherwise - Danah Abdulla
+- [Indigenous Futures Thinking](https://swed.bio/news/indigenous-futures-thinking-changing-the-narrative-and-re-building-based-on-re-rooting-a-process-of-joint-exploration-with-communities/)   
+- [On teaching and being tought - PARSE, Lindiwe Dovey](https://parsejournal.com/article/on-teaching-and-being-taught/)
+- [Regenerative Practice as Transformative Design Framework - Yari Or](https://dl.designresearchsociety.org/pluriversaldesign/pivot2021/researchpapers/23/)
+- [https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events](https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events)
+- [https://superrr.net/feministtech/deck/](https://superrr.net/feministtech/deck/)
 
 ## Faculty
 

@@ -37,7 +37,7 @@ This course progresses from the foundational communication skills developed in t
 
 === "Class 1"
 
-     Development of Messages and Selection of Communication Channels
+    **Development of Messages and Selection of Communication Channels**
 
     - Identification of project key messages.
     - Selection and optimization of digital communication channels.
@@ -49,7 +49,7 @@ This course progresses from the foundational communication skills developed in t
 
 === "Class 2"
 
-    Creation of Multimedia Content
+    **Creation of Multimedia Content**
 
     - Theory of creating teaser videos.
     - Structure of case videos and teaser videos.
@@ -58,7 +58,7 @@ This course progresses from the foundational communication skills developed in t
 
 === "Class 3"
 
-    Preparation and Execution of Effective Presentations
+    **Preparation and Execution of Effective Presentations**
 
     - Elevator pitch structure and techniques.
     - Elevator pitch workshop with detailed structure.
