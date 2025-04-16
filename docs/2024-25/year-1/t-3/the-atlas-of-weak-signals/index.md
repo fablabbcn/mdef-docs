@@ -16,16 +16,16 @@ ects: 2
 
 **The Atlas of Weak Signals - A collective inquiry and embodied research of emerging signals**
 
-This workshop focuses on developing and testing co-design methodologies for the creation of new cards for the Atlas of Weak Signals card deck. Students will engage in embodied research activities aimed at exploring alternative and pluralistic futures to identify and visualize weak signals — emerging trends or phenomena that may have significant impacts in the future. Through collaborative design exercises, the students will actively participate and shape the AOWS co-design methodology. Students will gain insights into embodied research methodologies –  while contributing to the expansion of the Atlas of Weak Signals card deck.
+This workshop focuses on collaboratively reviewing the Atlas of Weak Signals, reviewing its relevance and collaboratively updating Signals through their research and insights. Students will engage in embodied research activities aimed at exploring alternative and pluralistic futures to identify and visualize weak signals. Through collaborative design exercises, the students will actively participate and shape the AOWS co-design methodology. Collectively, we will use digital and analog collage techniques to design the new cards, which will be added to an online repository.
 ​​
 **Keywords: Pluriverse, Atlas of Weak Signals, Ontological Design, Transition Design** 
 
 ### Learning Objectives
 
 - Explore co-design and future(s) methodologies and their application.
-- Explore design themes such as design for the pluriverse, design ontologies & epistemologies. 
 - Co-develop new themes and cards for the Atlas of Weak Signals through a collective, iterative, critical inquiry design process.
-- Collectively review, test, and evaluate co-designed cards to assess their significance.
+- Collectively review, test, and evaluate co-designed Signals to assess their significance.
+
 
 ### Methodological Strategies
 
@@ -50,23 +50,25 @@ Example:
     Workshop sessions will be divided into five on each other building moments. 
 
     - Revisiting the AOWS - Collective sharing round and reflection 
-    - Horizon scanning exercise - Materializing trends in the polycrisis 
-    - CIPHER methodology application for identified themes - Utilizing existing methods to frame signals and test it for their validity 
+    - Horizon scanning exercise - reviewing their areas of research and materializing trends
+    - Utilizing existing methods to frame signals and test them for their validity 
     - Polarization and provocation - A critical reflection on the identified signals 
-    - Creative expression of the newly identified cards 
+    - Creative expression of the newly identified Signals
+    - Upload of Signal cards to a shared repository 
+
 
 ## Deliverables
 
-Each team will be tasked with prototyping a new area of the Atlas of Weak Signals (AOWS) along with its connected cards (up to five weak signals). Throughout this process, teams will reflect on the factors that may have hindered their ability to think critically and explore unconventional ideas. They will consider the tools and resources necessary to uncover unseen and unheard stories, allowing them to identify weak signals effectively. By critically evaluating their approach and identifying potential barriers they are invited to think beyond conventional boundaries and how to include pluralistic approaches in their design practice. 
+Each student will be tasked with prototyping a card of the Atlas of Weak Signals (AOWS).. Throughout this process, students will reflect on the polycrisis factors, critically and explore unconventional ideas. They will consider the tools and resources necessary to uncover unseen and unheard stories, allowing them to identify weak signals effectively. By critically evaluating their approach and identifying potential barriers they are invited to think beyond conventional boundaries and how to include pluralistic approaches in their design practice. 
 
 ## Grading Method
 
 | Percentage  | Description                         |
 | ----------- | ------------------------------------|
-| 30%         | Participation                       |
-| 20%         | Prototype development    |
-| 25%         | Collective (group) reflection                       |
-| 25%         | Self-assessment                          |
+| 40%         | Participation                       |
+| 30%         | Signal development    |
+| 30%         | Collective and individual reflection     |
+
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
@@ -74,11 +76,11 @@ Each team will be tasked with prototyping a new area of the Atlas of Weak Signal
 
 ## Additional Resources
 
-- Design for the Pluriverse - Arturo Escobar, [youtube seminar here](https://www.youtube.com/watch?v=8Ouy7aN6XPs&t=1327s)
+- [https://cards.chaseclimatejustice.network](https://cards.chaseclimatejustice.network)
+- [https://www.hiig.de/en/making-sense-of-the-future/](https://www.hiig.de/en/making-sense-of-the-future/)
+- [https://thefuture.wtf](https://thefuture.wtf)
 - Ontological Design - Anne Marie Willis, [article here](https://www.tandfonline.com/doi/abs/10.2752/144871306X13966268131514)
-- Design Otherwise - Danah Abdulla
 - [Indigenous Futures Thinking](https://swed.bio/news/indigenous-futures-thinking-changing-the-narrative-and-re-building-based-on-re-rooting-a-process-of-joint-exploration-with-communities/)   
-- [On teaching and being tought - PARSE, Lindiwe Dovey](https://parsejournal.com/article/on-teaching-and-being-taught/)
 - [Regenerative Practice as Transformative Design Framework - Yari Or](https://dl.designresearchsociety.org/pluriversaldesign/pivot2021/researchpapers/23/)
 - [https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events](https://yearofclimate.care/en/articles/andras-csefalvay-10-certain-future-events)
 - [https://superrr.net/feministtech/deck/](https://superrr.net/feministtech/deck/)
