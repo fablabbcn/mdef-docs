@@ -6,7 +6,7 @@ course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-3/curating-alternative-presents.jpg
 img_caption: Credit | Citizens of the World. Miguel Adrover spring 2003 fashion show.
 faculty:
-    - Saúl Baeza
+    - saul-baeza
 ects: 3
 ---
 
