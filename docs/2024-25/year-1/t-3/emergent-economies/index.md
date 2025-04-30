@@ -27,17 +27,17 @@ This seminar aims to make students think in a general system to check how indivi
         - What is system thinking?
         - Importance of technical glue in creative technology
         - Overview of technologies students know
-        - Different ways to connect technologies with several examples (made by me)
+        - Different ways to connect technologies with several examples 
     - Hour 2:
-      - Introduction of XX projects 
-      - Break students into pairs
-      - Give groups a starter technical diagram for each project
-      - Tell them that they have to modify the diagram with other softwares/nodes
+      - Introduction of reference projects 
+      - Breakout into pairs
+      - Starter technical diagram for each group project
+      - Modification of the diagram with other softwares/nodes
     - Hour 3:
-      - They work on the projects and make the prototypes
+      - Work on the projects and prototypes making
     - Hour 4:
-      - Init of the MicroChallenge 3. ¿¿Presentació del Santi??
-      - They have to make groups for the  MicroChallenge and start thinking about mutual interests for the project.
+      - Introduction of the MicroChallenge 3
+      - Groups making for the  MicroChallenge and intial thinking about mutual interests for the project.
 
 === "14/05"
 
