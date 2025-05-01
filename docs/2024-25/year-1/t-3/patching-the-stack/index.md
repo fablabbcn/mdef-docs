@@ -64,6 +64,6 @@ This seminar aims to make students think in a general system to check how indivi
     {{ ects }} ECTS
 
 
-<!-- ## Faculty
+## Faculty
 
-{{ insert_faculty() }} -->
+{{ insert_faculty() }}
