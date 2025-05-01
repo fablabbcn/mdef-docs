@@ -21,21 +21,28 @@ This seminar aims to make students think in a general system to check how indivi
 
 === "07/05"
 
-    - Hour 1: 
+    **Hour 1:** 
+
       - Welcome
       - Brief presentation
         - What is system thinking?
         - Importance of technical glue in creative technology
         - Overview of technologies students know
         - Different ways to connect technologies with several examples 
-    - Hour 2:
+
+    **Hour 2:**
+
       - Introduction of reference projects 
       - Breakout into pairs
       - Starter technical diagram for each group project
       - Modification of the diagram with other softwares/nodes
-    - Hour 3:
+
+    **Hour 3:**
+
       - Work on the projects and prototypes making
-    - Hour 4:
+
+    **Hour 4:**
+
       - Introduction of the MicroChallenge 3
       - Groups making for the  MicroChallenge and intial thinking about mutual interests for the project.
 
@@ -57,6 +64,6 @@ This seminar aims to make students think in a general system to check how indivi
     {{ ects }} ECTS
 
 
-## Faculty
+<!-- ## Faculty
 
-{{ insert_faculty() }}
+{{ insert_faculty() }} -->
