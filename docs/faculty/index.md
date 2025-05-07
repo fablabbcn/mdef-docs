@@ -28,6 +28,12 @@ faculty:
     - olga-trevisan
     - pablo-zuloaga
     - ron-wakkary
+    - didac-torrent
+    - daniel-mateos
+    - citlali-hernandez
+    - lina-bautista
+    - ella-suzanne
+    - jordi-garreta
 
 ---
 
