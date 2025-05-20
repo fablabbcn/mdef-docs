@@ -9,6 +9,9 @@ faculty:
     - santiago-fuentemilla
     - mikel-llobera
     - adai-surinach
+    - jordi-garreta
+    - pietro-rustici
+    - nicolo-baldi
 
 ---
 
