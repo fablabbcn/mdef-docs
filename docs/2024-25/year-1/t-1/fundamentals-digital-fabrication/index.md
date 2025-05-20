@@ -46,7 +46,7 @@ Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboa
 
 ## Schedule
 
-**Session 1: **
+**Session 1:**
 
 09/10/2024 from 14:30h to 17h | MDEF class + LAB
 
