@@ -73,6 +73,10 @@ The assessment of the MDEFest farbication Challenge is based on four key areas, 
 - Involvement (30%) – Measures attitude, motivation, and proactive behaviors throughout the process.
 - Explosion (5%) – A playful yet impactful category rewarding boldness and innovation—as long as it does not literally explode! 🚀
 
+---
+
+**FINAL GRADE = 15% Individual Post (Personal Reflection) + 75% Microchallenges Average**
+
 ## Materials Needs 
 
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
