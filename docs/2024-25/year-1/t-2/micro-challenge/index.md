@@ -90,7 +90,7 @@ The assessment of the Microchallenge is based on four key areas, ensuring a bala
 
 ---
 
-**FINAL GRADE = 15% Individual Post (Personal Reflection) + 75% Microchallenges Average**
+**FINAL GRADE = 20% Individual Post (Personal Reflection) + 80% Microchallenges Average**
 
 ## Materials Needs 
 

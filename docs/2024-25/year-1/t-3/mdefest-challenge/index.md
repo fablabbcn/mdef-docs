@@ -75,7 +75,7 @@ The assessment of the MDEFest farbication Challenge is based on four key areas, 
 
 ---
 
-**FINAL GRADE = 15% Individual Post (Personal Reflection) + 75% Microchallenges Average**
+**FINAL GRADE = 20% Individual Post (Personal Reflection) + 80% Microchallenges Average**
 
 ## Materials Needs 
 
