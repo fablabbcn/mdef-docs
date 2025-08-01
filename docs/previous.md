@@ -7,6 +7,8 @@ hide:
 
 # Previous Years
 
+[Academic Year 2024-25](/2024-25/){ .shadow-block }
+
 [Academic Year 2023-24](/2023-24/){ .shadow-block }
 
 [Academic Year 2022-23](/2022-23/){ .shadow-block }
