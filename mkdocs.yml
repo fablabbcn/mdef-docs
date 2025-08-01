@@ -7,75 +7,137 @@ repo_url: https://github.com/fablabbcn/mdef-docs
 edit_uri: edit/main/docs/
 
 nav:
-  - About: 2024-25/index.md
+  - About: 2025-26/index.md
   - Faculty: faculty/index.md
-  - Students: 2024-25/students/index.md
+  # - Students: 2025-26/students/index.md
+  - Students: student-websites/index.md
   - Year 1:
-    - 2024-25/year-1/index.md
-    - Calendar: 2024-25/year-1/calendar/index.md
-    - Beyond Sessions: 2024-25/year-1/beyond-sessions/index.md
-    - Research Trip: 2024-25/year-1/research-trip/index.md
+    - 2025-26/year-1/index.md
+    - Calendar: 2025-26/year-1/calendar/index.md
+    - Beyond Sessions: 2025-26/year-1/beyond-sessions/index.md
+    # - Research Trip: 2025-26/year-1/research-trip/index.md
     - Term 1:
-      - 2024-25/year-1/t-1/index.md
-      - Design Studio 01: 2024-25/year-1/t-1/design-studio-01/index.md
-      - Documenting Design: 2024-25/year-1/t-1/documenting-design/index.md
-      - Landing: 2024-25/year-1/t-1/landing/index.md
-      - Design Studio Intro Week: 2024-25/year-1/t-1/design-studio-intro-week/index.md
-      - The Machine Paradox: 2024-25/year-1/t-1/the-machine-paradox/index.md
-      - Living With Your Own Ideas: 2024-25/year-1/t-1/living-with-your-own-ideas/index.md
-      - Biology Zero: 2024-25/year-1/t-1/biology-zero/index.md
-      - Agriculture Zero: 2024-25/year-1/t-1/agriculture-zero/index.md
-      - Design With Others: 2024-25/year-1/t-1/design-with-others/index.md
-      - Extended Intelligences: 2024-25/year-1/t-1/extended-intelligences/index.md
-      - Fundamentals of Digital Fabrication: 2024-25/year-1/t-1/fundamentals-digital-fabrication/index.md
-    - Term 2:
-      - 2024-25/year-1/t-2/index.md
-      - Design Studio 02: 2024-25/year-1/t-2/design-studio-02/index.md
-      - Communicating Ideas: 2024-25/year-1/t-2/communicating-ideas/index.md
-      - Collective Intelligences: 2024-25/year-1/t-2/collective-intelligences/index.md
-      - Expanding Frames: 2024-25/year-1/t-2/expanding-frames/index.md
-      - Extended Intelligences II: 2024-25/year-1/t-2/extended-intelligences-II/index.md
-      - H(n)MI: 2024-25/year-1/t-2/H(n)MI/index.md
-      - Living Materials: 2024-25/year-1/t-2/living-materials/index.md
-      - Micro-Challenge: 2024-25/year-1/t-2/micro-challenge/index.md
-      - Situated Design Practices: 2024-25/year-1/t-2/situated-design-practices/index.md
-    - Term 3:
-      - 2024-25/year-1/t-3/index.md
-      - Design Studio 03: 2024-25/year-1/t-3/design-studio-03/index.md
-      - Communicating Ideas: 2024-25/year-1/t-3/communicating-ideas/index.md
-      - The Atlas of Weak Signals: 2024-25/year-1/t-3/the-atlas-of-weak-signals/index.md
-      - Curating Alternative Presents: 2024-25/year-1/t-3/curating-alternative-presents/index.md
-      - Patching the Stack: 2024-25/year-1/t-3/patching-the-stack/index.md
-      - MDEFest Fabrication challenge: 2024-25/year-1/t-3/mdefest-challenge/index.md
+      - 2025-26/year-1/t-1/index.md
+      - Landing: 2025-26/year-1/t-1/landing/index.md
+      - Design Studio 00: 2025-26/year-1/t-1/design-studio-00/index.md
+      - Design Studio 01: 2025-26/year-1/t-1/design-studio-01/index.md
+      - Unpacking Tech Systems: 2025-26/year-1/t-1/unpacking-tech-systems/index.md
+      - Reflections 01: 2025-26/year-1/t-1/reflections-01/index.md
+      - Reflections 02: 2025-26/year-1/t-1/reflections-02/index.md
+      - Extended Intelligences 01: 2025-26/year-1/t-1/extended-intelligences-01/index.md
+      - Other Species 01: 2025-26/year-1/t-1/other-species-01/index.md
+      - Narratives 01: 2025-26/year-1/t-1/narratives-01/index.md
+      - Fundamentals for Future Makers: 2025-26/year-1/t-1/fundamentals-for-future-makers/index.md
+    # - Term 2:
+    #   - 2025-26/year-1/t-2/index.md
+    #   - Design Studio 02: 2025-26/year-1/t-2/design-studio-02/index.md
+    #   - Communicating Ideas: 2025-26/year-1/t-2/communicating-ideas/index.md
+    #   - Collective Intelligences: 2025-26/year-1/t-2/collective-intelligences/index.md
+    #   - Expanding Frames: 2025-26/year-1/t-2/expanding-frames/index.md
+    #   - Extended Intelligences II: 2025-26/year-1/t-2/extended-intelligences-II/index.md
+    #   - H(n)MI: 2025-26/year-1/t-2/H(n)MI/index.md
+    #   - Living Materials: 2025-26/year-1/t-2/living-materials/index.md
+    #   - Micro-Challenge: 2025-26/year-1/t-2/micro-challenge/index.md
+    #   - Situated Design Practices: 2025-26/year-1/t-2/situated-design-practices/index.md
+    # - Term 3:
+    #   - 2025-26/year-1/t-3/index.md
+    #   - Design Studio 03: 2025-26/year-1/t-3/design-studio-03/index.md
+    #   - Communicating Ideas: 2025-26/year-1/t-3/communicating-ideas/index.md
+    #   - The Atlas of Weak Signals: 2025-26/year-1/t-3/the-atlas-of-weak-signals/index.md
+    #   - Curating Alternative Presents: 2025-26/year-1/t-3/curating-alternative-presents/index.md
+    #   - Patching the Stack: 2025-26/year-1/t-3/patching-the-stack/index.md
+    #   - MDEFest Fabrication challenge: 2025-26/year-1/t-3/mdefest-challenge/index.md
   - Year 2:
-    - 2024-25/year-2/index.md
-    - Calendar: 2024-25/year-2/calendar/index.md
+    - 2025-26/year-2/index.md
+    - Calendar: 2025-26/year-2/calendar/index.md
     - Mandatory Courses:
-      - 2024-25/year-2/mandatory-courses/index.md
-      - Thesis Project: 2024-25/year-2/mandatory-courses/thesis-project/index.md
-      - Research & Methods: 2024-25/year-2/mandatory-courses/research-methods/index.md
-      - Emerging Economies: 2024-25/year-2/mandatory-courses/emerging-economies/index.md
-      - Emergent Technolgies: 2024-25/year-2/mandatory-courses/emergent-technologies/index.md
-    - Elective Courses:
-      - 2024-25/year-2/elective-courses/index.md
-      - Applied Research Seminars:
-        - 2024-25/year-2/elective-courses/applied-research-seminars/index.md
-        - Interaction and Prototyping: 2024-25/year-2/elective-courses/applied-research-seminars/interaction-and-prototyping/index.md
-        - ReCITYing: 2024-25/year-2/elective-courses/applied-research-seminars/recitying/index.md
-      - Applied Theory Workshops:
-        - 2024-25/year-2/elective-courses/applied-theory-workshops/index.md
-        - Carbon Based Design: 2024-25/year-2/elective-courses/applied-theory-workshops/carbon-based-design/index.md
-        - Business Innovation: 2024-25/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
-        - Theories of the Urban: 2024-25/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
-        - Ecological Interactions: 2024-25/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
-        - Co-Creating Public Space: 2024-25/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
-        - Designing for More than Humans: 2024-25/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
-        - Non-Planar Bio-Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
-        - Weaving Natural Materials: 2024-25/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
+      - 2025-26/year-2/mandatory-courses/index.md
+      - Thesis Project: 2025-26/year-2/mandatory-courses/thesis-project/index.md
+      - Research & Methods: 2025-26/year-2/mandatory-courses/research-methods/index.md
+      - Emerging Economies: 2025-26/year-2/mandatory-courses/emerging-economies/index.md
+      - Emergent Technolgies: 2025-26/year-2/mandatory-courses/emergent-technologies/index.md
+    # - Elective Courses:
+    #   - 2025-26/year-2/elective-courses/index.md
+    #   - Applied Research Seminars:
+    #     - 2025-26/year-2/elective-courses/applied-research-seminars/index.md
+    #     - Interaction and Prototyping: 2025-26/year-2/elective-courses/applied-research-seminars/interaction-and-prototyping/index.md
+    #     - ReCITYing: 2025-26/year-2/elective-courses/applied-research-seminars/recitying/index.md
+    #   - Applied Theory Workshops:
+    #     - 2025-26/year-2/elective-courses/applied-theory-workshops/index.md
+    #     - Carbon Based Design: 2025-26/year-2/elective-courses/applied-theory-workshops/carbon-based-design/index.md
+    #     - Business Innovation: 2025-26/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
+    #     - Theories of the Urban: 2025-26/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
+    #     - Ecological Interactions: 2025-26/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
+    #     - Co-Creating Public Space: 2025-26/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
+    #     - Designing for More than Humans: 2025-26/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
+    #     - Non-Planar Bio-Additive Manufacturing: 2025-26/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
+    #     - Weaving Natural Materials: 2025-26/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
   - Glossary:
     - glossary/index.md
   - Previous Years:
     - Index: previous.md
+    - 2024-25:
+      - 2024-25/index.md
+      - Year 1:
+        - 2024-25/year-1/index.md
+        - Beyond Sessions: 2024-25/year-1/beyond-sessions/index.md
+        - Research Trip: 2024-25/year-1/research-trip/index.md
+        - Term 1:
+          - 2024-25/year-1/t-1/index.md
+          - Design Studio 01: 2024-25/year-1/t-1/design-studio-01/index.md
+          - Documenting Design: 2024-25/year-1/t-1/documenting-design/index.md
+          - Landing: 2024-25/year-1/t-1/landing/index.md
+          - Design Studio Intro Week: 2024-25/year-1/t-1/design-studio-intro-week/index.md
+          - The Machine Paradox: 2024-25/year-1/t-1/the-machine-paradox/index.md
+          - Living With Your Own Ideas: 2024-25/year-1/t-1/living-with-your-own-ideas/index.md
+          - Biology Zero: 2024-25/year-1/t-1/biology-zero/index.md
+          - Agriculture Zero: 2024-25/year-1/t-1/agriculture-zero/index.md
+          - Design With Others: 2024-25/year-1/t-1/design-with-others/index.md
+          - Extended Intelligences: 2024-25/year-1/t-1/extended-intelligences/index.md
+          - Fundamentals of Digital Fabrication: 2024-25/year-1/t-1/fundamentals-digital-fabrication/index.md
+        - Term 2:
+          - 2024-25/year-1/t-2/index.md
+          - Design Studio 02: 2024-25/year-1/t-2/design-studio-02/index.md
+          - Communicating Ideas: 2024-25/year-1/t-2/communicating-ideas/index.md
+          - Collective Intelligences: 2024-25/year-1/t-2/collective-intelligences/index.md
+          - Expanding Frames: 2024-25/year-1/t-2/expanding-frames/index.md
+          - Extended Intelligences II: 2024-25/year-1/t-2/extended-intelligences-II/index.md
+          - H(n)MI: 2024-25/year-1/t-2/H(n)MI/index.md
+          - Living Materials: 2024-25/year-1/t-2/living-materials/index.md
+          - Micro-Challenge: 2024-25/year-1/t-2/micro-challenge/index.md
+          - Situated Design Practices: 2024-25/year-1/t-2/situated-design-practices/index.md
+        - Term 3:
+          - 2024-25/year-1/t-3/index.md
+          - Design Studio 03: 2024-25/year-1/t-3/design-studio-03/index.md
+          - Communicating Ideas: 2024-25/year-1/t-3/communicating-ideas/index.md
+          - The Atlas of Weak Signals: 2024-25/year-1/t-3/the-atlas-of-weak-signals/index.md
+          - Curating Alternative Presents: 2024-25/year-1/t-3/curating-alternative-presents/index.md
+          - Patching the Stack: 2024-25/year-1/t-3/patching-the-stack/index.md
+          - MDEFest Fabrication challenge: 2024-25/year-1/t-3/mdefest-challenge/index.md
+      - Year 2:
+        - 2024-25/year-2/index.md
+        - Mandatory Courses:
+          - 2024-25/year-2/mandatory-courses/index.md
+          - Thesis Project: 2024-25/year-2/mandatory-courses/thesis-project/index.md
+          - Research & Methods: 2024-25/year-2/mandatory-courses/research-methods/index.md
+          - Emerging Economies: 2024-25/year-2/mandatory-courses/emerging-economies/index.md
+          - Emergent Technolgies: 2024-25/year-2/mandatory-courses/emergent-technologies/index.md
+        - Elective Courses:
+          - 2024-25/year-2/elective-courses/index.md
+          - Applied Research Seminars:
+            - 2024-25/year-2/elective-courses/applied-research-seminars/index.md
+            - Interaction and Prototyping: 2024-25/year-2/elective-courses/applied-research-seminars/interaction-and-prototyping/index.md
+            - ReCITYing: 2024-25/year-2/elective-courses/applied-research-seminars/recitying/index.md
+          - Applied Theory Workshops:
+            - 2024-25/year-2/elective-courses/applied-theory-workshops/index.md
+            - Carbon Based Design: 2024-25/year-2/elective-courses/applied-theory-workshops/carbon-based-design/index.md
+            - Business Innovation: 2024-25/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
+            - Theories of the Urban: 2024-25/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
+            - Ecological Interactions: 2024-25/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
+            - Co-Creating Public Space: 2024-25/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
+            - Designing for More than Humans: 2024-25/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
+            - Non-Planar Bio-Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
+            - Weaving Natural Materials: 2024-25/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
     - 2023-24: 
       - 2023-24/index.md
       # - Students: 2023-24/students/index.md

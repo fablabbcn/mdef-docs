@@ -58,27 +58,27 @@ students:
         photo: /assets/images/students/2024-25/MDEF02/7273.jpg
         website: https://belcomotto.xyz/
     Manuja Agnohotri:
-        photo: /assets/images/students/6906.jpg
+        photo: /assets/images/students/2023-24/6906.jpg
         website: https://manujaagnihotri.github.io/MDEFPortfolio/
         year: 2
     Qianyin Du:
-        photo: /assets/images/students/6406.jpg
+        photo: /assets/images/students/2023-24/6406.jpg
         website: https://33dudu.github.io/magicreator/
         year: 2
     Jorge Muñoz:
-        photo: /assets/images/students/7007.jpg
+        photo: /assets/images/students/2023-24/7007.jpg
         website: https://jmuozan.github.io/mdef-website/
         year: 2
     Dhrishya Ramadass:
-        photo: /assets/images/students/6889.jpeg
+        photo: /assets/images/students/2023-24/6889.jpeg
         website: https://dhrishyaramadass.github.io/mdefwebsite/
         year: 2
     Carmen Robres de Veciana:
-        photo: /assets/images/students/6763.jpg
+        photo: /assets/images/students/2023-24/6763.jpg
         website: https://carmenrobres.github.io/portfolio/
         year: 2
     Marius Schairer:
-        photo: /assets/images/students/6837.jpg
+        photo: /assets/images/students/2023-24/6837.jpg
         website: https://marius-schairer.github.io/MDEF_Documentation/
         year: 2
 ---
