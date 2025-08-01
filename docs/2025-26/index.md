@@ -1,8 +1,8 @@
 ---
-title: Welcome to the Year 2024-25
+title: The Design for Emergent Futures Approach
 feature_img: /assets/images/2024-25/2024-25.jpg
 hide:
-    - toc
+    - navigation
 ---
 
 {{ insert_banner() }}
