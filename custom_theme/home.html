@@ -43,84 +43,7 @@
       <h2>Highlighted Projects</h2>
     </div>
     <div class="grid-projects">
-      <a href="https://www.aqui-coop.org/">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/landing/projects/aqui-1.jpg" alt="Aquí: Participatory Placemaking">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">AQUÍ</h3>
-            <p class="project-creator">Clement Rames</p>
-            <p class="mdef-year">MDEF 2020-21</p>
-            <p class="excerpt">Participatory Placemaking</p>
-          </div>
-        </div>
-      </a>
-      <a href="https://fablabbcn.org/blog/make-things/flowing-future">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/highlights/flowing-futures.jpg" alt="Flowing Futures">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">FLOWING FUTURES</h3>
-            <p class="project-creator">Cagsun Acemoglu, Ramiro Argarañaz, Korbinian Nida-Ruemelin</p>
-            <p class="mdef-year">MDEF 2022-23</p>
-            <p class="excerpt">Open-source, low-tech water futures</p>
-          </div>
-        </div>
-      </a>
-      <a href="https://www.figma.com/proto/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?kind=&node-id=307-20&page-id=46%3A2&scaling=scale-down-width&starting-point-node-id=307%3A20&type=design">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/highlights/little-big-futures.JPG" alt="Little Big Futures">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">LITTLE BIG FUTURES</h3>
-            <p class="project-creator">Wen Qian Chua, Jimena Salinas, Ariel Gallardo</p>
-            <p class="mdef-year">MDEF 2022-23</p>
-            <p class="excerpt">Future literacy using interactive classroom games to enable conversations on pressing issues for K-12</p>
-          </div>
-        </div>
-      </a>
-      <a href="https://www.aqui-coop.org/">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/landing/projects/aqui-1.jpg" alt="Aquí: Participatory Placemaking">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">AQUÍ</h3>
-            <p class="project-creator">Clement Rames</p>
-            <p class="mdef-year">MDEF 2020-21</p>
-            <p class="excerpt">Participatory Placemaking</p>
-          </div>
-        </div>
-      </a>
-      <a href="https://fablabbcn.org/blog/make-things/flowing-future">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/highlights/flowing-futures.jpg" alt="Flowing Futures">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">FLOWING FUTURES</h3>
-            <p class="project-creator">Cagsun Acemoglu, Ramiro Argarañaz, Korbinian Nida-Ruemelin</p>
-            <p class="mdef-year">MDEF 2022-23</p>
-            <p class="excerpt">Open-source, low-tech water futures</p>
-          </div>
-        </div>
-      </a>
-      <a href="https://www.figma.com/proto/uOMyI6194EmIxtUgXjSZdM/Little-Big-Futures?kind=&node-id=307-20&page-id=46%3A2&scaling=scale-down-width&starting-point-node-id=307%3A20&type=design">
-        <div class="project-block">
-          <div class="project-image">
-            <img src="/assets/images/highlights/little-big-futures.JPG" alt="Little Big Futures">
-          </div>
-          <div class="short-project-details">
-            <h3 class="project-name">LITTLE BIG FUTURES</h3>
-            <p class="project-creator">Wen Qian Chua, Jimena Salinas, Ariel Gallardo</p>
-            <p class="mdef-year">MDEF 2022-23</p>
-            <p class="excerpt">Future literacy using interactive classroom games to enable conversations on pressing issues for K-12</p>
-          </div>
-        </div>
-      </a>
+      {{ insert_projects() }}
     </div>
     <div class="more-projects"><p class="project-button">See More Projects</p></div>
   </section>
@@ -237,7 +160,7 @@
 {% block content %}
 
 <style>
-  
+
   body {
     font-size: 1em;
   }
@@ -579,7 +502,7 @@
     margin: 0;
     padding: 10px;
   }
- 
+
   .project-block .short-project-details .project-name {
     font-size: 30px;
     font-weight: 700;
@@ -664,7 +587,7 @@
     align-items: center;
     z-index: 2;
   } */
-/* 
+/*
   .project-details-container {
     width: 100%;
     color: white;
