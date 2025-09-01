@@ -4,6 +4,8 @@ import re
 import os
 import yaml
 from pathlib import Path
+from os import listdir
+from os.path import isfile, join
 
 def define_env(env):
 
@@ -197,64 +199,55 @@ def define_env(env):
         return result
 
     @env.macro
+    def create_project(project, custom_dir, project_id):
+        environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
+        template = environment.get_template("highlighted_projects.html")
+
+        highlights_path = 'docs/highlights'
+        print (f"Creating project {highlights_path}/{project}")
+        if os.path.exists(f"{highlights_path}/{project}"):
+            with open(os.path.join(highlights_path, f'{project}')) as _file:
+                content = _file.readlines()
+
+            frontmatter = get_frontmatter(content)
+            print (frontmatter)
+            if frontmatter is not None:
+                vbls = frontmatter
+                vbls['project_id'] = project_id
+
+                # if vbls['feature_img'] is not None:
+                #     if not os.path.exists('docs' + vbls['feature_img']):
+                #         print (f'MACROS WARNING: Feature image for: {faculty} not found')
+                #         vbls['feature_img'] = None
+
+                result = template.render(vbls)
+                # TODO add custom_theme as environment variable
+                with open(os.path.join(f"{custom_dir}/includes", f"{project.replace('.md', '.html')}"), 'w') as _file:
+                    _file.write(result)
+        else:
+            print (f"MACROS WARNING - {project} not found")
+
+    @env.macro
     def insert_projects():
         custom_dir = os.path.basename(os.path.normpath(env.conf.theme.custom_dir))
+        # List projects
+        highlights_path = 'docs/highlights'
+        mdfiles = []
+        result = ''
 
-        environment = Environment(loader=FileSystemLoader(f"{custom_dir}/templates/"), autoescape=True)
-        template = environment.get_template("highlighted-projects.html")
+        for f in listdir(highlights_path):
+            if (isfile(join(highlights_path, f)) and f.endswith('.md')):
+                mdfiles.append(f)
 
-        src_uri = env.page.file.src_uri
-        parents = Path(src_uri).parents
-        folder = str(parents[0])
-        depth = len(parents)
+        for highlight in mdfiles:
+                print ('Creating project')
+                print (highlight)
+                create_project(highlight, custom_dir, mdfiles.index(highlight))
 
-        if depth == 3:
-            uri_term = 'all'
-            uri_year = os.path.split(parents[0])[1]
-        if depth == 4:
-            uri_term = os.path.split(parents[0])[1]
-            uri_year = os.path.split(parents[1])[1]
+                if os.path.exists(f"{custom_dir}/includes/{highlight.replace('.md', '.html')}"):
+                    with open(f"{custom_dir}/includes/{highlight.replace('.md', '.html')}") as file:
+                        result += file.read()
+                else:
+                    print (f"{highlight.replace('.md', '.html')} not found")
 
-        tracks = {}
-
-        # get all paths in nav
-        nav_paths = []
-        for item in env.conf.nav:
-            nav_paths += recurse_dict(item)
-
-        for (root,dirs,files) in os.walk(os.path.join('docs',folder)):
-            droot = len(Path(root).parents)
-            if droot == 5:
-                module = os.path.split(Path(root))[1]
-                term = os.path.split(Path(root).parents[0])[1]
-                year = os.path.split(Path(root).parents[1])[1]
-
-                if os.path.join(root, 'index.md').replace('docs/', '') not in nav_paths:
-                    print (root)
-                    print ('Ignoring as its not in nav yet')
-                    continue
-
-                with open(os.path.join(root, 'index.md')) as _file:
-                    content = _file.readlines()
-
-                frontmatter = get_frontmatter(content)
-                href = None
-
-                if frontmatter is not None:
-                    href = os.path.join(root).replace('docs', '')
-                    track = frontmatter['track']
-
-                    if track not in tracks:
-                        tracks[track] = {}
-
-                    tracks[track][module] = {
-                        'title': frontmatter['title'],
-                        'course_type': frontmatter['course_type'],
-                        'year': year,
-                        'term': term,
-                        'term-expanded': f'Term {term[-1]}',
-                        'href': href
-                    }
-
-        result = template.render(tracks=tracks, uri_year = uri_year, uri_term = uri_term)
         return result

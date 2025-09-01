@@ -4,3 +4,5 @@ hide:
     - toc
     - navigation
 ---
+
+{{ insert_projects() }}
