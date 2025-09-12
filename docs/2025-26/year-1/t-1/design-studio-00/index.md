@@ -3,11 +3,11 @@ title: Design Studio 00
 page_type: course
 track: Application
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-1/design-studio-intro-week.png
-img_caption: Image Credits | AoWS Workshop @ Space10 / Fab Lab Barcelona
+feature_img: /assets/images/2025-26/year-1/t-1/design-studio-zero.png
+img_caption: Barcelona seen on Google Maps, September 2025.
 faculty:
-    - jana-tothill
-    - roger-guilemany
+    - Saul Baeza
+    - Manuela Valtchanova
 ects: 2
 ---
 
@@ -15,62 +15,83 @@ ects: 2
 
 ## Syllabus
 
-This three-day design course is focused on equipping students with the skills and knowledge to tackle the complexities of emergent challenges through alternative presents. The course is structured to provide a comprehensive base for students as they embark on their projects. We will explore present weak signals in order to identify strategies to anticipate emergent futures. Activities will include introduction to the tool Atlas of Weak Signals, mapping ecosystems and first-person design experiments, all of which will be interconnected with each student's personal design space. The course will be dynamic, featuring presentations, group activities, short exercises, and one-to-one support.
+This intense three-day course is focused on equipping students with the skills and knowledge to tackle the complexities of emergent challenges through alternative presents. The course is structured to provide a comprehensive base for students as they embark on their master's journey, both conceptually and physically. To do so, we will follow a series of pre-established drifts around the city of Barcelona and its surroundings, developing real time cartographies of our experiences. Making use of the tool Atlas of Weak Signals, we will explore present weak signals in order to identify strategies to anticipate emergent futures. We will map and discuss ecosystems through first-person perspective encounters, all of which will be interconnected with each student's personal perspectives.
 
-**Keywords: Alternative Presents, Design Space, Multi-Scale Mapping, Atlas of Weak Signals, First Person Perspective, Community of Practice**
+**Keywords: Alternative Presents, Design Space, Multi-Scale Mapping, Atlas of Weak Signals, First Person Perspective, Community of Practice, Cartografies**
 
 ## Learning Objectives
 
-1. Comprehend Social and Critical Ecologies: Understand how design practices integrate into and influence social and critical ecologies, enabling the creation of alternative narratives that challenge existing paradigms.
-2. Utilize Design Spaces: Familiarize with Design Spaces as a dynamic tool to guide research and design processes, visually representing the contextual social and critical factors that shape ongoing design inquiries.
-3. Identify and Analyze Weak Signals: Get to know the methodology of the Atlas of Weak Signals to identify early indicators of change, using these signals to explore potential intervention opportunities and construct plausible future scenarios.
-4. Explore and Map Socio-Technical Systems: Explore, develop, and document the relationships within socio-technical systems, fostering a holistic understanding of the interplay between designed systems and their contexts.
-
+1. Comprehend Social and Critical Ecologies: Understand how techno-human practices integrate into and influence social and critical ecologies, enabling the creation of alternative narratives that challenge existing paradigms.
+2. Identify and Analyze Weak Signals: Get to know the methodology of the Atlas of Weak Signals to identify early indicators of change, using these signals to explore potential intervention opportunities and construct plausible future scenarios.
+3. Explore and Map Socio-Technical Systems: Explore, develop, and document the relationships within socio-technical systems, fostering a holistic understanding of the interplay between designed systems and their contexts.
+4. Explore and walk more than human realities in the city of Barcelona and its surroundings.
 
 ## Schedule
 
-Oct **8th, 9th & 10th**, 2024
+Oct **5th, 8th & 9th**, 2025
 
-=== "08/10"
+=== "05/10 - Cartography 1: Montjuic"
 
-    **Goals**: The primary objective is to enable students to comprehend how their practices become integrated into social and critical ecologies, allowing them to present alternative presents that disrupt existing continuities. The aim is to familiarize students with Design Spaces, a dynamic tool designed to serve as a guide for actively immersing researchers and practitioners  in their design processes. It provides a visual representation of the contextual social and critical ecologies for ongoing design enquiries. Design Spaces are versatile, allowing students to continuously employ, assess, and question its effectiveness as they navigate the intricacies of the course. This ongoing interaction with the tool ensures a hands-on and reflective engagement with the complexities of design, fostering a deeper understanding of the ever-evolving social and critical dimensions that influence the design process.
-
-    **Activity**: Create your design space. This exercise is geared towards establishing a pivotal Design Space, a crucial tool integral to the overarching First Person Perspective (1PP) research process.
-
-
-=== "09/11"
-
+    **Activity time**: 11:00 - 17:00
+    
+    **Meeting point**: Font Màgica
+    
+    **Requirements**: Bring your lunch, a bottle of water, a smartphone (if you have one), and a notebook.    
+     
     **Goals**: Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
 
-    **Activity**: Play a round of AOWS together + make it your own.
+    **Activity**: Building up on our collective Google Maps cartography, adding, commenting and relating our experiences. Add a new input/reaction (Image, video, short text, question, commentary…etc) every 15 minutes.
+
+=== "08/10 - Cartography 2: Besòs River"
+
+    **Activity time**: 9:30 - 13:30
     
-
-=== "10/11"
-
+    **Meeting point**: Torre de l’Aigua -TBC-
+    
+    **Requirements**: Bring a bottle of water, a smartphone (if you have one), and a notebook.
+     
     **Goals**: To effectively interact with social and critical ecologies through a First Person Perspective (1PP), it is essential to cultivate an understanding of the tools, material elements, infrastructures, communities of practice, and social networks integral to the socio-technical system under design. The exercises in this session present both a methodology and a structured system designed to facilitate the exploration, development, and documentation of these crucial references and relationships. These activities aim to provide students with a comprehensive and insightful understanding of the intricate interplay between the designed system and its contextual elements, fostering a holistic perspective on socio-technical landscapes.
 
-    **Activity**: My community of practice exercise + Multiscalar mapping exercise.
+Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
+
+    **Activity**: Building up on our collective Google Maps cartography, adding, commenting and relating our experiences. Add a new input/reaction (Image, video, short text, question, commentary…etc) every 15 minutes.
+    
+
+=== "09/10 - Cartography 2: IAAC Future house"
+
+    **Activity time**: 9:30 - 11:30
+    
+    **Meeting point**: IAAC
+    
+    **Requirements**: Bring a bottle of water, a smartphone (if you have one), and a notebook.
+     
+    **Goals**: To effectively interact with social and critical ecologies through a First Person Perspective (1PP), it is essential to cultivate an understanding of the tools, material elements, infrastructures, communities of practice, and social networks integral to the socio-technical system under design. The exercises in this session present both a methodology and a structured system designed to facilitate the exploration, development, and documentation of these crucial references and relationships. These activities aim to provide students with a comprehensive and insightful understanding of the intricate interplay between the designed system and its contextual elements, fostering a holistic perspective on socio-technical landscapes.
+
+Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
+
+    **Activity**: Building up on our collective Google Maps cartography, adding, commenting and relating our experiences. Add a new input/reaction (Image, video, short text, question, commentary…etc) every 15 minutes.
+    Write a critical statement (around 200w) linking 5 of your initial inputs presented during the introduction day (02/10) to 5 inputs discovered during the course. 
+    
 
 ## Methodological Strategies
 
 Methodological strategies that will allow the development of the learning skills and results.
-- Lectures
-- Desk-Crits
-- Workshops
-- Presentations and feedback
+- Walks
+- Discussions
+- Atlas of weak signals
 
 Learning strategies associated with the program experience.
 
 - Peer learning
 - Team-based learning
 - Gamification
-- Visual thinking
+- Cartographies
 
 
 ## Deliverables
 
-Develop your final design space as an evolving tool to accompany you through your journey in MDEF. Prepare a small presentation to share in class encompassing your reflections, process and results. 
-**Delivery date October 21st**
+Develop your final design space as an evolving tool to accompany you through your journey in MDEF. Prepare a small presentation to share in class encompassing your reflections, process and results.
+**Delivery date October 20th**
 
 
 ## Grading Method
