@@ -105,6 +105,22 @@ Develop your final design space as an evolving tool to accompany you through you
 
     {{ ects }} ECTS
 
+## Additional Resources
+- Auger, J. (2010). ‘Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages’. Negotiating futures – Design Fiction. 42–57.
+- Candy, S., & Dunagan, J. (2017). ‘Designing an experiential scenario: The People Who Vanished.’ Futures, 86, 136–153.
+- Diez, T., & Tomico, O. (2020). ‘The Master in Design for emergent futures.’ IAAC.
+- Hiltunen, E. (2010). Weak signals in organizational futures learning. Doctoral thesis. Helsinki: Aaalto University.
+- Krogh, P., Markussen, T., & Bang, A. (2015). ‘Ways of drifting – 5 methods of experimentation in research through design’. In Proceedings of ICoRD’15 – Research into Design Across Boundaries Volume 1. New Delhi. Springer. 39–50.
+- Lucero, A., Desjardins, A., Neustaedter, C., Höök, K., Hassenzahl, M., & Cecchinato, M. (2019). ‘A sample of one: First-person research methods in HCI’. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS ‘19 Companion). ACM: New York. 385–388.
+- Neustaedter, C., & Sengers, P. (2012). Autobiographical design: what you can learn from designing for yourself. Interactions, 19(6), 28–33.
+- Rosenberg, D. (2015). Transformational Design: A mindful practice for experience-driven design. PhD Thesis. Cambridge: Massachusetts Institute of Technology.
+- Tomico, O., Winthagen, V. O., & van Heist, M. M. G. (2012). Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (NordiCHI '12). Association for Computing Machinery, New York, NY, USA, 180–188.
+- Varela, F. J., & Shear, J. (1999). First-person Methodologies: What, Why, How? Journal of Consciousness Studies, 6(2-3), 1-14.
+- Wakkary, R. (2021). Things We Could Design: For more than human-centered worlds. Cambridge: The MIT Press.
+- Wensveen, S. A. G., & Matthews, B. (2015). Prototypes and prototyping in design research. In P. Rodgers & J. Yee (Eds.), Routledge companion to design research (pp. 262–276). London: Routledge.
+- More to be provided along the course
+
+
 ## Faculty
 
 {{ insert_faculty() }}
