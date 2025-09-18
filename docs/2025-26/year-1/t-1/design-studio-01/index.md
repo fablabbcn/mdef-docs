@@ -6,8 +6,8 @@ course_type: Course
 feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
 img_caption: Design Dialogues, 2022, Barcelona
 faculty:
-    - jana-tothill
-    - roger-guilemany
+    - manuela-altchanova
+    - saul-baeza
 ects: 10
 ---
 
@@ -15,29 +15,28 @@ ects: 10
 
 ## Syllabus
 
-**Design Studio 01 - Framing Collective Design Interventions**
+**Design Studio 01 - Embodied Criticism**
 
-MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
+MDEF Research, Design and Development studios aim to take areas of research, interests and/or initial project ideas into an advanced stage of the research, with an execution plan. The studio structure in three terms could be understood as follows:
 
-**TERM 1 Research**: Understanding what it means to design for emergent futures. Analyzing the past and finding weak signals. References, state of the art. Identifying areas of interest. Experimenting from the first-person perspective.
+**TERM 1 Research**: Understanding what it means to design for emergent futures. We achieve this by analyzing the past, finding weak signals, analyzing references and the current state of the art and identifying each one's areas of interest. All of this investigation occurs through experimenting from the first-person perspective.
 
 **TERM 2 Design**: Forming the present through interventions in the real world. Building the foundations of your design space, forming strategic partnerships. Applying knowledge into practice through iterative prototyping. Testing ideas and prototypes in the real world.
 
-**TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
+**TERM 3 Development**: Refining interventions and identifying desirable futures/alternative presents. Establishing roadmaps for the construction of alternative narratives. Communicating and disseminating your project through speculative design.
 
 ![](/assets/images/2023-24/year-1/t-1/design-studio-01-6-design-strategies.png)
 
 <p class="image-caption">Fab Lab Barcelona (IAAC) & Fab City Foundation</p>
 
-The first term Design Studio aims to create a solid ground for the students to start developing their projects. Weekly activities will be set to interlink results from the courses like their mappings, cartographies, experiments, 1st person design activities, prototypes, with their personal development plan. In order to propose an area of intervention at the end of the trimester. The Design Studio activities will consist of presentations, group activities, short exercises and personal coaching.
+The first term Design Studio aims to create a solid ground for the students to start developing their projects. Weekly activities will be set to interlink results from the courses like their mappings, cartographies, experiments, 1st person design activities, prototypes, with their personal development plan. In order to propose an area of intervention at the end of the trimester. The Design Studio activities will consist of presentations, group activities, short exercises and personal coaching. 
 
-**Keywords: 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions**
+**Keywords: Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Design Interventions**
 
 ### Learning Objectives
 
-The specific goals are the following:
-
-1. Develop a critical position in the student’s design practice.
+The specific goals are the following: 
+1. To develop a critical position within the student’s design practice.
 2. Define possible areas of intervention, based on the Atlas of the Week Signals.
 3. Generate design spaces which allows to prototype with context, direction  and understanding.
 4. To build personal and collective repositories of resources.
@@ -45,71 +44,77 @@ The specific goals are the following:
 
 ## Schedule
 
- **Schedule**: Each session will start with a 60-minute check-in and a collective reflection space to share experiences and identify collaborative goals.
+ **Schedule**: Each session will start with a 90-minutes presentation of the previous exercise and feedback.
 
 === "02/10"
 
-    **Landing Kick off - Pick your purpose**
+    **Landing Kick off - Collective Map of Individual Ref-Points**
 
-     **Goals**: Integrate personal and professional interests.
+     **Goals**: To cross affectivity, situated criticality and site-specific sensitivity in order to define a series of referential places, which define you as a political, social and creative being. 
      
-     **Activity 1**: Pick your purpose(s). Make a poster of your interests.
+     **Activity**: Map 10 different places from your "techno-bio-physical-social" environment 
+with a special importance for your creative agency. Work in the collective map interface previously delivered to all the students.
 
-     **Activity 2**: Create your vision (pushing your purpose further) and Identity (skills, knowledge, attitude), collaboration plan.
+    **Deliverable**: 10 geo-located points in the collective map of ref-points: each point has to be labeled with a specific title and description according to the previously determined graphic code. Prepare a short (up to 5mins) presentation showing the 5 most important points.
 
-    **Deliverable**: Post the poster on your website.
+=== "06/10"
 
-    **Deliverable**: Document your vision, identity, collaboration plan and reflect on your personal development.
+    **Embodied Criticism I: Position Yourself**
 
-=== "07/10"
+    **Class**: Critical Perspectives (situatedness and contextuality, revision of theoretical and practical framework) Climatic Justice/ Decolonial theories and necropolitics/ Queer Failure and speculative feminism.
 
-    **Understanding design from a 1PP. Staying true with one's values.**
+    **Activity**: 
+    1/ Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
+    2/ Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.)
 
-    **Goals**: In ongoing efforts to realign design processes with principles of responsibility, accountability, transparency, empathy, and positionality, it becomes crucial for designers to reexamine and reshape their methodologies and ways of approaching design projects. The emphasis is on instilling these fundamental values right from the outset of a student's path to becoming a design practitioner. Learn about 1PP iterative design interventions methodology.
+    **Deliverable**: 
+    1/ Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
+    2/ Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.)
 
-    **Activity 1**: Accept and reflect on how the new normal is shaping you as a professional. Rethinking your new hyper-local and hyper-connected workspace. 
+=== "20/10"
 
-    **Deliverable**: Bring some visuals about your areas of interests (photo, video, graphics, moodboard,...)
+    **Embodied Criticism II: Prototype an action**
 
-    **Deliverable**: Two posts with a new workspace including what infrastructure, people, things and materials became available either physical or virtual in this new normal
+    **Class**: Performative criticality: embodied actions of resistance and desire (Architecture of Action: Syntax of six typologies of actions).
 
-=== "21/10"
+    **Activity**:
+    1/ Prototype an embodied action of resistance and/ or desire. 
+    2/ Test at least three different prototypes. 
+    3/ Study their interrelationship with the context. What do they enact? Transformations, errors, exceptions.
 
-    **Individual Design Iintervention and Roles of Prototyping in 1PP Research through Design**
+    **Deliverable**: Document your first prototypes based on the following index of contents:
+    - Conceptual Definition: 150w. context to intervene, problematics, potentials, objectives, etc.
+    - 3 x Hypothesis: design and develop at least three different hypothesis based on the conceptual statement
+    - 3 x Prototypes: audiovisual documentation of the prototypes’ development + critical evaluation
 
-    **Goals**: To learn about the different roles of prototyping in design research. Being resilient and resourceful as a professional. Learn about 1PP iterative design interventions methodology. 
+=== "03/11"
 
-    **Activity 1**: From the different roles that prototypes play in design research, reflect which ones you have used in the past and which ones you could include in your practice.
+    **Embodied Criticism III: Act Individually**
 
-    **Activity 2**: Bring scrap materials from home. Use the material to sketch a prototype of another colleague's inquiry.
+    **Class**: Protocols for critical actions. Critical engagement with plural contexts. Site-specificity and institutional critique. Guest lecturer: [Luz Broto]([/assets/images/2023-24/year-1/t-1/design-studio-01-6-design-strategies.png](https://luzbroto.net/))
 
-    **Deliverable**: Perform and document a 1pp design intervention. Reflect on how you’ve used different roles of prototyping in your intervention.
+    **Activity**: Develop a protocol for an individual action. Perform it. Document it.
 
-=== "04/11"
+    **Deliverable**:  
+    1/ Detailed protocol per steps and phases
+    2/ Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
 
-    **Collaborative design spaces and interventions**
 
-    **Goals**: To explore and develop forms of aggregative documentation, building collective design spaces.
+=== "17/11"
 
-    **Activity**: Develop a collective framework to document explorations using the existing digital platforms, build digital maps of resources and opportunities in the design studio.
+    **Embodied Criticism III: Act collectively**
 
-    **Deliverable 1**:  A collaborative map of projects, resources, news, and opportunities for interventions that can populate your physical working space and a plan on how to share relevant information between all of you in class.
+    **Class**: Multiscalar collective practices of wellbeing and resistance. Guest Lecturer: [La Cuarta Piel](https://lacuartapiel.com/)
 
-    **Deliverable 2**:  Carry out different pilot design interventions to understand in an embodied and situated way your design space.
+    **Activity**: Create a relationship of trust of a specific collective of interest (human, non-human, physical, digital, etc.). Develop a protocol for collective action. Perform it. Document it.
 
-=== "18/11"
+    **Deliverable**: 
+    1/ Detailed protocol per steps and phases
+    2/ Activation of an affective relationship to a collective of interest: why this community, how do you contribute, why do they need your activation, what are your collective objectives (not only yours)
+    3/ Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
 
-    **Collaborative design intervention: a collective design action with humans and/or non-humans.**
 
-    **Goals**: Understand what is and what is not a design intervention. Focusing on Interventions **with others**. Situate your collective explorations in context to frame to update your collective design space.
-
-    **Activity**: Plan your collective design intervention and map the actors and infrastructure you want to involve.
-
-    **Task**: Execute your first collective design intervention for the next Design Studio.
-
-    **Deliverable**: Document the collective design intervention, analyze it and reflect on the findings.
-
-=== "02/12"
+=== "01/12"
 
     **Design Dialogues Preparation**
 
@@ -122,13 +127,15 @@ The specific goals are the following:
     **Deliverable 2**: Work on the Design Dialogues deliverables.
 
 
-=== "17/12"
+=== "15/12"
 
     **Design Dialogues**
 
-    **Objectives**: To present collective areas of intervention and to present the first experiments at a personal and collective level, and in an immediate context. To produce the first group exhibition of the master’s projects.
+    **Goals**: to present collective areas of intervention and to present the first experiments at a personal and collective level, and in an immediate context. To produce the first group exhibition of the master’s projects.
 
-    **Deliverables**: A series of prototypes presented in a collective design space and a personal video of no more than 3 minutes (answering the question what is your updated purpose).
+    **Deliverables**: 
+    1/ A series of prototypes presented in a collective design space and a personal video of no more than 3 minutes (answering the question what is your updated purpose). 
+    2/ 5 high resolution images of the highlights of your Design Studio work during the term, a high resolution image of your personal and collective design space and the first chapters of your Publication which represent each one of the deliverables developed during the term.
 
 ## Deliverables
 
@@ -136,19 +143,20 @@ The specific goals are the following:
 
 - **5 high resolution images** of the **highlights of your Design Studio work** during the term
 - **1 high resolution image** of your **personal and collective design space**
-- **A pictorial (written document)** (TBD)
+- **First chapter of your Publication** (TBD)
 
 ## Evaluation Strategies
 
-- Relevance of the project in relation to the Weak Signals
+- Relevance of the project in relation to the weak signals
 - Framing of the opportunity through the Collective Design Space
 - Involvement of the community through the collective interventions
+
 
 ## Grading Method
 
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
-| 50%         | Faculty (including written assignment)          |
+| 50%         | Faculty (including written assignment and website documentaiton)          |
 | 50%         | Self-Evaluation                                 |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
@@ -157,30 +165,54 @@ The specific goals are the following:
 
 ## Additional Resources
 
-[Desjardins, A., Tomico, O., Lucero, A., Cecchinato, M. E., & Neustaedter, C. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1-12.](https://dl.acm.org/doi/10.1145/3492342)
+**1. Embodied Criticism I: Position Yourself**
+Situatedness, contextuality, climatic justice, decolonial theories, necropolitics, queer failure, speculative feminism:
+- Haraway, Donna. Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 1988.
+- Tsing, Anna Lowenhaupt. The Mushroom at the End of the World. Princeton University Press, 2015.
+- Mbembe, Achille. Necropolitics. Duke University Press, 2019.
+- Povinelli, Elizabeth. Geontologies: A Requiem to Late Liberalism. Duke University Press, 2016.
+- Halberstam, Jack. The Queer Art of Failure. Duke University Press, 2011.
+- Braidotti, Rosi. Posthuman Feminism. Polity, 2022.
 
-Auger, J. (2010). ‘Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages’. Negotiating futures – Design Fiction. 42–57.
+**2. Embodied Criticism II: Prototype an Action**
+Performative criticality, embodied resistance and desire, architectures of action:
+- Lepecki, André. Exhausting Dance. Routledge, 2006.
+- Butler, Judith. Notes Toward a Performative Theory of Assembly. Harvard University Press, 2015.
+- Manning, Erin. Relationscapes. MIT Press, 2009.
+- Rogoff, Irit. Smuggling—An Embodied Criticality. eipcp.net, 2006.
+- Springgay, Stephanie, and Sarah E. Truman. Walking Methodologies in a More-than-Human World. Routledge, 2018.
 
-Candy, S., & Dunagan, J. (2017). ‘Designing an experiential scenario: The People Who Vanished.’ Futures, 86, 136–153.
+**3. Embodied Criticism III: Act Individually**
+Protocols for critical actions, site-specificity, institutional critique:
+- Bishop, Claire. Artificial Hells. Verso, 2012.
+- Kester, Grant. The One and the Many. Duke University Press, 2011.
+- Rendell, Jane. Site-Writing. I.B. Tauris, 2010.
+- Foucault, Michel. Of Other Spaces: Utopias and Heterotopias. 1984.
 
-Diez, T., & Tomico, O. (2020). ‘The Master in Design for emergent futures.’ IAAC.
-Hiltunen, E. (2010). Weak signals in organizational futures learning. Doctoral thesis. Helsinki: Aaalto University.
+**4. Embodied Criticism IV: Act Collectively**
+Multiscalar collective practices, wellbeing and resistance, trust and care:
+- Escobar, Arturo. Designs for the Pluriverse. Duke University Press, 2018.
+- Federici, Silvia. Re-enchanting the World. PM Press, 2018.
+- Puig de la Bellacasa, María. Matters of Care. University of Minnesota Press, 2017.
+- Guattari, Félix. The Three Ecologies. Bloomsbury, 2000 [1989].
+- Berlant, Lauren. The Commons: Infrastructures for Troubling Times. Environment and Planning D, 2016.
 
-Krogh, P., Markussen, T., & Bang, A. (2015). ‘Ways of drifting – 5 methods of experimentation in research through design’. In Proceedings of ICoRD’15 – Research into Design Across Boundaries Volume 1. New Delhi. Springer. 39–50.
+**5. Design Research & First-Person Methodologies**
+Speculative design, HCI, prototyping, experiential futures, first-person perspectives:
+- Auger, James. (2010). Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages. Negotiating Futures – Design Fiction, 42–57.
+- Candy, Stuart, & Dunagan, Jake. (2017). Designing an experiential scenario: The People Who Vanished. Futures, 86, 136–153.
+- Desjardins, Audrey, Tomico, Oscar, Lucero, Andrés, Cecchinato, Marta, & Neustaedter, Carman. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1–12. [https://dl.acm.org/doi/10.1145/3492342](https://dl.acm.org/doi/10.1145/3492342)
+- Diez, Tomas, & Tomico, Oscar. (2020). The Master in Design for Emergent Futures. IAAC.
+- Hiltunen, Elina. (2010). Weak signals in organizational futures learning. Doctoral Thesis. Aalto University.
+- Krogh, Peter, Markussen, Thomas, & Bang, Anne. (2015). Ways of drifting – 5 methods of experimentation in research through design. In Proceedings of ICoRD’15. Springer, 39–50.
+- Lucero, Andrés, Desjardins, Audrey, Neustaedter, Carman, Höök, Kristina, Hassenzahl, Marc, & Cecchinato, Marta. (2019). A sample of one: First-person research methods in HCI. In DIS ’19 Companion. ACM, 385–388.
+- Neustaedter, Carman, & Sengers, Phoebe. (2012). Autobiographical design: What you can learn from designing for yourself. Interactions, 19(6), 28–33.
+- Rosenberg, Daniel. (2015). Transformational Design: A mindful practice for experience-driven design. PhD Thesis. MIT.
+- Tomico, Oscar, Winthagen, Victor, & van Heist, Maarten. (2012). Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In NordiCHI ’12. ACM, 180–188.
+- Varela, Francisco, & Shear, Jonathan. (1999). First-person methodologies: What, why, how? Journal of Consciousness Studies, 6(2–3), 1–14.
+- Wakkary, Ron. (2021). Things We Could Design: For more than human-centered worlds. MIT Press.
+- Wensveen, Stephan, & Matthews, Ben. (2015). Prototypes and prototyping in design research. In Rodgers, P. & Yee, J. (Eds.), Routledge Companion to Design Research. Routledge, 262–276.
 
-Lucero, A., Desjardins, A., Neustaedter, C., Höök, K., Hassenzahl, M., & Cecchinato, M. (2019). ‘A sample of one: First-person research methods in HCI’. In Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion (DIS ‘19 Companion). ACM: New York. 385–388.
-
-Neustaedter, C., & Sengers, P. (2012). Autobiographical design: what you can learn from designing for yourself. Interactions, 19(6), 28–33.
-
-Rosenberg, D. (2015). Transformational Design: A mindful practice for experience-driven design. PhD Thesis. Cambridge: Massachusetts Institute of Technology.
-
-Tomico, O., Winthagen, V. O., & van Heist, M. M. G. (2012). Designing for, with or within: 1st, 2nd and 3rd person points of view on designing for systems. In Proceedings of the 7th Nordic Conference on Human-Computer Interaction: Making Sense Through Design (NordiCHI '12). Association for Computing Machinery, New York, NY, USA, 180–188.
-
-Varela, F. J., & Shear, J. (1999). First-person Methodologies: What, Why, How? Journal of Consciousness Studies, 6(2-3), 1-14.
-
-Wakkary, R. (2021). Things We Could Design: For more than human-centered worlds. Cambridge: The MIT Press.
-
-Wensveen, S. A. G., & Matthews, B. (2015). Prototypes and prototyping in design research. In P. Rodgers & J. Yee (Eds.), Routledge companion to design research (pp. 262–276). London: Routledge.
 
 More to be provided along the course
 
