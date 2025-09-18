@@ -1,12 +1,12 @@
 ---
-title: Narratives 01
+title: Narratives I
 page_type: course
 track: Reflection
-course_type: Seminar
-feature_img: /assets/images/2024-25/year-1/t-1/documenting-design.png
-img_caption: Illustration generated with artificial intelligence using DALL·E and ChatGPT, inspired by Leonardo da Vinci's codices, incorporating emerging technologies.
+course_type: Workshop
+feature_img: /assets/images/2024-25/year-1/t-1/narratives-1.png
+img_caption: 
 faculty:
-    - pablo-zuloaga
+    - ane-guerra
 ects: 1
 ---
 
@@ -14,99 +14,68 @@ ects: 1
 
 ## Syllabus
 
-This course explores the use of documentation as a powerful tool to craft coherent and meaningful narratives about the design and development process. Rather than viewing documentation as mere administrative tasks or data collection, students will adopt a narrative approach to communicate their creative journey, design decisions, and project stages.
+This short course will delve into the importance of narratives and storytelling when explaining our projects, which often include complex and abstract information that the general public finds difficult to relate to. We will create a space to discuss and exercise judgment in the face of new, rapidly developing tools such as Natural Language Processors, and we will seek to define and, of course, draft our manifesto, which will serve as our roadmap throughout the course.
 
-**Keywords: Documentation, Storytelling, Design Practices**
+**Keywords: Storytelling, narratives, writing**
 
 ### Learning Objectives
 
-By embracing this perspective, students will gain a deeper understanding of how design projects evolve, fostering the ability to reflect on their work and effectively convey it to others. Utilizing documentation as a narrative logbook, students will appreciate its value as an instrument that captures the creative voyage and provides a context-rich narrative for sharing with fellow designers, colleagues, and audiences interested in the design process.
-
-1. Understand the concept of Documentation in design practice.
-2. Documentation tools and resources.
-3. Website taxonomy.
-4. Website development.
-5. AI as a tool for documentation.
-
+- We will discover narratives as stories we tell ourselves to give meaning, value and significance to our projects.
+- We will use storytelling as an ancient human tool.
+- We will understand basic ideas about how to interact and connect with the audience.
+- We will create a thread that guides our research so that it has a solid narrative.
 
 ## Schedule
 
-=== "Session 1"
 
-    **Class on Documentation (2 hours)**
+First term / MANIFESTO: We will create a text that will serve as a personal and professional positioning statement and as a personal manifesto for our practice.
+Second term / NARRATIVE: We will work on a document that structures the evolution of our positioning and research.
+Third term / THE PROPOSAL and SCRIPTS: We will conclude the course by developing the project proposal and its potential areas for development and action. We will also learn how to create a basic script for the audiovisual format.
 
-    - Introduction to Narrative Documentation in Design Practice
-    - Importance of documentation for creative projects
-    - Understanding the elements of compelling storytelling in design
-    - Learning from mistakes and reflection as part of the creative design process
-    - Weekly documentation guidelines and expectations
 
-=== "Session 2"
+=== "Term I"
 
-    **Documentation Tips and Tools (1.5 hours)**
+    **MANIFESTO**
 
-    - Addressing common challenges and questions related to website upkeep
-    - Tips for compelling storytelling through multimedia elements
-    - GitBook and Mobirise as a tool for documentation
-    - Techniques for showcasing design decisions and iterative progress
-    - Encouraging active engagement and communication with peers on documentation
+    We will create a text that will serve as a personal and professional positioning statement and as a personal manifesto for our practice.
 
-=== "Session 3"
+=== "Term II"
 
-    **Website Review  + AI Tools for documentation (1.5 hour)**
+    **NARRATIVE**
 
-    - Encouraging students to explore innovative ways of enhancing their narratives through AI.
-    - Rules for AI use and documentation.
-    - Individual website reviews and assessments by the instructor
-    - Analysis of each student's narrative documentation
-    - Feedback on narrative coherence, clarity, and visual presentation
-    - Identifying strengths and areas for improvement in the storytelling process
+    We will work on a document that structures the evolution of our positioning and research.
+
+=== "Term III"
+
+    **THE PROPOSAL and SCRIPTS**
+
+    We will conclude the course by developing the project proposal and its potential areas for development and action. We will also learn how to create a basic script for the audiovisual format.
     
-=== "Session 4"
-
-    **Website Review (1.5 hour)**
-
-    - Collaborative website reviews and feedback from other classmates
-    - Addressing specific concerns and doubts related to documentation
-    - Final tips and suggestions for long-term sustainability and ongoing website maintenance
-
-=== "Session 5"
-
-    **Design Dialogues Preparation  (1.5 hour)**
-
-    - Crafting narratives for their first Design Dialogues
-    - Communicating scientific ideas to others
-    - Tips for the design dialogue communication and presentation
-
-
 
 ### Methodological Strategies
 
-- Invert evaluation
+We will work with:
 - Case studies
+- Workshops
+- Lectures
 - Project-based learning
-- Peer learning
+- In-class writing
+
 
 ## Deliverables
 
-Updated website using the suggested taxonomy structure and the considerations given in class.
+This is stated in the “Structure and Phases” section.
 
 ## Grading Method
 
 | Percentage             | Description                                                                                      |
 | -----------------------| ------------------------------------                                                             |
-| 40% | **Website Taxonomy**: Using the correct Taxonomy in your website to organize the information.                       |
-| 40% | **Website Completeness**: Having the website updated with the required content at the reviews.                      |
-| 20% | **Classmates Assessment**: 10% assessment of 2 classmates websites. 10% suggested assessment by 2 classmates.       |
+| 40% | Class participation and class culture and attitude|
+| 60% | Text deliverables|
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
-
-
-## Course Resources
-
-- [Fablab BCN - Git Doc](https://fablabbcn-projects.gitlab.io/learning/educational-docs/mdef/classes/git-setup/) 
 
 
 ## Faculty
