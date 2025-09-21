@@ -14,7 +14,7 @@ ects: 2
 
 ## Syllabus
 
-Students will be introduced to practical first-person design methodologies by living with their own ideas. Following a series of introductory texts by a diverse group of researchers, thinkers, artists and makers such as Marshal McLuhan, Haila Koskela, Sandy Stone, Donna Haraway, Sophie Cale and Jill Magid, students will be encouraged to develop and embody a series of prostheses iterations under their own agency and rationale. The final delivery comprises a short documentary or article, besides all the developed prototypes and prostheses. The course includes lectures and Q&A’s by **Saúl Baeza** and **Thomas Twaites**.
+Students will be introduced to practical first-person design methodologies by living with their own ideas. Following a series of introductory texts by a diverse group of researchers, thinkers, artists and makers such as Marshal McLuhan, Haila Koskela, Sandy Stone, Donna Haraway, Sophie Cale and Jill Magid, students will be encouraged to develop and embody a series of prostheses iterations under their own agency and rationale. The final delivery comprises a short documentary or article, besides all the developed prototypes and prostheses. The course includes lectures and Q&A’s by **Saúl Baeza**, **Thomas Twaites** and **Manuel De Aguas**.
 
 **Keywords: Self, Agency, Surveillance, Identity, Prototyping, Discipline, Desire**
 
@@ -30,14 +30,16 @@ Students will be introduced to practical first-person design methodologies by li
 
 === "28/10"
 
-    **12:00 to 14:00**
+    **9:30 to 13:30**
 
     **Activities**:
-    Course Introduction + dynamics + objectives
+    (9:30 – 11:00) Course Introduction + dynamics + objectives
     
     Living with your own ideas, designing Identity Prostheses
+
+    (11:00 – 13:00) Manuel de Aguas (Cyborg) Online Lecture + Q&A
     
-    1st Prosthesis briefing – After Marshal McLuhan and Haila Koskela
+    (13:00 - 13:30) 1st Prosthesis briefing – After Dr. Naomi
 
 === "29/10"
 
@@ -47,9 +49,9 @@ Students will be introduced to practical first-person design methodologies by li
     
     (9:30 – 11:00) 1st Prosthesis short presentations (individual) 
 
-    (11:00 – 13:00) Thomas Twaittes (Author of GoatMan) Online Lecture + Q&A 
+    (11:00 – 12:30) Thomas Twaittes (Author of GoatMan) Online Lecture + Q&A 
 
-    (13:00 – 14:30) 2nd Prosthesis briefing – After Sandy Stone and Donna Haraway 
+    (12:30 – 13:30) 2nd Prosthesis briefing – After Donna Haraway 
 
 === "30/10"
 
@@ -57,17 +59,15 @@ Students will be introduced to practical first-person design methodologies by li
 
     **Activities**:
     
-    (9:30 – 11:00) 2nd   Prosthesis short presentations (individual)
+    (9:30 – 10:30) 2nd   Prosthesis short presentations (individual)
     
-    (11:00 – 12:00) 3rd Prosthesis briefing – After Sophie Cale and Jill Magid 
+    (10:30 – 11:00) 3rd Prosthesis briefing – After Sophie Cale and Jill Magid 
     
-    (12:00 – 13:30) 3rd Prosthesis development
+    (11:00 – 12:00) 3rd Prosthesis development
 
-    **14:30 to 16:30** 
-
-    **Activities**:
-    
-    (14:30 to 16:30) The Detective – Surveillance documentation exercise 
+    (12:00 to 13:30) The Detective – Surveillance documentation exercise 
+        (12:00 to 12:45 – First turn)
+        (12:45 to 13:30 – Second turn)
 
 === "31/10"
 
@@ -75,9 +75,10 @@ Students will be introduced to practical first-person design methodologies by li
 
     **Activities**:
     
-    (11:30 – 13:00) 3rd Prosthesis + Documentary/Article short presentations
+    (11:30 – 13:15) 3rd   Prosthesis short presentations (individual)
     
-    (13:00 – 13:30) Closing
+    (13:15 – 13:30) Closing
+
 
 ## Methodological Strategies
 
@@ -139,7 +140,7 @@ Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2021. Exploring t
 Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2023. About being an “influencer” or how to exploit the tool of the oppressor for our own expression. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 934–945. https://doi.org/10.1145/3563657.3596091  
 Saúl Baeza, Kristina Andersen and Oscar Tomico. 2022. Designing hair. DRS2022: Bilbao, 25 June - 3 July, Bilbao, Spain. https://doi.org/10.21606/ drs.2022.649  
 
-## Additional Resources
+## Material Needs
 
 - Notebook / Pen / Pencil  
 - Phone with Camera (or photography/video camera)  
