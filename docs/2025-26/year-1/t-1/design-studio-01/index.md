@@ -1,5 +1,5 @@
 ---
-title: Design Studio 01
+title: Design Studio I
 page_type: course
 track: Application
 course_type: Course
@@ -15,7 +15,7 @@ ects: 10
 
 ## Syllabus
 
-**Design Studio 01 - Embodied Criticism**
+**Design Studio I - Embodied Criticism**
 
 MDEF Research, Design and Development studios aim to take areas of research, interests and/or initial project ideas into an advanced stage of the research, with an execution plan. The studio structure in three terms could be understood as follows:
 
