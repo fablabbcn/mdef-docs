@@ -3,7 +3,7 @@ title: Interaction and Prototyping
 page_type: course
 track: Exploration
 course_type: Elective
-feature_img: /assets/images/2025-26/year-2/modules/llum.jpeg
+feature_img: /assets/images/2025-26/year-2/modules/llum.png
 img_caption: <Miralls del Demà, IAAC LLUM Installation, 2025.>
 faculty: mario-santamaria
 ects: 4
