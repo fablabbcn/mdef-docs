@@ -1,13 +1,13 @@
 ---
-title: Design Studio 00
+title: Design Studio 0
 page_type: course
 track: Application
 course_type: Workshop
 feature_img: /assets/images/2025-26/year-1/t-1/design-studio-zero.png
 img_caption: Barcelona seen on Google Maps, September 2025.
 faculty:
-    - Saul Baeza
-    - Manuela Valtchanova
+    - saul-baeza
+    - manuela-valtchanova
 ects: 2
 ---
 
@@ -52,7 +52,7 @@ Oct **5th, 8th & 9th**, 2025
      
     **Goals**: To effectively interact with social and critical ecologies through a First Person Perspective (1PP), it is essential to cultivate an understanding of the tools, material elements, infrastructures, communities of practice, and social networks integral to the socio-technical system under design. The exercises in this session present both a methodology and a structured system designed to facilitate the exploration, development, and documentation of these crucial references and relationships. These activities aim to provide students with a comprehensive and insightful understanding of the intricate interplay between the designed system and its contextual elements, fostering a holistic perspective on socio-technical landscapes.
 
-Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
+    Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
 
     **Activity**: Building up on our collective Google Maps cartography, adding, commenting and relating our experiences. Add a new input/reaction (Image, video, short text, question, commentary…etc) every 15 minutes.
     
@@ -67,7 +67,7 @@ Students will delve into the exercise of the Atlas of Weak Signals. This methodo
      
     **Goals**: To effectively interact with social and critical ecologies through a First Person Perspective (1PP), it is essential to cultivate an understanding of the tools, material elements, infrastructures, communities of practice, and social networks integral to the socio-technical system under design. The exercises in this session present both a methodology and a structured system designed to facilitate the exploration, development, and documentation of these crucial references and relationships. These activities aim to provide students with a comprehensive and insightful understanding of the intricate interplay between the designed system and its contextual elements, fostering a holistic perspective on socio-technical landscapes.
 
-Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
+    Students will delve into the exercise of the Atlas of Weak Signals. This methodology provides a structured framework for students, designers, and professionals across diverse fields. The Atlas aids in identifying potential intervention opportunities by collecting and organizing early indicators of change, referred to as weak signals. These signals serve as a keyword taxonomy, offering a foundation for analyzing current systems and building plausible scenarios.
 
     **Activity**: Building up on our collective Google Maps cartography, adding, commenting and relating our experiences. Add a new input/reaction (Image, video, short text, question, commentary…etc) every 15 minutes.
     Write a critical statement (around 200w) linking 5 of your initial inputs presented during the introduction day (02/10) to 5 inputs discovered during the course. 
@@ -76,6 +76,7 @@ Students will delve into the exercise of the Atlas of Weak Signals. This methodo
 ## Methodological Strategies
 
 Methodological strategies that will allow the development of the learning skills and results.
+
 - Walks
 - Discussions
 - Atlas of weak signals
@@ -91,6 +92,7 @@ Learning strategies associated with the program experience.
 ## Deliverables
 
 Develop your final design space as an evolving tool to accompany you through your journey in MDEF. Prepare a small presentation to share in class encompassing your reflections, process and results.
+
 **Delivery date October 20th**
 
 
@@ -106,6 +108,7 @@ Develop your final design space as an evolving tool to accompany you through you
     {{ ects }} ECTS
 
 ## Additional Resources
+
 - Auger, J. (2010). ‘Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages’. Negotiating futures – Design Fiction. 42–57.
 - Candy, S., & Dunagan, J. (2017). ‘Designing an experiential scenario: The People Who Vanished.’ Futures, 86, 136–153.
 - Diez, T., & Tomico, O. (2020). ‘The Master in Design for emergent futures.’ IAAC.

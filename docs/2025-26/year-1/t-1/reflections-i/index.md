@@ -1,5 +1,5 @@
 ---
-title: Reflections 01
+title: Reflections I
 page_type: course
 track: Reflection
 course_type: Workshop
@@ -119,26 +119,29 @@ Class discussion and questions (formative), personal feedback (formative), atten
 ## Additional Resources
 
 Documentaries: 
-Emad Burnat and Guy Davidi. 2011. 5 broken cameras. 
+
+- Emad Burnat and Guy Davidi. 2011. 5 broken cameras. 
 
 Books:
-Thomas Thwaites. 2016. GoatMan. How U took a holiday from being human. Princeton Architectural Press.
-Mark Andrejevic 2004. Reality TV. The Work Of Being Watched. Critical Media Studies: Institutions, Politics and Culture. Series Editor Andrew Calabrese. University of Colorado.
-Elise Morrison. 2016. Discipline and Desire. Surveillance Technologies in Performance. University of Michigan Press.
-Allucquére Rosanne "Sandy" Stone. 1996. The War of Desire and Technology at the Close of the Mechanical Age. MIT Press.
-Donna J. Haraway. 2016. Staying with the Trouble. Making Kin in the Chthulucene. Duke University Press.
-Erving Goffman. 1956. The Presentation Of Self Everyday Life. Random House.
-Sasha Costanza-Chock. 2020. Design Justice: Community-Led Practices to Build the Worlds We Need. MIT Press.
-McKenzie Wark. 1994. A hacker Manifesto. Harvard University Press 
-Alfonso Matos (ed). 2023.Who Can Afford To Be Critical?  An inquiry into what we can’t do alone, as designers, and into what we might be able to do together, as people. Set Margins.
-Andreas Malm. 2021. How to Blow Up a Pipeline: Learning to Fight in a World on Fire. Verso Books.
-Benjamin H Bratton. 2015.The Stack: On Software and Sovereignty. MIT Press
-Paul B. Preciado. Testo Yonqui. 2020. Anagrama.
+
+- Thomas Thwaites. 2016. GoatMan. How U took a holiday from being human. Princeton Architectural Press.
+- Mark Andrejevic 2004. Reality TV. The Work Of Being Watched. Critical Media Studies: Institutions, Politics and Culture. Series Editor Andrew Calabrese. University of Colorado.
+- Elise Morrison. 2016. Discipline and Desire. Surveillance Technologies in Performance. University of Michigan Press.
+- Allucquére Rosanne "Sandy" Stone. 1996. The War of Desire and Technology at the Close of the Mechanical Age. MIT Press.
+- Donna J. Haraway. 2016. Staying with the Trouble. Making Kin in the Chthulucene. Duke University Press.
+- Erving Goffman. 1956. The Presentation Of Self Everyday Life. Random House.
+- Sasha Costanza-Chock. 2020. Design Justice: Community-Led Practices to Build the Worlds We Need. MIT Press.
+- McKenzie Wark. 1994. A hacker Manifesto. Harvard University Press 
+- Alfonso Matos (ed). 2023.Who Can Afford To Be Critical?  An inquiry into what we can’t do alone, as designers, and into what we might be able to do together, as people. Set Margins.
+- Andreas Malm. 2021. How to Blow Up a Pipeline: Learning to Fight in a World on Fire. Verso Books.
+- Benjamin H Bratton. 2015.The Stack: On Software and Sovereignty. MIT Press
+- Paul B. Preciado. Testo Yonqui. 2020. Anagrama.
 
 Articles:
-Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2021. Exploring the Potential of Apple Face ID as a Drag, Queer and Trans Technology Design Tool. Design- ing Interactive Systems Conference 2021. Association for Computing Machinery, New York, NY, USA, 1654–1667. DOI:https://doi.org/10.1145/3461778.3461999  
-Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2023. About being an “influencer” or how to exploit the tool of the oppressor for our own expression. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 934–945. https://doi.org/10.1145/3563657.3596091  
-Saúl Baeza, Kristina Andersen and Oscar Tomico. 2022. Designing hair. DRS2022: Bilbao, 25 June - 3 July, Bilbao, Spain. https://doi.org/10.21606/ drs.2022.649  
+
+- Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2021. Exploring the Potential of Apple Face ID as a Drag, Queer and Trans Technology Design Tool. Design- ing Interactive Systems Conference 2021. Association for Computing Machinery, New York, NY, USA, 1654–1667. DOI:https://doi.org/10.1145/3461778.3461999  
+- Saúl Baeza, Ron Wakkary, Kristina Andersen, and Oscar Tomico. 2023. About being an “influencer” or how to exploit the tool of the oppressor for our own expression. In Proceedings of the 2023 ACM Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA, 934–945. https://doi.org/10.1145/3563657.3596091  
+- Saúl Baeza, Kristina Andersen and Oscar Tomico. 2022. Designing hair. DRS2022: Bilbao, 25 June - 3 July, Bilbao, Spain. https://doi.org/10.21606/ drs.2022.649  
 
 ## Material Needs
 

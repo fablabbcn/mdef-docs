@@ -6,8 +6,8 @@ course_type: Workshop
 feature_img: /assets/images/2024-25/year-2/modules/thesis-project.jpg
 img_caption: 
 faculty:
-    - Saul Baeza
-    - Manuela Valtchanova
+    - saul-baeza
+    - manuela-valtchanova
 ects: 17
 ---
 
@@ -15,9 +15,9 @@ ects: 17
 
 ## Syllabus
 
-[The Thesis Project course is designed to support and guide students through the process of developing their final design projects during the second year of the Master in Design for Emergent Futures. Throughout the academic year, students will engage in three key phases: Implementation, Validation, and Dissemination—each building on the prior to ensure that the project is well-researched, contextually grounded, and capable of being scaled for real-world impact. The course emphasizes interdisciplinary research, design methodologies, field engagement, and the creation of sustainable business models.
+The Thesis Project course is designed to support and guide students through the process of developing their final design projects during the second year of the Master in Design for Emergent Futures. Throughout the academic year, students will engage in three key phases: Implementation, Validation, and Dissemination—each building on the prior to ensure that the project is well-researched, contextually grounded, and capable of being scaled for real-world impact. The course emphasizes interdisciplinary research, design methodologies, field engagement, and the creation of sustainable business models.
 
-By the end of the course, students will have created a fully developed, scalable, and contextually situated project that reflects their ability to address complex societal challenges with innovative, emergent design solutions.](https://docs.google.com/document/d/1ZbqA53Xfs8HLB-FZilH3O2YqsBBFi8kOmfMUq1dpbKE/edit?tab=t.0#heading=h.xyp25leyejr0)
+By the end of the course, students will have created a fully developed, scalable, and contextually situated project that reflects their ability to address complex societal challenges with innovative, emergent design solutions.
 
 ## Schedule
 
@@ -43,7 +43,7 @@ By the end of the course, students will have created a fully developed, scalable
     - Framework assessment: Evaluate proposals based on clarity, depth of research, and alignment with course objectives.
     - Design Dialogues I: Demonstrate comprehension and application of research to inform the design process in the format of Design Dialogues.
 
-=== "2: Validation"
+=== "T2: Validation"
 
     During the second term, students will shift their focus to situating their projects within a specific community and context. They will explore the social, cultural, environmental, political, and economical aspects that influence the development and implementation of their designs. Students will gain insights into the needs, aspirations, and challenges of the community they aim to serve.
 

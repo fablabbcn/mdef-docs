@@ -4,7 +4,7 @@ role:
 feature_img: /assets/images/faculty/manuela-valtchanova.jpg
 socials:
     email:
-    website: www.manuelavaltchanova.net
+    website: https://manuelavaltchanova.com/
     linkedin: 
     twitter:
     facebook:

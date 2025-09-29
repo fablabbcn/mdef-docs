@@ -1,5 +1,5 @@
 ---
-title: Extended Intelligences 01
+title: Extended Intelligences I
 page_type: course
 track: Exploration
 course_type: Workshop

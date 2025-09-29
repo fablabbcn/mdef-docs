@@ -6,7 +6,7 @@ course_type: Course
 feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
 img_caption: Design Dialogues, 2022, Barcelona
 faculty:
-    - manuela-altchanova
+    - manuela-valtchanova
     - saul-baeza
 ects: 10
 ---
@@ -35,7 +35,8 @@ The first term Design Studio aims to create a solid ground for the students to s
 
 ### Learning Objectives
 
-The specific goals are the following: 
+The specific goals are the following:
+
 1. To develop a critical position within the student’s design practice.
 2. Define possible areas of intervention, based on the Atlas of the Week Signals.
 3. Generate design spaces which allows to prototype with context, direction  and understanding.
@@ -50,10 +51,9 @@ The specific goals are the following:
 
     **Landing Kick off - Collective Map of Individual Ref-Points**
 
-     **Goals**: To cross affectivity, situated criticality and site-specific sensitivity in order to define a series of referential places, which define you as a political, social and creative being. 
+    **Goals**: To cross affectivity, situated criticality and site-specific sensitivity in order to define a series of referential places, which define you as a political, social and creative being. 
      
-     **Activity**: Map 10 different places from your "techno-bio-physical-social" environment 
-with a special importance for your creative agency. Work in the collective map interface previously delivered to all the students.
+    **Activity**: Map 10 different places from your "techno-bio-physical-social" environment with a special importance for your creative agency. Work in the collective map interface previously delivered to all the students.
 
     **Deliverable**: 10 geo-located points in the collective map of ref-points: each point has to be labeled with a specific title and description according to the previously determined graphic code. Prepare a short (up to 5mins) presentation showing the 5 most important points.
 
@@ -63,13 +63,15 @@ with a special importance for your creative agency. Work in the collective map i
 
     **Class**: Critical Perspectives (situatedness and contextuality, revision of theoretical and practical framework) Climatic Justice/ Decolonial theories and necropolitics/ Queer Failure and speculative feminism.
 
-    **Activity**: 
-    1/ Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
-    2/ Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.)
+    **Activity**:
 
-    **Deliverable**: 
-    1/ Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
-    2/ Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.)
+    1. Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
+    2. Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.
+
+    **Deliverable**:
+
+    1. Choose a context of interest (socio-bio-techno-political, both physical and/or digital, etc.). Develop a site-specific research methodology to study this context from a 1PP approach.
+    2. Write a manifest: what do you care about, what drives you crazy, what makes you dream, etc.
 
 === "20/10"
 
@@ -78,13 +80,19 @@ with a special importance for your creative agency. Work in the collective map i
     **Class**: Performative criticality: embodied actions of resistance and desire (Architecture of Action: Syntax of six typologies of actions).
 
     **Activity**:
-    1/ Prototype an embodied action of resistance and/ or desire. 
-    2/ Test at least three different prototypes. 
-    3/ Study their interrelationship with the context. What do they enact? Transformations, errors, exceptions.
+
+    1. Prototype an embodied action of resistance and/ or desire.
+
+    2. Test at least three different prototypes.
+
+    3. Study their interrelationship with the context. What do they enact? Transformations, errors, exceptions.
 
     **Deliverable**: Document your first prototypes based on the following index of contents:
+
     - Conceptual Definition: 150w. context to intervene, problematics, potentials, objectives, etc.
+
     - 3 x Hypothesis: design and develop at least three different hypothesis based on the conceptual statement
+
     - 3 x Prototypes: audiovisual documentation of the prototypes’ development + critical evaluation
 
 === "03/11"
@@ -96,8 +104,10 @@ with a special importance for your creative agency. Work in the collective map i
     **Activity**: Develop a protocol for an individual action. Perform it. Document it.
 
     **Deliverable**:  
-    1/ Detailed protocol per steps and phases
-    2/ Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
+
+    1. Detailed protocol per steps and phases
+
+    2. Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
 
 
 === "17/11"
@@ -109,9 +119,10 @@ with a special importance for your creative agency. Work in the collective map i
     **Activity**: Create a relationship of trust of a specific collective of interest (human, non-human, physical, digital, etc.). Develop a protocol for collective action. Perform it. Document it.
 
     **Deliverable**: 
-    1/ Detailed protocol per steps and phases
-    2/ Activation of an affective relationship to a collective of interest: why this community, how do you contribute, why do they need your activation, what are your collective objectives (not only yours)
-    3/ Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
+
+    1. Detailed protocol per steps and phases
+    2. Activation of an affective relationship to a collective of interest: why this community, how do you contribute, why do they need your activation, what are your collective objectives (not only yours)
+    3. Audiovisual documentation of the implementation: context activation, ad-hoc designed and developed artifacts, process documentation (develop a proper methodology for systematic documentation) 
 
 
 === "01/12"
@@ -134,8 +145,9 @@ with a special importance for your creative agency. Work in the collective map i
     **Goals**: to present collective areas of intervention and to present the first experiments at a personal and collective level, and in an immediate context. To produce the first group exhibition of the master’s projects.
 
     **Deliverables**: 
-    1/ A series of prototypes presented in a collective design space and a personal video of no more than 3 minutes (answering the question what is your updated purpose). 
-    2/ 5 high resolution images of the highlights of your Design Studio work during the term, a high resolution image of your personal and collective design space and the first chapters of your Publication which represent each one of the deliverables developed during the term.
+
+    1. A series of prototypes presented in a collective design space and a personal video of no more than 3 minutes (answering the question what is your updated purpose). 
+    2. 5 high resolution images of the highlights of your Design Studio work during the term, a high resolution image of your personal and collective design space and the first chapters of your Publication which represent each one of the deliverables developed during the term.
 
 ## Deliverables
 
@@ -166,7 +178,9 @@ with a special importance for your creative agency. Work in the collective map i
 ## Additional Resources
 
 **1. Embodied Criticism I: Position Yourself**
+
 Situatedness, contextuality, climatic justice, decolonial theories, necropolitics, queer failure, speculative feminism:
+
 - Haraway, Donna. Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective. Feminist Studies, 1988.
 - Tsing, Anna Lowenhaupt. The Mushroom at the End of the World. Princeton University Press, 2015.
 - Mbembe, Achille. Necropolitics. Duke University Press, 2019.
@@ -175,7 +189,9 @@ Situatedness, contextuality, climatic justice, decolonial theories, necropolitic
 - Braidotti, Rosi. Posthuman Feminism. Polity, 2022.
 
 **2. Embodied Criticism II: Prototype an Action**
+
 Performative criticality, embodied resistance and desire, architectures of action:
+
 - Lepecki, André. Exhausting Dance. Routledge, 2006.
 - Butler, Judith. Notes Toward a Performative Theory of Assembly. Harvard University Press, 2015.
 - Manning, Erin. Relationscapes. MIT Press, 2009.
@@ -183,14 +199,18 @@ Performative criticality, embodied resistance and desire, architectures of actio
 - Springgay, Stephanie, and Sarah E. Truman. Walking Methodologies in a More-than-Human World. Routledge, 2018.
 
 **3. Embodied Criticism III: Act Individually**
+
 Protocols for critical actions, site-specificity, institutional critique:
+
 - Bishop, Claire. Artificial Hells. Verso, 2012.
 - Kester, Grant. The One and the Many. Duke University Press, 2011.
 - Rendell, Jane. Site-Writing. I.B. Tauris, 2010.
 - Foucault, Michel. Of Other Spaces: Utopias and Heterotopias. 1984.
 
 **4. Embodied Criticism IV: Act Collectively**
+
 Multiscalar collective practices, wellbeing and resistance, trust and care:
+
 - Escobar, Arturo. Designs for the Pluriverse. Duke University Press, 2018.
 - Federici, Silvia. Re-enchanting the World. PM Press, 2018.
 - Puig de la Bellacasa, María. Matters of Care. University of Minnesota Press, 2017.
@@ -198,7 +218,9 @@ Multiscalar collective practices, wellbeing and resistance, trust and care:
 - Berlant, Lauren. The Commons: Infrastructures for Troubling Times. Environment and Planning D, 2016.
 
 **5. Design Research & First-Person Methodologies**
+
 Speculative design, HCI, prototyping, experiential futures, first-person perspectives:
+
 - Auger, James. (2010). Alternative presents and speculative futures: Designing fictions through the extrapolation and evasion of product lineages. Negotiating Futures – Design Fiction, 42–57.
 - Candy, Stuart, & Dunagan, Jake. (2017). Designing an experiential scenario: The People Who Vanished. Futures, 86, 136–153.
 - Desjardins, Audrey, Tomico, Oscar, Lucero, Andrés, Cecchinato, Marta, & Neustaedter, Carman. (2021). Introduction to the special issue on first-person methods in HCI. ACM Transactions on Computer-Human Interaction (TOCHI), 28(6), 1–12. [https://dl.acm.org/doi/10.1145/3492342](https://dl.acm.org/doi/10.1145/3492342)

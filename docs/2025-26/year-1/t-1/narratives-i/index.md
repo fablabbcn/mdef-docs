@@ -27,12 +27,6 @@ This short course will delve into the importance of narratives and storytelling 
 
 ## Schedule
 
-
-First term / MANIFESTO: We will create a text that will serve as a personal and professional positioning statement and as a personal manifesto for our practice.
-Second term / NARRATIVE: We will work on a document that structures the evolution of our positioning and research.
-Third term / THE PROPOSAL and SCRIPTS: We will conclude the course by developing the project proposal and its potential areas for development and action. We will also learn how to create a basic script for the audiovisual format.
-
-
 === "Term I"
 
     **MANIFESTO**
@@ -55,6 +49,7 @@ Third term / THE PROPOSAL and SCRIPTS: We will conclude the course by developing
 ### Methodological Strategies
 
 We will work with:
+
 - Case studies
 - Workshops
 - Lectures
@@ -68,10 +63,10 @@ This is stated in the “Structure and Phases” section.
 
 ## Grading Method
 
-| Percentage             | Description                                                                                      |
-| -----------------------| ------------------------------------                                                             |
-| 40% | Class participation and class culture and attitude|
-| 60% | Text deliverables|
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 40% | Class participation and class culture and attitude      |
+| 60% | Text deliverables                                       |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
