@@ -22,18 +22,25 @@ def define_env(env):
                     vbls['banner_icon'] = icon
                 except:
                     pass
+
         vbls['fallback_img'] = '/assets/images/grid.jpg'
+
+        feature_img = vbls['feature_img']
+        if feature_img is not None:
+            if not (feature_img.startswith("https:") or feature_img.startswith("http:")):
+                if not os.path.exists(f"docs{vbls['feature_img']}"):
+                    vbls['feature_img'] = vbls['fallback_img']
         result = template.render(vbls)
 
         return result
-        
+
     def recurse_dict(d):
         val = []
-    
+
         for v in d.values():
             if isinstance(v, dict):
                 val.extend(recurse_dict(v))
-    
+
             elif isinstance(v, list):
                 for i in v:
                     if isinstance(i, dict):
@@ -154,7 +161,7 @@ def define_env(env):
 
         tracks = {}
 
-        # get all paths in nav 
+        # get all paths in nav
         nav_paths = []
         for item in env.conf.nav:
             nav_paths += recurse_dict(item)
