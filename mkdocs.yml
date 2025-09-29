@@ -11,6 +11,7 @@ nav:
   - Faculty: faculty/index.md
   # - Students: 2025-26/students/index.md
   - Students: student-websites/index.md
+  - Highlights: highlights/index.md
   - Year 1:
     - 2025-26/year-1/index.md
     - Calendar: 2025-26/year-1/calendar/index.md
@@ -138,7 +139,7 @@ nav:
             - Designing for More than Humans: 2024-25/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
             - Non-Planar Bio-Additive Manufacturing: 2024-25/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
             - Weaving Natural Materials: 2024-25/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
-    - 2023-24: 
+    - 2023-24:
       - 2023-24/index.md
       # - Students: 2023-24/students/index.md
       - Year 1:
