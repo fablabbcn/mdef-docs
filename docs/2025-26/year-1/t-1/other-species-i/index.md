@@ -1,5 +1,5 @@
 ---
-title: Other Species 01
+title: Other Species I
 page_type: course
 track: Exploration
 course_type: Workshop

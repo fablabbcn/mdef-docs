@@ -109,7 +109,7 @@ The guided workshop time will happen Tuesday to Friday and the students are comm
 
 === "25/10"
 
-    **Friday**: Final Presentations(I have a final machine)
+    **Friday**: Final Presentations (I have a final machine)
 
 ![](/assets/images/2024-25/year-1/t-1/the-machine-paradox-schedule.jpeg)
 

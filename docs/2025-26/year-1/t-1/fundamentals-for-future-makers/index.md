@@ -14,6 +14,7 @@ faculty:
 ects: 2
 ---
 
+{{ insert_banner() }}
 
 ## Syllabus
 
@@ -34,8 +35,6 @@ The seminar is composed of 9 sessions spread over 9 weeks. Each session includes
 - Applying theoretical knowledge in hands-on design and production projects.
 - Developing an effective setup for Design Dialogues.
 
-
-
 ### Materials Needs
 
 All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the workshop.
@@ -46,73 +45,73 @@ Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboa
 
 ## Schedule
 
-**Session 1:**
+=== "**Day 1**"
 
-09/10/2024 from 14:30h to 17h | MDEF class + LAB
+    09/10/2024 from 14:30h to 17h | MDEF class + LAB
 
-* Introduction to the course and calendar
-* Presentation on fabrication, prototyping, tools and materials
-* Lab visit and power tools demonstration
+    * Introduction to the course and calendar
+    * Presentation on fabrication, prototyping, tools and materials
+    * Lab visit and power tools demonstration
 
-**Session 2:**
+=== "**Day 2**"
 
-16/10/2024 from 14:30h to 17h | MDEF class
+    16/10/2024 from 14:30h to 17h | MDEF class
 
-* Introduction to Arduino IDE and Barduino
-* How to make a flow diagram 
-* INPUTS and OUTPUTS
+    * Introduction to Arduino IDE and Barduino
+    * How to make a flow diagram 
+    * INPUTS and OUTPUTS
 
-**Session 3:**
+=== "**Day 3**"
 
-23/10/2024 from 14:30h to 17h | MDEF class + LAB
+    23/10/2024 from 14:30h to 17h | MDEF class + LAB
 
-* Introduction 2D design with Fusion 360 or Rhinoceros
-* Laser theory
-* 2D fabrication with Laser machines + Vinyl cutter
+    * Introduction 2D design with Fusion 360 or Rhinoceros
+    * Laser theory
+    * 2D fabrication with Laser machines + Vinyl cutter
 
-**Session 4:**
+=== "**Day 4**"
 
-30/10/2024 from 14:30h to 17h | MDEF class + LAB (?)
+    30/10/2024 from 14:30h to 17h | MDEF class + LAB (?)
 
-* Introduction 3D design with Fusion 360
-* 3D printing theory
-* 3D fabrication with 3D printers
+    * Introduction 3D design with Fusion 360
+    * 3D printing theory
+    * 3D fabrication with 3D printers
 
-**Session 5:**
+=== "**Day 5**"
 
-06/11/2024 from 14:30h to 17h | MDEF class
+    06/11/2024 from 14:30h to 17h | MDEF class
 
-* Casting and mould design theory
-* Practical demonstration of casting material
-* Mould development in class
+    * Casting and mould design theory
+    * Practical demonstration of casting material
+    * Mould development in class
 
-**Session 6:**
+=== "**Day 6**"
 
-13/11/2024 from 14:30h to 17h | MDEF class + LAB
+    13/11/2024 from 14:30h to 17h | MDEF class + LAB
 
-* Networking with microcontrollers
-* Intro to Processing/P5.js
-* Activity on networking
+    * Networking with microcontrollers
+    * Intro to Processing/P5.js
+    * Activity on networking
 
-**Session 7:**
+=== "**Day 7**"
 
-20/11/2024 from 14:30h to 17h | MDEF class + LAB
+    20/11/2024 from 14:30h to 17h | MDEF class + LAB
 
-* CNC milling
-* Activity on CNC milling joinery
+    * CNC milling
+    * Activity on CNC milling joinery
 
-**Session 8:**
+=== "**Day 8**"
 
-27/11/2024 from 14:30h to 17h | MDEF class + LAB
+    27/11/2024 from 14:30h to 17h | MDEF class + LAB
 
-* Modular Design 
-* Activity on modular design for Design Dialogues stands and furniture
+    * Modular Design 
+    * Activity on modular design for Design Dialogues stands and furniture
 
-**Session 9:**
+=== "**Day 9**"
 
-04/12/2024 from 14:30h to 17h | MDEF class + LAB
+    04/12/2024 from 14:30h to 17h | MDEF class + LAB
 
-* Design Dialogues preparation
+    * Design Dialogues preparation
 
 
 ## Deliverables
@@ -123,9 +122,16 @@ Students are not required to post class notes to their blogs/web. They should on
 
 The evaluation for this seminar will be primarily based on students' participation, attitude in class, and the content they post and document on their blogs. As the assigned tasks serve mainly as tools for learning, formal evaluation of them will be minimal, making active engagement in class the key factor for success. There won’t be a big final project to evaluate either.
 
-- Participation: 30%
-- Prototype development: 50%
-- Self-assessment: 20%
+
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 30%         | Participation                                   |
+| 50%         | Prototype development                           |
+| 20%         | Self-assessment                                 |
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
 
 ## Course Resources
 
