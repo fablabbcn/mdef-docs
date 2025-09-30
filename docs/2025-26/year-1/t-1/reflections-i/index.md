@@ -1,5 +1,5 @@
 ---
-title: Reflections I
+title: Reflections I - Living with your own ideas
 page_type: course
 track: Reflection
 course_type: Workshop

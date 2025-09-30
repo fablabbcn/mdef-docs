@@ -1,5 +1,5 @@
 ---
-title: Reflections II
+title: Reflections II - Design with others
 page_type: course
 track: Reflection
 course_type: Workshop
