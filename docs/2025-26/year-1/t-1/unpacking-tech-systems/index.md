@@ -9,8 +9,8 @@ faculty:
     - santiago-fuentemilla
     - guillem-camprodon
     - daniel-mateos
-    - josep-marti
-    - petra-garajova
+    - julia-leirado
+    - oscar-gonzalez
     - adai-surinach
 ects: 5
 ---

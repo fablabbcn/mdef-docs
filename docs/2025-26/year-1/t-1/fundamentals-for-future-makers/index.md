@@ -6,11 +6,9 @@ course_type: Seminar
 feature_img: /assets/images/2024-25/year-1/t-1/fundamentals-df.jpg
 img_caption: Iaac student projects
 faculty:
-    - didac-torrent
-    - josep-marti
+    - daniel-mateos
     - santiago-fuentemilla
     - adai-surinach
-    - daniel-mateos
 ects: 2
 ---
 
