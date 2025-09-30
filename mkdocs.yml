@@ -9,8 +9,8 @@ edit_uri: edit/main/docs/
 nav:
   - About: 2025-26/index.md
   - Faculty: faculty/index.md
-  # - Students: 2025-26/students/index.md
-  - Students: student-websites/index.md
+  - Students: 2025-26/students/index.md
+  # - Students: student-websites/index.md
   - Year 1:
     - 2025-26/year-1/index.md
     - Calendar: 2025-26/year-1/calendar/index.md

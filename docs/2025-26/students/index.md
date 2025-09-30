@@ -3,83 +3,145 @@ hide:
     - toc
     - navigation
 students:
-    Flavio Grimaldi:
-        photo: /assets/images/students/2024-25/MDEF02/7067.jpg
-        website: https://flavio-grimaldi-students-iaac.gitbook.io/flavio_grimaldi
-    David Granizo Calero:
-        photo: /assets/images/students/2024-25/MDEF01/7066.jpg
-        website: https://davmdef.github.io/MDEFWEB/
-    Hanna Biarozka:
-        photo: /assets/images/students/2024-25/MDEF01/7168.jpg
+    Agnese Raimondi:
+        photo:
         website:
-    Javier Serra Alonso:
-        photo: /assets/images/students/2024-25/MDEF01/7065.jpg
-        website: https://javierserraa.gitbook.io/home
-    Lucretia Katarzyna Field:
-        photo: /assets/images/students/2024-25/MDEF01/7069.png
-        website: https://lkfield.github.io/mdef/
-    Kevin Giovanni Enriquez Ambrocio:
-        photo: /assets/images/students/2024-25/MDEF02/7174.jpg
-        website: https://mdef02-kevin-enriquez.gitbook.io/mdef02-kevin-enriquez
-    Carlos Alberto Da Silveira Junior:
-        photo: /assets/images/students/2024-25/MDEF02/7161.jpg
-        website: https://carlossilveiradesign.gitbook.io/mdef-diary
-    Erik Reimberg Gutschow:
-        photo: /assets/images/students/2024-25/MDEF01/7330.jpg
-        website: https://mdef-1.gitbook.io/mdef
+        year: 1
+    Aiman Ansari:
+        photo:
+        website:
+        year: 1
+    Aishwarya Kaura:
+        photo:
+        website:
+        year: 1
+    Alejandra Cristina Rivera Zamacona:
+        photo:
+        website:
+        year: 1
+    Aleyda Daniela Guzmán Caiza:
+        photo:
+        website:
+        year: 1
+    Antonio García Fernández:
+        photo:
+        website:
+        year: 1
+    Armin Gulbert:
+        photo:
+        website:
+        year: 1
+    Ayal Bark:
+        photo:
+        website:
+        year: 1
+    Beste Cebeci:
+        photo:
+        website:
+        year: 1
+    Erandi Itzai Estrada Martínez:
+        photo:
+        website:
+        year: 1
+    Francesco Mignogna:
+        photo:
+        website:
+        year: 1
+    Hannah Peevey:
+        photo:
+        website:
+        year: 1
+    Heba Elidrisi:
+        photo:
+        website:
+        year: 1
+    Huong Giang Ly Nguyen:
+        photo:
+        website:
+        year: 1
+    Ishan Mudgal:
+        photo:
+        website:
+        year: 1
+    Ivan Hunga Alho Miguez Garcia:
+        photo:
+        website:
+        year: 1
+    Lauren Willihnganz:
+        photo:
+        website:
+        year: 1
+    Ludovico Celli:
+        photo:
+        website:
+        year: 1
+    Madlen Elise von Wulffen:
+        photo:
+        website:
+        year: 1
+    Maryam Shojaei:
+        photo:
+        website:
+        year: 1
+    Maxavier Guss:
+        photo:
+        website:
+        year: 1
+    Melissa Fabiola Ingaruca Moreno:
+        photo:
+        website:
+        year: 1
+    Sıla Kara:
+        photo:
+        website:
+        year: 1
+    Swarna Manjari Chellapandi:
+        photo:
+        website:
+        year: 1
     Andrea Santi:
         photo: /assets/images/students/2024-25/MDEF02/7133.jpeg
         website: https://andrea-santis-organization.gitbook.io/andrea-santi-mdef-course
+        year: 2
     Auxence Jules Daillen:
         photo: /assets/images/students/2024-25/MDEF01/7138.jpg
         website: https://auxence-daillen-organisation.gitbook.io/auxence-daillen/
-    Ziming Shang:
-        photo: /assets/images/students/2024-25/MDEF01/7132.jpg
-        website: https://smuzs-organization.gitbook.io/smuz-mdef
-    Maximilian Becht:
-        photo: /assets/images/students/2024-25/MDEF01/7150.png
-        website: https://maxicozy.github.io/mdef-documentation/
-    Maithili Manoj Sathe:
-        photo: /assets/images/students/2024-25/MDEF02/7169.jpg
-        website: https://maithilis.gitbook.io/mdef-archive
-    Paula Rydel:
-        photo: /assets/images/students/2024-25/MDEF01/7311.jpg
-        website: https://futuresdrafts.wixsite.com/paularydel
-    Mohit Chopra:
-        photo: /assets/images/students/2024-25/MDEF02/7177.jpg
-        website: https://mohitchopra.notion.site/Home-11cf63009b748004a336e4cc92903c61?pvs=4
-    Ramon Prat Gibert:
-        photo: /assets/images/students/2024-25/MDEF01/7009.jpg
-        website: https://ramon-prat-gibert.gitbook.io/ramon-prat-mdef-website/final-project
-    Maria Vittoria Colombo:
-        photo: /assets/images/students/2024-25/MDEF01/7271.jpg
-        website: https://colombomariavittorias-organizati.gitbook.io/maria-vittoria-colombo-mdef/
+        year: 2
     Belen Comotto:
         photo: /assets/images/students/2024-25/MDEF02/7273.jpg
         website: https://belcomotto.xyz/
-    Manuja Agnohotri:
-        photo: /assets/images/students/2023-24/6906.jpg
-        website: https://manujaagnihotri.github.io/MDEFPortfolio/
         year: 2
-    Qianyin Du:
-        photo: /assets/images/students/2023-24/6406.jpg
-        website: https://33dudu.github.io/magicreator/
+    Carlos Alberto Da Silveira Junior:
+        photo: /assets/images/students/2024-25/MDEF02/7161.jpg
+        website: https://carlossilveiradesign.gitbook.io/mdef-diary
         year: 2
-    Jorge Muñoz:
-        photo: /assets/images/students/2023-24/7007.jpg
-        website: https://jmuozan.github.io/mdef-website/
+    David Granizo Calero:
+        photo: /assets/images/students/2024-25/MDEF01/7066.jpg
+        website: https://davmdef.github.io/MDEFWEB/
         year: 2
-    Dhrishya Ramadass:
-        photo: /assets/images/students/2023-24/6889.jpeg
-        website: https://dhrishyaramadass.github.io/mdefwebsite/
+    Flavio Grimaldi:
+        photo: /assets/images/students/2024-25/MDEF02/7067.jpg
+        website: https://flavio-grimaldi-students-iaac.gitbook.io/flavio_grimaldi
         year: 2
-    Carmen Robres de Veciana:
-        photo: /assets/images/students/2023-24/6763.jpg
-        website: https://carmenrobres.github.io/portfolio/
+    Kevin Giovanni Enriquez Ambrocio:
+        photo: /assets/images/students/2024-25/MDEF02/7174.jpg
+        website: https://mdef02-kevin-enriquez.gitbook.io/mdef02-kevin-enriquez
         year: 2
-    Marius Schairer:
-        photo: /assets/images/students/2023-24/6837.jpg
-        website: https://marius-schairer.github.io/MDEF_Documentation/
+    Maximilian Becht:
+        photo: /assets/images/students/2024-25/MDEF01/7150.png
+        website: https://maxicozy.github.io/mdef-documentation/
+        year: 2
+    Mohit Chopra:
+        photo: /assets/images/students/2024-25/MDEF02/7177.jpg
+        website: https://mohitchopra.notion.site/Home-11cf63009b748004a336e4cc92903c61?pvs=4
+        year: 2
+    Ramon Prat Gibert:
+        photo: /assets/images/students/2024-25/MDEF01/7009.jpg
+        website: https://ramon-prat-gibert.gitbook.io/ramon-prat-mdef-website/final-project
+        year: 2
+    Ziming Shang:
+        photo: /assets/images/students/2024-25/MDEF01/7132.jpg
+        website: https://smuzs-organization.gitbook.io/smuz-mdef
         year: 2
 ---
 
