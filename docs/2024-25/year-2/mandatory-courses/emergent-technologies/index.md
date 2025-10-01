@@ -13,6 +13,8 @@ faculty:
 ects: 3
 ---
 
+{{ insert_banner() }}
+
 ## Syllabus
 
 The Emergent Technologies course is designed to provide students with a comprehensive understanding of advanced digital fabrication techniques and sustainable practices, with a focus on electronics, materials, and textiles. This unique program combines mandatory and elective modules from both the Fabricademy and Fab Academy, offering a blend of theoretical knowledge and hands-on experience.

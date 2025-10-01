@@ -10,3 +10,8 @@ faculty:
 ects: 2
 ---
 
+{{ insert_banner() }}
+
+!!! info "Details coming soon!"
+
+    **Course details will be updated by faculty shortly.**
