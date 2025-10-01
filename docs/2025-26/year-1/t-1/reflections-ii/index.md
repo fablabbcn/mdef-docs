@@ -3,11 +3,11 @@ title: Reflections II - Design with others
 page_type: course
 track: Reflection
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-1/design-with-others.jpg
-img_caption: Ailie Rutherford
+feature_img: /assets/images/2025-26/year-1/t-1/design-with-others.png
+img_caption: Yaya Labs
 
 faculty:
-    - laura-benitez
+    - saul-baeza
 ects: 2
 ---
 
@@ -15,103 +15,107 @@ ects: 2
 
 ## Syllabus
 
-*A four-day seminar of four-hour sessions to kickstart designing with creative communities and engaging with the social body.*
-
-Design practice and the role of the designer have been continuously evolving. What began as a practical discipline at the service of industry ("design over") expanded to include the perspective of the human user and their needs ("design for") and later evolved into more participatory approaches where the user becomes an active agent in the design process ("design with"). In the context of growing existential risks and challenges, it is now critical to push these questions further by incorporating principles of otherness, design justice, alterity, communities, situated epistemologies and intra-action into design practices.
+A four-day seminar of four-hour sessions with lectures, conversations and workshops with the participation of renowned researchers to kickstart designing with other intelligences. Design practice and the role of the designer have been continuously evolving. What began as a practical discipline at the service of industry ("design over") expanded to include the perspective of the human user and their needs ("design for") and later evolved into more participatory approaches where the user becomes an active agent in the design process ("design with"). In the context of growing existential risks and challenges, it is now critical to push these questions further by incorporating principles of otherness, design justice, alterity, communities, situated epistemologies and intra-action into design practices. Building on the lecture series, the students will collectively prototype “Other Otherness”.
 
 ### Learning Objectives
 
-Students after completion of the course should be able to:
+Students, after completion of the seminar, should be able to:
 
 - Detect, understand and tackle complex issues through design practices.
-- Engage with “creative communities” related to the matters of concern.
+- Engage with communities related to the matters of concern.
 - Situate their practice in the field.
 - Engage in strategic intervention.
-- Get familiar and confident facilitating groups of people and processes.
 - Widen their community engagement perspective and learn to work(in) non-human agents.
 
-**Keywords: Other(ness), Communities, Collaboration**
+
+**Keywords: Other(ness), AI and Robotoics, Parallel Minds, Material Intelligences, Collective Care**
 
 
 ## Schedule
 
+=== "18/11"
+
+    ***9:30-11:00***
+    
+    Course Introduction + dynamics + objectives
+
+    ***11:00-13:00***
+
+    Lecture and Q&A session with Ben Ditto, YAYALABS Creative Director on Bridging Human Creativity and AI&Robotics. “Science-fiction is brainstorming for venture capital”.
+
+    About [Ben Ditto](https://www.instagram.com/ben_ditto/?hl=es): Ben Ditto is a creative director living and working in London. Ditto’s projects span a broad spectrum of disciplines including moving image, CGI, creative coding, branding, AI, print and live experience to name just a few. Ben’s utilisation of Instagram as a tool for reportage on topics ranging from military hardware to surgical procedures – and everything in between – has gained him a cult online following and propelled him to the realm of “niche micro-internet celebrity”. This led to the cultivation of an online community, Ditto Nation, on Telegram and Discord, as well as a documentary series under the same name. Ben is also the art director of his eponymous publishing company Ditto, and founded Dazed Beauty alongside Isamaya Ffrench. Ditto was recently appointed as the creative director of YAYALABS.
+
+    About [YAYALABS](https://www.yayalabs.io/): Yaya Labs is an AI and robotics company based in London and Berlin. We are building a deep, expressive personality protocol for AIs, robots, and avatars, designed to transcend hardware and software boundaries. Our mission is to create a software-agnostic, fully sensory-adaptive system with an ethical core, allowing a singular persona to manifest seamlessly across screens, robots, vehicles, and beyond. Throughout this process, we are developing a suite of tools and applications that harness the technology and insights gained from the development of the Yaya protocol.
+
+    ***13:00-13:30***
+
+    1st Briefing launch and closure
+    
 === "19/11"
 
-    ***9:30-13:30***
+    ***9:30-11:00***
     
-    **Class with *Marta Delatte* on** ***Design Justice***
-    
-    Rethinking traditional design processes and frameworks to prioritize social equity, inclusion, and justice. It would explore how design—whether in technology, architecture, urban planning, or other fields—can perpetuate or disrupt existing systems of oppression. The session would emphasize the importance of centering “marginalized” communities in the design process, ensuring their needs, experiences, and knowledge guide the outcomes. The class would be encouraged to critically analyze our work not as neutral but as an influential force for either maintaining or challenging social-political inequities.
-    
-    [www.designjustice.org](https://designjustice.org/)
-    
+    1st Other Otherness short presentations (Per groups)
+
+    ***11:00-13:00***
+
+    Lecture and Q&A session with Laura Tripaldi, researcher and writer on Parallel Minds. 
+
+    About [Laura Tripaldi](https://www.instagram.com/lauratripaldi/?hl=es): Laura Tripaldi is a transdisciplinary researcher at the interface of science, technology, and speculative thinking. Her research focuses on materiality, exploring its cultural implications and technological futures. She holds a PhD in Materials Science and Nanotechnology from the University of Milan-Bicocca. She has taught courses, seminars, and workshops in several cultural and academic institutions, including the Basel Academy of Art and Design FHNW, Medialab Matadero Madrid, the University of Roma Tre, the Institute for Postnatural Studies, and the New Center for Research and Practice. Her writing was featured in numerous publications, books, and exhibition catalogs. Her book Parallel Minds (Urbanomic, 2022) was translated into multiple languages and presented at festivals and conferences worldwide.
+
+    ***13:00-13:30***
+
+    2nd Briefing launch and closure
+
 === "20/11"
 
-    ***9:30-11:30***
-
-    **Session with *Laura Benítez* on** ***Other(ness)***
+    ***9:30-11:00***
     
-    In the first part of the session, we will explore the concept of "the Other" and its central role in shaping contemporary philosophical, social, and ethical thinking. The session will also introduce how contemporary debates approach the notion, experience, and construction of the "Other." (Ethics of alterity/otherness).
+    2nd Other Otherness short presentations (Per groups)
 
-    ***11:30-13:30***
+    ***11:00-13:00***
 
-    **Visit to** ***Salamina*** - ***eemeemee*** 
+    Lecture and Q&A session with Ruben Pater, designer, author and researcher on Capitalism and Material Cultures. 
 
-    In the second part of the session, we will visit Salamina, a shared workspace in an industrial building in L'Hospitalet. We will visit one of the resident collectives, eemeemee [Enclave Micopirata Mutante], whose purpose is to maintain a community network to share processes and knowledge generated around DIWO mycology. Each of the participants in the network carries out on their own and collectively in the field of mycology and mushroom cultivation, both for food sovereignty purposes and for the development of tools for bioremediation of the territory or the discussion of ecological and interspecific relationships and hierarchies.
-    
-    [www.eemeemeee.org](https://eemeemeee.org/doku.php?id=inicio)
+    About [Ruben Pater](https://www.untold-stories.net/?p=): Ruben Pater is a designer at a moment in time, when more design is about the last thing the world needs. In search for ethical alternatives he designs, writes, and teaches. He is the author of The Politics of Design (BIS, 2016) and CAPS LOCK (Valiz, 2021)
 
+    ***13:00-13:30***
+
+    3rd Briefing launch and closure
+ 
 === "21/11"
 
-    ***9:30-11:30***
-
-    **Session with *Laura Benítez* on** ***Agency and situated epistemologies***
+    ***9:30-11:00***
     
-    This session explores critical concepts from contemporary philosophy, social theory, and feminist science studies to examine how human and non-human entities influence and relate to each other in dynamic systems. It is focused on shifting away from traditional views of agency as an individual trait toward more relational, interconnected models of action. Rethinking agency beyond individual autonomy emphasises a network of relationships and intra-actions that create possibilities and onto-ethical-epistemological challenges in contemporary life.
+    3rd Other Otherness short presentations (Per groups)
 
-    ***11:30-13:30***
+    ***11:00-13:00***
 
-    **Visit to** ***Mutan Monkey*** 
+    Collective feedback and reviews
 
-    In the second part of the session, we will visit the Mutan Monkey project. MUTAN- LAB sound research was born in Barcelona, in the beautiful neighborhood of Horta, in 2018. The space was built collectively, DIY/DIT between Mutan Monkey Instruments and the musical collective Ojalä este mi Bici is established as a cultural association of sound research focused on electronics and electroacoustics. The space works in a collective self-management way and wants to promote the exchange of knowledge and the creation of new forms to enable other ways of generating music and experimental sound. 
+    ***13:00-13:30***
     
-    [www.mutanmonkeyinstruments.com/es](https://www.mutanmonkeyinstruments.com/es)
- 
-=== "22/11"
-
-    ***9:30-11:30***
-
-    **Session with *Laura Benítez* -** ***Beyond local territories***
-    
-    This session focuses on territoriality and third spaces. The proposal addresses notions of territory and community beyond the simple local-global scale. The generation of communities and collaboration does not occur only in encounters within the same territory. We will explore different notions and projects to help us think about a design with others beyond local territories. 
-
-
-    ***11:30-13:30***
-
-    **Visit to *BeAnotherLab* (TBC)** 
-
-    We will visit the collective/project Be another lab in the second part of the session. 
-    
-    BeAnotherLab works at the intersection of art, science and technology. We question the hierarchies between these different ways of knowing and approach them as complementary, overlapping bodies of knowledge. BeAnotherLab is a not-for-profit cultural association registered in Barcelona. Their innovations are licensed under the Creative Commons Share-Alike License. They are driven by an action-research approach, and the laboratory has developed a range of methodologies for interfacing with differences, always aiming to translate and connect in a context-specific and situated manner.
-
-    [www.beanotherlab.org](https://beanotherlab.org/)
+    Closing
  
 ### Methodological Strategies
 
 - Lectures
 - Case studies
-- Visits
-
+- Prototyping
 - Project-based learning
 - Team-based learning
-- Visual thinking
 
 
 ## Deliverables
 
-One of the deliverables will consist of designing an intervention with a community/collective, considering the lessons learned in the seminar. They will be able to add a critical reflection on how their design practices/experimental practices understand and tackle complex issues through design practices.
+Answering to each lecture and provocation, students will work in groups to produce a deliverable, in an open format, that critically engages with the theme of “Other Otherness.” In the final session, we will collaboratively map out a plural positioning.
 
 ## Grading Method
+
+Assignments, participation, self-assessment
+
+The course will be evaluated with a numeric grade that will average results from the 4 sessions.
+
 
 | Percentage  | Description                          |
 | ----------- | ------------------------------------ |
@@ -123,24 +127,6 @@ One of the deliverables will consist of designing an intervention with a communi
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
-
-## Additional Resources
-
-### Bibliography
-
-Barad, Karen. *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*
-
-Care Collective. Care Manifesto. *The politics of interdependence*
-
-Collins, Nickolas. *Hand-made electronic music. The art of hardware hacking* 
-
-Constanza-Chock, Sasha. *Design Justice. Community-Led Practices to Build the Worlds We Need*
-
-Latour, Bruno; Weibel, Peter. *Critical zones*
-
-Pappanek, Victor. *Design for the real world*
-
-Tsing, Anna. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*
 
 
 ## Faculty
