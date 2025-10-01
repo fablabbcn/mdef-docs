@@ -1,5 +1,5 @@
 ---
-title: Applied Research Seminars
+title: Applied Research
 feature_img:
 hide:
     - toc

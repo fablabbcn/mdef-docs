@@ -57,20 +57,20 @@ nav:
       - Emergent Technolgies: 2025-26/year-2/mandatory-courses/emergent-technologies/index.md
     - Elective Courses:
       - 2025-26/year-2/elective-courses/index.md
-      - Applied Research Seminars:
-        - 2025-26/year-2/elective-courses/applied-research-seminars/index.md
-    #     - ReCITYing: 2025-26/year-2/elective-courses/applied-research-seminars/recitying/index.md
-        - Interaction and Prototyping: 2025-26/year-2/elective-courses/applied-research-seminars/interaction-and-prototyping/index.md
-      - Applied Theory Workshops:
-        - 2025-26/year-2/elective-courses/applied-theory-workshops/index.md
-        - Ecological Interactions: 2025-26/year-2/elective-courses/applied-theory-workshops/ecological-interactions/index.md
-    #     - Carbon Based Design: 2025-26/year-2/elective-courses/applied-theory-workshops/carbon-based-design/index.md
-    #     - Business Innovation: 2025-26/year-2/elective-courses/applied-theory-workshops/business-innovation/index.md
-    #     - Theories of the Urban: 2025-26/year-2/elective-courses/applied-theory-workshops/theories-of-the-urban/index.md
-    #     - Co-Creating Public Space: 2025-26/year-2/elective-courses/applied-theory-workshops/co-creating-public-spaces/index.md
-    #     - Designing for More than Humans: 2025-26/year-2/elective-courses/applied-theory-workshops/designing-for-more-than-humans/index.md
-    #     - Non-Planar Bio-Additive Manufacturing: 2025-26/year-2/elective-courses/applied-theory-workshops/non-planar-bio-additive-manufacturing/index.md
-    #     - Weaving Natural Materials: 2025-26/year-2/elective-courses/applied-theory-workshops/weaving-natural-materials/index.md
+      - Applied Research:
+        - 2025-26/year-2/elective-courses/applied-research/index.md
+    #     - ReCITYing: 2025-26/year-2/elective-courses/applied-research/recitying/index.md
+        - Interaction and Prototyping: 2025-26/year-2/elective-courses/applied-research/interaction-and-prototyping/index.md
+        - Ecological Interactions: 2025-26/year-2/elective-courses/applied-research/ecological-interactions/index.md
+      - Content Workshops:
+        - 2025-26/year-2/elective-courses/content-workshops/index.md
+    #     - Carbon Based Design: 2025-26/year-2/elective-courses/content-workshops/carbon-based-design/index.md
+        - Business Innovation: 2025-26/year-2/elective-courses/content-workshops/business-innovation/index.md
+    #     - Theories of the Urban: 2025-26/year-2/elective-courses/content-workshops/theories-of-the-urban/index.md
+    #     - Co-Creating Public Space: 2025-26/year-2/elective-courses/content-workshops/co-creating-public-spaces/index.md
+    #     - Designing for More than Humans: 2025-26/year-2/elective-courses/content-workshops/designing-for-more-than-humans/index.md
+    #     - Non-Planar Bio-Additive Manufacturing: 2025-26/year-2/elective-courses/content-workshops/non-planar-bio-additive-manufacturing/index.md
+    #     - Weaving Natural Materials: 2025-26/year-2/elective-courses/content-workshops/weaving-natural-materials/index.md
   - Glossary:
     - glossary/index.md
   - Previous Years:

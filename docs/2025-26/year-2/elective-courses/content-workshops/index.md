@@ -1,5 +1,5 @@
 ---
-title: Applied Theory Workshops
+title: Content Workshops
 feature_img:
 hide:
     - toc
@@ -7,4 +7,4 @@ hide:
 
 These elective courses are intensive workshops that usually span a week, where students learn about a specific theme.
 
-Students must select one **Applied Theory Workshop** to fulfill their their MDEF02 requirements.
+Students must select one **Content Workshop** to fulfill their their MDEF02 requirements.
