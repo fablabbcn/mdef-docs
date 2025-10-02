@@ -8,8 +8,7 @@ img_caption:
 faculty:
     - santiago-fuentemilla
     - daniel-mateos
-    - josep-marti
-    - petra-garajova
+    - adai-surinach
 ects: 3
 ---
 
@@ -17,32 +16,30 @@ ects: 3
 
 ## Syllabus
 
-The Emergent Technologies course is designed to provide students with a comprehensive understanding of advanced digital fabrication techniques and sustainable practices, with a focus on electronics, materials, and textiles. This unique program combines mandatory and elective modules from both the Fabricademy and Fab Academy, offering a blend of theoretical knowledge and hands-on experience.
+The Emergent Technologies course is designed to provide students with a comprehensive understanding of advanced digital fabrication techniques, with a focus on electronics and design. This program offers a blend of theoretical knowledge and hands-on experience, enabling participants to develop their skills across multiple domains.
 
-By the end of the program, students will have a robust portfolio of projects and a deep understanding of how to integrate technology and sustainability into their design practices.
+By the end of the program, students will have a robust portfolio of projects and a deep understanding of how to integrate technology into their design practices.
 
 **Keywords: Documentation, Tinkering, Design, Prototyping, Digital fabrication**
 
 ### Learning Objectives
 
-- Understand and apply the principles of biomaking design.
 - Develop skills in electronics production and embedded programming.
 - Explore advanced topics in wearable technology, soft robotics, biohacking, or skin electronics.
 - Gain hands-on experience in digital fabrication techniques.
-- Foster creativity and innovation through interdisciplinary experiencies.
-- In tegrate sustainable practices into design and fabrication processes.
+- Foster creativity and innovation through interdisciplinary experiences.
+
 
 ### Methodological Strategies
 
-**Mandatory Modules:** Students will gain foundational knowledge in Biochromes and Electronics Production, essential for understanding the integration of biological materials and electronic components in design practices.
 
-**Elective Modules:** Students can choose from a range of specialized topics, allowing them to delve deeper into areas of personal interest and relevance to their future careers.
+**Elective Modules:** Each student must select 4 modules from a range of specialized topics, allowing them to delve deeper into areas of personal interest and relevance to their future careers.
 
 **Hands-on Learning:** The course emphasizes practical, hands-on workshops and projects, enabling students to apply theoretical concepts in real-world scenarios.
 
-**Interdisciplinary Approach:** By combining modules from both the Fabricademy and Fab Academy, the course encourages an interdisciplinary approach to design and innovation.
+**Interdisciplinary Approach:** By combining modules from different domains, the course encourages an interdisciplinary approach to design and innovation.
 
-**Collaborative Learning:** Students will have the opportunity to join classes with other students in the two topics: advanced digital fabrication techniques and sustainable practices. This collaborative environment fosters a rich exchange of ideas and perspectives, enhancing the learning experience.
+**Collaborative Learning:** Students will have the opportunity to join classes with peers from different backgrounds. This collaborative environment fosters a rich exchange of ideas and perspectives, enhancing the learning experience.
 
 
 ### Materials Needs
@@ -54,29 +51,33 @@ Bring in your laptop and any prototyping tools you have around such as a cutter,
 Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboards...) at home you would like to take apart? Bring them, too! (For safety reasons, avoid choosing appliances with a lot of power or that are easily heated).
 
 ## Schedule
+Students are required to select 4 elective modules from the following options:
 
-The curriculum is structured to include mandatory modules on Biochromes and Electronics Production, as well as elective modules in areas such as Biohacking, Wearables, Soft Robotics, Skin Electronics, Molding and Casting, and a Wildcard Week for open-ended projects.
-[Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/course-info/what_is_it/) 
+- [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html)
+- [Electronics design](https://academy.cba.mit.edu/classes/electronics_design/index.html)
+- [Embedded programming](https://academy.cba.mit.edu/classes/embedded_programming/index.html)
+- [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html)
+- [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
+- [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
+- [ mechanical design, machine design](http://academy.cba.mit.edu/classes/machine_design/index.html)
 
-- 1 Mandatory module of Fabricademy [Biochromes](https://fabricademy.fabcloud.io/handbook/classes/04_biofabrics/)
-- 1 Mandatory module ofFab Academy  [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html)
 
-- 1 Elective module of Fabricademy among
-    - [Biohacking proposal](https://fabricademy.fabcloud.io/handbook/classes/07_open_source_hardware/)
-    - [Wearables](https://fabricademy.fabcloud.io/handbook/classes/10_wearables/)
-    - [Soft robotics](https://fabricademy.fabcloud.io/handbook/classes/12_softrobotics/)
-    - [Skin electronics](https://fabricademy.fabcloud.io/handbook/classes/13_skinelectronics/)
+For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
 
-- 1 Elective module of Fab Academy among
-    - [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
-    - [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
-    - [Electronics design](https://academy.cba.mit.edu/classes/electronics_design/index.html)
-    - [Embedded programming](https://academy.cba.mit.edu/classes/embedded_programming/index.html)
+- **Local Classes:** Every Thursday or/and from 9:30 am to 13:30 pm CET, depending on the week
+- **Global Class:** Every Wednesday at 15:00 pm CET with Neil Gershenfeld.
+
+In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules.
 
 
 ## Deliverables
 
-Students will be required to document their projects and deliverables for each module. This documentation will be hosted on the students' personal websites, ensuring that their work is accessible and well-presented. The deliverables for each module will adhere to the same requirements and standards as those of the Fabricademy and Fab Academy programs to which they are associated.
+Students are required to:
+
+- Document all their projects and module deliverables on their personal websites.
+- Follow the same documentation standards as the Fab Academy program.
+- Produce working prototypes and project demonstrations for each module.
+- For Machine Design, students must deliver a more complex group project.
 
 ## Grading Method
 
@@ -89,9 +90,8 @@ Students will be required to document their projects and deliverables for each m
     {{ ects }} ECTS
 
 ## Course Resources
-
+- [Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/course-info/what_is_it/) 
 - [FabAcademy](https://fabacademy.org/2024/)
-- [Fabricademy](https://class.textile-academy.org/)
 
 ## Faculty
 
