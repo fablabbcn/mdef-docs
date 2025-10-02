@@ -59,7 +59,7 @@ Students are required to select 4 elective modules from the following options:
 - [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html)
 - [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
 - [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
-- [ mechanical design, machine design](http://academy.cba.mit.edu/classes/machine_design/index.html)
+- [ mechanical design, machine design (2 modules)](http://academy.cba.mit.edu/classes/machine_design/index.html)
 
 
 For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
