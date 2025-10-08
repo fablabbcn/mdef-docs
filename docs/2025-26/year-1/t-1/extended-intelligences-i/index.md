@@ -21,27 +21,27 @@ What is the technical nature of neural networks. What are the historical and con
 
 **Chapter 1. Helga Nowotny and the wise complexity**
 
-=== LLMs and the new logocentrism. A holistic approach to complexity.
+LLMs and the new logocentrism. A holistic approach to complexity.
 
 **Chapter 2. Ramon Llull and word combinatorics**
 
-=== The complements of intelligence (first part). Words as synthesised thinking. How can metaphore be calculated.
+The complements of intelligence (first part). Words as synthesised thinking. How can metaphore be calculated.
 
 **Chapter 3. Pauline Oliveros and Quantum listening**
 
-=== Complexity as aural space. Being aware of not being aware. The artistic approach to AI.
+Complexity as aural space. Being aware of not being aware. The artistic approach to AI.
 
 **Chapter 4. Alan Turing and outsourcing intelligence**
 
-=== Complexity as aural space. Being aware of not being aware. The artistic approach to AI.
+The complements of intelligence (second part). The mathematical vs. engineering approach to AI.
 
 **Chapter 5. Sabine Hosenfelder and the limits of physics**
 
-=== What would Ant-Man think? The limits of the experimental method. AI is not science.
+What would Ant-Man think? The limits of the experimental method. AI is not science.
 
 **Chapter 6. Joseph Weizenbaum and the automatic Therapist**
 
-=== AI and the urge to make sense. Cold reading: from Tarot to Eliza.
+AI and the urge to make sense. Cold reading: from Tarot to Eliza.
 
 ## Faculty
 
