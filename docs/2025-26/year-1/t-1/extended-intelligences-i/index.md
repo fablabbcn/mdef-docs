@@ -43,8 +43,9 @@ What is the technical nature of neural networks. What are the historical and con
 
 === AI and the urge to make sense. Cold reading: from Tarot to Eliza.
 
+## Faculty
 
-
+{{ insert_faculty() }}
 
 
 
