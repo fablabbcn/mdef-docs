@@ -12,4 +12,5 @@ socials:
     github:
 ---
 After 9 years in the design industry, he shifted his focus to Ecological Building and is a graduate of the MAEBB 2023-24 program. An alumni of the Ellen Macarthur foundation ‘From Linear to Circular’ program, Olly has collaborated with a variety of community growing and making projects, bringing his interests of growing, food, circular production systems, design, natural building and community engagement together. Olly is actively working in the Urban Agriculture network of Barcelona; designing and maintaining vertical, irrigated gardens in various locations in the city.
-Olly will play an active role in the day-to-day management of the grow spaces at Valldaura labs, advancing the self-sufficiency of food within our community and connecting students to the produce they will grow, manage and prepare. 
+
+Olly will play an active role in the day-to-day management of the grow spaces at Valldaura labs, advancing the self-sufficiency of food within our community and connecting students to the produce they will grow, manage and prepare.
