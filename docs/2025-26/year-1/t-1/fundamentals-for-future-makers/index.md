@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of Future Makers
 page_type: course
-track: Instrumentation
+track: Build
 course_type: Seminar
 feature_img: /assets/images/2024-25/year-1/t-1/fundamentals-df.jpg
 img_caption: Iaac student projects

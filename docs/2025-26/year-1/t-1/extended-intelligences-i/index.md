@@ -1,7 +1,7 @@
 ---
 title: Extended Intelligences I - A technical history of AI
 page_type: course
-track: Exploration
+track: Explore
 course_type: Seminar
 feature_img: 
 img_caption: 

@@ -1,7 +1,7 @@
 ---
 title: Other Species I
 page_type: course
-track: Exploration
+track: Explore
 course_type: Workshop
 feature_img: /assets/images/2025-26/year-1/t-1/agriculture-zero.jpg
 img_caption: Image credit | MAEBB 24/25 co-hort - Sipan Sporidis & Isabel Flores

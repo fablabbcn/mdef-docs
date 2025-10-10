@@ -1,7 +1,7 @@
 ---
 title: Narratives I
 page_type: course
-track: Reflection
+track: Reflect
 course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/narratives-1.png
 img_caption: 

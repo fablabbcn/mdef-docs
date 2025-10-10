@@ -1,7 +1,7 @@
 ---
 title: Unpacking Tech Systems
 page_type: course
-track: Instrumentation
+track: Build
 course_type: Workshop | Seminar
 feature_img: /assets/images/2024-25/year-1/t-1/the-machine-paradox.png
 img_caption: Unpacking intelligent machines 19/20

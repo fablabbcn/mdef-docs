@@ -1,7 +1,7 @@
 ---
 title: Design Studio I
 page_type: course
-track: Application
+track: Apply
 course_type: Course
 feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
 img_caption: Design Dialogues, 2022, Barcelona

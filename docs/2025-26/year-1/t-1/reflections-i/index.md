@@ -1,7 +1,7 @@
 ---
 title: Reflections I - Living with your own ideas
 page_type: course
-track: Reflection
+track: Reflect
 course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-1/living-with-your-own-ideas.jpg
 img_caption: New Faces, New Identities, 2020. DOES

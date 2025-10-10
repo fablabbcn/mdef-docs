@@ -1,7 +1,7 @@
 ---
 title: Design Studio 0
 page_type: course
-track: Application
+track: Apply
 course_type: Workshop
 feature_img: /assets/images/2025-26/year-1/t-1/design-studio-zero.png
 img_caption: Barcelona seen on Google Maps, September 2025.

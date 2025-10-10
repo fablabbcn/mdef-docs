@@ -1,7 +1,7 @@
 ---
 title: Reflections II - Design with others
 page_type: course
-track: Reflection
+track: Reflect
 course_type: Workshop
 feature_img: /assets/images/2025-26/year-1/t-1/design-with-others.png
 img_caption: Yaya Labs
