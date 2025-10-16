@@ -14,5 +14,4 @@ docs/assets/images/zz
 .gif
 *.bak
 
-.vscode
 venv/*
