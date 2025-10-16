@@ -7,8 +7,7 @@ feature_img:
 img_caption: 
 faculty:
     - lluis-nacenta
-    - marta-handenawer
-ects: 3
+ects: 1
 ---
 
 {{ insert_banner() }}
