@@ -148,7 +148,7 @@ The manifesto serves as both a final creative work and a mirror of self-awarenes
 - The Mentor. (1986). 'The hacker manifesto'. Phrack Magazine, 7(51). https://www.mithril.com/~beberg/manifesto.html
 - Le Guin, U. K. (1986). 'The carrier bag theory of fiction'. In Women of vision: Essays by women writing science fiction (pp. 27–36). St. Martin’s Press.
 - Marinetti, F. T. (1909). 'The futurist manifesto'. Le Figaro. Kaczynski, T. (1995). Industrial society and its future. The Washington Post.
-- Zylinska, J. (2020).' AI art: Machine visions and warped dreams'. Open Humanities Press.
+- Zylinska, J. (2020). 'AI art: Machine visions and warped dreams'. Open Humanities Press.
 - Crawford, K. (2021). 'Atlas of AI: Power, politics, and the planetary costs of artificial intelligence'. Yale University Press.
 - Terranova, T. (2000). 'Free labor: Producing culture for the digital economy'. Social Text, 18(2), 33–58. https://doi.org/10.1215/01642472-18-2_63-33
 
