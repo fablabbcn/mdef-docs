@@ -1,5 +1,5 @@
 ---
-title: Extended Intelligences I - Personal Manifesto
+title: Extended Intelligences II - Personal Manifesto
 page_type: course
 track: Explore
 course_type: Workshop
