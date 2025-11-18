@@ -7,11 +7,12 @@ feature_img: /assets/images/2024-25/year-1/t-1/the-machine-paradox.png
 img_caption: Unpacking intelligent machines 19/20
 faculty:
     - santiago-fuentemilla
-    - guillem-camprodon
+    - ivan-paz
+    - andres-costa
     - daniel-mateos
     - julia-leirado
-    - oscar-gonzalez
     - adai-surinach
+    - mikel-llobera
 ects: 5
 ---
 
@@ -19,37 +20,80 @@ ects: 5
 
 ## Syllabus
 
-We spend our lives interacting with objects and interfaces who’s underlying technology we hardly understand not merely due to their complexity but also because they were intended to be closed by design.Through the idea of hacking, we will explore the internal components building everyday objects, from coffee machines to wi-fi networks, while learning how to use open software and hardware tools to change the way they work and interface with the world.
+The course aims to fill knowledge gaps in digital fabrication and physical computing while fostering critical reflection about how technologies are designed, used, and reimagined.
 
-Is a practical and intensive two-weeks experimental program into fabrication, physical computing and introduction to the Fab Lab environment. It has been designed to fill knowledge gaps and aimed to prepare students to succeed and improve their experience for rapid prototyping.
+This two-week intensive program combines critical exploration of everyday technologies with the creative fabrication of useless machines.
 
-We will offer an impact experience, seeking to inspire and motivate the participants to use the possibilities of digital manufacturing and technologies to prototype, design, fabricate and program an “honest” mechanical artifact.
+It is structured in two main parts:
 
-**Keywords: Documentation, Tinkering, Design, Prototyping, Digital Fabrication**
+* **Part I: Unpacking Intelligent Machines** – An introduction to physical computing through hacking and dissecting everyday objects.
+* **Part II: The Machine Paradox (The Almost Useful Machines – TAUMS)** – A speculative exercise in designing and fabricating mechanical artifacts that embrace contradictions, randomness, and existential absurdity.
+
+### Part I: Unpacking Intelligent Machines
+
+*An introduction to physical computing by hacking everyday objects*
+
+We spend our lives interacting with objects and interfaces whose underlying technology we hardly understand—not merely due to their complexity but because they were intentionally designed to be closed systems. 
+Through hacking practices, students will explore and dissect the internal components of common objects (from coffee machines to wi-fi routers), learning how to use open software and hardware tools to reprogram, reconfigure, and redesign the way these objects interact with the world. 
+
+#### Focus: 
+* Reverse-engineering & forensic exploration 
+* Understanding system components (mechanical, electronic, digital) ● Rewiring, reprogramming, and altering functions 
+* Critical reflection on openness vs. closed design
+
+### Part II: The Machine Paradox (The Almost Useful Machines – TAUMS)
+
+*Building contradictions, randomness, and wonderfulness*
+
+The Machine Paradox, also known as The Almost Useful Machines (TAUMS), is a project that challenges participants to design and build "useless" machines. These machines are designed to provoke critical thinking about technology and its relationship to society. The paradox lies in using seemingly unproductive creations as tools for exploring complex concepts like technological determinism and the impact of technology on human experience.
+
+Through the Machine Paradox, participants engage in hands-on, experimental learning that encourages a more critical and personal approach to technology.
+
+As a metaphor, Useless Machines embody existential purity: they do not aim to solve problems or serve predefined functions. Instead, they focus on mechanics, movement, and playful actuation, free from utilitarian constraints.
+By embracing endless, random, or contradictory behaviors, students will fabricate artifacts that celebrate the paradox of purposelessness—machines that are simultaneously absurd, poetic, and meaningful in their uselessness.
+
+
+#### Focus:
+* Reverse-engineering & forensic exploration 
+* Understanding system components (mechanical, electronic, digital) ● Rewiring, reprogramming, and altering functions 
+* Critical reflection on openness vs. closed design
+
+
+**Keywords: Documentation, Hacking, Tinkering, Design, Prototyping, Digital Fabrication, Critical Making**
 
 ### Learning Objectives
 
-Our active learning methodology is based on the practice and spiral development, designed to encourage the creativity and imagination of the participants, as well as stimulate the search for tools and solutions for their correct definition.
+By the end of the program, participants will:
 
-**Instrumentation**
+**Unfold the foundations of Big Tech**
+- Understand systems thinking and technological architectures.
+- Critically explore the politics of technology, intellectual property models, and programmed obsolescence.
 
-- Rapid prototyping 
-- Physical computing
 
-**Exploration**
+**Explore emergent and alternative technologies**
+- Investigate both research-driven and industry-leading innovations.
+- Revisit deprecated, vernacular, analog, and not-massively-adopted technologies.
+- Address technologies not only from a narrative perspective but also through application and implementation.
 
-- Design maker workflows
-- Navigate through the uncertainty
 
-**Reflection**
+**Prototype technological artifacts**
+- Learn tools and methods for embedding software and hardware prototypes in the design process.
+- Apply rapid prototyping, physical computing, and digital fabrication.
 
-- Critical thinking about technologies
-- Redesign new systems
 
-**Application**
+**Engage with the Fab Lab / Maker / Hacker ecosystem**
+- Familiarize with Fab Lab Barcelona’s resources, distributed design practices, open-source culture, and worldwide networks.
+- Adopt a maker/hacker mindset rooted in experimentation, tinkering, and shared knowledge.
 
-- Maker skills
-- Hack systems
+
+**Develop a critical, creative, and personal relationship with technology**
+- Move beyond utilitarianism toward speculative and expressive approaches.
+- Build “almost useful” or “useless” machines that embody contradictions and poetic value.
+
+
+**Promote collaboration and collective intelligence**
+Learn how to ask the right questions, exchange knowledge, and build partnerships.
+Embrace the idea that no one knows everything about technology, but anyone can ask about anything.
 
 
 ### Materials Needs
@@ -64,60 +108,51 @@ Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboa
 
 The course duration is a total of 32 hours of guided workshop time, spanned along two weeks.
 
-The guided workshop time will happen Tuesday to Friday and the students are committed to work during the afternoon in the projects on a self-guided methodology.
-
-**Classes:** 09:30 to 13:30 (16 per week)
-
-- Hands-on sessions guided by instructors
-
-**Autonomous work:** from 14:30 to 18:00 (16 per week)
-
-- Non guided sessions where students work on a task independently or in groups
+![](/assets/images/2025-26/year-1/t-1/tech.png)
 
 
-**Group work:**
-
-- Non-guided sessions where students work on a task independently or in groups
-
-=== "15/10"
-
+### Part I: Unpacking Intelligent Machines
+=== "Day 1"
+    18/11 | 16:30h - 18:30 | MDEF class + LAB
     **Tuesday**: Presentation & Unpacking (I know what's inside)
 
-=== "16/10"
-
+=== "Day 2"
+    18/11 | 9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
     **Wednesday**: Disassemble (I’m not afraid of exploring)
 
-=== "17/10"
+=== "Day 3"
+    19/11 | 9:30 - 13:30 | MDEF class + LAB
+    **Thursday**: In-Control (I built something I trust)
 
-    **Thursday**: Forensic (I know what I have)
+=== "Day 4"
+    20/11 | 9:30 - 12:30  | MDEF class + LAB
+    **Friday**: Forensic (I know what I have)
 
-=== "18/10"
 
-    **Friday**: In-Control (I built something I trust)
+### Part II: The Machine Paradox (The Almost Useful Machines – TAUMS)
 
-=== "22/10"
-
+=== "Day 1"
+    24/11 | 9:30 - 13:30 | MDEF class + LAB
     **Tuesday**: What to do with these parts (Beta devices)
 
-=== "23/10"
+=== "Day 2"
+    25/11 | 9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
+    **Wednesday**: Design without design (I learn how to built connected systems)
 
-    **Wednesday**: Integration of artifacts (I build something that works)
+=== "Day 3"
+    26/11 | 9:30 - 13:30 and 14:30 - 18:30 (Group work) | MDEF class + LAB
+    **Thursday**: Integration of artifacts (I build something that works) (Shooting)
 
-=== "24/10"
-
-    **Thursday**: Field visit & recordings during the afternoon
-
-=== "25/10"
-
+=== "Day 4"
+    27/11 | 9:30 - 13:30  | MDEF class + LAB
     **Friday**: Final Presentations (I have a final machine)
 
-![](/assets/images/2024-25/year-1/t-1/the-machine-paradox-schedule.jpeg)
 
 ## Deliverables
 
 ![](/assets/images/2024-25/year-1/t-1/the-machine-paradox-deliverables.png)
 
-Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2024-25/students/) on GitHub within a maximum of 1 week after the students’ submission deadline.
+Students are requested to submit all the material requested by the faculty + their reflections about the seminar on their personal blog on the [MDEF repository](https://mdef.fablabbcn.org/2024-25/students/) on GitHub within a maximum of 1 week after final presentations of the seminar.
 
 **In addition, videos and presentations must be submitted in the Submission folder within the seminar's Google Drive folder, which we share with you.**
 
