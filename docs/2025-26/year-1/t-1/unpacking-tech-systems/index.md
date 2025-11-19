@@ -112,39 +112,47 @@ The course duration is a total of 32 hours of guided workshop time, spanned alon
 
 
 ### Part I: Unpacking Intelligent Machines
-=== "Day 1"
-    18/11 | 16:30h - 18:30 | MDEF class + LAB
+=== "Day 17"
+    16:30h - 18:30 | MDEF class + LAB
+
     **Tuesday**: Presentation & Unpacking (I know what's inside)
 
-=== "Day 2"
-    18/11 | 9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
+=== "Day 18"
+    9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
+
     **Wednesday**: Disassemble (I’m not afraid of exploring)
 
-=== "Day 3"
-    19/11 | 9:30 - 13:30 | MDEF class + LAB
+=== "Day 19"
+    9:30 - 13:30 | MDEF class + LAB
+
     **Thursday**: In-Control (I built something I trust)
 
-=== "Day 4"
-    20/11 | 9:30 - 12:30  | MDEF class + LAB
+=== "Day 20"
+    9:30 - 12:30  | MDEF class + LAB
+
     **Friday**: Forensic (I know what I have)
 
 
 ### Part II: The Machine Paradox (The Almost Useful Machines – TAUMS)
 
-=== "Day 1"
-    24/11 | 9:30 - 13:30 | MDEF class + LAB
+=== "Day 24"
+    9:30 - 13:30 | MDEF class + LAB
+
     **Tuesday**: What to do with these parts (Beta devices)
 
-=== "Day 2"
-    25/11 | 9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
+=== "Day 25"
+    9:30 - 13:30 and 14:30 - 18:30 | MDEF class + LAB
+
     **Wednesday**: Design without design (I learn how to built connected systems)
 
-=== "Day 3"
-    26/11 | 9:30 - 13:30 and 14:30 - 18:30 (Group work) | MDEF class + LAB
+=== "Day 26"
+    9:30 - 13:30 and 14:30 - 18:30 (Group work) | MDEF class + LAB
+
     **Thursday**: Integration of artifacts (I build something that works) (Shooting)
 
-=== "Day 4"
-    27/11 | 9:30 - 13:30  | MDEF class + LAB
+=== "Day 27"
+    9:30 - 13:30  | MDEF class + LAB
+
     **Friday**: Final Presentations (I have a final machine)
 
 
@@ -156,31 +164,30 @@ Students are requested to submit all the material requested by the faculty + the
 
 **In addition, videos and presentations must be submitted in the Submission folder within the seminar's Google Drive folder, which we share with you.**
 
-- Write a post out your weekly experience (personal MDEF webpage)
-- Deliver the forensic report completely filled
-- Add link to the exploration tools and files you produced and used in your repo
-    - Video and Slide
-    - Forensic report
 
-### Video
+### Unpacking Intelligent Machines
 
-- Video at minimun 1080p stabilized (not hand held recordings, use a tripod if you don't know how to stabilize with software)
-- **BETWEEN 30SEC TO 1MIN**
-- Open source music matching the artifacts (properly acknowledged).
-- Ideally, the sound produced by the machine will also be recorded in the video.
-- Entry and finish titles with team names, name of the artifact and Iaac/FablabBCN.
+**Group deliverables:**
 
-### Slides
+- Forensic Report (PDF):  report template outlining key identification details, examination steps, testing procedures, findings, and conclusions for documenting the disassembly and analysis of any electronic component.
+- Inventory (PDF): A comprehensive component sheet that provides key functional insights, technical details, example code, real-time usage guidance, and clear wiring diagrams for understanding and integrating any electronic component.
 
-- Design process (how did you ideate)
-- What it is supposed to do or not do
-- Ideas or concept in the context
-- How is it made (Materials, parts)
-- System diagram (illustration explaining function, parts, and relations)
-- The coding Logic (Algorithms and flowcharts, pseudocoding)
-- Photographies
-- Iteration Process
-- Learning by Accomplishments and failure
+**Individual deliverables:**
+
+- Personal Reflection Post on the student’s web page: a short weekly reflection that must include direct links to the group Forensic Report and Inventory.
+
+
+### The Machine Paradox (TAUMS)
+
+**Group deliverables:**
+- Video (video file in Drive): 30–60 seconds, minimum 1080p, stabilized; include titles (team, artifact name, IAAC/Fab Lab BCN), and acknowledge open-source music and/or recorded machine sound.
+
+- Presentation (Slides in PDF): process, intent, context, materials/parts, system diagram, algorithms/flow/pseudocode, photos, iterations, learnings.
+
+**Individual deliverables:**
+
+- Zine on the student’s web page: publish a personal zine entry and include direct links to stored in Drive.
+
 
 ## Grading Method
 
@@ -194,7 +201,7 @@ Students are requested to submit all the material requested by the faculty + the
 
 ## Course Resources
 - [Hackmd Documentation](https://hackmd.io/@fablabbcn/theparadoxmachine) - Collection of presentations, links and reources for the course.
-- [Miro Board](https://miro.com/app/board/uXjVLVe_s0Y=/?share_link_id=215960435547)
+- [Miro Board](https://miro.com/app/board/uXjVJuJuc9I=/?share_link_id=73589041884)
 - [Main Presentation](https://docs.google.com/presentation/d/1RpulespmfM56jrsVVu-wSrBUAQkj-bsYd4ItujQDpUI/edit?usp=sharing)
 - [TAUMS Showcase](https://docs.google.com/presentation/d/15KO0wCPPbD59EVw_6xRo_4ZkEceN0HR65-qRN1_MxBE/edit?usp=sharing)
 
