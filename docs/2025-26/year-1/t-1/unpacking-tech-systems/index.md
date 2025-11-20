@@ -200,9 +200,10 @@ Students are requested to submit all the material requested by the faculty + the
     {{ ects }} ECTS
 
 ## Course Resources
-- [Hackmd Documentation](https://hackmd.io/@fablabbcn/theparadoxmachine) - Collection of presentations, links and reources for the course.
+- [Foresnic report template](https://hackmd.io/@4sFppb2eQBGX7bveqaYKsg/SJnl4HR11x)
+- [Component template](https://hackmd.io/@fablabbcn/ryTy4ata0)
 - [Miro Board](https://miro.com/app/board/uXjVJuJuc9I=/?share_link_id=73589041884)
-- [Main Presentation](https://docs.google.com/presentation/d/1RpulespmfM56jrsVVu-wSrBUAQkj-bsYd4ItujQDpUI/edit?usp=sharing)
+- [Main Presentation](https://docs.google.com/presentation/d/1rkXPYPfQfG__k1u141xYotKyygVh7K_oqNtS1dpIDyI/edit?usp=sharing)
 - [TAUMS Showcase](https://docs.google.com/presentation/d/15KO0wCPPbD59EVw_6xRo_4ZkEceN0HR65-qRN1_MxBE/edit?usp=sharing)
 
 ## Additional Resources
