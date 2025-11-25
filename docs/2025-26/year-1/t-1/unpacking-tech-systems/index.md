@@ -185,7 +185,6 @@ Students are requested to submit all the material requested by the faculty + the
 - Presentation (Slides in PDF): process, intent, context, materials/parts, system diagram, algorithms/flow/pseudocode, photos, iterations, learnings.
 
 **Individual deliverables:**
-
 - Zine on the student’s web page: publish a personal zine entry and include direct links to stored in Drive.
 
 
@@ -200,10 +199,11 @@ Students are requested to submit all the material requested by the faculty + the
     {{ ects }} ECTS
 
 ## Course Resources
-- [Foresnic report template](https://hackmd.io/@4sFppb2eQBGX7bveqaYKsg/SJnl4HR11x)
-- [Component template](https://hackmd.io/@fablabbcn/ryTy4ata0)
+- [Foresnic report themplate](https://hackmd.io/@4sFppb2eQBGX7bveqaYKsg/SJnl4HR11x)
+- [Component themplate](https://hackmd.io/@fablabbcn/ryTy4ata0)
 - [Miro Board](https://miro.com/app/board/uXjVJuJuc9I=/?share_link_id=73589041884)
-- [Main Presentation](https://docs.google.com/presentation/d/1rkXPYPfQfG__k1u141xYotKyygVh7K_oqNtS1dpIDyI/edit?usp=sharing)
+- [Unpacking Intelligent Machine Presentation](https://docs.google.com/presentation/d/1rkXPYPfQfG__k1u141xYotKyygVh7K_oqNtS1dpIDyI/edit?usp=sharing)
+- [The Machine Paradox Presentation](https://docs.google.com/presentation/d/1IbLDxDDGxu-zpTGUXFHtu_nqcNZu4AmOWcWpnPP1844/edit?usp=sharing)
 - [TAUMS Showcase](https://docs.google.com/presentation/d/15KO0wCPPbD59EVw_6xRo_4ZkEceN0HR65-qRN1_MxBE/edit?usp=sharing)
 
 ## Additional Resources
