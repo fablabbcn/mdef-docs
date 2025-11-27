@@ -33,13 +33,13 @@ Students, after completion of the seminar, should be able to:
 
 ## Schedule
 
-=== "18/11"
+=== "02/12"
 
-    ***9:30-11:00***
+    ***15:00-19:00***
     
     Course Introduction + dynamics + objectives
 
-    ***11:00-13:00***
+    ***15:00-18:30***
 
     Lecture and Q&A session with Ben Ditto, YAYALABS Creative Director on Bridging Human Creativity and AI&Robotics. “Science-fiction is brainstorming for venture capital”.
 
@@ -47,31 +47,15 @@ Students, after completion of the seminar, should be able to:
 
     About [YAYALABS](https://www.yayalabs.io/): Yaya Labs is an AI and robotics company based in London and Berlin. We are building a deep, expressive personality protocol for AIs, robots, and avatars, designed to transcend hardware and software boundaries. Our mission is to create a software-agnostic, fully sensory-adaptive system with an ethical core, allowing a singular persona to manifest seamlessly across screens, robots, vehicles, and beyond. Throughout this process, we are developing a suite of tools and applications that harness the technology and insights gained from the development of the Yaya protocol.
 
-    ***13:00-13:30***
+    ***18:30-19:00***
 
     1st Briefing launch and closure
     
-=== "19/11"
+=== "03/12"
 
     ***9:30-11:00***
     
     1st Other Otherness short presentations (Per groups)
-
-    ***11:00-13:00***
-
-    Lecture and Q&A session with Laura Tripaldi, researcher and writer on Parallel Minds. 
-
-    About [Laura Tripaldi](https://www.instagram.com/lauratripaldi/?hl=es): Laura Tripaldi is a transdisciplinary researcher at the interface of science, technology, and speculative thinking. Her research focuses on materiality, exploring its cultural implications and technological futures. She holds a PhD in Materials Science and Nanotechnology from the University of Milan-Bicocca. She has taught courses, seminars, and workshops in several cultural and academic institutions, including the Basel Academy of Art and Design FHNW, Medialab Matadero Madrid, the University of Roma Tre, the Institute for Postnatural Studies, and the New Center for Research and Practice. Her writing was featured in numerous publications, books, and exhibition catalogs. Her book Parallel Minds (Urbanomic, 2022) was translated into multiple languages and presented at festivals and conferences worldwide.
-
-    ***13:00-13:30***
-
-    2nd Briefing launch and closure
-
-=== "20/11"
-
-    ***9:30-11:00***
-    
-    2nd Other Otherness short presentations (Per groups)
 
     ***11:00-13:00***
 
@@ -81,16 +65,30 @@ Students, after completion of the seminar, should be able to:
 
     ***13:00-13:30***
 
-    3rd Briefing launch and closure
- 
-=== "21/11"
+    2nd Briefing launch and closure
+
+=== "04/12"
 
     ***9:30-11:00***
     
-    3rd Other Otherness short presentations (Per groups)
+    2nd Other Otherness short presentations (Per groups)
 
     ***11:00-13:00***
 
+    Lecture and Q&A session with Joana Moher aka FOME BRUTA. 
+
+    About [Joana Moher](https://linktr.ee/JoanaMoher?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGn3f3zhGwGhYrD6hfZ35KS9FFomIqiVXRnHTVCorB6Uq38JfXZ9v0FG1DAWZU_aem_-6N0Nq1B4I2lfrOPyZm7AQ&brid=Ae5gl_ZKB382r7tsd70t5w): Joana Moher is a sound researcher and biomaterialist behind FOME BRUTA, where she explores experimental making, radical pedagogy, and intuitive approaches to materials and storytelling.
+
+    ***13:00-13:30***
+
+    3rd Briefing launch and closure
+ 
+=== "05/12"
+
+    ***11:30-13:00***
+    
+    3rd Other Otherness short presentations (Per groups)
+    
     Collective feedback and reviews
 
     ***13:00-13:30***
