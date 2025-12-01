@@ -169,8 +169,8 @@ Students are requested to submit all the material requested by the faculty + the
 
 **Group deliverables:**
 
-- Forensic Report (PDF):  report template outlining key identification details, examination steps, testing procedures, findings, and conclusions for documenting the disassembly and analysis of any electronic component.
-- Inventory (PDF): A comprehensive component sheet that provides key functional insights, technical details, example code, real-time usage guidance, and clear wiring diagrams for understanding and integrating any electronic component.
+- Forensic Report (PDF + hackmd):  report template outlining key identification details, examination steps, testing procedures, findings, and conclusions for documenting the disassembly and analysis of any electronic component.
+- Inventory (PDF + hackmd): A comprehensive component sheet that provides key functional insights, technical details, example code, real-time usage guidance, and clear wiring diagrams for understanding and integrating any electronic component.
 
 **Individual deliverables:**
 
@@ -180,11 +180,13 @@ Students are requested to submit all the material requested by the faculty + the
 ### The Machine Paradox (TAUMS)
 
 **Group deliverables:**
+
 - Video (video file in Drive): 30–60 seconds, minimum 1080p, stabilized; include titles (team, artifact name, IAAC/Fab Lab BCN), and acknowledge open-source music and/or recorded machine sound.
 
 - Presentation (Slides in PDF): process, intent, context, materials/parts, system diagram, algorithms/flow/pseudocode, photos, iterations, learnings.
 
 **Individual deliverables:**
+
 - Zine on the student’s web page: publish a personal zine entry and include direct links to stored in Drive.
 
 
