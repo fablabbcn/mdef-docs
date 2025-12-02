@@ -4,100 +4,100 @@ hide:
     - navigation
 students:
     Agnese Raimondi:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8068.jpg
         website:
         year: 1
     Aiman Ansari:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8146.jpg
         website:
         year: 1
     Aishwarya Kaura:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8165.jpg
         website:
         year: 1
     Alejandra Cristina Rivera Zamacona:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8045.jpg
         website:
         year: 1
     Aleyda Daniela Guzmán Caiza:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8047.jpg
         website:
         year: 1
     Antonio García Fernández:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8195.jpg
         website:
         year: 1
     Armin Gulbert:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8114.jpg
         website:
         year: 1
     Ayal Bark:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8117.jpg
         website:
         year: 1
     Beste Cebeci:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8113.jpg
         website:
         year: 1
     Erandi Itzai Estrada Martínez:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8096.jpg
         website:
         year: 1
     Francesco Mignogna:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8139.jpg
         website:
         year: 1
     Hannah Peevey:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8036.jpg
         website:
         year: 1
     Heba Elidrisi:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8155.jpg
         website:
         year: 1
     Huong Giang Ly Nguyen:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8155.jpg
         website:
         year: 1
     Ishan Mudgal:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8118.jpg
         website:
         year: 1
     Ivan Hunga Alho Miguez Garcia:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8157.jpg
         website:
         year: 1
     Lauren Willihnganz:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8047.jpg
         website:
         year: 1
     Ludovico Celli:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8054.jpg
         website:
         year: 1
     Madlen Elise von Wulffen:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8119.jpg
         website:
         year: 1
     Maryam Shojaei:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8002.jpg
         website:
         year: 1
     Maxavier Guss:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8126.jpg
         website:
         year: 1
     Melissa Fabiola Ingaruca Moreno:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8190.jpg
         website:
         year: 1
     Sıla Kara:
-        photo:
+        photo: /assets/images/students/2025-26/MDEF01/8127.jpg
         website:
         year: 1
     Swarna Manjari Chellapandi:
-        photo:
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/7247.jpg
+        website: 
         year: 1
     Andrea Santi:
         photo: /assets/images/students/2024-25/MDEF02/7133.jpeg
