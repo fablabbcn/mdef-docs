@@ -8,7 +8,7 @@ students:
         website: https://agneseraimondi.github.io/iaacmdef/index.html
         year: 1
     Aiman Ansari:
-        photo: /assets/images/students/2025-26/MDEF01/8146.jpg
+        photo: /assets/images/students/2025-26/MDEF01/8146.jpeg
         website: https://aiman-ansari12.github.io/MDEF/about/me/#about
         year: 1
     Aishwarya Kaura:
@@ -20,7 +20,7 @@ students:
         website: https://aleriveraz.cargo.site/
         year: 1
     Antonio García Fernández:
-        photo: /assets/images/students/2025-26/MDEF01/8195.jpg
+        photo: /assets/images/students/2025-26/MDEF01/8195.png
         website: https://tonideume.github.io/Mdef/
         year: 1
     Armin Gulbert:
@@ -88,7 +88,7 @@ students:
         website: https://silakara.framer.website/
         year: 1
     Swarna Manjari Chellapandi:
-        photo: /assets/images/students/2025-26/MDEF01/7247.jpg
+        photo: /assets/images/students/2025-26/MDEF01/7247.jpeg
         website: https://swarnamanjari-chellapandi.github.io/mdef25-27
         year: 1
     Andrea Santi:
