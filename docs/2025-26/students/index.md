@@ -5,99 +5,91 @@ hide:
 students:
     Agnese Raimondi:
         photo: /assets/images/students/2025-26/MDEF01/8068.jpg
-        website:
+        website: https://agneseraimondi.github.io/iaacmdef/index.html
         year: 1
     Aiman Ansari:
         photo: /assets/images/students/2025-26/MDEF01/8146.jpg
-        website:
+        website: https://aiman-ansari12.github.io/MDEF/about/me/#about
         year: 1
     Aishwarya Kaura:
         photo: /assets/images/students/2025-26/MDEF01/8165.jpg
-        website:
+        website: https://aishwaryakaura.github.io/AK_WEBSITE_MDEF-REPO/
         year: 1
     Alejandra Cristina Rivera Zamacona:
         photo: /assets/images/students/2025-26/MDEF01/8045.jpg
-        website:
-        year: 1
-    Aleyda Daniela Guzmán Caiza:
-        photo: /assets/images/students/2025-26/MDEF01/8047.jpg
-        website:
+        website: https://aleriveraz.cargo.site/
         year: 1
     Antonio García Fernández:
         photo: /assets/images/students/2025-26/MDEF01/8195.jpg
-        website:
+        website: https://tonideume.github.io/Mdef/
         year: 1
     Armin Gulbert:
         photo: /assets/images/students/2025-26/MDEF01/8114.jpg
-        website:
+        website: https://armingulbert.github.io/iaac-repo/
         year: 1
     Ayal Bark:
-        photo: /assets/images/students/2025-26/MDEF01/8117.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8117.PNG
+        website: https://ayalbark.github.io/mdef/
         year: 1
     Beste Cebeci:
         photo: /assets/images/students/2025-26/MDEF01/8113.jpg
-        website:
+        website: https://beste-cebeci.github.io/mdef/
         year: 1
     Erandi Itzai Estrada Martínez:
         photo: /assets/images/students/2025-26/MDEF01/8096.jpg
-        website:
+        website: https://erandi-estrada.github.io/MDEF-Portfolio/
         year: 1
     Francesco Mignogna:
-        photo: /assets/images/students/2025-26/MDEF01/8139.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8139.png
+        website: https://mig-sketch.github.io/lavezzi-mdef/
         year: 1
     Hannah Peevey:
-        photo: /assets/images/students/2025-26/MDEF01/8036.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8036.png
+        website: https://hannahpeevey254.github.io/MDEF-Website/#welcome
         year: 1
     Heba Elidrisi:
         photo: /assets/images/students/2025-26/MDEF01/8155.jpg
-        website:
-        year: 1
-    Huong Giang Ly Nguyen:
-        photo: /assets/images/students/2025-26/MDEF01/8155.jpg
-        website:
+        website: https://hannahpeevey254.github.io/MDEF-Website/#welcome
         year: 1
     Ishan Mudgal:
         photo: /assets/images/students/2025-26/MDEF01/8118.jpg
-        website:
+        website: https://ishanmudgal.github.io/MDEF/
         year: 1
     Ivan Hunga Alho Miguez Garcia:
-        photo: /assets/images/students/2025-26/MDEF01/8157.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8157.JPG
+        website: https://ivan-miguez.github.io/mdef/
         year: 1
     Lauren Willihnganz:
         photo: /assets/images/students/2025-26/MDEF01/8047.jpg
-        website:
+        website: https://laurenwillihnganz-ai.github.io/MDEF-PORTFOLIO/
         year: 1
     Ludovico Celli:
-        photo: /assets/images/students/2025-26/MDEF01/8054.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8054.png
+        website: https://ludovicocelli.github.io/LUDOVICO-CELLI-MDEF25-26/
         year: 1
     Madlen Elise von Wulffen:
         photo: /assets/images/students/2025-26/MDEF01/8119.jpg
-        website:
+        website: https://madlenw.github.io/mdef_website/
         year: 1
     Maryam Shojaei:
         photo: /assets/images/students/2025-26/MDEF01/8002.jpg
-        website:
+        website: https://maryamshoj.github.io/mdef-template/
         year: 1
     Maxavier Guss:
         photo: /assets/images/students/2025-26/MDEF01/8126.jpg
-        website:
+        website: https://maxguss.github.io/MDEFasaurus/
         year: 1
     Melissa Fabiola Ingaruca Moreno:
         photo: /assets/images/students/2025-26/MDEF01/8190.jpg
-        website:
+        website: https://mel-ingaruca.github.io/MDEF/
         year: 1
     Sıla Kara:
-        photo: /assets/images/students/2025-26/MDEF01/8127.jpg
-        website:
+        photo: /assets/images/students/2025-26/MDEF01/8127.png
+        website: https://silakara.framer.website/
         year: 1
     Swarna Manjari Chellapandi:
         photo: /assets/images/students/2025-26/MDEF01/7247.jpg
-        website: 
+        website: https://swarnamanjari-chellapandi.github.io/mdef25-27
         year: 1
     Andrea Santi:
         photo: /assets/images/students/2024-25/MDEF02/7133.jpeg
