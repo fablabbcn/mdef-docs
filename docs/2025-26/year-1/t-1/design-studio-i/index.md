@@ -19,11 +19,11 @@ ects: 10
 
 MDEF Research, Design and Development studios aim to take areas of research, interests and/or initial project ideas into an advanced stage of the research, with an execution plan. The studio structure in three terms could be understood as follows:
 
-**TERM 1 Research**: Understanding what it means to design for emergent futures. We achieve this by analyzing the past, finding weak signals, analyzing references and the current state of the art and identifying each one's areas of interest. All of this investigation occurs through experimenting from the first-person perspective.
+**TERM 1 Embodied Criticism**
 
-**TERM 2 Design**: Forming the present through interventions in the real world. Building the foundations of your design space, forming strategic partnerships. Applying knowledge into practice through iterative prototyping. Testing ideas and prototypes in the real world.
+**TERM 2 Problematize**
 
-**TERM 3 Development**: Refining interventions and identifying desirable futures/alternative presents. Establishing roadmaps for the construction of alternative narratives. Communicating and disseminating your project through speculative design.
+**TERM 3 Develop**
 
 ![](/assets/images/2023-24/year-1/t-1/design-studio-01-6-design-strategies.png)
 
