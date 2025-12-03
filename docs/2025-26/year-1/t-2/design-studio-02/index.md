@@ -59,127 +59,95 @@ As the course progresses, the focus expands to the material and political lives 
     **Deliverable:** Problematize Yourself: present yourself with 5 errors + 5 fascinations (based on all your creative process till the moment).
 
 
-=== "19/01"
+=== "12/01"
 
-    **20/01 Problematize Yourself. Guests: [Toni Llàcer](https://www.elisava.net/en/teaching-staff/toni-llacer-phd/)**
+    **Problematize Yourself. Guests: [Toni Llàcer](https://www.elisava.net/en/teaching-staff/toni-llacer-phd/)**
     
 
     **Goals:** 
--	Emphasize the importance of rigor and depth in design research to inform interventions.
--	Introduce methods for collecting, analyzing, and organizing data to strengthen research outcomes.
--	Highlight strategies for linking insights to actions, ensuring research is actionable and grounded in real-world contexts.
--	Foster critical reflection on the research process, encouraging students to question assumptions and biases.
-Activity: Briefly present in class Problematize Myself: 5 errors + 5 fascinations. Feedback by Toni Llàcer.
+    -	Emphasize the importance of rigor and depth in design research to inform interventions.
+    -	Introduce methods for collecting, analyzing, and organizing data to strengthen research outcomes.
+    -	Highlight strategies for linking insights to actions, ensuring research is actionable and grounded in real-world contexts.
+    -	Foster critical reflection on the research process, encouraging students to question assumptions and biases.
 
     **Activity:** Briefly present in class Problematize Myself: 5 errors + 5 fascinations. Feedback by Toni Llàcer.
 
-    **Assignement:** Problematize all the ethical entanglements of your project. What ethics do your project enact consciously? What ethics do your project enact unconsciously? 
+    **Assignment:** Problematize all the ethical entanglements of your project. What ethics do your project enact consciously? What ethics do your project enact unconsciously? 
 
     **Deliverable:** Problematize Ethics: write a list of at least 4 major ethical problems, based on the following scales Me– My Community–Society–Planet.
 
 
-=== "03/02"
+=== "19/01"
 
-    **03/02 Being thorough with your Research  - Toni Llàcer**
+    **Problematize Ethics. Guests: [Toni Navarro](https://www.cccb.org/es/participantes/ficha/toni-navarro/235544)**
 
     **Goals:**
 
-    - Emphasize the importance of rigor and depth in design research to inform interventions.
-    - Introduce methods for collecting, analyzing, and organizing data to strengthen research outcomes.
-    - Highlight strategies for linking insights to actions, ensuring research is actionable and grounded in real-world contexts.
-    - Foster critical reflection on the research process, encouraging students to question assumptions and biases.
+    -	Explore the ethical dimensions of design and its impact on emergent futures.
+    -	Develop a critical perspective as a foundational skill for analyzing and questioning assumptions, frameworks, and contexts.
+    -	Emphasize the importance of commitment and thoroughness in the design process, highlighting accountability and sustained effort.
+    -	Equip students with tools to integrate ethics into their interventions, ensuring designs advocate for equity, sustainability, and resilience.
 
-    **Activity:**
+    **Activity:** Briefly present in class Problematize Ethics: Me– My Community–Society–Planet. Feedback by Toni Navarro.
 
-    TBD
+    **Assignment:** Problematize the narrative that your project builds: semiotics, critical entanglements with complex contexts, material inquiries, affective ecosystems, direct interventions of proposal and critique, etc.
 
-    **Task:** 
+    **Deliverable:** Problematize Narrative: 1 AV Narrative (max. 90sec.) which represents the complexity of concept+ problematics + creative interventions + continuity.
 
-    - Plan and execute a design intervention using the opportunity given with the micro challenge, to use research insights to inform the approach.
-    - Document and analyze the intervention, focusing on how research guided the decisions and outcomes.
 
-    **Deliverable 1:**
+=== "02/02"
 
-    *One step further than the video: Intervention Report*
+     **Problematize Narratives. Guests: [Gerard Ortín](http://gerardortin.com/films.html)**
 
-    A detailed document that includes:
+    **Goals:** Research-driven yet artistic approach to challenging dominant narratives by examining their own trajectories as design tools. Explore AV narratives as a critical practice to shape meaning and articulate alternative presents.
 
-    - Research methods used.
-    - Key findings and insights.
-    - Analysis of how findings influenced the design intervention.
-    - Reflection on what worked, what didn’t, and areas for improvement.
+    **Activity:** Briefly present in class Problematize Narrative: 1 AV Narrative. Feedback by Gerard Ortín.
 
-    **Deliverable 2:**
+    **Assignment:** Problematize objectuality and materiality: question the performativity of the current formalization of your project: what objects, what artifacts, what situations do they trigger, what kind of questions do they open, what kind of alternative presents do they enact?
 
-    *Updated Design Space*: Visual or conceptual updates based on new findings and relationships built during the intervention.
+    **Deliverable:** Problematize Objects: 1 Object (or a curated collection of objects) + a proposal for enactment and performance.
 
-=== "17/02"
+=== "16/02"
 
-    **The Ethics of Making: Accountability in Design Practices - Toni Navarro y Alejandra Lopez Gabrieliris**
+    **Problematize Objects. Guests: [Grandeza Studio](https://www.grandeza.studio/)**
 
-    **Goals**:
+    **Goals:** Interrogate everyday objects — and the spatial, cultural, economicand political systems they embody — using design, research and critical practice. Examine how objects carry hidden narratives of power, labor, extraction, and colonialism, and explore ways to de-sign, reimagine or subvert them.
 
-    - Explore the ethical dimensions of design and its impact on emergent futures.
-    - Develop a critical perspective as a foundational skill for analyzing and questioning assumptions, frameworks, and contexts.
-    - Emphasize the importance of commitment and thoroughness in the design process, highlighting accountability and sustained effort.
-    - Equip students with tools to integrate ethics into their interventions, ensuring designs advocate for equity, sustainability, and resilience.
+    **Activity:** Briefly present in class Problematize Objects: 1 Object (or a curated collection of objects). Feedback by Grandeza Studio.
 
-    **Activity**: TBD
+    **Assignment:** Problematize Spatiality. Interrogate the spatial logics and material conditions shaping your project. Question the performativity of its current spatial formalization: what spaces and infrastructures does it produce or rely on? What situations do they trigger? What geopolitical, ecological, or technoscientific questions do they open? What alternative spatial presents or territorial imaginaries do they enact?
 
-    **Task**:
+    **Deliverable:** Problematize Space:  Produce a critical spatial artifact: this may take the form of a spatial model, map, diagram, or a curated constellation of spatial elements. Accompany it with a proposal for its enactment or spatial performance, articulating how it challenges, exposes, or reconfigures the spatial systems at play.
 
-    - Develop a short manifesto or set of principles outlining your ethical commitments as a designer.
-    - Reflect on your current project, identifying areas where ethical considerations can be strengthened or reframed.
+=== "02/03"
 
-    **Deliverable 1**: Visual or conceptual map showing the relationship between your design values, ethical commitments, and project goals.
+    **Problematize Space. Guests: [Blanca Pujals](https://www.blancapujals.com/)**
+    
+    **Goals:** Critically examine the politics embedded in spaces, and infrastructures. Through spatial research, design, analysis, and interdisciplinary media, explore how material forms reflect power, geopolitics, technoscience, and territorial control — then reimagine and challenge those relationships.
 
-    **Deliverable 2**: Carry out your design intervention. Analyse it, reflect on the findings.
+    **Activity:** Briefly present in class Problematize Space: Critical Spatial Artifact (model, map, diagram). Feedback by Blanca Pujals.
 
-=== "03/03"
+    **Assignment:** Collection of problematizations: 1 Statement + 1 AV Narrative + 1 Object (or curated collection) + 1 Spatial Infrastructure.
 
-    **Designing Transitions: Navigating Wicked Problems for Sustainable Future - Holon, Markel Cormenzana/Adrià Garcia**
+    **Deliverable:** Profile each one of the components that you will exhibit in the design dialogues and bring them to class ( 1 Statement + 1 AV Narrative + 1 Object (or curated collection) + 1 Spatial Infrastructure).
 
-    **Goals**:
-
-    - Introduce students to Transition Design, a transdisciplinary approach for addressing wicked problems and catalyzing transitions to more sustainable, equitable and desirable long-term futures. 
-    - Understand the agency of your interventions and the theory of change you are bringing forth.
-
-    **Activity 1**: Present your previous design intervention.
-
-    **Activity 2**: TBD - Understand the Socio-Technical Transition(s) your actions are activating
-
-    **Task**: Plan and execute a 4th design intervention, a collective design intervention taking into account this perspective. 
-
-    **Deliverable 1**: Carry out  and document an end of the term design intervention using the micro challenge posed by the FabLab. Analyse it and reflect on the findings. 
-
-    **Deliverable 2**: TBD - Define your theory of change.
-
-    **Deliverable 3**: Update your design space with the relations you have built. 
-
-=== "06/03"
-
-    Exploring alternative presents: Expanding the boundaries of your interventions.
-
-=== "17/03"
+    
+=== "09/03"
 
     **Design Dialogues II Preparation**
 
-    **Goals**: Create a collective and individual building up plan for the Design Dialogues exhibition.
+    **Goals:**  Create a collective and individual building up plan for the Design Dialogues exhibition.
 
-    **Activity 1**: Group dynamic to create themes and groups of projects for the exhibition.
+    **Activity:** Group dynamic to create themes and groups of projects for the exhibition.
 
-    **Task**: Planning of the exhibition, space allocation and special needs.
+    **Task:** Planning of the exhibition, space allocation and special needs.
 
-    **Deliverable 1**: Work on the design dialogues deliverables.
+    **Deliverable:** Work on the design dialogues deliverables.
+
 
 ## Deliverables
 
-**Deliverables for after the holidays (Submission deadline, April 6th)**
-
-- **Video-documentary (2-5 min)** (video-journaling) of your **Term II design interventions** - the video can be presented during Design Dialogues (optional)
-- **5 good resolution images** of your **work during Term II** (experiments, prototypes, interventions, Design Dialogues space..)
-- **2 good resolution screenshots** of your **individual and/or collective Design Spaces**
-- **Website PDFs** (Seminar Reflections)
+**Deliverables and deadlines will be communicated by the faculty**
 
 
 **These are the points we are going to look at for Term II:**
