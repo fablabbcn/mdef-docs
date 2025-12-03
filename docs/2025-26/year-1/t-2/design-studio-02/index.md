@@ -1,13 +1,13 @@
 ---
-title: Design Studio 02
+title: Design Studio II
 page_type: course
-track: Application
+track: Apply
 course_type: Studio
-feature_img: /assets/images/2024-25/year-1/t-2/design-studio-02.png
-img_caption: MDEF Design Interventions, Barcelona
+feature_img: /assets/images/2024-25/year-1/t-1/design-studio-01.jpeg
+img_caption: Design Dialogues, 2022, Barcelona
 faculty:
-    - jana-tothill
-    - roger-guilemany
+    - manuela-valtchanova
+    - saul-baeza
 ects: 12
 ---
 
@@ -15,60 +15,68 @@ ects: 12
 
 ## Syllabus
 
-MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
+**Design Studio I - Embodied Criticism**
 
-**TERM 1 Research**: Understanding what it means to design for emergent futures. Analyzing the past and finding weak signals. References, state of the art. Identifying areas of interest. Experimenting from the first-person perspective.
+MDEF Research, Design and Development studios aim to take areas of research, interests and/or initial project ideas into an advanced stage of the research, with an execution plan. The studio structure in three terms could be understood as follows:
 
-**TERM 2 Design**: Forming the present through interventions in the real world. Building the foundations of your design space, forming strategic partnerships. Applying knowledge into practice through iterative prototyping. Testing ideas and prototypes in the real world.
+**TERM 1 Embodied Criticism**
 
-**TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives. Communicating and disseminating your project through speculative design.
+**TERM 2 Problematize**
 
-**The Second Term Design Studio** aims to refine the work developed by students during the first term of the Master program. After identifying areas of interest from weak signals in the first term, and creating their design space and first interventions, students will be encouraged to take a further step into their projects, focusing on finding and growing their communities of practice and developing interventions in the real world (digital or physical).
+**TERM 3 Develop**
+
+**Keywords: Critical Design, Problematization, Ethics of Design, AV Narratives, Materiality, Spatial Infrastructures, Territoriality, Research Entanglements, Situated Practice, Power Structures, Alternative Presents**
 
 
 ## Learning Objectives
-The specific goals are the following: 
-- Further explore areas of interests identified in Term I
-- Involve others to become part of their design processes
-- Bring forth design interventions with their communities of practice to explore an area of interest.
-- Reflect on the becoming, outputs and outcomes of design activities
 
-**Keywords: Design Interventions, Community of Practice, Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication**
+The specific goals are the following
+
+1.	Critically interrogate personal assumptions, research entanglements, and ethical positions shaping the project.
+2.	Develop situated analytical skills by problematizing narratives, objects, materialities, and spatial infrastructures.
+3.	Engage critically with contexts and communities, understanding the geopolitical, ecological, and technoscientific forces that condition design interventions.
+4.	Assemble and articulate a coherent set of problematizations—statements, AV narratives, objects, and spatial artifacts—demonstrating accountable and reflexive design practice.
+5.	Reflect on how design enacts alternative presents, exposing power structures while proposing more responsible modes of intervention.
 
 
 ## Schedule
 
-We suggest engaging in an average of four collective design interventions this term, but naturally it can change depending on the project, the evolution or the student’s personal circumstances. The number four is a guideline.
+PROBLEMATIZE guides students through a staged interrogation of their projects—ethical, narrative, material, and spatial—toward more critical, situated, and accountable design interventions. The course begins with an examination of personal biases and research entanglements through errors and fascinations, followed by a deeper inquiry into the ethical implications of each project across scales from self to planet. Narrative then becomes a method for revealing complexity, culminating in a concise AV piece that maps conceptual, contextual, and affective dimensions.
 
-=== "08/01"
+As the course progresses, the focus expands to the material and political lives of objects, examining their embedded power structures through design and critical inquiry. This leads into spatial problematization, where students analyze infrastructures, territorialities, and geopolitical forces shaping their work. Through iterative reviews, students assemble a curated constellation of statements, narratives, objects, and spatial artifacts in preparation for the Design Dialogues exhibition.
 
-    **Collective design intervention: a collective design action with humans and/or non-humans - Jana & Roger**
+
+=== "12/01"
+
+    **DS02 Introduction. Why to Problematize?**
 
     **Goals:** Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.
 
-    **Activity:** Briefly present in class 3 of the main learning points from the 1st trimester.
+    **Activity:** Briefly present in class Artifact–Statement–AV Narrative, presented in the Design Dialogues + a summary of the most relevant feedback received.
 
-    **Assignment:** Reflect on your and your project’s current stage of development allowing your project to talk back. Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project accordingly.
+    **Assignment:** Reflect on your and your project’s current stage of development allowing your project to talk back. Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project accordingly. 
 
-    **Deliverable:** An updated version of your design space. A 500 word text with a summary of your journey so far, adding the repositioning of yourself and your project.  Make explicit new project goals and next steps including a proposal for the 1st intervention of the second trimester (a draft will be discussed during the design reviews the week after).
+    **Deliverable:** Problematize Yourself: present yourself with 5 errors + 5 fascinations (based on all your creative process till the moment).
 
-=== "20/01"
 
-    **20/01 Exploring alternative presents in context. Look for your peers and communities and make sense of a 1PP Design Action. Expand the boundaries of your interventions - Jana & Roger**
+=== "19/01"
 
-    **Goals:** Understand yourself better as a design tool in contexts, learn how to properly document, analyze and make sense of a design action from a 1PP. Explore your biographies and analyze your way of drifting in order to make sense of the alternative present you are creating.
+    **20/01 Problematize Yourself. Guests: [Toni Llàcer](https://www.elisava.net/en/teaching-staff/toni-llacer-phd/)**
+    
 
-    **Activity 1:** Briefly present in class an updated version of the design space and a proposal for the 1st intervention of the second trimester.
+    **Goals:** 
+-	Emphasize the importance of rigor and depth in design research to inform interventions.
+-	Introduce methods for collecting, analyzing, and organizing data to strengthen research outcomes.
+-	Highlight strategies for linking insights to actions, ensuring research is actionable and grounded in real-world contexts.
+-	Foster critical reflection on the research process, encouraging students to question assumptions and biases.
+Activity: Briefly present in class Problematize Myself: 5 errors + 5 fascinations. Feedback by Toni Llàcer.
 
-    **Activity 2:** Analyze the evolution of your design space to reflect on your way of drifting to envision your future biography by means of an alternative present.
+    **Activity:** Briefly present in class Problematize Myself: 5 errors + 5 fascinations. Feedback by Toni Llàcer.
 
-    **Activity 3:** Plan your first design intervention of the term and map the actors and infrastructure you want to involve. 
+    **Assignement:** Problematize all the ethical entanglements of your project. What ethics do your project enact consciously? What ethics do your project enact unconsciously? 
 
-    **Task:** Carry out your 1st design intervention from a 1PP with your community of practice (involve yourself in the context you want to work on).
+    **Deliverable:** Problematize Ethics: write a list of at least 4 major ethical problems, based on the following scales Me– My Community–Society–Planet.
 
-    **Deliverable 1:** Document the design intervention, analyze it and reflect on the findings. 
-
-    **Deliverable 2:** Map, visualize and analyze the evolution of your design space based on ways of drifting and reflect on the trajectories you might want to project. Create a narrative in relation to your alternative present. 
 
 === "03/02"
 
