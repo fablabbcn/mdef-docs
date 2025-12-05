@@ -140,7 +140,25 @@ As the course progresses, the focus expands to the material and political lives 
 
 ## Deliverables
 
-**Deliverables and deadlines will be communicated by the faculty**
+**Deadline: 09/03/2026**
+
+A dossier based on:
+**1.	Problematize (Five Scales):** 
+Edit and refine all phase-specific outputs (Statement, AV Narrative, Object/Collection, Spatial Infrastructure) according to the feedback received across the five scales problematization. This final edited set must demonstrate how your project’s narratives, materialities, ethical positions, and spatial propositions evolve through iterative critique, articulating a coherent and accountable design inquiry.
+
+Problematize Yourself: present yourself with 5 errors + 5 fascinations (based on all your creative process till the moment)
+
+Problematize Ethics: write a list of at least 4 major ethical problems, based on the following scales Me– My Community–Society–Planet
+
+Problematize Narrative: 1 AV Narrative (max. 90sec.) which represents the complexity of concept+ problematics + creative interventions + continuity
+
+Problematize Objects: 1 Object (or a curated collection of objects) + a proposal for enactment and performance
+
+Problematize Space:  Produce a critical spatial artifact: this may take the form of a spatial model, map, diagram, or a curated constellation of spatial elements. Accompany it with a proposal for its enactment or spatial performance, articulating how it challenges, exposes, or reconfigures the spatial systems at play.
+
+**2.	Theoretical Statement**
+1500-word theoretical statement articulating the conceptual, ethical, and methodological foundations of their project. The text must situate the work within relevant theoretical lineages and contemporary debates, demonstrating how the project problematizes narratives, objects, and spaces. The statement should map the project’s epistemic commitments, its entanglements with power, infrastructures, and technoscience, and its contribution to emergent design futures. It must reference at least six key theoretical works, integrating them critically—rather than descriptively—to clarify how theory informs the project’s stance, methods, and interventions.
+
 
 
 **These are the points we are going to look at for Term II:**
@@ -149,6 +167,24 @@ As the course progresses, the focus expands to the material and political lives 
 - Situating the design interventions in context
 - Framing opportunities considering resilience, material flows, situated knowledges and existing infrastructures in your design process
 
+## Evaluation Strategies 
+
+These are the points we are going to look at for Term 2:
+
+**1. Critical Depth & Reflexivity**
+
+Assess the student’s ability to interrogate their project across ethical, narrative, material, and spatial dimensions. Evaluation considers how well they identify biases, articulate entanglements, question assumptions, and incorporate feedback. Strong work demonstrates sustained critical inquiry, conceptual rigor, and an evolving capacity to let the project “talk back,” showing awareness of implications across scales from self to territory to planet.
+
+**2. Research Integration & Design Articulation**
+
+Evaluate how effectively students translate research into design propositions. This includes the synthesis of multimodal investigations (statements, narratives, objects, spatial artifacts) and their capacity to connect insights to interventions. Attention is placed on clarity, coherence, and the student’s ability to operationalize theory through form, practice, and experimentation. Strong performance shows grounded, situated design decisions supported by evidence and critical reasoning.
+
+**3. Prototyping, Performance & Communicative Capacity**
+
+Assess the quality of produced artifacts—statement, AV narratives, objects, spatial models—and their performative or enactment potential. Evaluation examines craft, intentionality, and the student’s ability to communicate complexity through multimodal formats. Strong outcomes demonstrate iterative development, thoughtful material and spatial choices, and the ability to stage or propose interventions that expose, challenge, or reconfigure dominant systems, culminating in a coherent exhibition-ready constellation.
+
+100% Faculty (including first Thesis draft)
+
 
 ## Grading Method
 
@@ -156,14 +192,6 @@ As the course progresses, the focus expands to the material and political lives 
 | ----------- | ------------------------------------            |
 | 50%         | Faculty (including written assignment)          |
 | 50%         | Self-Evaluation                                 |
-
-Self-Evaluation Question: Look back at the interventions you did last term and analyze them by self-evaluating your development:
-
-- How much have you involved your community through your design interventions?
-- Did your process involve others in the design and implementation of the interventions? How meaningful do you think the interventions were for the external people that were involved?
-- In terms of situating your interventions, how successful were you in considering the resilience, material flows, situated knowledges and existing infrastructures in your design process?
-- Were you able to draft an alternative present through the iterative reflective process offered by the outcomes of your design interventions?
-
 
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
