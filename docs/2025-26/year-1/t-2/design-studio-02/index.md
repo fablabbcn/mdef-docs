@@ -48,21 +48,14 @@ As the course progresses, the focus expands to the material and political lives 
 
 === "12/01"
 
-    **DS02 Introduction. Why to Problematize?**
-
-    **Goals:** Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a new scope, goals and next steps.
-
-    **Activity:** Briefly present in class Artifact–Statement–AV Narrative, presented in the Design Dialogues + a summary of the most relevant feedback received.
-
-    **Assignment:** Reflect on your and your project’s current stage of development allowing your project to talk back. Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project accordingly. 
-
-    **Deliverable:** Problematize Yourself: present yourself with 5 errors + 5 fascinations (based on all your creative process till the moment).
-
-
-=== "12/01"
-
     **Problematize Yourself. Guests: [Toni Llàcer](https://www.elisava.net/en/teaching-staff/toni-llacer-phd/)**
-    
+
+    **Assignment for 12/01:**
+    Reflect on your and your project’s current stage of development allowing your project to talk back. 
+    Analyze your so-called “failures” as opportunities for redefining your frames of reference and repositioning yourself and your project
+    accordingly. 
+    **Deliverable for 12/01:**
+    Problematize Yourself: present yourself with 5 errors + 5 fascinations (based on all your creative process till the moment)
 
     **Goals:** 
     -	Emphasize the importance of rigor and depth in design research to inform interventions.
