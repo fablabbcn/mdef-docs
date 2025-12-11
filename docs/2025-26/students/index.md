@@ -49,7 +49,7 @@ students:
         year: 1
     Heba Elidrisi:
         photo: /assets/images/students/2025-26/MDEF01/8155.jpg
-        website: https://hannahpeevey254.github.io/MDEF-Website/#welcome
+        website: https://hebaelidrisi.github.io/mdef/
         year: 1
     Ishan Mudgal:
         photo: /assets/images/students/2025-26/MDEF01/8118.jpg
