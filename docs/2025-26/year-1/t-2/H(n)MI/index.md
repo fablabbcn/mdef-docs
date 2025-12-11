@@ -20,6 +20,12 @@ What futures might emerge from a lab-grown brain?  This course invites student
 
 **Keywords: - Brain organoids, Organoid Intelligence, Cognitive Interfaces, Data-Driven Fiction, Posthuman Thought**
 
+## Learning Objectives
+
+- Understand the fundamentals of brain organoids, organoid intelligence and its creative potential
+- Learn how neural spike data can shape language, logic, and worldbuilding scenarios
+- Explore critical and poetic frameworks for interpreting nonhuman cognition
+- Create artifacts (texts, systems, worlds) shaped through recursive interaction with brain organoids outputs
 
 ## Schedule
 
@@ -36,11 +42,30 @@ What futures might emerge from a lab-grown brain?  This course invites student
 - Understanding how neural data modulates prompt styles
 
 
-## Materials
+## Deliverables
 
-All materials needed for the course will be provided by the faculty. The students are required to bring to the classes their own students toolkit and the programming boards given to them at the start of the academic year, other development boards, sensors and actuators will be provided during the classes. Bring in your laptop with the proper software installed prior to the class if required (emails will be sent prior to the classes regarding this aspect).
+- At least one speculative prompt-response artifact per student (text, visual, sound, etc.)
+- Final short presentation + reflection
 
 
+## Grading Method
+
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 20%         | Participation          |
+| 40%         | Creative artifacts                                 |
+| 30%         | Personal reflections          |
+| 10%         | Self-assessment                                 |
+
+!!! ects "European Credit Transfer and Accumulation System (ECTS)"
+
+    {{ ects }} ECTS
+
+## Material Needs
+- Laptops- Internet access
+- Access to the platform (provided by instructors)
+- OpenAI or local LLM access
+- (Optional) sensor kits for real world data collection 
 
 ## Faculty
 
