@@ -29,17 +29,28 @@ What futures might emerge from a lab-grown brain?  This course invites student
 
 ## Schedule
 
-### Day 1 (Week 1)**
+### Day 1 - Week 1**
 
 - Overview of brain organoids and organoid intelligence
 - Introduction to the digital interface designed by Operating System Studio / Umanesimo Artificiale
 - Collective brainstorming on real world data to collect (sound, rituals, mood logs, environments)
 
-**Day 2 (Week 2)**
+**Day 2 - Week 2**
 
 - First prompt-generation experiments from student-collected input
 - Interfacing: feeding stimuli into the system
 - Understanding how neural data modulates prompt styles
+
+**Day 3 - Week 2**
+
+- Use generated questions to begin constructing speculative micro-worlds
+- Map unexpected cognitive landscapes from neural activity
+- Group critique and reflection: What worldviews does the organoid suggest?
+
+**Day 4 - Week 2**
+
+- Finalize a short speculative artifact or research fragment (e.g., story, visual piece, cultural fragment, design fiction)
+- Presentations + open discussion
 
 
 ## Deliverables
