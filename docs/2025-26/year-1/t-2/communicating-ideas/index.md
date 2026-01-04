@@ -1,13 +1,12 @@
 ---
-title: Communicating Ideas
+title: Narratives II
 page_type: course
-track: Reflection
-course_type: Seminar
-feature_img: /assets/images/2024-25/year-1/t-2/communicating-ideas.png
-img_caption: Bing Image Create AI
+track: Reflect
+course_type: Workshop
+feature_img: /assets/images/2024-25/year-1/t-1/narratives-1.png
+img_caption: 
 faculty:
-    - pablo-zuloaga
-    - saul-baeza
+    - ane-guerra
 ects: 1
 ---
 
@@ -15,98 +14,64 @@ ects: 1
 
 ## Syllabus
 
-This course aims to equip students with the essential skills to effectively communicate their design projects to a diverse audience. Through understanding communication models, storytelling techniques, branding strategies, transmedia narratives, and content creation, students will learn to craft compelling narratives and execute impactful communication strategies for their design interventions.
+This short course will delve into the importance of narratives and storytelling when explaining our projects, which often include complex and abstract information that the general public finds difficult to relate to. We will create a space to discuss and exercise judgment in the face of new, rapidly developing tools such as Natural Language Processors, and we will seek to define and, of course, draft our manifesto, which will serve as our roadmap throughout the course.
 
-**Keywords: Storytelling, Communication, Narrative, Branding.**
+**Keywords: Storytelling, narratives, writing**
 
 ### Learning Objectives
 
-- Understanding Communication Models:
-Introduction to communication theories and models applicable to design projects.
-- Storytelling Techniques:
-Applying narrative techniques to effectively convey project ideas and narratives.
-- Defining Audience:
-Strategically selecting the stakeholders you want to communicate with, and the media channels to do so.
-- Project Narrative:
-Defining the mission, vision, purpose and messages that define a project.
-- Transmedia Storytelling:
-Exploring diverse media for storytelling and mapping audience engagement.
-- Content Strategy Development:
-Developing and implementing a comprehensive communication strategy across multiple media, using different communication pillars.
-
-### Methodological Strategies
-
-- Case studies.
-- Workshops.
-- Project-based learning.
-- Peer learning.
+- We will discover narratives as stories we tell ourselves to give meaning, value and significance to our projects.
+- We will use storytelling as an ancient human tool.
+- We will understand basic ideas about how to interact and connect with the audience.
+- We will create a thread that guides our research so that it has a solid narrative.
 
 ## Schedule
 
-=== "Day 1"
+=== "Term I"
 
-    **Introduction to Storytelling**
+    **MANIFESTO**
 
-    - Fundamentals of communication theories.
-    - Models applicable to design projects.
-    - Narrative techniques for effective project communication.
-    - Crafting compelling narratives.
-    Assignment - Defining our Stakeholders:
-    - Strategically selecting target stakeholders that we want to approach to with our project interventions.
+    We will create a text that will serve as a personal and professional positioning statement and as a personal manifesto for our practice.
 
-    Divergent narratives with Saúl Baeza 1/2 (11:00 to 12:00):
-    - Unpacking existing projects with interesting and groundbreaking narratives
-    - Collective discussion 
+=== "Term II"
 
-=== "Day 2"
+    **NARRATIVE**
 
-    **Shaping Our Project Narrative**
+    We will work on a document that structures the evolution of our positioning and research.
 
-    - Defining how we explain our project to the world.
-    - Defining our project mission, vision and purpose.
-    - Defining the tone and message of our project.
-    Assignment - Communicating our project to others:
-    - Cross interviewing peers about their projects as an exercise for self-reflection about our project understanding.
+=== "Term III"
 
-=== "Day 3"
+    **THE PROPOSAL and SCRIPTS**
 
-    **Transmedia Storytelling**
+    We will conclude the course by developing the project proposal and its potential areas for development and action. We will also learn how to create a basic script for the audiovisual format.
+    
 
-    - Exploring various media for storytelling.
-    - Creating comprehensive communication strategies.
-    - Implementing strategies using different communication pillars.
-    Assignment - Communication Strategy:
-    - Mapping stakeholders and communities’ engagement strategies and messages across different media.
-    - Initial communication strategy presentation.
+### Methodological Strategies
 
-    Divergent narratives with Saúl Baeza 2/2 (16:00 to 17:00):
-    - Unpacking existing projects with interesting and groundbreaking narratives
-    - Collective discussion 
+We will work with:
 
-=== "Day 4"
+- Case studies
+- Workshops
+- Lectures
+- Project-based learning
+- In-class writing
 
-    **Review and Reflection**
-
-    - Presentation of the initial communication strategy.
-    - Peer reflection and comments
 
 ## Deliverables
 
-- A Stakeholders radar defining who we want to approach with our project.
-- Initial project mission, vision, purpose and message definition.
-- Communication strategy applied to different medias to communicate your project to your desired stakeholders.
+This is stated in the “Structure and Phases” section.
 
 ## Grading Method
 
-| Percentage  | Description                         |
-| ----------- | ------------------------------------|
-| 50%         | Communication Strategy Presentation |
-| 30%         | Peer Interview Video                |
-| 20%         | Class website documentation and reflection |
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 40% | Class participation and class culture and attitude      |
+| 60% | Text deliverables                                       |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
     {{ ects }} ECTS
+
 
 ## Faculty
 
