@@ -92,7 +92,7 @@ A fully functional physical computing prototype that connects sensors and actuat
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
-    {{ ects }} ECTS
+    {{ ects }} ECTS 
 
 ## Additional Resources
 
