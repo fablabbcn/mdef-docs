@@ -1,14 +1,13 @@
 ---
 title: Extended Intelligences II
 page_type: course
-track: Exploration
+track: Explore
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-2/designing-with-extended-intelligences.png
-img_caption: Credit | 4x upscale of ‘a press photo of a bright maker lab full of students hacking programming and building physical prototypes --ar 3:2 --v 5.2’ (Copyright Midjourney, Christian Ernst)
+feature_img: /assets/images/2024-25/year-1/t-2/extended-intelligences-ii.jpg
 faculty:
     - christian-ernst
     - pietro-rustici
-ects: 2
+ects: 3
 ---
 
 {{ insert_banner() }}
@@ -16,59 +15,79 @@ ects: 2
 
 ## Syllabus
 
-This introductory course provides a hands-on overview of integrating AI technology into physical objects through embedded systems. Students will explore basic microcontroller programming (ESP32) and AI services to create a simple interactive object. The course introduces REST API concepts, voice interfaces, and basic hardware integration, demonstrating how AI can be embedded in everyday objects while considering ethical implications. The course also explore how different AIs can be chained together in a multimodal fashion. 
+This course offers designers and makers a hands-on introduction to generative AI through physical computing. Participants will learn to build agentic systems that bridge the digital and physical worlds by connecting sensors and actuators to AI agents.
 
-**Keywords: Embedded AI, Physical Computing, Human-Machine Interaction**
+Course Contents:
+1. Showcase of Salient Projects: The instructors will demonstrate projects that combine generative AI with physical computing and interactive systems.
+
+2. Introduction to Generative AI and MCP: Participants will learn the fundamentals of generative AI and the Model Context Protocol (MCP), understanding how AI agents can interact with the physical world through connected devices.
+
+3. Building with Embedded Systems: Students will work with wifi-enabled microcontrollers (such as Raspberry Pi Pico W) to create local MCP servers that expose sensors (temperature, light, sound, humidity) and actuators (LEDs, motors) to AI agents.
+
+4. Prototyping Agentic Systems: Using Langflow, participants will design and prototype AI agents that can sense and respond to their environment, creating interactive, intelligent physical systems.
+
+5. Design Considerations and Ethics: The course addresses responsible AI usage, privacy concerns in sensor data collection, and ethical principles for designing AI systems that interact with physical spaces.
+
+By the end of this course, participants will have built their own AI-powered physical computing project, gaining practical skills to create intelligent, responsive systems that blend generative AI with the physical world.
+
+
+**Keywords: Generative Artificial Intelligence, Agentic Systems, Rapid Prototyping**
 
 ### Learning Objectives
 
-- Students will understand the basic concepts of embedding AI systems using microcontrollers and web services
-- Students will play with existing tools (provided by the teachers) to get familiar with the concept of AI chaining and multimodal inputs
-- Students will gain introductory experience with REST APIs and basic I/O interfaces (audio, simple actuators)
-- Students will be exposed to the ethical considerations of embedding AI in consumer objects
-- Students will complete a basic implementation of voice interface and LLM integration
-- Students will grasp fundamental concepts of modular system design
+Learning objectives:
+
+1. Gain a clear understanding of the concept of generative AI, its principles, and its applications.
+2. Learn about algorithms, models, and techniques used in generative AI.
+3. Develop practical skills in agentic systems and tools via MCP for generative AI projects.
+4. Understand the ethical considerations and responsible usage of generative AI.
+5. Develop a solid foundation in generative AI for future design and making endeavors.
+
 
 
 ### Structure and Phases (Schedule)
 
 The course unfolds across three intensive 3-hour sessions. 
 
-**Day 1 (3 hours)** opens with an introduction and portfolio presentation, followed by an exploration of fundamental AI concepts. Students then survey the current landscape of AI technologies, examining various input and output modalities. The day concludes with hands-on mini-workshops focusing on AI camera applications and the modmatrix multimodal AI tool. 
+**Day 1** 
+- Introduction and projects showcase 
+- Introduction to the class assignment
+- Starting group making and hardware setup
 
-**Day 2 (3 hours)** is dedicated to technical implementation, beginning with the setup of coding environments and ESP32 hardware configuration. Students then learn REST API fundamentals and network communication protocols, working through practical examples using the Python library. The session concludes with students drafting their deliverable concepts. 
+**Day 2** 
+- The evolution of LLMs and agentic systems
+- Introduction to the anatomy of a MCP server and AI tool usage
+- Follow-up support for the class assignment
 
-**Day 3 (3 hours)** provides dedicated time for students to develop their projects with instructor guidance, culminating in final presentations where students demonstrate their working prototypes.
+**Day 3**
+- Project Execution in Group Work
+- Students presentation
 
 
 ## Methodological Strategies
 
-Teaching Methods:
-
-- Guided workshops
-- Technical demonstrations
-- Simple hands-on exercises
-
-Learning Approaches:
-
-- Practical experimentation
-- Following example implementations
-- Group discussion
+- Introductory lectures to build an understanding of the problem space
+- Group project execution phase to apply learnings on a chosen topic 
+- Academic understanding
+- Hands-on/ tactile experience
+- Learning by application
+- Collaborative project execution
+- Iterative Design, Design Thinking
 
 
 ## Deliverables
 
-- Basic working prototype using the provided boilerplate
-- Brief technical documentation
-- Short presentation of working prototype
+A fully functional physical computing prototype that connects sensors and actuators to an AI agent through MCP, demonstrating meaningful interaction between the digital and physical worlds. 15-minute presentations showcasing the conceptual foundation and live demonstration of the working system. Course documentation on students' blogs summarizing the project outcome, technical implementation, and personal reflection on designing agentic systems for physical spaces.
 
 ## Grading Method
 
 | Percentage  | Description                         |
 | ----------- | ------------------------------------|
-| 50%         | Working Prototype - Summative                     |
-| 25%         | Class Participation - Formative   |
-| 25%         | Final Presentation - Summative                    |
+| 20%         | Participation                    |
+| 30%         | Prototype and Conceptual Quality   |
+| 30%         | Presentation                    |
+| 20%         | Reflection                  |
+
 
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
@@ -77,10 +96,19 @@ Learning Approaches:
 
 ## Additional Resources
 
-- https://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063
-- https://www.amazon.com/Ethics-Artificial-Intelligence-S-Matthew-Liao/dp/0190905034
-- https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414/136-6019855-3033806?content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b
-- https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things
+- [Dottod I: gallery of cybernetic interpretations](https://www.dottod.net/) - Project
+- [Dottod II: Icon's replicants](https://furnitures.dottod.net/) - Project
+- [Del Complex / Del Complex Incident Report September 2023](https://xiosky.com/delmedia/media/archival_media/Del_Complex_Incident_Report_7_September_2023.pdf) - Project
+- [Communicative Agents for Software Development](https://arxiv.org/pdf/2307.07924.pdf) - Paper
+- [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288) - Paper
+- [The Zizi Show](https://www.jakeelwes.com/project-zizi-show.html) - Project
+- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409) - Paper
+- [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components) - Article
+- [Infinite Images and the latent camera](https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY) - Article
+
+## Materials Needs 
+
+Student’s own computer with a web browser and a python development environment. 
 
 
 ## Faculty
