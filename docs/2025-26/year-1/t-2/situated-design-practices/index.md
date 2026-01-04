@@ -66,9 +66,9 @@ The Barcelona Supercomputing Center–Centro Nacional de Supercomputación (BSC-
 
     ***12:00-14:00***
 
-    **Session with *Anna Engelhardt* about** ***Borders and Forced Communities***
+    **Session with *Anna Engelhardt* about** ***Toxic Information Environments***
     
-    12:00 – Online talk by Anna Engelhardt about borders and forced communities
+    12:00 – Online talk by Anna Engelhardt about toxic information environments
     13:30 – Q&A 
 
     Anna Engelhardt investigative practice follows the traces of material violence, focusing on what could be seen as the ‘ghost’ of information. The toxic information environments she deals with stem from structures of extraction, occupation and dispossession. Her work has been shown at transmediale, Berlin; ICA, London; Ars Electronica; Biennial TEA Tenerife; National Gallery of Art, Lithuania; B3 Biennial of the Moving Image, Frankfurt; The Henie Onstad Triennial for Photography and New Media, Oslo; Kyiv Biennial.
