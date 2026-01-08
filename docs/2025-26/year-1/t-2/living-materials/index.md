@@ -1,13 +1,13 @@
 ---
-title: Living Materials
+title: Living Materials II
 page_type: course
-track: Exploration
+track: Explore
 course_type: Wrokshop
 feature_img: /assets/images/2024-25/year-1/t-2/living.jpg
 img_caption:
 faculty:
-    - petra-garajova
-ects: 2
+    - joana-moher
+ects: 3
 ---
 
 {{ insert_banner() }}
