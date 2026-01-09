@@ -1,5 +1,5 @@
 ---
-title: Extended Intelligences II - Speculative Systems with Brain Organoids
+title: Speculative Systems with Brain Organoids
 page_type: course
 track: Explore
 course_type: Workshop
