@@ -1,5 +1,5 @@
 ---
-title: Micro Challenges
+title: Cognintive Orgies
 page_type: course
 track: Instrumentation
 course_type: Wrokshop
@@ -7,10 +7,7 @@ feature_img: /assets/images/2024-25/year-1/t-2/challenge.png
 img_caption:
 faculty:
     - santiago-fuentemilla
-    - ella-suzanne
-    - pablo-zuloaga
     - mikel-llobera
-    - didac-torrent
     - adai-surinach
 
 ects: 2
