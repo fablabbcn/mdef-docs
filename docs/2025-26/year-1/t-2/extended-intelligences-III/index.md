@@ -1,5 +1,5 @@
 ---
-title: Speculative Systems with Brain Organoids
+title: Extended Intelligences III
 page_type: course
 track: Explore
 course_type: Workshop
