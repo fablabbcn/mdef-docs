@@ -15,48 +15,69 @@ ects: 3
 
 ## Syllabus
 
-What futures might emerge from a lab-grown brain? This course invites students to explore brain organoids as speculative provocateurs: living, cognitive agents whose unpredictable neural activity challenges how we interpret, frame, and imagine the world around us.  Students will engage with a (mostly) pre-designed digital interface developed by Operating System Studio / Umanesimo Artificiale, which connects to real brain organoid spike data (via Brain Processing Unit API, or Cortical Labs API - collaboration is still pending). This interface transforms neural signals into semantic parameters, feeding them into a custom prompt-generation system powered by an LLM. The result is a cascade of strange, poetic, and speculative questions, invitations to reimagine the worlds embedded in students’ own data collection. A central part of the course is the active collection of real-world, lived data by the students. Through rituals, sensory logs, environmental observation, or embodied tracking (e.g. mood, movement, sound), students create datasets that become stimuli for the organoids. These inputs are then translated into signal formats sent to the biological system, whose neural spike responses generate speculative prompts in return. This creates an evolving feedback process in which students do not simply build speculative worlds, but co-evolve them in collaboration with a nonhuman mind.
+**Hardware, Software, Wetware**
+
+What futures might emerge from a lab-grown brain?
+
+This course, titled "Extended Intelligence III," reframes the concept of intelligence as a hybrid phenomenon. It invites students to explore brain organoids as provocateurs: living, cognitive agents whose unpredictable neural activity challenges how we interpret, frame, and imagine the world around us.
+
+We move beyond the binary of human and machine to explore a synthesis of:
+- Hardware: Human intelligence — your brains, your intent, and your ethics.
+- Software: Artificial Intelligence — specifically Large Language Models.
+- Wetware: Hybrid Intelligence — brain organoids, providing biological unpredictability.
+
+The course is grounded in the "Extended Mind" theory (Clark & Chalmers), but with a critical update for the year 2026. We aim to move beyond the notion of passive tools (like notebooks or smartphones) toward active, biological extensions of the mind.
+
+The objective is to collaboratively produce a Manifesto for a new Extended Mind in the form of a Video Essay.
+
+Students will engage with a pre-designed digital interface developed by Operating System Studio / Umanesimo Artificiale, which connects to Cortical Labs’ proprietary organoid simulator. This interface transforms neural signals into semantic parameters, feeding them into a custom prompt-generation system. This system is powered by an LLM that is trained on all students' inputs and continuously learns from them throughout the workshop.
 
 
 **Keywords: Brain organoids, Organoid Intelligence, Cognitive Interfaces, Data-Driven Fiction, Posthuman Thought**
 
 ## Learning Objectives
 
-- Understand the fundamentals of brain organoids, organoid intelligence and its creative potential
-- Learn how neural spike data can shape language, logic, and worldbuilding scenarios
-- Explore critical and poetic frameworks for interpreting nonhuman cognition
-- Create artifacts (texts, systems, worlds) shaped through recursive interaction with brain organoids outputs
+- **Understand** the fundamentals of brain organoids, Organoid Intelligence (OI), and their creative potential.
+- **Analyze** the "Extended Mind" Hypothesis and critically understand the foundational theory of Clark & Chalmers to propose contemporary updates that include biological computing and active agents.
+- **Explore** critical and poetic frameworks for interpreting nonhuman cognition.
+- **Experience** the workflow of moving from individual fragmentation to small group clustering, and finally to a collective class consciousness.
+- **Synthesize** diverse and complex theoretical inputs into a unified public artifact (Video Essay) that communicates a clear vision for the future of intelligence.
 
 ## Schedule
 
-### Day 1 - Week 1**
+### Week 1 - Day 1**
 
-- Overview of brain organoids and organoid intelligence
-- Introduction to the digital interface designed by Operating System Studio / Umanesimo Artificiale
-- Collective brainstorming on real world data to collect (sound, rituals, mood logs, environments)
+**Theory & Interface**
+- Overview of brain organoids, Organoid Intelligence, and "Extended Mind" theory with case studies.
+- Introduction to the digital interface designed by Operating System Studio / Umanesimo Artificiale.
+- Collective brainstorming on Manifesto production.
 
-**Day 2 - Week 2**
+**Week 2 - Day 2**
 
-- First prompt-generation experiments from student-collected input
-- Interfacing: feeding stimuli into the system
-- Understanding how neural data modulates prompt styles
+**Individual Interaction & Drafting**
+- Each student interacts individually with the interface. They select one specific principle of the Extended Mind that they feel attached to.
+- Students create raw visual assets (graphics, photos, abstract video clips) that represent this hybrid text.
 
-**Day 3 - Week 2**
+**Week 2 - Day 3**
 
-- Use generated questions to begin constructing speculative micro-worlds
-- Map unexpected cognitive landscapes from neural activity
-- Group critique and reflection: What worldviews does the organoid suggest?
+**Clustering & Expansion**
+- Students analyze the fragments generated on Day 1 and suggest thematic clusters.
+- Students divide into groups based on these clusters.
+- Groups work to expand their specific thematic section and refine their Day 1 visuals into coherent sequences for their specific chapter.
 
-**Day 4 - Week 2**
+**Week 2 - Day 4**
 
-- Finalize a short speculative artifact or research fragment (e.g., story, visual piece, cultural fragment, design fiction)
-- Presentations + open discussion
+**Collective Synthesis**
+- The whole class gathers. By this stage, the Class LLM holds the total knowledge of the course (Day 1 Fragments + Day 2 Chapters).
+- The class inputs collective prompts to stitch the chapters together.
+- The final text is recorded as a VoiceOver (AI or Human) for the video essay.
+- Final presentation + open discussion.
 
 
 ## Deliverables
 
-- At least one speculative prompt-response artifact per student (text, visual, sound, etc.)
-- Final short presentation + reflection
+- Fragments, Chapters, and Final Output (Video Essay).
+- Final presentation + reflection.
 
 
 ## Grading Method
@@ -73,10 +94,9 @@ What futures might emerge from a lab-grown brain? This course invites students t
     {{ ects }} ECTS
 
 ## Material Needs
-- Laptops- Internet access
+- Laptops with internet access
 - Access to the platform (provided by instructors)
-- OpenAI or local LLM access
-- (Optional) sensor kits for real world data collection
+
 
 ## Faculty
 
