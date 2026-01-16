@@ -3,7 +3,7 @@ title: Extended Intelligences III
 page_type: course
 track: Explore
 course_type: Workshop
-feature_img: /assets/images/2024-25/year-1/t-2/hnmi.png
+feature_img: 
 img_caption:
 faculty:
     - filippo-rosati
