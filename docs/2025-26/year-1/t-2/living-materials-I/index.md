@@ -68,7 +68,9 @@ Practical - Liquid culturing - Designing a GMO
 ## Deliverables
 
 **Designed Experiment**: A creative depiction (poster, diagram, or infographic) that visualizes a hypothesis and the testing process for a newly conceived GMO.
+
 **GitHub Documentation**: Reflection on the seminar and class notes uploaded to the personal MDEF repository.
+
 **Media Submission**: Presentations and videos uploaded to the shared Google Drive folder within one week of the seminar's conclusion.
 
 Creatively depict, describe and visualize a ‘**Designed experiment**’ that encompasses class concepts, notes and explores the Scientific method and its processes of hypothesizing, developing and testing. The depiction could be in any form of a poster / diagram / info-graphic or any other media. It should creatively depict the impacts of a newly conceived ‘Genetically Modified Organism’ in the world. It may or not may follow an “igem” project presentation.
@@ -78,8 +80,11 @@ Creatively depict, describe and visualize a ‘**Designed experiment**’ that e
 ## Bibliography and Background Research Material
 
 [Regenesis : George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
+
 [TED X Talk : How to convert yourself into a biohacker](https://www.youtube.com/watch?v=_kc0IFavUes&feature=emb_title)
+
 [Biohack Academy](http://biohackacademy.github.io/)
+
 [iGEM](https://igem.org/Main_Page)
 
 
