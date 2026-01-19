@@ -1,5 +1,5 @@
 ---
-title: Living Materials II
+title: Other Speciaes III
 page_type: course
 track: Explore
 course_type: Wrokshop
