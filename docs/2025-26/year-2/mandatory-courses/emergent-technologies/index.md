@@ -9,6 +9,7 @@ faculty:
     - santiago-fuentemilla
     - daniel-mateos
     - adai-surinach
+    - julia-leirado
 ects: 3
 ---
 
@@ -48,33 +49,36 @@ All materials needed for the course will be provided by the faculty. The student
 
 Bring in your laptop and any prototyping tools you have around such as a cutter, tape, markers, screwdrivers...
 
-Do you have any old appliances (radios, toys, telephones, lamps, screens, keyboards...) at home you would like to take apart? Bring them, too! (For safety reasons, avoid choosing appliances with a lot of power or that are easily heated).
 
 ## Schedule
 Students are required to select 4 elective modules from the following options:
 
-- [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html)
-- [Electronics design](https://academy.cba.mit.edu/classes/electronics_design/index.html)
+- [Electronics Design](https://academy.cba.mit.edu/classes/electronics_design/index.html), [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html) (2 modules)
 - [Embedded programming](https://academy.cba.mit.edu/classes/embedded_programming/index.html)
 - [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html)
 - [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
 - [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
-- [ mechanical design, machine design (2 modules)](http://academy.cba.mit.edu/classes/machine_design/index.html)
+- [Mechanical design, Machine design (2 modules)](http://academy.cba.mit.edu/classes/machine_design/index.html)
 
 
 For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
 
-- **Local Classes:** Every Thursday or/and from 9:30 am to 13:30 pm CET, depending on the week
+- **Local Classes:** Every Thursday or/and Friday from 9:30 am to 13:30 pm CET, depending on the week
 - **Global Class:** Every Wednesday at 15:00 pm CET with Neil Gershenfeld.
 
-In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules.
+In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules. **With a dedication time of 8h distributed during the week.**
 
 
 ## Deliverables
 
 Students are required to:
 
-- Document all their projects and module deliverables on their personal websites.
+- Document all their projects and module deliverables on their personal websites. Including:
+    - Design process
+    - Fabrication and design files (links)
+    - Videos an pictures (gif)
+    - Reflection
+    - [CCL](https://santifu.github.io/ccl/)
 - Follow the same documentation standards as the Fab Academy program.
 - Produce working prototypes and project demonstrations for each module.
 - For Machine Design, students must deliver a more complex group project.
@@ -91,7 +95,7 @@ Students are required to:
 
 ## Course Resources
 - [Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/course-info/what_is_it/) 
-- [FabAcademy](https://fabacademy.org/2024/)
+- [FabAcademy](https://fabacademy.org/2026/)
 
 ## Faculty
 
