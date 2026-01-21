@@ -17,9 +17,9 @@ ects: 3
 
 ## Syllabus
 
-The Emergent Technologies course is designed to provide students with a comprehensive understanding of advanced digital fabrication techniques, with a focus on electronics and design. This program offers a blend of theoretical knowledge and hands-on experience, enabling participants to develop their skills across multiple domains.
+The Emergent Technologies course is designed to provide students with a comprehensive understanding of advanced digital fabrication techniques, with a particular focus on electronics and design. The course is based on the Fab Academy curriculum, developed by the Center for Bits and Atoms (MIT), and combines its global pedagogical framework with local, hands-on learning.
 
-By the end of the program, students will have a robust portfolio of projects and a deep understanding of how to integrate technology into their design practices.
+The program offers a balanced blend of theoretical knowledge and practical experience, enabling participants to develop skills across multiple domains of digital fabrication, computational design, and electronics. By the end of the course, students will have developed a robust portfolio of projects and gained a deep understanding of how to integrate emerging technologies into their design practice.
 
 **Keywords: Documentation, Tinkering, Design, Prototyping, Digital fabrication**
 
@@ -33,14 +33,10 @@ By the end of the program, students will have a robust portfolio of projects and
 
 ### Methodological Strategies
 
-
-**Elective Modules:** Each student must select 4 modules from a range of specialized topics, allowing them to delve deeper into areas of personal interest and relevance to their future careers.
-
-**Hands-on Learning:** The course emphasizes practical, hands-on workshops and projects, enabling students to apply theoretical concepts in real-world scenarios.
-
-**Interdisciplinary Approach:** By combining modules from different domains, the course encourages an interdisciplinary approach to design and innovation.
-
-**Collaborative Learning:** Students will have the opportunity to join classes with peers from different backgrounds. This collaborative environment fosters a rich exchange of ideas and perspectives, enhancing the learning experience.
+- **Elective Modules:** Each student must select 4 modules from a range of specialized topics, allowing them to delve deeper into areas of personal interest and relevance to their future careers.
+- **Hands-on Learning:** The course emphasizes practical, hands-on workshops and projects, enabling students to apply theoretical concepts in real-world scenarios.
+- **Interdisciplinary Approach:** By combining modules from different domains, the course encourages an interdisciplinary approach to design and innovation.
+- **Collaborative Learning:** Students will have the opportunity to join classes with peers from different backgrounds. This collaborative environment fosters a rich exchange of ideas and perspectives, enhancing the learning experience.
 
 
 ### Materials Needs
@@ -58,7 +54,7 @@ Students are required to select 4 elective modules from the following options:
 - [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html)
 - [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
 - [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
-- [Mechanical design, Machine design (2 modules)](http://academy.cba.mit.edu/classes/machine_design/index.html)
+- [Mechanical design, Machine design](http://academy.cba.mit.edu/classes/machine_design/index.html) (2 modules)
 
 
 For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
@@ -66,7 +62,8 @@ For each selected module, students are required to attend (in the protolab) at m
 - **Local Classes:** Every Thursday or/and Friday from 9:30 am to 13:30 pm CET, depending on the week
 - **Global Class:** Every Wednesday at 15:00 pm CET with Neil Gershenfeld.
 
-In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules. **With a dedication time of 8h distributed during the week.**
+In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules, **with an estimated personal dedication of 8 hours per week, distributed according to their individual schedules.**
+
 
 
 ## Deliverables
@@ -76,18 +73,26 @@ Students are required to:
 - Document all their projects and module deliverables on their personal websites. Including:
     - Design process
     - Fabrication and design files (links)
-    - Videos an pictures (gif)
-    - Reflection
-    - [CCL](https://santifu.github.io/ccl/)
+    - Videos an pictures (also gif)
+    - Reflection (failures and mistakes)
 - Follow the same documentation standards as the Fab Academy program.
 - Produce working prototypes and project demonstrations for each module.
 - For Machine Design, students must deliver a more complex group project.
 
-## Grading Method
+## Grading and Evaluation
+
+Assessment is based on the timely submission and quality of the required assignments for each module.
+
+**Submission deadline:** All assignments must be published on the project website by the following Wednesday after the end of the module.
+
+**Late submissions:** Any deliverable submitted after this deadline will receive a penalty of –0.5 points on the module grade.
+
+**Feedback:** Students will receive qualitative feedback during the week following the submission deadline, to support learning and improvement.
+
 
 !!! info ""
 
-    :fontawesome-solid-circle-info:{ .icon-padding-right } **Grading criteria will be defined by faculty during the module.**
+    Final grades: Official grades will be communicated at the end of the Academy year.
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
