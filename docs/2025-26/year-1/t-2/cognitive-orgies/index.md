@@ -1,7 +1,7 @@
 ---
 title: Cognintive Orgies
 page_type: course
-track: Instrumentation
+track: Build
 course_type: Wrokshop
 feature_img: /assets/images/2024-25/year-1/t-2/challenge.png
 img_caption:
