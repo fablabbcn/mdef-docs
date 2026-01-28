@@ -97,8 +97,7 @@ All materials needed for the course will be provided by the faculty. The student
 ## Resources
 
 - [Microchallenge legacy](https://docs.google.com/spreadsheets/d/1RoIVwWUJukrAahuDsRjvr_WYvNp-9rfjk6qGn9mY8bo/edit?gid=387471898#gid=387471898)
-- [Miroboard - Challenge I](https://miro.com/app/board/uXjVLko8tfU=/?share_link_id=777421167048)
-- [Miroboard - Challenge II](https://miro.com/app/board/uXjVIcReVQI=/?share_link_id=879086890237)
+- [Miroboard - I](https://miro.com/app/board/uXjVGJ9nMDA=/?share_link_id=204937049784)
 
 ## Faculty
 
