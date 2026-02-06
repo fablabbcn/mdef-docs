@@ -9,6 +9,8 @@ faculty:
     - santiago-fuentemilla
     - mikel-llobera
     - adai-surinach
+    - julia-leirado
+    - andres-costa
 
 ects: 2
 ---
