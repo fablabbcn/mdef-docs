@@ -26,7 +26,7 @@ The program offers a balanced blend of theoretical knowledge and practical exper
 ### Learning Objectives
 
 - Develop skills in electronics production and embedded programming.
-- Explore advanced topics in wearable technology, soft robotics, biohacking, or skin electronics.
+- Explore advanced topics in wearable technology, soft robotics.
 - Gain hands-on experience in digital fabrication techniques.
 - Foster creativity and innovation through interdisciplinary experiences.
 
@@ -49,12 +49,12 @@ Bring in your laptop and any prototyping tools you have around such as a cutter,
 ## Schedule
 Students are required to select 4 elective modules from the following options:
 
-- [Electronics Design](https://academy.cba.mit.edu/classes/electronics_design/index.html), [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html) (2 modules)
+- [Electronics Design](https://academy.cba.mit.edu/classes/electronics_design/index.html), [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html) (counts as 2 modules)
 - [Embedded programming](https://academy.cba.mit.edu/classes/embedded_programming/index.html)
 - [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html)
 - [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html)
 - [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html)
-- [Mechanical design, Machine design](http://academy.cba.mit.edu/classes/machine_design/index.html) (2 modules)
+- [Mechanical design, Machine design](http://academy.cba.mit.edu/classes/machine_design/index.html) (counts as 2 modules)
 
 
 For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
@@ -62,7 +62,7 @@ For each selected module, students are required to attend (in the protolab) at m
 - **Local Classes:** Every Thursday or/and Friday from 9:30 am to 13:30 pm CET, depending on the week
 - **Global Class:** Every Wednesday at 15:00 pm CET with Neil Gershenfeld.
 
-In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules, **with an estimated personal dedication of 8 hours per week, distributed according to their individual schedules.**
+In addition to attending these sessions, students must actively complete all assignments and deliverables for their selected modules, **with an estimated personal dedication of at least 8 hours per week, distributed according to their individual schedules.**
 
 
 
