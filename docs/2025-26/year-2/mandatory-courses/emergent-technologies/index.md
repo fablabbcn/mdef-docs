@@ -85,7 +85,7 @@ Assessment is based on the timely submission and quality of the required assignm
 
 **Submission deadline:** All assignments must be published on the project website by the following Wednesday after the end of the module.
 
-**Late submissions:** Any deliverable submitted after this deadline will receive a penalty of –0.5 points on the module grade.
+**Late submissions:** Any deliverable submitted after this deadline will receive a penalty of –0.5 points on the module grade per day of delay.
 
 **Feedback:** Students will receive qualitative feedback during the week following the submission deadline, to support learning and improvement.
 
