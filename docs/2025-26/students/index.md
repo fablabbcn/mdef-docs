@@ -13,11 +13,11 @@ students:
         year: 1
     Aishwarya Kaura:
         photo: /assets/images/students/2025-26/MDEF01/8165.jpg
-        website: https://aishwaryakaura.github.io/AK_WEBSITE_MDEF-REPO/
+        website: https://aishwaryakaura.github.io/mdef-portfolio/
         year: 1
     Alejandra Cristina Rivera Zamacona:
         photo: /assets/images/students/2025-26/MDEF01/8045.jpg
-        website: https://aleriveraz.cargo.site/
+        website: https://aleriverazz.github.io/mdef/
         year: 1
     Antonio García Fernández:
         photo: /assets/images/students/2025-26/MDEF01/8195.png
@@ -85,7 +85,7 @@ students:
         year: 1
     Sıla Kara:
         photo: /assets/images/students/2025-26/MDEF01/8127.png
-        website: https://silakara.framer.website/
+        website: https://kara-sila.github.io/mdef-site/
         year: 1
     Swarna Manjari Chellapandi:
         photo: /assets/images/students/2025-26/MDEF01/7247.jpeg
