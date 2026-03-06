@@ -103,11 +103,15 @@ All materials needed for the course will be provided by the faculty. The student
 - [Microchallenge legacy](https://docs.google.com/spreadsheets/d/1RoIVwWUJukrAahuDsRjvr_WYvNp-9rfjk6qGn9mY8bo/edit?gid=387471898#gid=387471898)
 - [Miroboard - Cognitive Orgies I](https://miro.com/app/board/uXjVGJ9nMDA=/?share_link_id=204937049784)
 - [Presentation - Cognitive Orgies I](https://docs.google.com/presentation/d/1Rru6Fx4RufiaC_jblvPJQWsjWpBBzVkLMuqOS0Usg00/edit?slide=id.g1119e89b4c6_0_0#slide=id.g1119e89b4c6_0_0)
-- [Feedback Spreatsheet](https://docs.google.com/spreadsheets/d/1pI1C_Wl7ZARzleJdt9xOcr21rJzShhxtJP5q3lUmETI/edit?gid=524354771#gid=524354771)
+- [Feedback Spreatsheet I](https://docs.google.com/spreadsheets/d/1pI1C_Wl7ZARzleJdt9xOcr21rJzShhxtJP5q3lUmETI/edit?gid=524354771#gid=524354771)
 
 ### Cognitive Orgies II
 - [Miroboard - Cognitive Orgies II](https://miro.com/app/board/uXjVG7d8ITM=/?share_link_id=750671283465)
 - [Presentation - Cognitive Orgies II](https://docs.google.com/presentation/d/1Qyn69AXugZ1r8KaFXqjnfcbINejbZ7lnvqtA2pmHnrw/edit?usp=sharing)
+- [Feedback Spreatsheet II](https://docs.google.com/spreadsheets/d/1_QaFyAw4qKZMuYyoCOn8cU0u3QHUeS5uYnBiVFI2UcI/edit?usp=sharing)
+
+### [Cognitive Contribution Label](https://santifu.github.io/ccl/)
+
 
 
 ## Faculty
