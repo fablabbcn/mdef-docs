@@ -1,30 +1,34 @@
 ---
 title: Design Studio 03
 page_type: course
-track: Application
+track: Apply
 course_type: Seminar
 feature_img: /assets/images/2024-25/year-1/t-3/design-studio-03.jpg
 img_caption: Design Dialogues, 2023, Barcelona
 faculty:
-    - roger-guilemany
-ects: 15
+    - manuela-valtchanova
+ects: 12
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-MDEF Research, Design and Development studios aim to take research areas of interest and initial project ideas into an advanced concretion point, and execution plan. The studio structure in three terms could be understood as follows:
+**Design Studio 03 - Marketplace of Beliefs**
+MDEF studios aim to guide students from initial areas of inquiry toward situated, critical, and actionable design interventions. The three-term structure articulates a progression from understanding, to problematizing, to acting within complex contemporary conditions.
 
-**TERM 1 Research**: Understanding what it means to design for emergent futures. Analyzing the past and finding weak signals. References, state of the art. Identifying areas of interest. Experimenting from the first-person perspective.
+**TERM 1 Embodied Criticism**: Understanding what it means to design for emergent futures through situated and first-person inquiry. Students analyze past trajectories, identify weak signals, build references and state-of-the-art frameworks, and define their areas of interest. Experimentation focuses on positioning oneself within broader systems and recognizing personal entanglements as a starting point for design.
 
-**TERM 2 Design**: Forming the present through interventions in the real world. Building the foundations of your design space, forming strategic partnerships. Applying knowledge into practice through iterative prototyping. Testing ideas and prototypes in the real world.
+**TERM 2 Problematize**: Forming the present through critical interrogation and real-world interventions. Students problematize their projects across ethical, narrative, material, and spatial dimensions, constructing their design space while engaging with communities of practice. Through iterative prototyping and testing, they examine infrastructures, power structures, and contexts, refining their projects through feedback and situated action.
 
-**TERM 3 Development**: Refining interventions and identifying desirable futures. Establishing roadmaps for the construction of emergent narratives.. Communicating and disseminating your project through speculative design.
+**TERM 3 Marketplace of Beliefs**: Transforming problematizations into performative and collective interventions, this studio positions myth-making as an operative design practice for navigating conditions of crisis. Students develop mythologies as systems of belief that articulate narratives, actions, and strategies capable of engaging with contemporary realities while proposing alternative presents.
 
-The third term Design Studio aims to refine the work developed by the students during the first two terms of the Master program. After finding and engaging with their  communities of practice in the second term through a number of initial interventions, students will be encouraged to grow and consolidate those relationships and take a step further. They will design and deploy one last intervention that can serve as closure for their journey in the Master program. At the same time it will act as a launching pad for establishing the alternative presents where they will continue shaping their envisioned emergent futures after the end of the programme.
+Working in clusters, they construct myth ecosystems through audiovisual storytelling, individual and collective actions, and communication and dissemination strategies. These mythologies are not only conceptual but enacted, tested, and iterated as situated interventions.
+The term culminates in Marketplace of Beliefs, a collective exhibition framework in which each group stages 60-minute live, time-based exhibition. Within this setting, mythologies are activated as real, experiential, and persuasive systems—engaging audiences as participants, agents, and potential believers.
 
-**Keywords: Design Interventions, Community of Practice, Prototyping, 1st Person Research through Design, Design Space, Documentation and Communication, Alternative Presents, Emergent Futures**
+The third-term studio consolidates and extends the work developed in previous stages. Building on established communities of practice and prior interventions, students deepen their engagement through a final, situated action that integrates narrative, material, and spatial dimensions. This closing intervention operates both as a synthesis of the Master’s trajectory and as a launchpad for future practices—positioning students to continue constructing and enacting alternative presents beyond the program.
+
+**Keywords: Myth-making, Catastrophe, Design Interventions, Community of Practice, Collective Action, Performative Design, Speculative Futures, Narrative Systems, Phygital Exhibition, Virality, Situated Practice, Alternative Presents, Emergent Futures**
 
 ### Learning Objectives
 
