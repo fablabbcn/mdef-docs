@@ -185,60 +185,71 @@ Graphic extraction from the visual action and textual material combined with rec
 ## Bibliography and Background Research Material
 
 Abram, D. (1996). The spell of the sensuous: Perception and language in a more-than-human  world. New York, NY: Pantheon Books. 
-https://dn720004.ca.archive.org/0/items/the-spell-of-the-sensuous-perception-and-language-in-a more-than-human-world/The%20Spell%20of%20the%20Sensuous%20-%20Perception%20and %20Language%20in%20a%20More-Than-Human%20World.pdf 
-Anderson, I. (n.d.). Soundmapping beyond the grid: Alternative cartographies of sound. https://www.researchcatalogue.net/view/234645/234646 
-Archive of the Invisible Things Questionnaire. (n.d.). Invisibility Lab. 
-https://invisibilitylab.com/ 
-Barclay, L. (n.d.). Biosphere soundscapes. 
-https://leahbarclay.com/portfolio_page/biosphere-soundscapes/ 
-Fournier, A. (n.d.). Fermenting feminism. 
-https://e-artexte.ca/id/eprint/28709/1/FERMENTINGFEMINISM_FOURNIER.pdf 
-Gelderloos, P. (2016). The solutions are already here: Strategies for ecological revolution from  below. 
-https://archive.org/details/TheSolutionsareAlreadyHere/page/163/mode/2up Gibson, J. J. (1979). The ecological approach to visual perception. Boston, MA: Houghton Mifflin. 
-Guattari, F. (1992). Chaosmosis: An ethico-aesthetic paradigm. Paris: Éditions Galilée. https://monoskop.org/images/archive/2/24/20150326135144%21Guattari_Felix_Chaosmosis_An_Et hico-Aesthetic_Paradigm.pdf 
-Hackteria Network. (n.d.). Hackteria: Open source biological art. 
-https://www.hackteria.org/ 
-Jay, A. (n.d.). Creative coding projects and video feedback in video art. 
-https://andreijaycreativecoding.com/ 
-Kanngieser, A. (2020). Listening to ecocide: Listening as a method of being-with. https://amkanngieser.com/ 
-Martinho, C. (2019). Aural architecture practice: Creative approaches for an ecology of affect (Doctoral thesis). Goldsmiths, University of London. 
-https://research.gold.ac.uk/id/eprint/26374/ 
-Mbembe, A. (2011). Necropolitics. Durham, NC: Duke University Press. 
-https://sites.duke.edu/writing_is_thinking_f21/files/2021/10/Mbembe_Necropolitics.pdf 
-Mikrobiomik. (n.d.). Mikrobiomik research platform. 
-https://mikrobiomik.org/ 
+[https://dn720004.ca.archive.org/0/items/the-spell-of-the-sensuous-perception-and-language-in-a more-than-human-world/The%20Spell%20of%20the%20Sensuous%20-%20Perception%20and %20Language%20in%20a%20More-Than-Human%20World.pdf](https://dn720004.ca.archive.org/0/items/the-spell-of-the-sensuous-perception-and-language-in-a more-than-human-world/The%20Spell%20of%20the%20Sensuous%20-%20Perception%20and %20Language%20in%20a%20More-Than-Human%20World.pdf)
+
+Anderson, I. (n.d.). Soundmapping beyond the grid: Alternative cartographies of sound. [https://www.researchcatalogue.net/view/234645/234646](https://www.researchcatalogue.net/view/234645/234646) 
+
+Archive of the Invisible Things Questionnaire. (n.d.). Invisibility Lab. [https://invisibilitylab.com/](https://invisibilitylab.com/) 
+
+Barclay, L. (n.d.). Biosphere soundscapes. [https://leahbarclay.com/portfolio_page/biosphere-soundscapes/](https://leahbarclay.com/portfolio_page/biosphere-soundscapes/)
+
+Fournier, A. (n.d.). Fermenting feminism. [https://e-artexte.ca/id/eprint/28709/1/FERMENTINGFEMINISM_FOURNIER.pdf](https://e-artexte.ca/id/eprint/28709/1/FERMENTINGFEMINISM_FOURNIER.pdf) 
+
+Gelderloos, P. (2016). The solutions are already here: Strategies for ecological revolution from  below.[https://archive.org/details/TheSolutionsareAlreadyHere/page/163/mode/2up](https://archive.org/details/TheSolutionsareAlreadyHere/page/163/mode/2up) Gibson, J. J. (1979). 
+
+The ecological approach to visual perception. Boston, MA: Houghton Mifflin. 
+
+Guattari, F. (1992). Chaosmosis: An ethico-aesthetic paradigm. Paris: Éditions Galilée. [https://monoskop.org/images/archive/2/24/20150326135144%21Guattari_Felix_Chaosmosis_An_Et hico-Aesthetic_Paradigm.pdf](https://monoskop.org/images/archive/2/24/20150326135144%21Guattari_Felix_Chaosmosis_An_Et hico-Aesthetic_Paradigm.pdf) 
+
+Hackteria Network. (n.d.). Hackteria: Open source biological art. [https://www.hackteria.org/](https://www.hackteria.org/) 
+
+Jay, A. (n.d.). Creative coding projects and video feedback in video art. [https://andreijaycreativecoding.com/](https://andreijaycreativecoding.com/) 
+
+Kanngieser, A. (2020). Listening to ecocide: Listening as a method of being-with. [https://amkanngieser.com/](https://amkanngieser.com/) 
+
+Martinho, C. (2019). Aural architecture practice: Creative approaches for an ecology of affect (Doctoral thesis). Goldsmiths, University of London. [https://research.gold.ac.uk/id/eprint/26374/](https://research.gold.ac.uk/id/eprint/26374/) 
+
+Mbembe, A. (2011). Necropolitics. Durham, NC: Duke University Press. [https://sites.duke.edu/writing_is_thinking_f21/files/2021/10/Mbembe_Necropolitics.pdf](https://sites.duke.edu/writing_is_thinking_f21/files/2021/10/Mbembe_Necropolitics.pdf) 
+
+Mikrobiomik. (n.d.). Mikrobiomik research platform. [https://mikrobiomik.org/](https://mikrobiomik.org/) 
+
 Morton, T. (2007). Ecology without nature: Rethinking environmental aesthetics. Cambridge, MA:  Harvard University Press. 
+
 Morton, T. (2013). Hyperobjects: Philosophy and ecology after the end of the world. Minneapolis, 
 MN: University of Minnesota Press. 
-Neimanis, A. (2017). Bodies of water: Posthuman feminist phenomenology. London: Bloomsbury  Academic. 
-https://monoskop.org/images/9/90/Neimanis_Astrida_Bodies_of_Water_Posthuman_Feminist_Phe nomenology_2017.pdf 
-Neimanis, A. (2017). Hydrofeminism: Or, on becoming a body of water. 
-https://spacestudios.org.uk/wp 
-content/uploads/2017/11/hydrofeminism_or_on_becoming_a_body_of_water.pdf 
-Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more-than-human worlds.  Minneapolis, MN: University of Minnesota Press. 
-https://syllabus.pirate.care/library/Maria%20Puig%20de%20La%20Bellacasa/Matters%20of %20Care%20(171)/Matters%20of%20Care%20-%20Maria%20Puig%20de%20La%20Bellacasa.pdf 
-Recomposing the City. (n.d.). Sound, space, and urban ecologies. 
-https://www.recomposingthecity.org/ 
-Schafer, R. M. (1994). The soundscape: Our sonic environment and the tuning of the world.  Rochester, VT: Destiny Books. 
-https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment _and_the_Tuning_of_the_World_1994.pdf 
+
+Neimanis, A. (2017). Bodies of water: Posthuman feminist phenomenology. London: Bloomsbury  Academic. [https://monoskop.org/images/9/90/Neimanis_Astrida_Bodies_of_Water_Posthuman_Feminist_Phe nomenology_2017.pdf](https://monoskop.org/images/9/90/Neimanis_Astrida_Bodies_of_Water_Posthuman_Feminist_Phe nomenology_2017.pdf) 
+
+Neimanis, A. (2017). Hydrofeminism: Or, on becoming a body of water. [https://spacestudios.org.uk/wpcontent/uploads/2017/11/hydrofeminism_or_on_becoming_a_body_of_water.pdf](https://spacestudios.org.uk/wpcontent/uploads/2017/11/hydrofeminism_or_on_becoming_a_body_of_water.pdf) 
+
+Puig de la Bellacasa, M. (2017). Matters of care: Speculative ethics in more-than-human worlds.  Minneapolis, MN: University of Minnesota Press. [https://syllabus.pirate.care/library/Maria%20Puig%20de%20La%20Bellacasa/Matters%20of %20Care%20(171)/Matters%20of%20Care%20-%20Maria%20Puig%20de%20La%20Bellacasa.pdf](https://syllabus.pirate.care/library/Maria%20Puig%20de%20La%20Bellacasa/Matters%20of %20Care%20(171)/Matters%20of%20Care%20-%20Maria%20Puig%20de%20La%20Bellacasa.pdf 
+
+Recomposing the City. (n.d.). Sound, space, and urban ecologies. [https://www.recomposingthecity.org/](https://www.recomposingthecity.org/ 
+
+Schafer, R. M. (1994). The soundscape: Our sonic environment and the tuning of the world.  Rochester, VT: Destiny Books. [https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment _and_the_Tuning_of_the_World_1994.pdf](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment _and_the_Tuning_of_the_World_1994.pdf)
+
 Schön, D. A. (1983). The reflective practitioner: How professionals think in action. New York, NY:  Basic Books. 
-Shaqair, M. (n.d.). Ecocide / Urbicide (Activist research platform). 
-https://stopthewall.org/ 
-Syllabus (Pirate Care). (n.d.). Pirate Care syllabus. 
-https://syllabus.pirate.care/ 
-Truax, B. (1984). Acoustic communication. Norwood, NJ: Ablex Publishing. https://monoskop.org/images/1/13/Truax_Barry_Acoustic_Communication.pdf 
+
+Shaqair, M. (n.d.). Ecocide / Urbicide (Activist research platform). [https://stopthewall.org/](https://stopthewall.org/) 
+
+Syllabus (Pirate Care). (n.d.). Pirate Care syllabus. [https://syllabus.pirate.care/](https://syllabus.pirate.care/) 
+
+Truax, B. (1984). Acoustic communication. Norwood, NJ: Ablex Publishing.[https://monoskop.org/images/1/13/Truax_Barry_Acoustic_Communication.pdf](https://monoskop.org/images/1/13/Truax_Barry_Acoustic_Communication.pdf) 
+
 Turner, V. (1969). The ritual process: Structure and anti-structure. Chicago, IL: Aldine. 
-Wark, M. (2004). A hacker manifesto. Cambridge, MA: Harvard University Press. https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf 
-Projects referenced during the lecture: 
-Dinamo Espai: Sonic experimentation and community DIY-DIWO-DIT. 
-http://dinamoespai.org/ 
-João Gonçalo Lopes : Glossário do Vidro: community-based design, architecture, and pedagogy. https://joaogoncalolopes.pt/ 
-Kònic Lab. - Ecoss. 
- https://koniclab.info/en/ and https://ecoss.barcelona/2025_tardor/ 
-Marina Barsey Janer & Isil Sol Vil : Biomimetic performance and body art.
-https://www.marinaxisil.art/en/performance/ and https://www.materic.org/ 
-Martin, Óscar (aka Oskoff): Bioart installation using slime mold (Physarum polycephalum) and  genetic algorithms to create a non-human composer. 
-https://noconventions.mobi/noish/hotglue/ 
+
+Wark, M. (2004). A hacker manifesto. Cambridge, MA: Harvard University Press.[https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf](https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf)
+
+**Projects referenced during the lecture**: 
+Dinamo Espai: Sonic experimentation and community DIY-DIWO-DIT. [http://dinamoespai.org/](http://dinamoespai.org/)
+
+João Gonçalo Lopes : Glossário do Vidro: community-based design, architecture, and pedagogy. [https://joaogoncalolopes.pt/](https://joaogoncalolopes.pt/) 
+
+Kònic Lab. - Ecoss. [https://koniclab.info/en/](https://koniclab.info/en/) 
+
+Marina Barsey Janer & Isil Sol Vil : Biomimetic performance and body art. [https://www.marinaxisil.art/en/performance/](https://www.marinaxisil.art/en/performance/) and [https://www.materic.org/](https://www.materic.org/) 
+
+Martin, Óscar (aka Oskoff): Bioart installation using slime mold (Physarum polycephalum) and  genetic algorithms to create a non-human composer. [https://noconventions.mobi/noish/hotglue/](https://noconventions.mobi/noish/hotglue/) 
 
 ## Faculty
 
