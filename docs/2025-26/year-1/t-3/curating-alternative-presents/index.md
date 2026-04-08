@@ -1,7 +1,7 @@
 ---
-title: Curating Alternative Presents
+title: MDEFest Curation
 page_type: course
-track: Reflection
+track: Reflect
 course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-3/curating-alternative-presents.jpg
 img_caption: Credit | Citizens of the World. Miguel Adrover spring 2003 fashion show.
@@ -43,34 +43,33 @@ Curation, Narratives, Exhibition Design, Critical Reflection
 
 ## Schedule
 
-=== "28/04 - 9:30 to 13:30"
+=== "Session 1"
 
     - Course Introduction + dynamics + objectives
     - Cluster agreement + first draft proposals
     - Production teams agreement + first draft proposals
 
-=== "13/05 - 8:00 to 10:00 - ONLINE"
+=== "Session 2"
 
     - Cluster dynamics presentation and feedback
     - Production dynamics presentation and feedback
     - Communication Plan
 
-=== "02/06 - 14:30 to 16:30"
+=== "Session 3"
 
     - Cluster dynamics presentation and feedback
     - Production dynamics presentation and feedback
 
-=== "10/06 - 9:30 to 13:30"
+=== "Session 4"
 
     - Final Rehearsal
 
 
 ## Deliverables
 
-- Flag
-- Exhibition supports
+- Exhibition material concept
+- Exhibition material production
 - Communication Plan
-- Blueprints
 
 
 ## Grading Method
@@ -78,8 +77,8 @@ Curation, Narratives, Exhibition Design, Critical Reflection
 | Percentage  | Description                         |
 | ----------- | ------------------------------------|
 | 40%         | Participation                     |
-| 20%         | Flag Design    |
-| 30%         | Blueprints                        |
+| 20%         | Exhibition material concept    |
+| 30%         | Exhibition material production                       |
 | 10%         | Personal reflections               |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
