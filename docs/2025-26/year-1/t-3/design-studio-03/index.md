@@ -168,61 +168,25 @@ The specific goals are the following:
 
 ## Schedule
 
-=== "14/04"
+=== "13/04"
 
-    #### **Landing Kick off - Framing your first Design Intervention for Term III**
+    #### **Catastrophe Time and The Marketplace of Beliefs**
 
-    **Goals**: Critically look back at your project, reflect on the feedback from the Design Dialogues, and propose a first design intervention for the term.
+=== "30/04"
 
-    **Activity**: Briefly present in class 3 of the main learning points from the 2nd trimester. Present your personal alternative present. 
+    #### **Myths  01 + 02**
 
-    **Deliverable**: A presentation based on the research and design interventions from Terms I and II and a plan for Term III.
+=== "11/05"
 
-    **Task**: Start preparing and carrying out your first design intervention.
+    #### **Myths  03 + 04**
 
-=== "12/05"
+=== "26/06"
 
-    #### **Scalability - Designing yourself out - Decentralized strategies for sustaining continuity and scalability.**
+    #### **Myths 05 + 06**
 
-    **Goals**: Sustaining your activities and impact in a more decentralized manner, enabling for the extension of capacity and globalization of the efforts. Understanding your emerging profiles and roles.
-    
-    **Activity 1**: Reflect on the structural, narrative, documentation and outreach dimensions of your interventions.
+=== "08/06"
 
-    **Activity 2**: Q&A, extrapolating ideas, identifying milestones, turning points, roles and strategies undertaken towards your alternative present.
-      
-    **Deliverable**: Visualize the socio-technical system of your project (updated Design Space). Show possible paths of growth with new or existing actors.
-      
-    **Task**: Create a scalability roadmap using the strategies presented in class.
-
-=== "26/05"
-
-    #### **Personal narratives, collective storytelling. Forms of 1PP Documentation and Communication.**
-
-    **Goals**: Learn new ways of documenting and communicating. Integrate documentation and communication as part of your daily activities. 
-    
-    **Activity**: Reflect on how you are documenting and communicating your process within the courses and the project. 
-    
-    **Deliverable**: Propose a structured narrative for your project. Write a post with a reflection on the communication strategy that you are devising for the next stages of your project.
-    
-    **Task**: Choose one1 or more roles and formats of communication and put them into practice. 
-
-=== "16/06-20/06"
-
-    #### **MDEFest**
-
-    **Goals**: MDEFest aims to celebrate the end of the Masters’ journey by offering a series of sessions hosted by the students on the topics and projects they worked on all year long.
-    
-    **Activity**: Sessions can be digital or physical (with remote streaming), done individually or in groups (preferably) and can be in the format of a workshop, a debate, a visit, a meetup or any kind of format the students find suitable for this experience.
-
-    **Deliverable**: To hold the sessions planned for the Fest.
-
-    #### **Elisava-Beyond Grad Show**
-
-    **Activity**: Exhibition showcasing prototypes, results and outcomes from Elisava’s Final Master Projects. Students will set up the exhibition prior to the opening and will dismantle it afterwords.  The set up and dismantling dates date will be confirmed.
-
-=== "04/07"
-
-    #### **IAAC Master Exhibition Opening and Awards Ceremony**
+    #### **Marketplace of Beliefs: Critical Overview**
      
     **Activity**: Exhibition showcasing prototypes, results and outcomes from IAAC’s Final Master Projects. The opening will also hold the Award Ceremony for IAAC 2024-25 projects. The set up date will be confirmed.
 
