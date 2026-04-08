@@ -1,86 +1,72 @@
 ---
-title: Communicating Ideas 
+title: Narratives III
 page_type: course
-track: Reflection
-course_type: Seminar
-feature_img: /assets/images/2024-25/year-1/t-3/communicating-ideas.png
-img_caption: Credit | Open AI Dall-e
+track: Reflect
+course_type: Workshop
+feature_img: /assets/images/2024-25/year-1/t-1/narratives-1.png
+img_caption: 
 faculty:
-    - pablo-zuloaga
-ects: 2
+    - ane-guerra
+ects: 1
 ---
 
 {{ insert_banner() }}
 
 ## Syllabus
 
-**Communicating Ideas - Second Term: Development and Execution of Communication Strategies**
+This short course will delve into the importance of narratives and storytelling when explaining our projects, which often include complex and abstract information that the general public finds difficult to relate to. We will create a space to discuss and exercise judgment in the face of new, rapidly developing tools such as Natural Language Processors, and we will seek to define and, of course, draft our manifesto, which will serve as our roadmap throughout the course.
 
-This course progresses from the foundational communication skills developed in the first term, focusing on the practical application of those skills. Students will refine their ability to effectively communicate their design projects, utilizing digital channels and multimedia content, culminating in the delivery of an effective elevator pitch and a project website.
-
-**Keywords: Storytelling, Communication, Multimedia, Digital Strategy, Elevator Pitch** 
+**Keywords: Storytelling, narratives, writing**
 
 ### Learning Objectives
 
-- **Development of Messages and Communication Plan:** Equip students with the necessary tools to develop clear and effective messages and strategies for their projects, utilizing various digital communication channels.
-- **Creation of Multimedia Content:** Guide students in the creation of attractive and professional content, such as teaser videos, to promote their projects.
-- **Preparation of Effective Presentations:** Assist students in developing and perfecting their elevator pitch and other oral presentation forms in front of different audiences.
-
-### Methodological Strategies
-
-- Case studies.
-- Workshops.
-- Project-based learning.
-- Peer learning.
+- We will discover narratives as stories we tell ourselves to give meaning, value and significance to our projects.
+- We will use storytelling as an ancient human tool.
+- We will understand basic ideas about how to interact and connect with the audience.
+- We will create a thread that guides our research so that it has a solid narrative.
 
 ## Schedule
 
-=== "Class 1"
+=== "Term I"
 
-    **Development of Messages and Selection of Communication Channels**
+    **MANIFESTO**
 
-    - Identification of project key messages.
-    - Selection and optimization of digital communication channels.
-    - Message development workshop.
-    - Analyze communication channels and strategic selections.
-    - Social media profile creation and management.
-    - Content planning and editorial calendar setup.
+    We will create a text that will serve as a personal and professional positioning statement and as a personal manifesto for our practice.
 
+=== "Term II"
 
-=== "Class 2"
+    **NARRATIVE**
 
-    **Creation of Multimedia Content**
+    We will work on a document that structures the evolution of our positioning and research.
 
-    - Theory of creating teaser videos.
-    - Structure of case videos and teaser videos.
-    - Structure and production of visual communication material.
+=== "Term III"
 
+    **THE PROPOSAL and SCRIPTS**
 
-=== "Class 3"
-
-    **Preparation and Execution of Effective Presentations**
-
-    - Elevator pitch structure and techniques.
-    - Elevator pitch workshop with detailed structure.
-    - Analysis of elevator pitch examples and resources.
-    - Project website development.
-
+    We will conclude the course by developing the project proposal and its potential areas for development and action. We will also learn how to create a basic script for the audiovisual format.
     
+
+### Methodological Strategies
+
+We will work with:
+
+- Case studies
+- Workshops
+- Lectures
+- Project-based learning
+- In-class writing
+
+
 ## Deliverables
 
-- Message and content identification plan
-- Teaser video to promote their projects
-- Elevator pitch for their project
- 
+This is stated in the “Structure and Phases” section.
+
 ## Grading Method
 
-| Percentage  | Description                         |
-| ----------- | ------------------------------------|
-| 20%         | Communication Plan                       |
-| 20%         | Teaser video    |
-| 20%         | Case video                       |
-| 20%         | Final Presentation - Elevator Pitch                     |
-| 20%         | Project Mini Site                       |
+| Percentage  | Description                                     |
+| ----------- | ------------------------------------            |
+| 40% | Class participation and class culture and attitude      |
+| 60% | Text deliverables                                       |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
