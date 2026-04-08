@@ -187,43 +187,91 @@ The specific goals are the following:
 === "08/06"
 
     #### **Marketplace of Beliefs: Critical Overview**
-     
-    **Activity**: Exhibition showcasing prototypes, results and outcomes from IAAC’s Final Master Projects. The opening will also hold the Award Ceremony for IAAC 2024-25 projects. The set up date will be confirmed.
-
-=== "05/07"
-
-    #### **Graduation Ceremony**
     
 
 ## Deliverables
 
-**End of academic year deliverables - Due date: 15th of June.**
+**Marketplace of Beliefs: Critical Overview**
+     
+**Goals**: 
+    - Critically assess the mythologies as operative systems, reflecting on their capacity to construct, activate, and sustain belief.
+    - Evaluate the 60-minute exhibition enactments as experiential, spatial, and performative environments. 
+    - Reflect on the relationship between narrative, action, desire, and exhibition, identifying strengths, gaps, and tensions. 
+    - Consolidate the learning trajectory of the term, linking individual contributions to collective outcomes. 
+    - Position each project as a launchpad for future practice, identifying potential continuities and evolutions. 
 
-- **10 high resolution images** of the **results of your project**
-- **1 high resolution poster** or graphic document with more than 1 page of your **Design Space evolution, including your first Design Space and the last Design Space**
-- **A 90" video**
-- Complete the **Spreadsheet with your project’s information**
-- Selected physical exhibition material for **IAAC and Elisava exhibitions** TBC with Chiara
+**Activities**:
+    1. Collective Debrief (45 min)
+    - Open discussion on the Marketplace of Beliefs as a whole 
+    - Key questions: 
+    . What kinds of beliefs were constructed and activated? 
+    . Which strategies generated engagement, resistance, or ambiguity? 
+    . How did the exhibition operate as a marketplace (exchange, persuasion, participation)? 
 
-**End of academic year deliverables - Due date: 27th of June.**
+    2. Cluster-Based Critical Review (90 min)
+    Each cluster presents a critical reflection (10–12 min) including:
+    - Overview of their mythology across the four pillars 
+    - Documentation of the 60-minute exhibition 
+    - Analysis of audience engagement and responses 
+    - Identification of successes, failures, and unexpected outcomes 
+    Followed by:
+    - Faculty + peer feedback 
+    - Comparative discussion across clusters 
 
-- **Written document - Pictorial** for the final publication
+    3. Cross-Project Reflection (30 min)
+    - Mapping connections between mythologies 
+    - Identifying shared themes, conflicts, and divergences 
+    - Discussing the collective narrative of the cohort 
+
+    4. Forward Projection (15 min)
+    - Individual reflection: 
+    . How does this project evolve beyond the studio? 
+    . What remains open, unresolved, or expandable? 
+    - Positioning projects within future practices and contexts 
+
+**Outcome**
+    - Critical assessment of each mythology and exhibition 
+    - Consolidated understanding of the four pillars as a design methodology 
+    - Clear articulation of each project’s future trajectory beyond the program
 
 ## Evaluation Strategies
 
-**These are the points we are going to look at for Term 3**
+Evaluation is based on the development and activation of each mythology across the four pillars: Myth Narrative, Make Believe, Make Desire, and Phygital Exhibition, culminating in the Marketplace of Beliefs.
 
-- Involvement of the community through the design interventions
-- Framing opportunities considering resilience, material flows, situated knowledges and existing infrastructures in your design process
-- From alternative presents to emergent futures: Develop a sustainability plan for your projects and a structured narrative strategy
+**Assessment Breakdown**
+
+Faculty Evaluation — 60%
+
+- Myth Construction & Coherence (20%) - Consistency and strength of the mythology across the four pillars. 
+- Performative & Collective Action (20%) - Quality of individual and collective interventions and their capacity to activate contexts and communities. 
+- Exhibition as Experiential System (20%) - Effectiveness of the 60-minute live exhibition, including spatial design, audience engagement, and performative intensity. 
+
+Peer Evaluation — 40%
+(By students not exhibiting on that day)
+
+Peer evaluation follows the same criteria as faculty evaluation, assessing:
+- Myth Construction & Coherence (15%)
+- Performative & Collective Action (15%)
+- Exhibition as Experiential System (10%) 
+Students evaluate each mythology as active participants in the Marketplace of Beliefs, considering how the project operates as a real, experiential, and persuasive system.
+
+Peer Evaluation Prompt
+
+As participants in the Marketplace of Beliefs, assess each project based on:
+1. Myth Construction & Coherence
+   How clearly and consistently is the mythology articulated across narrative, actions, desire strategies, and exhibition?
+2. Performative & Collective Action
+   How effectively does the project translate into individual and collective interventions?
+3. Exhibition as Experiential System
+   How successfully does the 75-minute exhibition engage, activate, and immerse the audience?
 
 
 ## Grading Method
 
 | Percentage  | Description                                     |
 | ----------- | ------------------------------------            |
-| 50%         | Faculty (including Pictorial)          |
-| 50%         | Self-Evaluation                                 |
+| 60%         | Faculty Evaluation          |
+| 40%         | Peer Evaluation                                |
 
 !!! ects "European Credit Transfer and Accumulation System (ECTS)"
 
