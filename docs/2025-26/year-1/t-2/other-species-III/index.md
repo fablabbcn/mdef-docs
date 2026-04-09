@@ -27,8 +27,10 @@ Students develop monographic sonoplastic experiments by collecting, recording, e
 body-grammar worked in class and a self-published memory-documentation, which together function as a situated archive for future storytelling and knowledge transmission of care. 
 
 **Course Contents**: 
-1. **Conceptual grounding - Chaosmosis and the Otherness**: Co-creating within sacrificed  more-than-human pluriverse and necropolitical urban–rural socio-ecological zones and  hydrofeminism (soft sciences) 
-2. **Care protocols and Reflection-through-doing as DIY–DIWO–DIT Metabolisms of  Emergency and Resistance for future storytelling**: implementation, more-than-human  protocols with institutions and entities economies (care as piracy and piracy as  care) 
+1. **Conceptual grounding - Chaosmosis and the Otherness**: Co-creating within sacrificed  more-than-human pluriverse and necropolitical urban–rural socio-ecological zones and  hydrofeminism (soft sciences)
+   
+2. **Care protocols and Reflection-through-doing as DIY–DIWO–DIT Metabolisms of  Emergency and Resistance for future storytelling**: implementation, more-than-human  protocols with institutions and entities economies (care as piracy and piracy as  care)
+   
 3. **Embodied experimentation - Situated Sonoplastic Plural and Polyphonic Toolkits**: Acoustic ecologies / video art / botanics / geology / microbiology / Biomaterials /  concrete-storytelling / self-editions-publications (hard sciences and art brut) 4. Collective making - The Happening and Brutalism as DIY-DIWO-DIT intervention  and memory-documentation transmission – Chaosmosis: Inoculating (M)other  languages (eco-ritual) 
 
 
@@ -55,63 +57,97 @@ botanics, geology, microbiology, sound poetry, performance, and biomaterials, cr
 
 ### Day 1 - 9:30-11:30
 **AOUCH LAB — Tactability / Sense of Existence I & II** 
+
 **Tasks / Actions**: 
 ● Participate in sensory and group attunement exercises. 
-● Complete the Archive of the Invisible Things questionnaire. 
+
+● Complete the Archive of the Invisible Things questionnaire.
+
 ● Explore laboratory tools and transdisciplinary materials (sound, video, microscopy, biomaterials,  zines) interacting with sonoplastic references and short case studies. 
+
 ● Learn and discuss human and more-than-human care protocols.
+
 **Skills**: Sensory attunement; embodied perception; laboratory exploration; transdisciplinary tool  literacy; ethical awareness; more-than-human care; critical observation; collective learning. 
 
 ### Day 1 - 11:45-13:30
 **SONOPLASTIC TOOLKIT — Fieldwork Preparation** 
+
 **Tasks / Actions**: 
 ● Learn basic principles of acoustic ecology and sound recording. 
+
 ● Learn experimental video practices using mobile devices. 
-● Receive instructions and ethical guidelines for fieldwork. 
+
+● Receive instructions and ethical guidelines for fieldwork.
+
 ● Learn protocols for collecting sound, video, and biomaterial samples. 
+
 **Skills**: Acoustic ecology fundamentals; sound recording; experimental mobile video; sampling protocols;  technical preparation; field ethics; problem-solving; risk awareness. 
 
 ### Day 1 - Onward (Independent Work) 
 **LET’S GET LOST — Cartography of Intimate Lost Places** 
+
 **Tasks / Actions**: 
 ● Conduct a field search in an urban–rural location. 
+
 ● Record sound and video. 
-● Collect biomaterial samples when appropriate. 
+
+● Collect biomaterial samples when appropriate.
+
 ● Document bodily and sensory experiences. 
+
 **Skills**: Field research; site-responsive practice; audio–video documentation; biomaterial collection;  autonomous inquiry; spatial listening; situated critical reflection. 
 
 ### Day 2 - 9:30-10:30
 **PEDAGOGICAL CONTAMINATION & CRITICAL EMBODIMENT** 
+
 **Tasks / Actions**: 
 ● Review key concepts collectively. 
+
 ● Write an automatic poem based on the field experience.
+
 ● Share and discuss texts and reflections. 
+
 **Skills**: Critical reflection; automatic writing; vocal reading; conceptual synthesis; embodied cognition;  dialogical exchange; reflexive pedagogy. 
 
 ### Day 2 - 10:45-13:30
 **CHAOSMOSIS IN ONE DROP — Laboratory & MASH-UP** 
+
 **Tasks / Actions**: 
 ● Build Petri dishes using collected biological samples. 
+
 ● Observe and document biological processes with microscopy. 
+
 ● Edit a 49-second sound experiment. 
+
 ● Edit a 49-second video experiment. 
+
 ● Select one image and one sound file for publication. 
+
 **Skills**: Basic microbiology; laboratory documentation; microscopy observation; sound editing; video  editing; audiovisual composition; material experimentation; iterative research. 
 
 ### Day 3 - 9:30-11:30
 **CUT & GLUE ARCHIVE — GLÁNDULAS SYNTAX III** 
+
 **Tasks / Actions**: 
 ● Create a collective sonographic zine. 
-● Combine one image, one text, and one sound per participant. 
-● Assemble the master zine using collage and handwriting. 
+
+● Combine one image, one text, and one sound per participant.
+
+● Assemble the master zine using collage and handwriting.
+
 ● Upload sound and video files. 
+
 ● Prepare the space and equipment for the happening. 
+
 **Skills**: DIY publishing; collage techniques; sonographic archiving; collective authorship; editorial decision-making; analog–digital translation; memory construction. 
 
 ### Day 3 - 11:45-13:30
+
 **MORE-THAN-HUMAN BODY LAB & THE CHAOSMOSIS SONOPLASTIC ACT Tasks / Actions**: 
 ● Participate in the Body Lab with guest artists Marina Barsey Janer & Isil Sol Vil  ● DATA-ACTION-DATA : Perform in the collective sonoplastic happening. 
+
 ● Engage in collective reflection and pedagogical contamination. 
+
 **Skills**: Performance practice; live audiovisual mixing; vocal experimentation; embodied interaction;  collaboration; systems thinking; praxis-based evaluation; collective transmission.  
 
 ## Metodological Strategies
