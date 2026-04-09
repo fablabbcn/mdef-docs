@@ -3,7 +3,7 @@ title: Research Trip 2026 - Senegal
 page_type: course
 track:
 course_type: workshop
-feature_img: /assets/images/2024-25/year-1/research-trip/portada.jpg
+feature_img: /assets/images/2025-26/year-1/research-trip/portada.jpg
 img_caption: 
 faculty:
 ---
