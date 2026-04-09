@@ -1,8 +1,8 @@
 ---
-title: Research Trip 2025 - Italian Alps
+title: Research Trip 2026 - Senegal
 page_type: course
 track:
-course_type:
+course_type: workshop
 feature_img: /assets/images/2024-25/year-1/research-trip/portada.jpg
 img_caption: 
 faculty:
@@ -12,31 +12,35 @@ faculty:
 
 ## MDEF Research Trips
 
-***Valle Camonica - Italy*** </br>
-***April 6th - 12th, 2025***
+***Senegal, Africa*** </br>
+***March 19th - 30th, 2026***
 
-The MDEF program views the Research Trip format as a research residency in an unconventional setting. This allows us to step away from typical urban environments, where for example, seeing the direct impacts of climate change firsthand can be challenging. Over a week, we engage in research practices deeply rooted in the local context, collaborating with the people, the landscape, and the unique knowledge they offer.
+**Buum, pont, mort (Rope, nail, hammer)**
+MDEF Senegal Research Trip 2026
 
-Over the past three years, we have explored locations like Mallorca, El Hierro, and the Pyrenees in the French Cerdanya. Our focus has always been on unique ecosystems, fostering community-based workspaces, and selecting relatively nearby locations to minimize our CO2 emissions.
+This year, we will travel to Senegal, engaging with diverse territories—from coastal cities to rural communities—to explore situated practices of making, repairing, and sustaining life.
 
-This year, we will travel to the **Italian Alps**, at an elevation of over 2,000 meters. This setting will allow us to design with a focus on climate awareness while working alongside local communities.
+Through encounters with artisans, collectives, and local initiatives, the trip will focus on material cultures, community infrastructures, and regenerative practices grounded in everyday resilience.
 
 ![](/assets/images/2024-25/year-1/research-trip/water.jpg)
 
-## Why the Alps?
+## Why Senegal?
 
-***Inclusive and regenerative innovation for resilient futures.***
+***Craft, community, and resilience as infrastructures for living.***
 
-Valle Camonica represents an extraordinary testimony of interaction between the human and the non-human, a place where history and nature intertwine uniquely. This valley offers thematic and creative insights ranging from prehistory to the contemporary era, encompassing artisanal traditions and technological innovation.
+Senegal offers a rich ecosystem of vernacular knowledge, collective practices, and material intelligence, where making is deeply embedded in social, economic, and environmental realities.
 
-Students will participate in a week of research activities in a unique location that offers a diversity of opportunities to experiment, learn and reflect about ecosystemic regeneration and striving for resilience.
+From urban contexts like Dakar and Saint-Louis to rural territories such as Casamance, the country reveals how communities develop adaptive strategies through craft, reuse, and cooperation. These practices challenge dominant notions of innovation and open up alternative ways of thinking about design as a situated and relational act.
+
+Students will participate in a week of research activities across multiple locations, engaging directly with local actors to understand how knowledge is produced, shared, and sustained.
 
 ### ***Goals and Methodology***
 
-After taking the first steps in the MDEF methodology, we open a parenthesis in the masters’ program to connect to a very unique landscape and ecosystem in the Italian Alps to reflect and put into practice some of the ideas, topics and techniques we have shared during our first year of the course.
+After the first phase of the MDEF journey, this research trip creates a pause to step outside familiar contexts and immerse in radically different ways of living and making.
 
-Through **exploratory visits**, **material experiments** and **reflection sessions**, participants will get the chance to learn profound techniques of working in-between living ecosystems in a unique mountain context.  We will follow the water, from the Adamello Glacier to the Iseo Lake.
+Through field visits, hands-on workshops, and collective reflection sessions, participants will explore design as a practice rooted in resourcefulness, interdependence, and cultural specificity.
 
+We will follow materials and practices across territories—from metal and plastic to textile, clay, and wood—understanding how they are transformed through local knowledge systems and community infrastructures.
 
 ### Some insights from Valle Camonica
 
