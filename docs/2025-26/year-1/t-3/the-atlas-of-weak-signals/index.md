@@ -1,13 +1,13 @@
 ---
 title: The Atlas of Weak Signals 
 page_type: course
-track: Reflection
+track: Reflect
 course_type: Workshop
 feature_img: /assets/images/2024-25/year-1/t-3/weak-signals-2.jpg
 faculty:
     - jessica-guy
     - julia-bertolaso
-ects: 2
+ects: 1
 ---
 
 {{ insert_banner() }}
@@ -31,11 +31,6 @@ This workshop focuses on collaboratively reviewing the Atlas of Weak Signals, re
 
 Different methodological strategies that will allow the development of the learning skills and results.
 Example:
-- Horizon Scanning 
-- CIPHER workshop sheet and methodology
- 
-Other types of learning strategies associated with the program experience.
-Example:
 - Peer learning.
 - Team-based learning.
 - Critical Inquiry 
@@ -43,23 +38,14 @@ Example:
 
 ## Schedule
 
-=== "Wednesday 03.04.2024"
+=== "Tuesday 28.04.2026"
 
-    #### ***Wednesday 03.04.2024, 10:00 - 14:00 and 15:00 - 17:30***
-
-    Workshop sessions will be divided into five on each other building moments. 
-
-    - Revisiting the AOWS - Collective sharing round and reflection 
-    - Horizon scanning exercise - reviewing their areas of research and materializing trends
-    - Utilizing existing methods to frame signals and test them for their validity 
-    - Polarization and provocation - A critical reflection on the identified signals 
-    - Creative expression of the newly identified Signals
-    - Upload of Signal cards to a shared repository 
+    #### ***Tuesday 28.04.2026, 9:30 - 12:30***
 
 
 ## Deliverables
 
-Each student will be tasked with prototyping a card of the Atlas of Weak Signals (AOWS).. Throughout this process, students will reflect on the polycrisis factors, critically and explore unconventional ideas. They will consider the tools and resources necessary to uncover unseen and unheard stories, allowing them to identify weak signals effectively. By critically evaluating their approach and identifying potential barriers they are invited to think beyond conventional boundaries and how to include pluralistic approaches in their design practice. 
+Students will be tasked with prototyping a card of the Atlas of Weak Signals (AOWS). Throughout this process, students will reflect on the polycrisis factors, critically and explore unconventional ideas. They will consider the tools and resources necessary to uncover unseen and unheard stories, allowing them to identify weak signals effectively. By critically evaluating their approach and identifying potential barriers they are invited to think beyond conventional boundaries and how to include pluralistic approaches in their design practice. 
 
 ## Grading Method
 
