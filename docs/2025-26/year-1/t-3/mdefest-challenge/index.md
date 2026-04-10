@@ -1,5 +1,5 @@
 ---
-title: MDEFest Fabrication Challenge: Autonomous Making in Distributed Collectives
+title: MDEFest Fabrication Challenge:Autonomous Making in Distributed Collectives
 page_type: course
 track: Instrumentation
 course_type: Wrokshop
