@@ -3,7 +3,7 @@ title: Research Trip 2026 - Senegal
 page_type: course
 track:
 course_type: workshop
-feature_img: /assets/images/2025-26/year-1/research-trip/portada.jpg
+feature_img: /assets/images/2025-26/year-1/research-trip/portada.JPG
 img_caption: 
 faculty:
 ---
@@ -22,7 +22,7 @@ This year, we will travel to Senegal, engaging with diverse territories—from c
 
 Through encounters with artisans, collectives, and local initiatives, the trip will focus on material cultures, community infrastructures, and regenerative practices grounded in everyday resilience.
 
-![](/assets/images/2025-26/year-1/research-trip/senegal.jpg)
+![](/assets/images/2025-26/year-1/research-trip/senegal.JPG)
 
 ## Why Senegal?
 
@@ -54,13 +54,13 @@ In Saint-Louis, we will encounter practices that transform everyday materials in
 
 **Fishermen communities**: reuse of painted wood from fishing boats to create furniture for children in the neighborhood.
 
-![](/assets/images/2025-26/year-1/research-trip/maisa.jpeg)
+![](/assets/images/2025-26/year-1/research-trip/maisa.JPG)
 
 *Thiès: Recycling as infrastructure*
 
 Proplast (@recuplast_officiel): visit to a plastic recycling plant, examining how waste becomes a resource and how local systems respond to global material flows.
 
-![](/assets/images/2025-26/year-1/research-trip/proplast.jpg)
+![](/assets/images/2025-26/year-1/research-trip/proplast.JPG)
 
 *Edioungou (Casamance): Craft, care, and embodied knowledge*
 
@@ -76,7 +76,7 @@ In Casamance, we will work closely with women-led associations and artisan commu
 
 These practices reveal how craft operates as a form of autonomy, care, and knowledge transmission.
 
-![](/assets/images/2025-26/year-1/research-trip/poterie.jpg)
+![](/assets/images/2025-26/year-1/research-trip/poterie.JPG)
 
 *Dakar: Memory, history, and social infrastructures*
 
@@ -84,7 +84,7 @@ Gorée Island: a site of memory and reflection on the history of the transatlant
 
 Sam Sam 3: visit to community schools (cooking, carpentry, agriculture) developed over 20 years by Sister Regina, engaging with education as a long-term social infrastructure in one of Dakar’s most vulnerable neighborhoods.
 
-![](/assets/images/2025-26/year-1/research-trip/samsam.jpg)
+![](/assets/images/2025-26/year-1/research-trip/samsam.JPG)
 
 ## Approach
 
