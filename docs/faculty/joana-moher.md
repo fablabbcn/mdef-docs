@@ -11,6 +11,7 @@ socials:
     instagram: https://www.instagram.com/joana_moher/
     github:
 ---
+
 Born in São Pedro de Moel, Portugal, and based in Montcada i Reixac, Barcelona (Catalonia), Joana Moher is a bruitist, migrant, domestic experimentalist, dyslexic researcher, sonoplastic storyteller, and biomaterialist. She is formally trained as an educator, sociologist, and psychopedagogue. Her practice operates at the intersection of research–make–educate processes, developed through DIY–DIWO–DIT radical pedagogical methodologies and creative didactics, and grounded in sonoplastia—a Portuguese concept rooted in sono–pláthos. 
 Each sonoplastic experiment functions as a situated, monographic research practice that critically and carefully engages with necropolitical urban–rural sacrificed socio-ecological zones and with natureculture relations among human, non-human, and more-than-human co-creators. Through acoustic ecologies, inner noises, concrete poetry, performance, mixed visual practices, and the exploration of biomaterials as animistic metabolisms—bridging soft sciences, hard sciences, and childlike wonder—her work investigates the properties of matter as pedagogical and communal learning-transfer forces oriented toward care, defense, and repair. 
 These practices unfold through open laboratories and workshops under AOUCH LAB, as well as through self-published micro-editions—such as zines and cassette tapes—developed within Fome Bruta Sonoplastia Gráfica and Glándulas Syntax, conceived as tools for situated transmission and future storytelling. 
