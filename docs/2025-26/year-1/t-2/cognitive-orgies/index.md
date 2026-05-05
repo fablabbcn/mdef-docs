@@ -110,6 +110,12 @@ All materials needed for the course will be provided by the faculty. The student
 - [Presentation - Cognitive Orgies II](https://docs.google.com/presentation/d/1Qyn69AXugZ1r8KaFXqjnfcbINejbZ7lnvqtA2pmHnrw/edit?usp=sharing)
 - [Feedback Spreatsheet II](https://docs.google.com/spreadsheets/d/1_QaFyAw4qKZMuYyoCOn8cU0u3QHUeS5uYnBiVFI2UcI/edit?usp=sharing)
 
+
+### Cognitive Orgies II
+- [Miroboard - Cognitive Orgies III](https://miro.com/app/board/uXjVHZUfAeo=/?share_link_id=278917096597)
+- [Presentation - Cognitive Orgies III](https://docs.google.com/presentation/d/1YZCm4mR13vo4a0TKEihdLiiGYEQNJvjbj4J6HOD9sZk/edit?usp=sharing)
+- [Feedback Spreatsheet III](https://docs.google.com/spreadsheets/d/13yR-QNIQIAjPugaleOELzrvGRvohPfdpTjlwBoSZQuw/edit?usp=sharing)
+
 ### [Cognitive Contribution Label](https://santifu.github.io/ccl/)
 
 
