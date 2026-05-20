@@ -1,5 +1,5 @@
 ---
-title: MDEFest Fabrication Challenge:Autonomous Making in Distributed Collectives
+title: MDEFabrication Fest:Autonomous Making in Distributed Collectives
 page_type: course
 track: Instrumentation
 course_type: Wrokshop
@@ -7,6 +7,10 @@ feature_img: /assets/images/2024-25/year-1/t-3/mdefestchallenge.png
 img_caption:
 faculty:
     - santiago-fuentemilla
+    - mikel-llobera
+    - adai-surinach
+    - daniel-mateos
+    - julia-leirado
 
 ---
 
@@ -14,7 +18,7 @@ faculty:
 
 ## Syllabus
 
-The MDEFest Fabrication Challenge is an intensive two-sprint workshop (4 weeks total) designed to prototype and iterate multimodal systemic artifacts through autonomous, self-directed learning. Students work as distributed collectives—collaborating across individual agency—to design hands-on interventions that engage audiences at MDEFest with tangible experiences that integrate analog, biological, and digital modalities.
+The MDEFabrication Fest is an intensive two-sprint workshop (4 weeks total) designed to prototype and iterate multimodal systemic artifacts through autonomous, self-directed learning. Students work as distributed collectives—collaborating across individual agency—to design hands-on interventions that engage audiences at MDEFest with tangible experiences that integrate analog, biological, and digital modalities.
 
 This challenge prioritizes **autonomy** as a core methodology, where student agency drives research, prototyping, and iteration. Rather than constant instructional support, expert facilitators provide targeted feedback and **technical support two days per week**, creating space for deep making work and collective problem-solving in between.
 
@@ -69,7 +73,7 @@ Prototyping is not decoration; it is research. Artifacts are tools for testing h
 - Autonomous Work: Students distribute 10–12h/week flexibly across the calendar (material availability, iteration needs, personal rhythm). Total per sprint: 36–40h (16h expert + 20–24h autonomous)
 
 ## Deliverables / Outputs
-At the end of the Microchallenge, students must submit two key deliverables to document their learning and project development:
+At the end of the two Sprints, students must submit two key deliverables to document their learning and project development:
 
 **Individual Post**
 
@@ -87,11 +91,11 @@ All documentation must be submitted by Monday after the challenge sprints to ens
 - Only the documentation into their webpages will be taken in account for evaluation.
 - The weekly standards and grading will be presented during the weekly classes.
 
-The assessment of the MDEFest farbication Challenge is based on tree key areas, ensuring a balance between peer-evaluation rigor, documentation quality, engagement, and creativity.
+The assessment of the MDEFabriaction Fest is based on tree key areas, ensuring a balance between peer-evaluation rigor, documentation quality, engagement, and creativity.
 
-- 20% — Individual Documentation 
+- 30% — Open Lab 
 - 50% — Project Repository
-- 30% — Peer Evaluation
+- 20% — Peer Evaluation
 
 ---
 
@@ -103,8 +107,11 @@ All materials needed for the course will be provided by the faculty. The student
 
 ## Resources
 
-- [Presentation]()
-- [Miroboard]()
+- [Presentation](https://docs.google.com/presentation/d/17HTOr0och0tr-srD2g0MwZ_jPqwr8rRwiF0UetoSHpk/edit?usp=sharing)
+- [Miroboard](https://miro.com/app/board/uXjVHQkSgCM=/?share_link_id=694174708287)
+- [Feedback Spreatsheet](https://docs.google.com/spreadsheets/d/1Gc-KiVYsflmjbm4_1M96RzmOMN0xs1jqUdFviauQhAM/edit?usp=sharing)
+
+### [Cognitive Contribution Label](https://santifu.github.io/ccl/)
 
 
 ## Faculty
