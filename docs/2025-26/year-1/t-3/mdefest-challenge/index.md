@@ -11,6 +11,8 @@ faculty:
     - adai-surinach
     - daniel-mateos
     - julia-leirado
+    - citlali-hernandez
+    - jordi-garreta
 
 ---
 
@@ -95,7 +97,7 @@ The assessment of the MDEFabriaction Fest is based on tree key areas, ensuring a
 
 - 30% — Open Lab 
 - 50% — Project Repository
-- 20% — Peer Evaluation
+- 20% — Self Evaluation
 
 ---
 
