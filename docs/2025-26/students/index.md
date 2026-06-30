@@ -17,7 +17,7 @@ students:
         year: 1
     Alejandra Cristina Rivera Zamacona:
         photo: /assets/images/students/2025-26/MDEF01/8045.jpg
-        website: https://aleriverazz.github.io/mdef/
+        website: https://aleriverazz.github.io/mdef_website/
         year: 1
     Antonio García Fernández:
         photo: /assets/images/students/2025-26/MDEF01/8195.png
