@@ -4,6 +4,9 @@ hide:
     - toc
     - navigation
 ---
+
+[Academic Year 2025-26](/student-websites/2025-26/){ .shadow-block }
+
 [Academic Year 2024-25](/student-websites/2024-25/){ .shadow-block }
 
 [Academic Year 2023-24](/student-websites/2023-24/){ .shadow-block }
