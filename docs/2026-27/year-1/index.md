@@ -26,7 +26,3 @@ In the seminars, students are supported through individual and group reflection 
 In the workshop weeks, students are exposed to a set of technologies and sociocultural phenomena that have the capacity to disrupt our present understanding of society, industry and the economy. Technologies include Artificial Intelligence, Blockchain and Distributed Ledger Technologies.
 
 Students learn a modular set of maker skills and tools and how these can be used in the design process to translate their ideas into prototypes and prototypes into products. Skills include coding, digital fabrication, hardware design, synthetic biology, and computational thinking.
-
-## Modules by Track
-
-{{ insert_tracks() }}

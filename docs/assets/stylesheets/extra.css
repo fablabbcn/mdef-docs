@@ -606,6 +606,29 @@ background-color: var(--md-accent-fg-color);
     color: var(--md-primary-fg-color);
 }
 
+/* ----------Cards---------- */
+
+ .grid.cards .card-link {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+
+}
+.grid.cards > ul > li{
+    border: solid 2px var(--md-primary-fg-color);
+    border-radius: 5px;
+}
+
+a.card-link .card-title {
+    font-size: 1.5em;
+}
+
+
+
 /* @keyframes heart {
     0%, 40%, 80%, 100% {
       transform: scale(1);

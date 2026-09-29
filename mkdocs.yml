@@ -18,35 +18,32 @@ nav:
     - Research Trip: 2026-27/year-1/research-trip/index.md
     - Term 1:
       - 2026-27/year-1/t-1/index.md
-      - Design Studio 0: 2026-27/year-1/t-1/design-studio-0/index.md
-      - Design Studio I: 2026-27/year-1/t-1/design-studio-i/index.md
-      - Unpacking Tech Systems: 2026-27/year-1/t-1/unpacking-tech-systems/index.md
-      - Reflections I: 2026-27/year-1/t-1/reflections-i/index.md
-      - Reflections II: 2026-27/year-1/t-1/reflections-ii/index.md
-      - Extended Intelligences I: 2026-27/year-1/t-1/extended-intelligences-i/index.md
-      - Extended Intelligences II: 2026-27/year-1/t-1/extended-intelligences-ii/index.md
-      - Other Species I: 2026-27/year-1/t-1/other-species-i/index.md
-      - Narratives I: 2026-27/year-1/t-1/narratives-i/index.md
-      - Fundamentals for Future Makers: 2026-27/year-1/t-1/fundamentals-for-future-makers/index.md
-    - Term 2:
-      - 2026-27/year-1/t-2/index.md
-      - Design Studio 02: 2026-27/year-1/t-2/design-studio-02/index.md
-      - Narrative II: 2026-27/year-1/t-2/narratives-II/index.md
-      #  - Collective Intelligences: 2026-27/year-1/t-2/collective-intelligences/index.md
-      - Other Species II: 2026-27/year-1/t-2/other-species-II/index.md
-      - Extended Intelligences II: 2026-27/year-1/t-2/extended-intelligences-II/index.md
-      - Extended Intelligences III: 2026-27/year-1/t-2/extended-intelligences-III/index.md
-      - Cognitive Orgies: 2026-27/year-1/t-2/cognitive-orgies/index.md
-      - Situated Design Practices: 2026-27/year-1/t-2/situated-design-practices/index.md
-    - Term 3:
-      - 2026-27/year-1/t-3/index.md
-      - Design Studio 03: 2026-27/year-1/t-3/design-studio-03/index.md
-      - Narratives III: 2026-27/year-1/t-3/narratives-III/index.md
-      - Other Species III: 2026-27/year-1/t-2/other-species-III/index.md
-      - The Atlas of Weak Signals: 2026-27/year-1/t-3/the-atlas-of-weak-signals/index.md
-      - MDEFest Curation: 2026-27/year-1/t-3/mdefest-curation/index.md
-      #  - Patching the Stack: 2026-27/year-1/t-3/patching-the-stack/index.md
-      - MDEFest Fabrication challenge: 2026-27/year-1/t-3/mdefest-challenge/index.md
+      - Kickoff: 2026-27/year-1/t-1/kickoff-1/index.md
+      - Sprint 1: 
+        - 2026-27/year-1/t-1/sprint-1/index.md
+        - Situate: 2026-27/year-1/t-1/situate-1/index.md
+        - Explore: 2026-27/year-1/t-1/explore-1/index.md
+        - Build: 2026-27/year-1/t-1/build-1/index.md
+        - Reflect: 2026-27/year-1/t-1/reflect-1/index.md
+      - Sprint 2:
+        - 2026-27/year-1/t-1/sprint-2/index.md
+        - Situate: 2026-27/year-1/t-1/situate-2/index.md
+        - Explore: 2026-27/year-1/t-1/explore-2/index.md
+        - Build: 2026-27/year-1/t-1/build-2/index.md
+        - Reflect: 2026-27/year-1/t-1/reflect-2/index.md
+      - Wrap-up: 2026-27/year-1/t-1/wrapup-1/index.md
+    # - Term 2:
+    #   - 2026-27/year-1/t-2/index.md
+    #   - Kickoff: 2026-27/year-1/t-2/kickoff-2/index.md
+    #   - Sprint 3: 2026-27/year-1/t-2/sprint-3/index.md
+    #   - Sprint 4: 2026-27/year-1/t-2/sprint-4/index.md
+    #   - Wrap-up: 2026-27/year-1/t-2/wrapup-2/index.md
+    # - Term 3:
+    #   - 2026-27/year-1/t-3/index.md
+    #   - Kickoff: 2026-27/year-1/t-3/kickoff-3/index.md
+    #   - Sprint 5: 2026-27/year-1/t-3/sprint-5/index.md
+    #   - Sprint 6: 2026-27/year-1/t-3/sprint-6/index.md
+    #   - Wrap-up: 2026-27/year-1/t-3/wrapup-3/index.md
   - Year 2:
     - 2026-27/year-2/index.md
     - Calendar: 2026-27/year-2/calendar/index.md
@@ -55,7 +52,7 @@ nav:
     - Research & Methods: 2026-27/year-2/research-methods/index.md
     - Emerging Economies: 2026-27/year-2/emerging-economies/index.md
     - Emergent Technolgies: 2026-27/year-2/emergent-technologies/index.md
-    - Applied Research - JustMOBI: 2026-27/year-2/applied-research/index.md
+    - Applied Research - Hacking Urban Mobility: 2026-27/year-2/applied-research/index.md
     - Applied Theory Workshop - Business Innovation: 2026-27/year-2/business-innovation/index.md
   - Glossary:
     - glossary/index.md
