@@ -7,26 +7,18 @@ faculty:
     - guillem-camprodon
     - saul-baeza
     - chiara-dallolio
-    # - pau-artigas
-    - nuria-conde
-    - christian-ernst
-    - santiago-fuentemilla
-    - oscar-gonzalez
-    - jessica-guy
-    - mikel-llobera
-    - jonathan-minchin
-    - pietro-rustici
-    - adai-surinach
-    - olga-trevisan
-    - daniel-mateos
-    - julia-leirado
-    - ron-wakkary
-    - citlali-hernandez
     - manuela-valtchanova
-    - lluis-nacenta
-    - marta-handenawer
-    - ane-guerra
-    - olly-needham
+    - toni-llacer
+    - santiago-fuentemilla
+    - dani-mateos
+    - adai-surinach
+    - damian-arezzo
+    - hibai-harbide
+    - christian-alonso
+    - torres-bago
+    - nuria-guiu-sagarra
+    - citlali-hernandez
+    - lina-bautista
 
 ---
 
