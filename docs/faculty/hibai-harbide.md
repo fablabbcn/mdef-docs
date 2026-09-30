@@ -1,7 +1,7 @@
 ---
 name: Hibai Arbide Aza
 role: Lawyer & Journalist
-feature_img: /assets/images/faculty/first-last.jpeg
+feature_img:
 socials:
     email:
     website:

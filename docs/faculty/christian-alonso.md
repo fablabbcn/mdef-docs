@@ -1,7 +1,7 @@
 ---
 name: Christian Alonso
 role: Researcher, Curator, Educator
-feature_img: /assets/images/faculty/first-last.jpeg
+feature_img:
 socials:
     email:
     website:
