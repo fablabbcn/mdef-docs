@@ -15,11 +15,11 @@ nav:
     - 2026-27/year-1/index.md
     - Calendar: 2026-27/year-1/calendar/index.md
     - Beyond Sessions: 2026-27/year-1/beyond-sessions/index.md
-    - Research Trip: 2026-27/year-1/research-trip/index.md
+    # - Research Trip: 2026-27/year-1/research-trip/index.md
     - Term 1:
       - 2026-27/year-1/t-1/index.md
       - Kickoff: 2026-27/year-1/t-1/kickoff-1/index.md
-      - Sprint 1: 
+      - Sprint 1:
         - 2026-27/year-1/t-1/sprint-1/index.md
         - Situate: 2026-27/year-1/t-1/situate-1/index.md
         - Explore: 2026-27/year-1/t-1/explore-1/index.md
@@ -56,7 +56,7 @@ nav:
     - Applied Theory Workshop - Business Innovation: 2026-27/year-2/business-innovation/index.md
   - Glossary:
     - glossary/index.md
-  - Previous Years: 
+  - Previous Years:
     - 2025-26:
       - 2025-26/index.md
       - Year 1:

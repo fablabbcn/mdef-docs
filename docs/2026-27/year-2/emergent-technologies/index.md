@@ -4,12 +4,10 @@ page_type: course
 track: Instrumentation
 course_type: Workshop/Seminar
 feature_img: /assets/images/2024-25/year-2/modules/emergent-tech.png
-img_caption: 
+img_caption:
 faculty:
-    - santiago-fuentemilla
     - daniel-mateos
     - adai-surinach
-    - julia-leirado
 ects: 3
 ---
 
@@ -99,7 +97,7 @@ Assessment is based on the timely submission and quality of the required assignm
     {{ ects }} ECTS
 
 ## Course Resources
-- [Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/course-info/what_is_it/) 
+- [Fablab BCN Local Documentation](https://fablabbcn-projects.gitlab.io/learning/educational-docs/fabacademy/course-info/what_is_it/)
 - [FabAcademy](https://fabacademy.org/2026/)
 
 ## Faculty

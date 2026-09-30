@@ -1,12 +1,12 @@
 ---
 title: Sprint 1 | Homes–Borders–Tourists
 page_type: course
-track: 
+track:
 course_type: Sprint
 feature_img: /assets/images/2026-27/year-1/t-1/sprint-1.jpg
 img_caption: Climavore by Cooking Sections, 2017.
 faculty:
-    - 
+    -
 ects:
 ---
 
@@ -39,13 +39,13 @@ The course will culminate with a live implementation in El Prat, where prototype
 
 ### Negotiate a 1:1 border
 
-Conceive, prototype and implement a direct action that enters into a critical friction with the existing conditions of a border. The intervention does not need to eliminate or solve a border, instead, it should make explicit its intrinsic conditions, excite it and open it for other possible futures. 
+Conceive, prototype and implement a direct action that enters into a critical friction with the existing conditions of a border. The intervention does not need to eliminate or solve a border, instead, it should make explicit its intrinsic conditions, excite it and open it for other possible futures.
 
 ### Design requirements/ The intervention should:
 
 - Situated and site-specific
 - First person perspective and embodied
-- Designed, fabricated and tested as a 1:1 prototype 
+- Designed, fabricated and tested as a 1:1 prototype
 - Temporary and reversible, leaving no permanent damage to the site.
 - Engage critically with the border’s multiple levels of operation: material, infrastructural, political, ecological, social, legal, or symbolic.
 - Consider the bodies, species, infrastructures, and other agents already inhabiting or negotiating the site
@@ -53,7 +53,7 @@ Conceive, prototype and implement a direct action that enters into a critical fr
 
 ### Outcome
 
-A 1:1 situated prototype, activated on site and documented in its real context, demonstrating the new triggered relationships between bodies, action, politics and territory at the selected border. 
+A 1:1 situated prototype, activated on site and documented in its real context, demonstrating the new triggered relationships between bodies, action, politics and territory at the selected border.
 
 ## Modules
 
@@ -80,7 +80,7 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 
 ## Additional Resources
 
-### Homes
+### Situate: Homes
 
 ***Domesticity, alternative forms of living, displacement, labour, multispecies inhabitation & postcolonial justice***
 
@@ -94,7 +94,7 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 - Hester, Helen. *Contra el realismo doméstico: escritos sobre vivienda, género, trabajo y tecnología*. Bartlebooth, 2025.
 - Schuurman, Nora. “Multispecies Homescapes.” *Progress in Human Geography*, 48(5), 2024.
 
-### Borders
+### Situate: Borders
 
 ***Mobility, migration, exclusion, counter-mapping, displacement and unequal rights to move, inhabit and remain***
 
@@ -105,7 +105,7 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 - Sassen, Saskia. *Expulsions: Brutality and Complexity in the Global Economy*. Harvard University Press, 2014.
 - Sheller, Mimi. *Mobility Justice: The Politics of Movement in an Age of Extremes*. Verso, 2018.
 
-### Tourists
+### Situate: Tourists
 
 ***Touristification, extractive mobility, territorial consumption and the transformation of everyday life***
 
@@ -115,7 +115,7 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 - Delgado, Manuel. *La ciudad mentirosa: Fraude y miseria del ‘modelo Barcelona’*. Catarata, 2007.
 - Faura, Ramon (curator). *L’Estat Turístic / El Estado Turístico*. FADfest, Barcelona, 2017.
 
-### Situated Research · Delta Del Llobregat
+### Situate: Situated Research · Delta Del Llobregat
 
 ***Situated practices, agroecology, agricultural resistance, multispecies ecologies and contested territories***
 
@@ -144,7 +144,7 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 - Tools Magazine. (2026). [*Tools #06: To blow.*](https://www.lespressesdureel.com/EN/EN/ouvrage.php?id=13123&menu=3)
 - Herzog, T. N. (1976). [*Pneumatic structures: A handbook of inflatable architecture. Oxford University Press*.](https://openlibrary.org/books/OL16407013M/Pneumatic_structures)
 - Llorens, J. I. de. (Ed.). (2015). [*Fabric structures in architecture*.](https://shop.elsevier.com/books/fabric-structures-in-architecture/llorens/978-1-78242-233-4) Woodhead Publishing.
-- Otto, F. (1973). [*Tensile structures: Design, structure and calculation of buildings of cables, nets and membranes.*](https://openlibrary.org/books/OL21218630M/Tensile_structures_design_structure_and_calculation_of_buildings_of_cables_nets_and_membranes) MIT Press. 
+- Otto, F. (1973). [*Tensile structures: Design, structure and calculation of buildings of cables, nets and membranes.*](https://openlibrary.org/books/OL21218630M/Tensile_structures_design_structure_and_calculation_of_buildings_of_cables_nets_and_membranes) MIT Press.
 - Fabricademy. (n.d.). [*Computational couture.*](https://fabricademy.fabcloud.io/handbook/classes/08_computational/)
 - Fabricademy. (n.d.). [*Open source circular fashion.*](https://fabricademy.fabcloud.io/handbook/classes/03_circular_fashion/)
 - Fabricademy. (n.d.). [*Soft robotics.*](https://fabricademy.fabcloud.io/handbook/classes/12_softrobotics/)

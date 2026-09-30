@@ -6,7 +6,7 @@ course_type: Sprint
 feature_img: /assets/images/2026-27/year-1/t-1/sprint-2.jpg
 img_caption: “Solas” by Candela Capitán, 2024
 faculty:
-    - 
+    -
 ects:
 ---
 
@@ -14,9 +14,9 @@ ects:
 
 ## Syllabus
 
-This sprint questions the boundaries between the desirable and the monstrous by exploring how bodies, technologies, desires, and imaginaries are shaped through politics of pleasure and affect. Students investigate how contemporary societies produce and regulate desires by building stereotypes of what is considered attractive, excessive, abnormal, or mysterious, examining the political and cultural forces behind these constructions. We will research countercultural forms of celebration and hedonism in order to design novel practices of embodied resistance based on alterity and celebrated monstruosity. 
+This sprint questions the boundaries between the desirable and the monstrous by exploring how bodies, technologies, desires, and imaginaries are shaped through politics of pleasure and affect. Students investigate how contemporary societies produce and regulate desires by building stereotypes of what is considered attractive, excessive, abnormal, or mysterious, examining the political and cultural forces behind these constructions. We will research countercultural forms of celebration and hedonism in order to design novel practices of embodied resistance based on alterity and celebrated monstruosity.
 
-Students will design and prototype wearable artifacts enacted through party-like relational formats: performative situations through collective rituals, embodied experimentation, and experimental protocols.We will explore how wearables can operate as tools for world-building, based on joy, excess, and pleasure as acts of cultural and political resistance.	
+Students will design and prototype wearable artifacts enacted through party-like relational formats: performative situations through collective rituals, embodied experimentation, and experimental protocols.We will explore how wearables can operate as tools for world-building, based on joy, excess, and pleasure as acts of cultural and political resistance.
 
 Explore introduces wearable technologies as material, sensory and cultural interfaces between bodies and their environments. Through DIY sensors, soft materials, electronics and bodily experimentation, students will investigate how movement, perspiration, contact, pressure or flexion can become computational inputs and how these measurements construct particular representations of the body.
 
