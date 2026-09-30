@@ -32,6 +32,20 @@ ects:
     
     Introduction to translating bodily data into sound, image and interactive behaviour. Students explore real-time digital environments such as VVVV and consider how individual sensor inputs can become part of shared and distributed systems. (*Axolot - Lina B.*)
 
+## Evaluation Criteria
+
+**1. Critical and situated technological literacy**
+
+Decoding the foundations of contemporary technology, including systems thinking, infrastructures and architectures, political economy, IP models and planned obsolescence, to develop a critical position that informs design practice.
+
+**2. Exploration and reframing of emergent and alternative technologies**
+
+Engagement with emergent technologies from research and industry alongside alternative ones, including deprecated, marginal, vernacular and analogue technologies, considering their narratives, applications and implementation, and recombining them to open new design possibilities.
+
+**3. Collaborative Practice**
+
+The contract documents clearly how knowledge, references, tools or skills were sourced, shared or developed with others, demonstrating an ability to learn from existing practices and contribute findings back to the group.
+
 ## Faculty
 
 {{ insert_faculty() }}

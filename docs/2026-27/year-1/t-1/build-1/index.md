@@ -28,6 +28,19 @@ ects:
     
     **In-house Assembly and Testing:** Integration and testing of tensioning, inflation or wrapping systems. Full-scale testing with bodies, loads and spatial conditions, followed by iterative adjustments in preparation for deployment on site. (*Santiago Fuentemilla / Fab Team, IAAC*)
 
+## Evaluation Criteria
+
+**1. Design through Prototyping**
+
+The design is developed through making and testing, including at least one iteration in which observations from a previous prototype inform a subsequent version or modification.
+
+**2. 1:1 Functional Prototype**
+
+A real-scale prototype demonstrating the intended material, assembly and behaviour.
+
+**3. Open Content**
+
+The contract documents clearly the prototype and iterations, including at minimum a bill of materials and one documented failure, explaining what was learned from it.
 
 ## Faculty
 

@@ -119,7 +119,7 @@ Wark, McKenzie. *Raving*. Duke University Press, 2023.
 
 Oliver L. Haimson. *Trans Technologies*. The MIT Press, 2025
 
-## Materials Needs
+## Materials Needed
 
 - Notebook.
 - Computer.

@@ -32,6 +32,20 @@ ects:
     
     Final integration of sensor, electronics, power, connectivity and wearable structure. Prototypes are tested on bodies and in relation to one another through performative situations, collective rituals and experimental protocols. (*Santi / Fab Team*)
 
+## Evaluation Criteria
+
+**1. Design through Prototyping**
+
+The design is developed through making and testing, including at least one iteration in which observations from a previous prototype inform a subsequent version or modification.
+
+**2. 1:1 Functional Prototype**
+
+A real-scale prototype demonstrating the intended material, assembly and behaviour.
+
+**3. Open Content**
+
+The contract documents clearly the prototype and iterations, including at minimum a bill of materials and one documented failure, explaining what was learned from it.
+
 ## Faculty
 
 {{ insert_faculty() }}
