@@ -32,6 +32,25 @@ ects:
 
     **Date TBC. Contract Defence and Review** (*Manuela/Saúl*)
 
+## Evaluation Criteria
+
+**1. Criticality**
+
+Interrogate the assumptions, decisions, contradictions, and implications of the design process and its outcomes.
+
+**2. Experimental Prototyping**
+
+Use prototyping as a mode of inquiry through iteration, testing, failure, uncertainty, and experimentation.
+
+**3. Contextual Feedback**
+
+Establish feedback loops between prototype and context, incorporating responses from people, environments, materials, technologies, and other agents.
+
+**4. Resilience & Adaptability**
+
+Respond constructively to failure, constraints, uncertainty, and changing conditions, adapting or reconsidering the project accordingly.
+
+
 ## Faculty
 
 {{ insert_faculty() }}
