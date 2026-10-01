@@ -87,62 +87,54 @@ A 1:1 wearable-mediated ritual, collectively activated at an existing party as a
 
 ### Situate: Monsters
 
-Butler, Judith. *Bodies That Matter: On the Discursive Limits of “Sex”*. Routledge, 1993.
-
-Halberstam, Jack. *The Queer Art of Failure*. Duke University Press, 2011.
-
-Preciado, Paul B. *Dysphoria Mundi*. Fitzcarraldo Editions, 2025.
-
-Fisher, Mark. *Postcapitalist Desire: The Final Lectures*. Repeater Books, 2021.
+- Butler, Judith. *Bodies That Matter: On the Discursive Limits of “Sex”*. Routledge, 1993.
+- Halberstam, Jack. *The Queer Art of Failure*. Duke University Press, 2011.
+- Preciado, Paul B. *Dysphoria Mundi*. Fitzcarraldo Editions, 2025.
+- Fisher, Mark. *Postcapitalist Desire: The Final Lectures*. Repeater Books, 2021.
 
 ### Situate: Enchantments
 
-Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004.
-
-Hester, Helen. *Xenofeminism*. Polity, 2018.
-
-Antonio Escotado. *A Brief History of Drugs: From the Stone Age to the Stoned Age*. Park Street Press, 1983.
-
-Baeza, Saúl. Performing Surveillance: designing identity prostheses as tools for algorithmic resistance. Eindhoven University of Technology, 2025.
+- Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004.
+- Hester, Helen. *Xenofeminism*. Polity, 2018.
+- Antonio Escotado. *A Brief History of Drugs: From the Stone Age to the Stoned Age*. Park Street Press, 1983.
+- Baeza, Saúl. Performing Surveillance: designing identity prostheses as tools for algorithmic resistance. Eindhoven University of Technology, 2025.
 
 ### Situate: Delights
 
-Muñoz, José Esteban. *Cruising Utopia: The Then and There of Queer Futurity*. NYU Press, 2009; 10th anniversary ed., 2019.
-
-Echaves, Marta. *Químicas piedades*. Cielo Santo, 2026.
-
-Hester, Helen. *Beyond Explicit: Pornography and the Displacement of Sex*. SUNY Press, 2014.
-
-Preciado, Paul B. *Countersexual Manifesto*. Columbia University Press, 2018.
-
-Wark, McKenzie. *Raving*. Duke University Press, 2023.
-
-Oliver L. Haimson. *Trans Technologies*. The MIT Press, 2025
+- Muñoz, José Esteban. *Cruising Utopia: The Then and There of Queer Futurity*. NYU Press, 2009; 10th anniversary ed., 2019.
+- Echaves, Marta. *Químicas piedades*. Cielo Santo, 2026.
+- Hester, Helen. *Beyond Explicit: Pornography and the Displacement of Sex*. SUNY Press, 2014.
+- Preciado, Paul B. *Countersexual Manifesto*. Columbia University Press, 2018.
+- Wark, McKenzie. *Raving*. Duke University Press, 2023.
+- Oliver L. Haimson. *Trans Technologies*. The MIT Press, 2025
 
 ### Explore: Embodied Technologies, Bodies & Data
-Embodied interaction, soft wearables, bodily data, identity, technological mediation and critical design methods.
 
-- D’Ignazio, C., & Klein, L. F. (2020). [Data feminism.](https://doi.org/10.7551/mitpress/11805.001.0001). The MIT Press.
-- Goveia da Rocha, B., Andersen, K., & Tomico, O. (2019). [Crafting soft wearables, with and through digital technologies.](https://doi.org/10.46467/TdD35.2019.76-89) Temes de Disseny, 35, 76–89.
-- Hernández, C. (2023). [Materialidades del cuerpo online.](https://doi.org/10.7238/m.n198.2303). Mosaic, 198.
-- Magnet, S. A. (2011). [When biometrics fail: Gender, race, and the technology of identity.](https://doi.org/10.1215/9780822394822). Duke University Press.
-- Tomico, O., & Wilde, D. (2016). [Soft, embodied, situated & connedcted: Enriching interactions with soft wearables.](https://doi.org/10.1186/s13678-016-0006-z). mUX: The Journal of Mobile User Experience, 5, Article 3.
-- Wilde, D., Vallgårda, A., & Tomico, O. (2017). [Embodied design ideation methods: Analysing the power of estrangement.](https://doi.org/10.1145/3025453.3025873). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 5158–5170). Association for Computing Machinery.
+*Embodied sensing, soft wearables, bodily and brain data, motion, affect, identity, technological mediation and critical design methods.*
+
+- D’Ignazio, C., & Klein, L. F. (2020). [*Data feminism*](https://doi.org/10.7551/mitpress/11805.001.0001). The MIT Press.
+- Goveia da Rocha, B., Andersen, K., & Tomico, O. (2019). [Crafting soft wearables, with and through digital technologies](https://doi.org/10.46467/TdD35.2019.76-89). *Temes de Disseny, 35*, 76–89.
+- Hernández, C. (2023). [Materialidades del cuerpo online](https://doi.org/10.7238/m.n198.2303). *Mosaic, 198*.
+- Tomico, O., & Wilde, D. (2016). [Soft, embodied, situated & connected: Enriching interactions with soft wearables](https://doi.org/10.1186/s13678-016-0006-z). *mUX: The Journal of Mobile User Experience, 5*, Article 3.
+- Lin, R. R., & Zhang, K. (2024). [Survey of real-time brainmedia in artistic exploration](https://doi.org/10.1186/s42492-024-00179-2). *Visual Computing for Industry, Biomedicine, and Art, 7*, Article 27.
+- Fléty, E., & Bevilacqua, F. (2025). [Wireless inertial measurement units in performing arts](https://doi.org/10.3390/s25196188). *Sensors, 25*(19), 6188.
+- Schmidt, P., Reiss, A., Dürichen, R., & Van Laerhoven, K. (2019). [Wearable-based affect recognition—A review](https://doi.org/10.3390/s19194079). *Sensors, 19*(19), 4079.
 
 ### Build: DIY Body Sensors, Wearable Electronics & Interactive Systems
-E-textiles, soft sensing, wearable integration, microcontrollers, calibration, connectivity, real-time data and distributed audiovisual systems.
 
-- Fabricademy. (n.d.). E-textiles. In Fabricademy handbook. [Open resource](https://fabricademy.fabcloud.io/handbook/classes/05_etextiles/).
-- Perner-Wilson, H., & Satomi, M. (n.d.). Sensors. How To Get What You Want. KOBAKANT. [Open sensor repository](https://www.howtogetwhatyouwant.at/?cat=26).
-- Textiles Summer School. (2019). eTextiles handbook. [Open PDF](https://kobakant.at/downloads/PDFs/handbook_A5.pdf).
-- Baalman, M. (2022). Composing interactions: An artist’s guide to building expressive interactive systems. V2_ Publishing. [Official resource](https://composinginteractions.art/).
-- Fab Lab Barcelona. (n.d.). Barduino documentation. [Open documentation](https://fablabbcn-projects.gitlab.io/electronics/barduino-docs/).
-- Hartman, K. (2025). Make: Wearable electronics: Design, prototype, and wear your own interactive garments (2nd ed.). Make Community. [Publisher resource](https://www.oreilly.com/library/view/make-wearable-electronics/9781680457193/).
-- Igoe, T. (2017). Making things talk (3rd ed.). Make Community. [Publisher resource](https://www.oreilly.com/library/view/making-things-talk/9781680452143/).
-- Seeed Studio. (n.d.). Getting started with Seeed Studio XIAO ESP32C3. Seeed Studio Wiki. [Open documentation](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/).
-- SparkFun Electronics. (n.d.). Insulation techniques for e-textiles. SparkFun Learn. [Open tutorial](https://learn.sparkfun.com/tutorials/insulation-techniques-for-e-textiles/introduction).
-- Tabrizi, M., Gil, I., Corbalan, M., & Fernández-García, R. (2026). [Flexible resistive sensors for wearable and ergonomics applications: A systematic review.](https://doi.org/10.3390/s26082563) Sensors, 26(8), 2563.
-- vvvv. (n.d.). vvvv gamma documentation: The Gray Book. [Open documentation](https://thegraybook.vvvv.org/).
+*Sensor fabrication, e-textiles, physical computing, wearable integration, calibration, connectivity, real-time data and distributed audiovisual systems.*
+
+- Fabricademy. (n.d.). *E-textiles*. In *Fabricademy handbook*. [Open resource](https://fabricademy.fabcloud.io/handbook/classes/05_etextiles/).
+- Perner-Wilson, H., & Satomi, M. (n.d.). *Sensors*. *How To Get What You Want*. KOBAKANT. [Open sensor repository](https://www.howtogetwhatyouwant.at/?cat=26).
+- Textiles Summer School. (2019). *eTextiles handbook*. [Open PDF](https://kobakant.at/downloads/PDFs/handbook_A5.pdf).
+- Baalman, M. (2022). *Composing interactions: An artist’s guide to building expressive interactive systems*. V2_ Publishing. [Official resource](https://composinginteractions.art/).
+- Fab Lab Barcelona. (n.d.). *Barduino documentation*. [Open documentation](https://fablabbcn-projects.gitlab.io/electronics/barduino-docs/).
+- Hartman, K. (2025). *Make: Wearable electronics: Design, prototype, and wear your own interactive garments* (2nd ed.). Make Community. [Publisher resource](https://www.oreilly.com/library/view/make-wearable-electronics/9781680457193/).
+- Igoe, T. (2017). *Making things talk* (3rd ed.). Make Community. [Publisher resource](https://www.oreilly.com/library/view/making-things-talk/9781680452143/).
+- Seeed Studio. (n.d.). *Getting started with Seeed Studio XIAO ESP32C3*. *Seeed Studio Wiki*. [Open documentation](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/).
+- SparkFun Electronics. (n.d.). *Insulation techniques for e-textiles*. *SparkFun Learn*. [Open tutorial](https://learn.sparkfun.com/tutorials/insulation-techniques-for-e-textiles/introduction).
+- Tabrizi, M., Gil, I., Corbalan, M., & Fernández-García, R. (2026). [Flexible resistive sensors for wearable and ergonomics applications: A systematic review](https://doi.org/10.3390/s26082563). *Sensors, 26*(8), 2563.
+- vvvv. (n.d.). *vvvv gamma documentation: The Gray Book*. [Open documentation](https://thegraybook.vvvv.org/).
 
 ## Materials Needed
 
