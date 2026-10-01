@@ -54,6 +54,27 @@ ects:
 
     **Contracts x Groups x Feedbacks (Toni Llàcer)**
 
+## Evaluation Criteria
+
+Assessment will be based exclusively on the evidence included in the group contract. This includes the documentation of physical prototypes, experiments, iterations and relevant design decisions. Any work not represented in the contract cannot be considered as part of the evaluation.
+
+**1. Radical Contextuality**
+
+Engage critically with the specific conditions, tensions, actors, and contingencies of a context. 
+
+**2. State of the Art**
+
+Research and critically position the project within relevant theoretical frameworks, creative practices, precedents, and contemporary debates.
+
+**3. Situated Inquiry**
+
+Generate knowledge through first-person, embodied, relational, and context-responsive research. Develop a site-specific research method to understand, visualize, map or study different ordinary and extraordinary conditions of the context.
+
+**4. Critical Briefing**
+
+Distill research into a precise design brief that identifies an operative question, position, opportunity, or friction.
+
+
 ## Faculty
 
 {{ insert_faculty() }}
