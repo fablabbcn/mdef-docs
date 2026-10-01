@@ -85,7 +85,7 @@ A 1:1 wearable-mediated ritual, collectively activated at an existing party as a
 
 ## Additional Resources
 
-### Monsters
+### Situate: Monsters
 
 Butler, Judith. *Bodies That Matter: On the Discursive Limits of “Sex”*. Routledge, 1993.
 
@@ -95,7 +95,7 @@ Preciado, Paul B. *Dysphoria Mundi*. Fitzcarraldo Editions, 2025.
 
 Fisher, Mark. *Postcapitalist Desire: The Final Lectures*. Repeater Books, 2021.
 
-### Enchantments
+### Situate: Enchantments
 
 Federici, Silvia. *Caliban and the Witch: Women, the Body and Primitive Accumulation*. Autonomedia, 2004.
 
@@ -105,7 +105,7 @@ Antonio Escotado. *A Brief History of Drugs: From the Stone Age to the Stoned Ag
 
 Baeza, Saúl. Performing Surveillance: designing identity prostheses as tools for algorithmic resistance. Eindhoven University of Technology, 2025.
 
-### Delights
+### Situate: Delights
 
 Muñoz, José Esteban. *Cruising Utopia: The Then and There of Queer Futurity*. NYU Press, 2009; 10th anniversary ed., 2019.
 
