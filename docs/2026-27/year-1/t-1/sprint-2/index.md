@@ -127,7 +127,7 @@ Embodied interaction, soft wearables, bodily data, identity, technological media
 - Hernández, C. (2023). [Materialidades del cuerpo online.](https://doi.org/10.7238/m.n198.2303). Mosaic, 198.
 - Magnet, S. A. (2011). [When biometrics fail: Gender, race, and the technology of identity.](https://doi.org/10.1215/9780822394822). Duke University Press.
 - Tomico, O., & Wilde, D. (2016). [Soft, embodied, situated & connedcted: Enriching interactions with soft wearables.](https://doi.org/10.1186/s13678-016-0006-z). mUX: The Journal of Mobile User Experience, 5, Article 3.
-- Wilde, D., Vallgårda, A., & Tomico, O. (2017). [Embodied design ideation methods: Analysing the power of estrangement.](https://doi.org/10.1145/3025453.3025873.). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 5158–5170). Association for Computing Machinery.
+- Wilde, D., Vallgårda, A., & Tomico, O. (2017). [Embodied design ideation methods: Analysing the power of estrangement.](https://doi.org/10.1145/3025453.3025873). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 5158–5170). Association for Computing Machinery.
 
 ### Build: DIY Body Sensors, Wearable Electronics & Interactive Systems
 E-textiles, soft sensing, wearable integration, microcontrollers, calibration, connectivity, real-time data and distributed audiovisual systems.
