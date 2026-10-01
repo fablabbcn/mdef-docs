@@ -128,6 +128,8 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 
 ### Explore & Build: Vernacular / Situated / Countercultural Knowledge
 
+***Situated making, vernacular techniques, collective know-how, repair cultures, nomadic structures and countercultural approaches to design and construction***
+
 - Alnajadah, A. S. (2019). [Bait-al-Sha’ar: A Kuwaiti traditional Bedouin mobile home at risk.](https://aaciaegypt.com/wp-content/uploads/2019/01/Bait-al-Sha%E2%80%99ar.-A-Kuwaiti-Traditional-Bedouin-Mobile-Home-at-Risk.pdf)
 - Roel Mendizábal, P., Hernández Macedo, M. Á., & Huamaní Rodríguez, I. (2015). [*El Q’eswachaka de Canas: Ingeniería y tradición en las comunidades de Quehue*. Ministerio de Cultura del Perú.](https://www.gob.pe/institucion/cultura/informes-publicaciones/1384-el-q-eswachaka-de-canas-ingenieria-y-tradicion-en-las-comunidades-de-quehue)
 - UNESCO. (2013). [*Traditional craftsmanship of the Mongol ger and its associated customs*. Intangible Cultural Heritage.](https://ich.unesco.org/en/RL/traditional-craftsmanship-of-the-mongol-ger-and-its-associated-customs-00872)
@@ -138,6 +140,8 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 - Banham, R. (1965). [A home is not a house. *Art in America*.](https://books.google.com/books/about/A_Home_is_Not_a_House.html?id=IQdSyQEACAAJ)
 
 ### Explore & Build: Material & Technical Knowledge
+
+***Material experimentation, textile construction, folding, cutting, inflatables, soft structures, fabrication techniques and open-source technical knowledge***
 
 - Tools Magazine. (2023). [*Tools #03: To fold.*](https://www.perimeterbooks.com/products/tools-03-to-fold)
 - Tools Magazine. (2024). [*Tools #04: To cut.*](https://www.lespressesdureel.com/EN/EN/ouvrage.php?id=11026&menu=4)
