@@ -10,7 +10,7 @@ faculty:
     - manuela-valtchanova
     - toni-llacer
     - santiago-fuentemilla
-    - dani-mateos
+    - daniel-mateos
     - adai-surinach
     - damian-arezzo
     - hibai-harbide
