@@ -10,6 +10,9 @@ faculty:
     - mikel-llobera
     - daniel-mateos
     - adai-surinach
+    - damian-arezzo
+    - andrea-santi
+    - torres-bago
 ects:
 ---
 {{ insert_banner() }}
