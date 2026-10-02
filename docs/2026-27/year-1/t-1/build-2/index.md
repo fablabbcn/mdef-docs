@@ -7,7 +7,12 @@ feature_img:
 img_caption:
 faculty:
     - santiago-fuentemilla
+    - mikel-llobera
     - daniel-mateos
+    - adai-surinach
+    - damian-arezzo
+    - andrea-santi
+    - citlali-hernandez
 ects:
 ---
 {{ insert_banner() }}
