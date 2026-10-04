@@ -47,12 +47,12 @@ Bring in your laptop and any prototyping tools you have around such as a cutter,
 ## Schedule
 Students are required to select 4 elective modules from the following options:
 
-- [Electronics Design](https://academy.cba.mit.edu/classes/electronics_design/index.html) (Wed 2026-02-25 to Wed 2026-03-04), [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html)(Wed 2026-03-11 to Wed 2026-03-18): 2 modules, need to sign up for both
-- [Embedded programming](https://academy.cba.mit.edu/classes/embedded_programming/index.html) (Wed 2026-02-11 to Wed 2026-02-18)
-- [Networking and communications](http://academy.cba.mit.edu/classes/networking_communications/index.html) (Wed 2026-04-01 to Wed 2026-04-08)
-- [Molding and casting](https://academy.cba.mit.edu/classes/molding_casting/index.html) (Wed 2026-04-22 to Wed 2026-04-29)
-- [Wildcard week](https://academy.cba.mit.edu/classes/wildcard/index.html) (Wed 2026-05-13 to Wed 2026-05-20)
-- [Mechanical design, Machine design](http://academy.cba.mit.edu/classes/machine_design/index.html) (Wed 2026-04-08 to Wed 2026-04-22) : counts as 2 modules.
+- [Fab Academy Schedule](https://fabacademy.org/2026/schedule)
+
+Please note that:
+
+- If you select [Electronics Design](https://academy.cba.mit.edu/classes/electronics_design/index.html) or [Electronics Production](https://academy.cba.mit.edu/classes/electronics_production/index.html) you need to sign up for both modules.
+- The module [Mechanical design, Machine design](http://academy.cba.mit.edu/classes/machine_design/index.html) counts as 2 modules.
 
 
 For each selected module, students are required to attend (in the protolab) at minimum the following classes and complete the module assignments:
