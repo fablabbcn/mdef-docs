@@ -7,9 +7,11 @@ hide:
 
 {{ insert_banner() }}
 
-The **Master in Design for Emergent Futures** began in 2017. This is its ninth edition. Almost a decade and more than 200 alumni, the programme has accumulated methods, experiments, mistakes, projects, communities and ways of teaching that have gradually changed what MDEF is. The structure you are entering is an attempt to bring that experience together.
+The **Master in Design for Emergent Futures** began in 2017. This is its ninth edition. After almost a decade and with more than 200 alumni, the programme has accumulated methods, experiments, mistakes, projects, communities and ways of teaching that have gradually changed what MDEF is. The structure you are entering is an attempt to bring that experience together.
 
-MDEF starts from a fairly simple proposition: **the future is already unevenly distributed through the present**. Climate breakdown, artificial intelligence, migration, extractive infrastructures, new forms of labour, biotechnology, platform economies, changing bodies and changing ideas of nature are not abstract scenarios waiting somewhere ahead of us. They are already reorganising everyday life.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_DiZwfe_bV_gH4-Cp7iMtu41f7OiKBUwS4R5YK1ivXE83_u3FRbmu4d5677Ac6x58OdC2bBGywVnP/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1050" height="619" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+MDEF starts from a fairly simple proposition, paraphrasing science fiction writer William Gibson: **the future is already unevenly distributed through the present**. Climate breakdown, artificial intelligence, migration, extractive infrastructures, new forms of labour, biotechnology, platform economies, changing bodies and changing ideas of nature are not abstract scenarios waiting somewhere ahead of us. They are already reorganising everyday life.
 
 So we are not particularly interested in predicting the future.
 
@@ -17,9 +19,7 @@ We are interested in learning how to **notice what is emerging, understand the s
 
 This is why MDEF has traditionally described its practice as working with alternative presents rather than speculative futures. It also means moving away from design understood simply as the production of objects or solutions. The programme works across technologies, territories, cultures and forms of collective life, asking what kinds of relationships design participates in producing.
 
-You will read, talk and argue. But you will also walk, observe, code, solder, fabricate, interview, map, sew, grow, perform, dismantle things and build things that do not necessarily work the first time.
-The point is not to separate critical thinking from making. **Making is one of the ways we think**.
-
+You will read, talk and argue. But you will also walk, observe, code, solder, fabricate, interview, map, sew, grow, perform, dismantle things and build things that do not necessarily work the first time. The point is not to separate critical thinking from making. **Making is one of the ways we think**.
 
 ### The first year: six sprints
 
@@ -42,8 +42,7 @@ The second moves into another territory: the body and the party. Wearable techno
 
 ### Situate → Explore → Build → Reflect
 
-The new structure grows out of the four tracks that have shaped the program over previous editions: **Situate, Explore, Build and Reflect**. 
-Rather than running alongside one another as separate courses, they now form a repeated cycle inside every sprint.
+The new structure grows out of the four tracks that have shaped the programme over previous editions: **Situate, Explore, Build and Reflect**. Rather than running alongside one another as separate courses, they now form a repeated cycle inside every sprint.
 
 **Situate** means going somewhere.
 
@@ -73,13 +72,13 @@ Two sprints follow.
 
 Each term then closes with a **Wrap Up**. This is a different kind of space. You step away from the immediate demands of collective production and look across what you have done. Through individual mentoring, feedback and review, you begin to identify connections between your interests, abilities, positions and ways of working.
 
-This matters because the program is not trying to produce one recognisable kind of designer.
+This matters because the programme is not trying to produce one recognisable kind of designer.
 
 The first year is about constructing what we call your **hybrid profile**: not a predetermined professional identity, but a particular combination of practices, questions, technical capacities and positions that becomes increasingly yours. The programme structure explicitly returns to one-to-one Hybrid Profile reviews at the end of each term.
 
 ### Declarations of Commitments
 
-Every sprint also begins with: a **Declaration of Commitments**.
+Every sprint also begins with a **Declaration of Commitments**.
 
 As a team, you formulate a hypothesis. You decide how you intend to investigate it. You commit to gathering evidence through both more conventional research methods and research-through-design: observation and interviews might sit alongside experiments, prototypes and iterative making. Then you sign it.
 
