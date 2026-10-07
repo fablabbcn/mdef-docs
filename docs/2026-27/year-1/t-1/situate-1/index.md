@@ -64,7 +64,7 @@ ects:
 
 ## Evaluation Criteria
 
-Assessment will be based exclusively on the evidence included in the group contract. This includes the documentation of physical prototypes, experiments, iterations and relevant design decisions. Any work not represented in the contract cannot be considered as part of the evaluation.
+Assessment will be based exclusively on the evidence included in the group Declaration of Commitments. This includes the documentation of physical prototypes, experiments, iterations and relevant design decisions. Any work not represented in the contract cannot be considered as part of the evaluation.
 
 **1. Radical Contextuality**
 
