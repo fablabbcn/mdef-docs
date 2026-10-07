@@ -1,7 +1,7 @@
 ---
 name: Toni Llàcer, PhD
 role: Research Consultant
-feature_img: /assets/images/faculty/toni-llacer.jpeg
+feature_img: /assets/images/faculty/toni-llacer.jpg
 socials:
     email: allacer@elisava.net
     website:
