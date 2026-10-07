@@ -25,9 +25,9 @@ ects:
 
     **09:30-10:30** - Research Methodology: Situatedness & First Person Perspectiv
     
-    **10:30-11** - Problematics Into
+    **10:30-11** - Problematics Intro
 
-    **11:15-12:45** - Hibai Harbide Q+A
+    **11:15-12:45** - Hibai Arbide Q+A
 
     **12:45- 13:30** - Design Brief for SPRINT 1
 
