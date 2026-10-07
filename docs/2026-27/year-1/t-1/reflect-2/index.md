@@ -30,7 +30,7 @@ ects:
 
 === "02/12"
 
-    **Date TBC. Contract Defence and Review** (*Manuela/Saúl*)
+    **Date TBC. Declaration of Commitments Defence and Review** (*Manuela/Saúl*)
 
 ## Evaluation Criteria
 
