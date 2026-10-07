@@ -62,7 +62,7 @@ By the end of the course, students will have created a fully developed, scalable
     - Viability of the proposal (15%)
     - Participation (15%)
 
-=== "T2: Validation"
+=== "T2: Explore & Build"
 
     During the second term, students will explore the social, cultural, environmental, political, and economical aspects that influence the development and implementation of their designs. Students will gain insights into the needs, aspirations, and challenges of the community they aim to serve.
 
@@ -109,7 +109,7 @@ By the end of the course, students will have created a fully developed, scalable
     - Formalization and documentation (20%)
     - Participation (10%)
 
-=== "T3: Dissemination. Scaling, Contributing and Sharing"
+=== "T3: Reflect. Scaling, Contributing and Sharing"
 
     In the final term, students will work on the scalability model of their projects. They will explore strategies for scaling up their designs to reach a wider audience and have a greater impact. Additionally, students will develop sustainability and viability strategies for their projects. They will consider factors such as funding, partnerships, and distribution to create a comprehensive plan for implementing their designs.
 
