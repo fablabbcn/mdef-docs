@@ -9,7 +9,7 @@ faculty:
     - manuela-valtchanova
     - toni-llacer
     - saul-baeza
-    - hibai-harbide
+    - hibai-arbide
     - hybrid-ecologies-llobregat-delta
     - christian-alonso
 
@@ -60,7 +60,7 @@ ects:
 
 === "15/10"
 
-    Contracts x Groups x Feedbacks (Toni Llàcer)
+    Declaration of Commitments x Groups x Feedbacks (Toni Llàcer)
 
 ## Evaluation Criteria
 
