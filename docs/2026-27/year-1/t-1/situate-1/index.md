@@ -23,7 +23,7 @@ ects:
 
     **Intro Module 01 (Manuela Valtchanova/Saúl Baeza)**
 
-    **09:30-10:30** - Research Methodology: Situatedness & First Person Perspectiv
+    **09:30-10:30** - Research Methodology: Situatedness & First Person Perspective
     
     **10:30-11** - Problematics Intro
 
