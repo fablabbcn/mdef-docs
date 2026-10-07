@@ -29,7 +29,7 @@ ects:
 
 === "04/11"
 
-    **Contract Defence and Review** (*Toni*)
+    **DoC Defence and Review** (*Toni*)
 
 ## Evaluation Criteria
 
