@@ -1,6 +1,6 @@
 ---
 name: Honorata Grzesikowska
-role:  Urban Designer, Architect, Researcher, and Founder of Urbanitarian
+role:  Urban Masterplanner, Equity & Social Value Spatial Designer.
 feature_img: /assets/images/faculty/honorata-grzesikowska.jpg
 socials:
     email:
@@ -11,4 +11,4 @@ socials:
     instagram:
     github:
 ---
-Honorata Grzesikowska is an urban designer, architect and researcher based in Barcelona, and founder of Urbanitarian. She has worked internationally in urban design and architecture, contributing to projects focused on urban regeneration, sustainable development and new models of city-making. She is a co-author of award-winning Europan projects and has taught urban design at the University of Liechtenstein. Honorata is also a member of Architektoniczki, a collaborative practice exploring architecture, technology and social innovation.
+Honorata is a multidisciplinary urban designer, architect, and researcher. She empowers new and diverse voices and challenges the way we understand, design, and develop our cities. A broad skillset lets her approach urban challenges from a holistic perspective, thanks to her experience in all scales – from the design of the public realm to the production of master plans for entirely new cities. Founder Urbanitarian.com and Co-founder of Architectresses Foundation. Her specific expertise is in spatial equity and intersectional urbanism.
