@@ -19,6 +19,11 @@ feature_img: https://live.staticflickr.com/65535/52242203291_aca4f58c28_k.jpg
 :   One of the three main teaching periods of MDEF. Each term follows a shared rhythm: a kickoff, two four-week sprints and a wrap-up that connects the work to each student's developing hybrid profile.
 {.glossary-definition}
 
+`Declaration of Commitments:` {.glossary-term}
+
+:   The living research document initiated by each team at the beginning of a sprint. It records the hypothesis, methods and commitments, then accumulates evidence, iterations, failures and changes of direction across Situate, Explore, Build and Reflect. It provides the documented basis for assessment and, by the end of the sprint, becomes the consolidated record of the entire process, serving as an archive and reference for future work.
+{.glossary-definition}
+
 `Track:` {.glossary-term}
 
 :   A continuous area of learning and practice running across the programme. MDEF's four tracks are Situate, Explore, Build and Reflect. In the MDEF 01 2026–27 structure, each track takes the form of a module within every sprint, connecting its methods across different contexts.
@@ -135,11 +140,6 @@ feature_img: https://live.staticflickr.com/65535/52242203291_aca4f58c28_k.jpg
 `Critical technological literacy:` {.glossary-term}
 
 :   The ability to understand, use and question technologies in relation to their material, social and political conditions. This includes examining infrastructures, ownership, intellectual property, labour, access and obsolescence, alongside technical operation.
-{.glossary-definition}
-
-`Declaration of Commitments:` {.glossary-term}
-
-:   The living research document initiated by each team at the beginning of a sprint. It records the hypothesis, methods and commitments, then accumulates evidence, iterations, failures and changes of direction across Situate, Explore, Build and Reflect. It provides the documented basis for assessment and, by the end of the sprint, becomes the consolidated record of the entire process, serving as an archive and reference for future work.
 {.glossary-definition}
 
 `Design biographies:` {.glossary-term}
