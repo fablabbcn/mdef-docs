@@ -16,7 +16,7 @@ feature_img: https://live.staticflickr.com/65535/52242203291_aca4f58c28_k.jpg
 
 `Term:` {.glossary-term}
 
-:   One of the three main teaching periods of MDEF 01. Each term follows a shared rhythm: a kickoff, two four-week sprints and a wrap-up that connects the work to each student's developing hybrid profile.
+:   One of the three main teaching periods of MDEF. Each term follows a shared rhythm: a kickoff, two four-week sprints and a wrap-up that connects the work to each student's developing hybrid profile.
 {.glossary-definition}
 
 `Track:` {.glossary-term}
