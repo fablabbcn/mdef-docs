@@ -71,12 +71,15 @@ A 1:1 situated prototype, activated on site and documented in its real context, 
 
 ## Assessment and Submission Policy
 
-- **Assignment Deadline:** All course deliverables must be submitted by Friday at 00:00 (midnight) of the last week of each Sprint.
-- **Grading:** Faculty will publish grades by Friday at 00:00 (midnight) of the following week.
-- **Resubmission:** Students who do not achieve a passing grade will have one additional week to resubmit their work. The resubmission deadline is Friday at 00:00 (midnight), two weeks after the original submission deadline. The maximum grade that can be awarded for a resubmitted assignment is 5.0 (Pass).
-- **Attendance:** Students who are absent from more than 25% of the classes within a Sprint (4-week period) without valid justification will automatically fail the Sprint. This corresponds to more than three missed sessions.
-- **Failure to Pass:** Students who do not submit their work by the resubmission deadline, or whose resubmitted work does not achieve the minimum passing grade of 5.0, will fail the Sprint.
-- **Consequences of Failing:** Failing a Sprint means the course is not successfully completed. Students who fail a Sprint will not successfully complete the programme and will therefore not be eligible to receive the diploma.
+- **Teamwork and Submissions:** All assessed submissions are collective and must be prepared by the assigned teams, which remain unchanged throughout the four modules of each Sprint: Situate, Explore, Build and Reflect. Individual exercises must be incorporated into the team's collective work.
+- **Submission Structure:** Each team must maintain one Declaration of Commitments (D.O.C.) per Sprint, including four links to the corresponding Assets folders (one per module). All required materials must be uploaded to the relevant folder and linked from the D.O.C.
+- **Assignment Deadlines:** Each module has its own submission deadline: Friday at 23:59 of its teaching week. Assets folders will be closed after the deadline, and no further changes or additions will be accepted. The D.O.C. remains editable throughout the Sprint, but assessment is based on the evidence available at each module's deadline. Missing or incomplete evidence will be assessed accordingly.
+- **Grading:** Faculty are expected to submit grades by Friday at 23:59 of the following week. Grades will be available through a shared, read-only Google Sheet. Students are responsible for checking their grades, as individual notifications will not routinely be sent.
+- **Trimester Feedback:** Module grades will be consolidated in Alexia (student portal) before the trimester wrap-up. The wrap-up includes individual feedback discussions with the teaching team.
+- **Reassessment:** Students who receive a grade below 5.0 or fail to submit their work are eligible for reassessment at the end of the trimester. The deadline is three weeks after the wrap-up and before the following term begins. Requirements and feedback will be communicated during the wrap-up. Reassessment does not involve reopening the original submission.
+- **Attendance:** Students who miss more than 25% of classes within a Sprint (four-week period) without valid justification (more than three sessions) will automatically fail the Sprint modules.
+- **Failure to Pass:** Students who do not complete reassessment by the deadline or fail to achieve the minimum passing grade of 5.0 will fail the corresponding module. Failure to meet the programme's academic requirements may affect eligibility for the diploma.
+
 
 ## Additional Resources
 
