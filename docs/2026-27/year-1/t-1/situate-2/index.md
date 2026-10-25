@@ -58,21 +58,18 @@ ects:
 
 Assessment will be based exclusively on the evidence included in the group Declaration of Commitments. This includes the documentation of physical prototypes, experiments, iterations and relevant design decisions. Any work not represented in the contract cannot be considered as part of the evaluation.
 
-**1. Radical Contextuality**
+**1. Critical Briefing (Hypothesis) and Situatedness**
 
-Engage critically with the specific conditions, tensions, actors, and contingencies of a context. 
+Develop a clear, situated hypothesis that articulates the project's initial position, identifies a relevant question or tension, and establishes a meaningful relationship with the specific conditions of the context.
 
-**2. State of the Art**
 
-Research and critically position the project within relevant theoretical frameworks, creative practices, precedents, and contemporary debates.
+**2. Methodological Commitment**
 
-**3. Situated Inquiry**
+Define and justify a research methodology aligned with the project's hypothesis, context, and objectives. Establish a clear approach to inquiry, identifying the methods, practices, and forms of engagement through which knowledge will be generated and tested.
 
-Generate knowledge through first-person, embodied, relational, and context-responsive research. Develop a site-specific research method to understand, visualize, map or study different ordinary and extraordinary conditions of the context.
+**3. Conceptual Coherence and Development**
 
-**4. Critical Briefing**
-
-Distill research into a precise design brief that identifies an operative question, position, opportunity, or friction.
+Develop a coherent conceptual framework that connects the project's hypothesis, research, and methodological approach. Articulate the key ideas, relationships, and assumptions underpinning the project, and demonstrate how these can evolve through critical reflection and experimentation.
 
 
 ## Faculty
