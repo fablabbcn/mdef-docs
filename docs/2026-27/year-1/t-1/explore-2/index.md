@@ -16,21 +16,21 @@ ects:
 
 === "16/11"
 
-    **Bodies, Desire and Technological**
+    **Sensing the Body and Technological Imaginaries**
 
-    Imaginaries Introduction to augmented bodies, monstrosity, desire, pleasure and embodied technologies. Presentation and workshop exploring how technologies participate in constructing bodily imaginaries, followed by the introduction of the situated prototyping brief. (*Axolot - Citlali H.*)
+    Introduction to embodiment in relation to digital technologies and materialities, from an artistic perspective. Presentation exploring how technologies shape the ways we understand and imagine our bodies, with a focus on wearable design as a means to expand bodily possibilities. Hands-on introduction to DIY soft sensors made from conductive materials, used to capture movement, contact, stretch, pressure or bending. Students will also learn how to send their data to another microcontroller. (*Axolot - Citlali H.*)
 
 === "17/11"
 
-    **Wearables and Soft Sensors**
+    **Sound, Interaction and Agency in Distributed Systems**
 
-    Practical introduction to wearable technologies, soft sensors, basic electronics and the programming of inputs and outputs. Students construct simple DIY sensors using conductive textiles, tapes, threads and resistive materials to explore perspiration, movement, contact, pressure or flexion as forms of bodily input. (*Axolot - Citlali H.*)
+    Introduction to translating bodily data into sound and interactive behaviour. Working with the signals from the previous session, students will review how communication between devices works and how to manipulate sensor data so it can drive different outputs: scaling, inverting, smoothing and setting thresholds. Using Max, they will learn to map the same signal to different sound behaviours, from continuous changes in pitch or texture to triggered events, and to understand each of these choices as a design decision. Students will also combine their sensors into a shared sound system as a first approach to collective interaction. (*Axolot - Lina B.*)
 
 === "18/11"
 
-    **Sound, Interaction and Agency in Distributed Systems**
+    **Prototyping Wearables with Light and Haptics**
     
-    Introduction to translating bodily data into sound, image and interactive behaviour. Students explore real-time digital environments such as VVVV and consider how individual sensor inputs can become part of shared and distributed systems. (*Axolot - Lina B.*)
+    Workshop focused on outputs for the body. Students will experiment with actuators such as vibration motors and LEDs, programming them to translate bodily data into light and haptic responses. Through sequences of light and vibration, the body expands its ways of perceiving the world and of being present in it. (*Axolot - Citlali H.*)
 
 ## Evaluation Criteria
 
