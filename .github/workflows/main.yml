@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3.5.2
+    - uses: actions/checkout@v5
 
     - name: Setup Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v6
       with:
-        python-version: '3.10'
-        architecture: 'x64'
+        python-version: '3.12'
+        cache: 'pip'
 
     - name: Install dependencies
       run: |
@@ -31,7 +31,7 @@ jobs:
 
     - name: Deploy if main
       if: github.ref == 'refs/heads/main'
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
