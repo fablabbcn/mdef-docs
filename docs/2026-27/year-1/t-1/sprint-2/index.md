@@ -109,21 +109,23 @@ A 1:1 wearable-mediated ritual, collectively activated at an existing party as a
 - Wark, McKenzie. *Raving*. Duke University Press, 2023.
 - Oliver L. Haimson. *Trans Technologies*. The MIT Press, 2025
 
-### Explore: Embodied Technologies, Bodies & Data
+### Explore: Embodied Sensing, Soft Sensors & Sound Interaction
 
-*Embodied sensing, soft wearables, bodily and brain data, motion, affect, identity, technological mediation and critical design methods.*
+*Embodied sensing and technological imaginaries, DIY textile sensors, material conductivity and resistivity, bodily movement, sensor-to-sound mapping with OSC and Max/MSP, and collective interaction through distributed sound systems.*
 
 - D’Ignazio, C., & Klein, L. F. (2020). [*Data feminism*](https://doi.org/10.7551/mitpress/11805.001.0001). The MIT Press.
-- Goveia da Rocha, B., Andersen, K., & Tomico, O. (2019). [Crafting soft wearables, with and through digital technologies](https://doi.org/10.46467/TdD35.2019.76-89). *Temes de Disseny, 35*, 76–89.
 - Hernández, C. (2023). [Materialidades del cuerpo online](https://doi.org/10.7238/m.n198.2303). *Mosaic, 198*.
 - Tomico, O., & Wilde, D. (2016). [Soft, embodied, situated & connected: Enriching interactions with soft wearables](https://doi.org/10.1186/s13678-016-0006-z). *mUX: The Journal of Mobile User Experience, 5*, Article 3.
-- Lin, R. R., & Zhang, K. (2024). [Survey of real-time brainmedia in artistic exploration](https://doi.org/10.1186/s42492-024-00179-2). *Visual Computing for Industry, Biomedicine, and Art, 7*, Article 27.
-- Fléty, E., & Bevilacqua, F. (2025). [Wireless inertial measurement units in performing arts](https://doi.org/10.3390/s25196188). *Sensors, 25*(19), 6188.
-- Schmidt, P., Reiss, A., Dürichen, R., & Van Laerhoven, K. (2019). [Wearable-based affect recognition—A review](https://doi.org/10.3390/s19194079). *Sensors, 19*(19), 4079.
+- Goveia da Rocha, B., Andersen, K., & Tomico, O. (2019). [Crafting soft wearables, with and through digital technologies](https://doi.org/10.46467/TdD35.2019.76-89). *Temes de Disseny, 35*, 76–89.
+- KOBAKANT. (n.d.). [*How to get what you want*: DIY wearable technology and textile electronics](https://www.kobakant.at/DIY/).
+- Perner-Wilson, H., & Buechley, L. (2010). [Making textile sensors from scratch](https://doi.org/10.1145/1709886.1709972). *Proceedings of the Fourth International Conference on Tangible, Embedded, and Embodied Interaction*, 349–352.
+- Baalman, M. (2022/25). [*Composing Interactions*](https://marijebaalman.eu/projects/composing-an-interaction.html). Artistic practice and resources on expressive interactive systems.
+- Verdonk, D., Vossen, M., & van Dillewijn, R. (2024). [*Bromwol*](https://www.soundsliketouch.com/project/bromwol). Interactive sound and textile-based artistic practice.
+- Cycling ’74. (n.d.). [*Max documentation*](https://docs.cycling74.com/). Reference for programming, sound interaction and networked communication in Max/MSP.
 
 ### Build: DIY Body Sensors, Wearable Electronics & Interactive Systems
 
-*Sensor fabrication, e-textiles, physical computing, wearable integration, calibration, connectivity, real-time data and distributed audiovisual systems.*
+*Sensor fabrication, e-textiles, physical computing, wearable integration, calibration, connectivity, real-time data and networked sound interaction.*
 
 - Fabricademy. (n.d.). *E-textiles*. In *Fabricademy handbook*. [Open resource](https://fabricademy.fabcloud.io/handbook/classes/05_etextiles/).
 - Perner-Wilson, H., & Satomi, M. (n.d.). *Sensors*. *How To Get What You Want*. KOBAKANT. [Open sensor repository](https://www.howtogetwhatyouwant.at/?cat=26).
@@ -135,7 +137,6 @@ A 1:1 wearable-mediated ritual, collectively activated at an existing party as a
 - Seeed Studio. (n.d.). *Getting started with Seeed Studio XIAO ESP32C3*. *Seeed Studio Wiki*. [Open documentation](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/).
 - SparkFun Electronics. (n.d.). *Insulation techniques for e-textiles*. *SparkFun Learn*. [Open tutorial](https://learn.sparkfun.com/tutorials/insulation-techniques-for-e-textiles/introduction).
 - Tabrizi, M., Gil, I., Corbalan, M., & Fernández-García, R. (2026). [Flexible resistive sensors for wearable and ergonomics applications: A systematic review](https://doi.org/10.3390/s26082563). *Sensors, 26*(8), 2563.
-- vvvv. (n.d.). *vvvv gamma documentation: The Gray Book*. [Open documentation](https://thegraybook.vvvv.org/).
 
 ## Materials Needed
 
