@@ -18,19 +18,19 @@ ects:
 
     **Sensing the Body and Technological Imaginaries**
 
-    Introduction to embodiment in relation to digital technologies and materialities, from an artistic perspective. Presentation exploring how technologies shape the ways we understand and imagine our bodies, with a focus on wearable design as a means to expand bodily possibilities. Hands-on introduction to DIY soft sensors made from conductive materials, used to capture movement, contact, stretch, pressure or bending. Students will also learn how to send their data to another microcontroller. (*Axolot - Citlali H.*)
+    Introduction to embodiment and the ways digital technologies and materialities shape how we understand and imagine our bodies, from an artistic perspective. Students explore wearables as a means of expanding bodily possibilities and build two DIY soft sensors, one digital and one analogue, using conductive materials. They investigate conductivity and resistivity, assemble circuits, read and manipulate sensor signals with the Barduino, and conduct an initial test of wireless data transmission. (*Axolot - Citlali H.*)
 
 === "17/11"
 
     **Sound, Interaction and Agency in Distributed Systems**
 
-    Introduction to translating bodily data into sound and interactive behaviour. Working with the signals from the previous session, students will review how communication between devices works and how to manipulate sensor data so it can drive different outputs: scaling, inverting, smoothing and setting thresholds. Using Max, they will learn to map the same signal to different sound behaviours, from continuous changes in pitch or texture to triggered events, and to understand each of these choices as a design decision. Students will also combine their sensors into a shared sound system as a first approach to collective interaction. (*Axolot - Lina B.*)
+    Introduction to translating bodily sensor data into sound using Max/MSP. Students connect their sensors through OSC and explore how scaling, inversion, smoothing and thresholds can map signals to different sound behaviours, from triggered events to continuous changes in pitch or texture. They adapt an instrument to bodily movement, test the interaction on the body, and explore how individual sensors can contribute to a shared sound system. (*Axolot - Lina B.*)
 
 === "18/11"
 
-    **Prototyping Wearables with Light and Haptics**
-    
-    Workshop focused on outputs for the body. Students will experiment with actuators such as vibration motors and LEDs, programming them to translate bodily data into light and haptic responses. Through sequences of light and vibration, the body expands its ways of perceiving the world and of being present in it. (*Axolot - Citlali H.*)
+    **Prototyping Wearables and Soft Sensors**
+
+    Further experimentation with conductive and resistive materials to create soft sensors that detect contact, stretch or position. Students build two new sensors and test them on different parts of the body, comparing how placement and movement affect the signals. They exchange sensor data with classmates' Max/MSP patches and combine inputs in a single patch, exploring collective interaction through networked bodies and sound. (*Axolot - Citlali H.*)
 
 ## Evaluation Criteria
 
